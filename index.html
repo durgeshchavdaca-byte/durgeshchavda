@@ -775,4 +775,707 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelect
   setInterval(fetchAll,43200000);
 }();
 
-</script></body></html>
+</script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finix — AI by Durgesh Chavda</title>
+<style>
+  body {
+    margin: 0; font-family: sans-serif;
+    background: linear-gradient(135deg, #F9F6F1 0%, #EDE8E0 100%);
+    min-height: 100vh;
+    display: flex; align-items: center; justify-content: center;
+  }
+  .demo-hint {
+    text-align: center; opacity: 0.45;
+    font-size: 13px; color: #3A342E;
+    font-family: 'DM Sans', sans-serif;
+  }
+</style>
+</head>
+<body>
+
+<div class="demo-hint">
+  <p style="font-size:22px; margin-bottom:10px">✦</p>
+  <p>Finix lives in the bottom-right corner of your website.</p>
+  <p style="margin-top:6px; font-size:11px; opacity:0.7">Click the bubble to begin</p>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════
+     FINIX WIDGET — Paste before </body> on your website
+     ═══════════════════════════════════════════════════════════ -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,400&family=DM+Sans:wght@200;300;400;500&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
+
+<style>
+#fx-root *, #fx-root *::before, #fx-root *::after {
+  box-sizing: border-box; margin: 0; padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── BUBBLE ── */
+#fx-bubble {
+  position: fixed; bottom: 28px; right: 28px; z-index: 9999;
+  width: 64px; height: 64px; border-radius: 50%;
+  background: linear-gradient(145deg, #1C1814 0%, #2E2820 100%);
+  border: 1.5px solid rgba(184,149,78,0.5);
+  box-shadow: 0 4px 28px rgba(26,22,18,0.25), 0 0 0 0 rgba(184,149,78,0.25);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: transform 0.22s ease, box-shadow 0.22s ease;
+  animation: fx-pulse 3.5s ease-in-out infinite;
+  user-select: none;
+}
+#fx-bubble:hover {
+  transform: scale(1.08);
+  box-shadow: 0 6px 36px rgba(26,22,18,0.30), 0 0 0 8px rgba(184,149,78,0.1);
+  animation: none;
+}
+#fx-bubble.open { animation: none; transform: scale(1); }
+
+#fx-bname {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 22px; font-weight: 500;
+  color: #C9A96A; letter-spacing: -0.02em;
+  line-height: 1;
+}
+#fx-bclose {
+  display: none; color: #C9A96A;
+  font-size: 18px; font-family: sans-serif; font-weight: 200;
+}
+#fx-bubble.open #fx-bname  { display: none; }
+#fx-bubble.open #fx-bclose { display: block; }
+
+#fx-badge {
+  position: absolute; top: -1px; right: -1px;
+  width: 19px; height: 19px; border-radius: 50%;
+  background: #B8954E; border: 2px solid #F9F6F1;
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'DM Mono', monospace; font-size: 9px;
+  color: #FFF; font-weight: 400;
+  transition: opacity 0.25s, transform 0.25s;
+}
+#fx-badge.hidden { opacity: 0; transform: scale(0.5); pointer-events: none; }
+
+/* ── WINDOW ── */
+#fx-window {
+  position: fixed; bottom: 108px; right: 28px; z-index: 9998;
+  width: 460px;
+  height: 680px;
+  max-height: calc(100dvh - 130px);
+  background: #F9F6F1;
+  border-radius: 22px;
+  border: 1px solid rgba(184,149,78,0.20);
+  box-shadow: 0 12px 56px rgba(26,22,18,0.18), 0 2px 14px rgba(26,22,18,0.07);
+  display: flex; flex-direction: column; overflow: hidden;
+  transform: scale(0.9) translateY(20px);
+  opacity: 0; pointer-events: none;
+  transform-origin: bottom right;
+  transition: transform 0.30s cubic-bezier(0.34,1.48,0.64,1), opacity 0.22s ease;
+}
+#fx-window.open {
+  transform: scale(1) translateY(0);
+  opacity: 1; pointer-events: all;
+}
+
+@media (max-width: 520px) {
+  #fx-window {
+    right: 0; left: 0; bottom: 0;
+    width: 100%; height: 93dvh; max-height: 93dvh;
+    border-radius: 20px 20px 0 0;
+    transform-origin: bottom center;
+  }
+  #fx-bubble { bottom: 18px; right: 18px; }
+}
+
+/* Ambient glow */
+#fx-glow {
+  position: absolute; top: -60px; right: -60px;
+  width: 260px; height: 260px; border-radius: 50%;
+  background: radial-gradient(circle, rgba(184,149,78,0.07) 0%, transparent 70%);
+  pointer-events: none; z-index: 0;
+}
+
+/* ── HEADER ── */
+#fx-header {
+  padding: 15px 18px 13px;
+  border-bottom: 1px solid rgba(184,149,78,0.14);
+  background: rgba(249,246,241,0.97);
+  display: flex; align-items: center; gap: 12px;
+  flex-shrink: 0; position: relative; z-index: 2;
+}
+#fx-avatar {
+  width: 42px; height: 42px; border-radius: 50%;
+  background: linear-gradient(145deg, #1C1814 0%, #3A342E 100%);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'DM Mono', monospace; font-size: 14px;
+  font-weight: 400; color: #C9A96A;
+  border: 1.5px solid rgba(184,149,78,0.38);
+  flex-shrink: 0; letter-spacing: 0.02em;
+}
+#fx-hinfo { flex: 1; min-width: 0; }
+#fx-hname {
+  font-family: 'DM Sans', sans-serif; font-weight: 500;
+  font-size: 15px; color: #1C1814;
+  display: flex; align-items: center; gap: 8px;
+}
+.fx-online {
+  display: inline-flex; align-items: center; gap: 4px;
+  background: rgba(34,197,94,0.09);
+  border: 1px solid rgba(34,197,94,0.22);
+  border-radius: 20px; padding: 2px 8px;
+  font-family: 'DM Mono', monospace; font-size: 9px;
+  color: #16a34a; letter-spacing: 0.05em; font-weight: 300;
+}
+.fx-online-dot {
+  width: 5px; height: 5px; border-radius: 50%;
+  background: #22c55e; box-shadow: 0 0 5px rgba(34,197,94,0.7);
+}
+#fx-hsub {
+  font-family: 'DM Mono', monospace; font-size: 10px;
+  color: #B8954E; letter-spacing: 0.08em;
+  margin-top: 2px; opacity: 0.82; font-weight: 300;
+}
+#fx-hclose {
+  width: 30px; height: 30px; border-radius: 50%;
+  background: rgba(26,22,18,0.06); border: none;
+  cursor: pointer; display: flex; align-items: center;
+  justify-content: center; color: #6E6459; font-size: 15px;
+  transition: background 0.15s; flex-shrink: 0;
+}
+#fx-hclose:hover { background: rgba(26,22,18,0.11); }
+
+/* ── MESSAGES ── */
+#fx-msgs {
+  flex: 1; overflow-y: auto; padding: 18px 16px 10px;
+  display: flex; flex-direction: column;
+  position: relative; z-index: 1;
+  scroll-behavior: smooth;
+}
+#fx-msgs::-webkit-scrollbar { width: 3px; }
+#fx-msgs::-webkit-scrollbar-thumb { background: rgba(184,149,78,0.18); border-radius: 2px; }
+
+.fx-row { display: flex; margin-bottom: 14px; animation: fx-up 0.28s ease both; }
+.fx-row.user  { justify-content: flex-end; }
+.fx-row.assistant { justify-content: flex-start; align-items: flex-end; gap: 8px; }
+
+.fx-av {
+  width: 30px; height: 30px; border-radius: 50%; flex-shrink: 0;
+  background: linear-gradient(145deg, #1C1814 0%, #3A342E 100%);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'DM Mono', monospace; font-size: 11px; font-weight: 400;
+  color: #C9A96A; border: 1px solid rgba(184,149,78,0.28);
+}
+
+.fx-msg {
+  max-width: 80%;
+  font-family: 'DM Sans', sans-serif; font-weight: 300;
+  font-size: 14px; line-height: 1.7; letter-spacing: 0.008em;
+  white-space: pre-wrap; word-break: break-word;
+}
+.fx-msg.user {
+  background: linear-gradient(145deg, #1C1814 0%, #2A2420 100%);
+  color: #F0EBE0; padding: 12px 16px;
+  border-radius: 18px 18px 4px 18px;
+  box-shadow: 0 2px 12px rgba(26,22,18,0.16);
+}
+.fx-msg.assistant {
+  background: #FFFFFF; color: #1C1814;
+  padding: 13px 17px;
+  border-radius: 18px 18px 18px 4px;
+  border: 1px solid rgba(184,149,78,0.13);
+  box-shadow: 0 1px 8px rgba(26,22,18,0.05);
+}
+
+/* ── TYPING ── */
+#fx-typing {
+  display: none; align-items: flex-end; gap: 8px;
+  margin-bottom: 14px;
+}
+#fx-typing.show { display: flex; }
+.fx-typing-bubble {
+  background: #FFFFFF; border: 1px solid rgba(184,149,78,0.13);
+  border-radius: 18px 18px 18px 4px;
+  padding: 13px 16px; display: flex; gap: 5px; align-items: center;
+  box-shadow: 0 1px 8px rgba(26,22,18,0.05);
+}
+.fx-dot {
+  width: 6px; height: 6px; border-radius: 50%; background: #B8954E;
+}
+.fx-dot:nth-child(1) { animation: fx-bounce 1.3s ease-in-out 0.0s infinite; }
+.fx-dot:nth-child(2) { animation: fx-bounce 1.3s ease-in-out 0.2s infinite; }
+.fx-dot:nth-child(3) { animation: fx-bounce 1.3s ease-in-out 0.4s infinite; }
+
+/* ── CTA CARD ── */
+.fx-cta {
+  margin: 4px 0 14px 38px;
+  background: linear-gradient(135deg, rgba(184,149,78,0.07) 0%, rgba(184,149,78,0.03) 100%);
+  border: 1px solid rgba(184,149,78,0.22);
+  border-radius: 16px; padding: 14px 16px;
+  animation: fx-up 0.35s ease both;
+}
+.fx-cta-text {
+  font-family: 'DM Sans', sans-serif; font-weight: 300;
+  font-size: 13px; color: #4A4038; line-height: 1.55;
+  margin-bottom: 12px; letter-spacing: 0.01em;
+}
+.fx-cta-btns { display: flex; gap: 8px; flex-wrap: wrap; }
+.fx-cta-book {
+  flex: 1; padding: 10px 14px; min-width: 120px;
+  background: linear-gradient(135deg, #1C1814 0%, #2E2820 100%);
+  border: none; border-radius: 12px; cursor: pointer;
+  font-family: 'DM Sans', sans-serif; font-weight: 400;
+  font-size: 13px; color: #C9A96A; letter-spacing: 0.02em;
+  transition: all 0.18s ease;
+  display: flex; align-items: center; justify-content: center; gap: 6px;
+  box-shadow: 0 2px 12px rgba(26,22,18,0.18);
+}
+.fx-cta-book:hover { background: #1C1814; transform: translateY(-1px); box-shadow: 0 4px 16px rgba(26,22,18,0.24); }
+.fx-cta-more {
+  flex: 1; padding: 10px 14px; min-width: 120px;
+  background: transparent; cursor: pointer;
+  border: 1.5px solid rgba(184,149,78,0.30); border-radius: 12px;
+  font-family: 'DM Sans', sans-serif; font-weight: 300;
+  font-size: 13px; color: #8B7040; letter-spacing: 0.02em;
+  transition: all 0.18s ease;
+  display: flex; align-items: center; justify-content: center; gap: 6px;
+}
+.fx-cta-more:hover { background: rgba(184,149,78,0.08); border-color: rgba(184,149,78,0.5); color: #6B5530; }
+
+/* ── SUGGESTIONS ── */
+#fx-sugg {
+  padding: 0 16px 12px; flex-shrink: 0;
+}
+#fx-sugg-label {
+  font-family: 'DM Mono', monospace; font-size: 9px; font-weight: 300;
+  color: #B8954E; letter-spacing: 0.24em; text-transform: uppercase;
+  margin-bottom: 9px; opacity: 0.8;
+}
+#fx-sugg-pills { display: flex; flex-wrap: wrap; gap: 7px; }
+.fx-pill {
+  padding: 7px 13px;
+  background: transparent; border: 1px solid rgba(184,149,78,0.22);
+  border-radius: 20px; cursor: pointer;
+  font-family: 'DM Sans', sans-serif; font-weight: 300;
+  font-size: 12px; color: #6E6459; letter-spacing: 0.01em;
+  transition: all 0.16s ease;
+}
+.fx-pill:hover { background: rgba(184,149,78,0.09); border-color: rgba(184,149,78,0.45); color: #8B7040; }
+
+/* ── INPUT ── */
+#fx-input-area {
+  padding: 10px 16px 14px;
+  border-top: 1px solid rgba(184,149,78,0.12);
+  background: rgba(249,246,241,0.98);
+  flex-shrink: 0; position: relative; z-index: 2;
+}
+#fx-input-row { display: flex; gap: 10px; align-items: flex-end; }
+#fx-input-wrap {
+  flex: 1; background: #FFFFFF;
+  border: 1px solid rgba(184,149,78,0.20); border-radius: 16px;
+  padding: 11px 15px;
+  box-shadow: 0 1px 6px rgba(26,22,18,0.04);
+  transition: border-color 0.2s;
+}
+#fx-input-wrap:focus-within { border-color: rgba(184,149,78,0.45); }
+#fx-input {
+  width: 100%; background: transparent; border: none; outline: none;
+  resize: none; overflow-y: auto; max-height: 96px;
+  font-family: 'DM Sans', sans-serif; font-weight: 300;
+  font-size: 14px; color: #1C1814; line-height: 1.55;
+  letter-spacing: 0.01em;
+}
+#fx-input::placeholder { color: #B0A89E; }
+#fx-send {
+  width: 44px; height: 44px; border-radius: 50%;
+  background: #2A2420; border: none; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0; transition: all 0.18s ease;
+  box-shadow: 0 2px 12px rgba(26,22,18,0.20);
+}
+#fx-send:disabled { background: rgba(26,22,18,0.10); box-shadow: none; cursor: default; }
+#fx-send:not(:disabled):hover { background: #1C1814; transform: scale(1.06); }
+#fx-send:not(:disabled):active { transform: scale(0.95); }
+
+#fx-footer {
+  font-family: 'DM Mono', monospace; font-size: 9px; font-weight: 300;
+  color: #B0A89E; text-align: center; margin-top: 8px;
+  letter-spacing: 0.09em;
+}
+
+/* ── ANIMATIONS ── */
+@keyframes fx-tooltip-in {
+  0%   { opacity:0; transform:translateY(6px); }
+  20%  { opacity:1; transform:translateY(0); }
+  80%  { opacity:1; }
+  100% { opacity:0; }
+}
+/* kept for legacy */
+@keyframes fx-pulse {
+  0%   { box-shadow: 0 4px 28px rgba(26,22,18,0.25), 0 0 0 0 rgba(184,149,78,0.45); transform: scale(1); }
+  40%  { box-shadow: 0 4px 28px rgba(26,22,18,0.25), 0 0 0 14px rgba(184,149,78,0); transform: scale(1); }
+  100% { box-shadow: 0 4px 28px rgba(26,22,18,0.25), 0 0 0 0 rgba(184,149,78,0); transform: scale(1); }
+}
+@keyframes fx-attention {
+  0%,100% { transform: scale(1) rotate(0deg); }
+  10%      { transform: scale(1.18) rotate(-8deg); }
+  20%      { transform: scale(1.18) rotate(8deg); }
+  30%      { transform: scale(1.18) rotate(-6deg); }
+  40%      { transform: scale(1.12) rotate(4deg); }
+  50%      { transform: scale(1.06) rotate(0deg); }
+}
+@keyframes fx-bounce-in {
+  0%   { transform: scale(0) translateY(30px); opacity: 0; }
+  60%  { transform: scale(1.15) translateY(-6px); opacity: 1; }
+  80%  { transform: scale(0.94) translateY(2px); }
+  100% { transform: scale(1) translateY(0); opacity: 1; }
+}
+@keyframes fx-pop-text {
+  0%   { opacity:0; transform: translateY(8px) scale(0.9); }
+  100% { opacity:1; transform: translateY(0) scale(1); }
+}
+@keyframes fx-up {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fx-bounce {
+  0%, 80%, 100% { transform: translateY(0); }
+  40%           { transform: translateY(-6px); }
+}
+</style>
+
+<div id="fx-root">
+
+  <!-- Bubble -->
+  <div id="fx-tooltip" style="
+  position:fixed; bottom:112px; right:24px; z-index:9997;
+  background:#FFFFFF;
+  border-radius:18px 18px 4px 18px;
+  border:1px solid rgba(184,149,78,0.25);
+  box-shadow:0 8px 36px rgba(26,22,18,0.14), 0 2px 8px rgba(26,22,18,0.08);
+  padding:14px 18px 12px;
+  width:222px;
+  pointer-events:none;
+  animation:fx-pop-text 0.45s cubic-bezier(0.34,1.4,0.64,1) 2.5s both;
+  opacity:0;
+">
+  <div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;">
+    <div style="width:7px;height:7px;border-radius:50%;background:#22c55e;box-shadow:0 0 6px rgba(34,197,94,0.7);flex-shrink:0;"></div>
+    <span style="font-family:'DM Sans',sans-serif;font-size:11px;font-weight:400;color:#16a34a;letter-spacing:0.04em;">Finix is live</span>
+  </div>
+  <p style="font-family:'DM Sans',sans-serif;font-size:13.5px;font-weight:400;color:#1C1814;line-height:1.5;margin:0;">
+    Drop your question. ✦
+  </p>
+</div>
+<div id="fx-bubble" onclick="fxToggle()">
+    <span id="fx-bname">DC</span>
+    <span id="fx-bclose">✕</span>
+    <div id="fx-badge">1</div>
+  </div>
+
+  <!-- Window -->
+  <div id="fx-window">
+    <div id="fx-glow"></div>
+
+    <!-- Header -->
+    <div id="fx-header">
+      <div id="fx-avatar">DC</div>
+      <div id="fx-hinfo">
+        <div id="fx-hname">
+          Finix
+          <span class="fx-online">
+            <span class="fx-online-dot"></span>Active
+          </span>
+        </div>
+        <div id="fx-hsub">by Durgesh Chavda · CA · Bengaluru</div>
+      </div>
+      <button id="fx-hclose" onclick="fxToggle()">✕</button>
+    </div>
+
+    <!-- Messages -->
+    <div id="fx-msgs">
+      <div class="fx-row assistant">
+        <div class="fx-av">DC</div>
+        <div class="fx-msg assistant">Hey there! I'm Finix — Durgesh's AI, trained on everything he knows across global finance, tax, startups, and accounting.
+
+Whether you're a founder trying to figure out your structure, a CFO navigating cross-border regulations, or someone exploring investment options — just ask.
+
+What's on your mind?</div>
+      </div>
+      <div id="fx-typing">
+        <div class="fx-av">DC</div>
+        <div class="fx-typing-bubble">
+          <div class="fx-dot"></div>
+          <div class="fx-dot"></div>
+          <div class="fx-dot"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Suggestions -->
+    <div id="fx-sugg">
+      <div id="fx-sugg-label">Start with</div>
+      <div id="fx-sugg-pills">
+        <button class="fx-pill" onclick="fxAsk(this)">How do I set up a US holding company?</button>
+        <button class="fx-pill" onclick="fxAsk(this)">GST on cross-border SaaS?</button>
+        <button class="fx-pill" onclick="fxAsk(this)">What's a SAFE note?</button>
+        <button class="fx-pill" onclick="fxAsk(this)">Singapore vs Delaware holdco?</button>
+        <button class="fx-pill" onclick="fxAsk(this)">Do I need a Virtual CFO?</button>
+      </div>
+    </div>
+
+    <!-- Input -->
+    <div id="fx-input-area">
+      <div id="fx-input-row">
+        <div id="fx-input-wrap">
+          <textarea id="fx-input" rows="1"
+            placeholder="Ask anything — tax, startups, CFO, cross-border..."></textarea>
+        </div>
+        <button id="fx-send-btn" disabled onclick="fxSendClick()">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none">
+            <path d="M22 2L11 13" stroke="#C9A96A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M22 2L15 22L11 13L2 9L22 2Z" stroke="#C9A96A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+      </div>
+      <p id="fx-footer">Finix by DC · General guidance only</p>
+    </div>
+  </div>
+</div>
+
+<script>
+// ── Config ──
+const FX_BOOK_URL = "https://calendly.com/durgesh-chavda"; // Replace with your Calendly/Cal.com link
+const FX_CTA_EVERY = 2; // Show CTA every N assistant messages
+
+const FX_SYSTEM = `You are Finix — the AI built by Durgesh Chavda, a Chartered Accountant and Financial Consultant based in Bengaluru, India. You speak with his knowledge, voice, and experience.
+
+CORE IDENTITY:
+You represent Durgesh Chavda — CA (non-practicing, consulting only), Virtual CFO, GST expert, cross-border finance specialist. You have deep expertise in global finance, tax, startups, VC, and accounting. You have personally worked on a USD 3.75M Pre-Series A fundraise, Singapore and Delaware holding structures, cross-border GST matters, and Virtual CFO mandates for early-stage startups.
+
+TONE AND RESPONSE LENGTH — this is critical:
+- Default to SHORT and CONCISE — 3 to 5 sentences max unless asked for more
+- Always include one practical example to make the point land
+- If the user says "explain more", "elaborate", "go deeper", "give me detail" — only then give a full explanation
+- Conversational and warm, yet sharp and professional — like a trusted advisor who also happens to be a friend
+- Never robotic, never stiff
+- Use natural language: "here's the thing", "in my experience", "quick example"
+- NO bullet points with asterisks (*). NO hash headers (#). NO markdown symbols of any kind.
+- Use plain numbered lists only when listing steps. Otherwise write in short, clean sentences.
+- ACCURACY IS EVERYTHING — only state what you are confident about. If uncertain, say so clearly and suggest the user verify or book a call with Durgesh.
+
+EXPERTISE — answer authoritatively on all of:
+
+India: GST (ITC, RCM, place of supply, cross-border digital services, refunds, annual returns), Income Tax (old vs new regime, Section 80-IAC startup tax holiday, TDS, advance tax, LTCG, STCG), FEMA and RBI (FDI, ODI, LRS, FIRC, remittances, compounding), Company Law (incorporation, MOA/AOA, board resolutions), Startup India and DPIIT recognition, SEBI (ESOP, convertible instruments, CCDs, SAFEs under Indian law), Transfer Pricing, Angel Tax exemptions
+
+Global Tax: DTAA treaties, BEPS Pillar Two global minimum tax (15% floor), US taxation (C-Corp vs LLC, Delaware, federal and state taxes, R&D credits, GAAP vs IFRS), UK (Ltd, VAT, HMRC, R&D relief), Singapore (holdco structures, 13O and 13U fund exemptions, variable capital companies), UAE (free zones, 9% corporate tax from 2023, 0% in qualifying free zones, DIFC), Cayman Islands and BVI (fund structures, SPVs, exempted companies), Netherlands, Mauritius and Luxembourg treaty structures
+
+Startups and VC: Term sheets (valuation caps, discount rates, pro-rata, MFN, drag-along, tag-along), SAFE notes vs convertible notes vs priced rounds, Pre-Seed through Series B mechanics, cap table management and dilution modeling, due diligence checklists, unit economics (CAC, LTV, MRR, ARR, payback period, cohort analysis), runway and burn rate, ESOP pool sizing and vesting, flip transactions (India to US or Singapore), revenue recognition for SaaS
+
+Family Offices: Single vs multi-family office structures, succession planning, offshore trusts and private trust companies, estate structuring, wealth preservation, private equity and alternatives, philanthropy vehicles
+
+CFO and Accounting: Financial modeling, MIS and board reporting, audit readiness, SRE 2410 limited reviews, working capital management, cash flow forecasting, ERP selection advisory, Virtual CFO scope and deliverables
+
+Cross-Border: Holding company jurisdiction comparison, IP holding strategies, permanent establishment risks, global payroll structures, double taxation navigation, round-tripping risks
+
+IMPORTANT BEHAVIOR:
+- You have access to web search for real-time information. Use it when someone asks about current tax rates, recent regulatory changes, new legislation, current thresholds, or any time-sensitive information. Always note when you are referencing current data.
+- When giving specific numbers, rates, or thresholds — mention "as of current regulations" or "you'll want to confirm this hasn't changed recently"
+- When the situation is genuinely complex or high-stakes, naturally suggest that they connect with Durgesh directly for personalized guidance — but do it conversationally, not like a disclaimer
+- Speak in first person as Durgesh: "In my experience...", "When I work with founders on this...", "I've seen this come up a lot..."
+
+WHAT NOT TO DO:
+- Never use *, **, #, ##, or any markdown formatting
+- Never say "I am an AI" or "I am Claude" — you are Finix, Durgesh's AI
+- Never refuse finance, tax, legal, or startup questions — this is your domain
+- Never give a wall of text — keep it short by default
+- Don't add unnecessary disclaimers on every single response — only where genuinely needed
+- Never state tax rates, thresholds, or legal provisions unless you are certain they are correct — use web search to verify current figures
+- If you don't know something with confidence, say "I'd want to verify that before giving you a number — best we look at this in a call" `;
+
+// ── State ──
+let fxHistory = [];
+let fxLoading = false;
+let fxOpen = false;
+let fxAssistantCount = 0;
+let fxCtaShown = false;
+
+// ── Elements ──
+const fxInput  = document.getElementById('fx-input');
+const fxSend   = document.getElementById('fx-send-btn');
+const fxMsgs   = document.getElementById('fx-msgs');
+const fxTyping = document.getElementById('fx-typing');
+const fxSugg   = document.getElementById('fx-sugg');
+const fxBadge  = document.getElementById('fx-badge');
+
+// ── Input handling ──
+fxInput.addEventListener('input', () => {
+  fxSend.disabled = !fxInput.value.trim() || fxLoading;
+  fxInput.style.height = 'auto';
+  fxInput.style.height = Math.min(fxInput.scrollHeight, 96) + 'px';
+});
+fxInput.addEventListener('keydown', e => {
+  if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); if (!document.getElementById("fx-send-btn").disabled) fxSendClick(); }
+});
+
+// ── Toggle ──
+// Attention shake after 8s if not opened
+setTimeout(() => {
+  if (!fxOpen) {
+    const b = document.getElementById('fx-bubble');
+    b.style.animation = 'fx-attention 0.8s ease both';
+    setTimeout(() => {
+      if (!fxOpen) b.style.animation = 'fx-pulse 2.8s ease-in-out infinite';
+    }, 900);
+  }
+}, 8000);
+
+function fxToggle() {
+  fxOpen = !fxOpen;
+  const tip = document.getElementById('fx-tooltip');
+  if (tip) tip.style.display = 'none';
+  document.getElementById('fx-window').classList.toggle('open', fxOpen);
+  document.getElementById('fx-bubble').classList.toggle('open', fxOpen);
+  if (fxOpen) {
+    fxBadge.classList.add('hidden');
+    setTimeout(() => fxInput.focus(), 320);
+  }
+}
+
+// ── Suggestion click ──
+function fxAsk(btn) {
+  fxSugg.style.display = 'none';
+  fxSendMsg(btn.textContent.trim());
+}
+
+// ── Send ──
+function fxSendClick() {
+  const text = fxInput.value.trim();
+  if (!text || fxLoading) return;
+  fxInput.value = ''; fxInput.style.height = 'auto';
+  fxSend.disabled = true;
+  fxSugg.style.display = 'none';
+  fxSendMsg(text);
+}
+
+// ── Add message to DOM ──
+function fxAddMsg(role, text) {
+  fxHistory.push({ role, content: text });
+  const row = document.createElement('div');
+  row.className = `fx-row ${role}`;
+  if (role === 'assistant') {
+    const av = document.createElement('div');
+    av.className = 'fx-av'; av.textContent = 'DC';
+    row.appendChild(av);
+  }
+  const bubble = document.createElement('div');
+  bubble.className = `fx-msg ${role}`;
+  bubble.textContent = text;
+  row.appendChild(bubble);
+  fxMsgs.insertBefore(row, fxTyping);
+  fxScroll();
+}
+
+// ── CTA Card ──
+function fxShowCTA() {
+  const card = document.createElement('div');
+  card.className = 'fx-cta';
+  card.innerHTML = `
+    <div class="fx-cta-text">This is getting into territory where a quick conversation with Durgesh would give you much more clarity — tailored to your exact situation.</div>
+    <div class="fx-cta-btns">
+      <button class="fx-cta-book" onclick="fxBookCall()">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none">
+          <rect x="3" y="4" width="18" height="18" rx="2" stroke="#C9A96A" stroke-width="2"/>
+          <path d="M16 2v4M8 2v4M3 10h18" stroke="#C9A96A" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        Book a Call
+      </button>
+      <button class="fx-cta-more" onclick="fxDismissCTA(this)">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none">
+          <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" stroke="#8B7040" stroke-width="2"/>
+        </svg>
+        Keep Exploring
+      </button>
+    </div>`;
+  fxMsgs.insertBefore(card, fxTyping);
+  fxScroll();
+  fxCtaShown = true;
+}
+
+function fxBookCall() {
+  window.open(FX_BOOK_URL, '_blank');
+}
+function fxDismissCTA(btn) {
+  const card = btn.closest('.fx-cta');
+  card.style.opacity = '0';
+  card.style.transform = 'scale(0.95)';
+  card.style.transition = 'all 0.2s ease';
+  setTimeout(() => { card.remove(); fxCtaShown = false; }, 200);
+}
+
+function fxScroll() {
+  setTimeout(() => fxMsgs.scrollTop = fxMsgs.scrollHeight, 60);
+}
+
+// ── Main API call ──
+async function fxSendMsg(text) {
+  fxAddMsg('user', text);
+  fxLoading = true;
+  fxTyping.classList.add('show');
+  fxScroll();
+
+  try {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 1000,
+        system: FX_SYSTEM,
+        tools: [{ type: "web_search_20250305", name: "web_search" }],
+        messages: fxHistory.map(m => ({ role: m.role, content: m.content }))
+      })
+    });
+
+    const data = await res.json();
+
+    // Extract text from content blocks (handle tool use + text)
+    let reply = '';
+    if (data.content) {
+      for (const block of data.content) {
+        if (block.type === 'text') reply += block.text;
+      }
+    }
+    if (!reply) reply = "I hit a small snag — give me another try.";
+
+    fxTyping.classList.remove('show');
+    fxAddMsg('assistant', reply);
+    fxAssistantCount++;
+
+    // Show CTA every FX_CTA_EVERY assistant messages
+    if (fxAssistantCount % FX_CTA_EVERY === 0 && !fxCtaShown) {
+      setTimeout(fxShowCTA, 600);
+    }
+
+  } catch(e) {
+    fxTyping.classList.remove('show');
+    fxAddMsg('assistant', "Something went sideways on my end. Mind trying that again?");
+  } finally {
+    fxLoading = false;
+    fxSend.disabled = !fxInput.value.trim();
+  }
+}
+</script>
+
+<!-- ═══════════════════════════════════════════════════════════
+     END FINIX WIDGET
+     ═══════════════════════════════════════════════════════════ -->
+
+</body>
+</html>
+
+</body></html>
