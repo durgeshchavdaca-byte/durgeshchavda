@@ -354,6 +354,8 @@ footer{padding:48px 32px;text-align:center;border-top:1px solid var(--border)}
 
 
 </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,400&family=DM+Sans:wght@200;300;400;500&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
 </head>
 <body>
 <div id="progress"></div>
@@ -776,40 +778,9 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelect
 }();
 
 </script>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Finix — AI by Durgesh Chavda</title>
-<style>
-  body {
-    margin: 0; font-family: sans-serif;
-    background: linear-gradient(135deg, #F9F6F1 0%, #EDE8E0 100%);
-    min-height: 100vh;
-    display: flex; align-items: center; justify-content: center;
-  }
-  .demo-hint {
-    text-align: center; opacity: 0.45;
-    font-size: 13px; color: #3A342E;
-    font-family: 'DM Sans', sans-serif;
-  }
-</style>
-</head>
-<body>
 
-<div class="demo-hint">
-  <p style="font-size:22px; margin-bottom:10px">✦</p>
-  <p>Finix lives in the bottom-right corner of your website.</p>
-  <p style="margin-top:6px; font-size:11px; opacity:0.7">Click the bubble to begin</p>
-</div>
 
-<!-- ═══════════════════════════════════════════════════════════
-     FINIX WIDGET — Paste before </body> on your website
-     ═══════════════════════════════════════════════════════════ -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;1,400&family=DM+Sans:wght@200;300;400;500&family=DM+Mono:wght@300;400&display=swap" rel="stylesheet">
-
+<!-- ══ FINIX CHATBOT WIDGET ══ -->
 <style>
 #fx-root *, #fx-root *::before, #fx-root *::after {
   box-sizing: border-box; margin: 0; padding: 0;
@@ -1147,7 +1118,6 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.querySelect
   40%           { transform: translateY(-6px); }
 }
 </style>
-
 <div id="fx-root">
 
   <!-- Bubble -->
@@ -1246,8 +1216,8 @@ What's on your mind?</div>
     </div>
   </div>
 </div>
-
 <script>
+
 // ── Config ──
 const FX_BOOK_URL = "https://calendly.com/durgesh-chavda"; // Replace with your Calendly/Cal.com link
 const FX_CTA_EVERY = 2; // Show CTA every N assistant messages
@@ -1295,7 +1265,14 @@ WHAT NOT TO DO:
 - Never give a wall of text — keep it short by default
 - Don't add unnecessary disclaimers on every single response — only where genuinely needed
 - Never state tax rates, thresholds, or legal provisions unless you are certain they are correct — use web search to verify current figures
-- If you don't know something with confidence, say "I'd want to verify that before giving you a number — best we look at this in a call" `;
+- If you don't know something with confidence, say "I'd want to verify that before giving you a number — best we look at this in a call"
+
+CRITICAL — PERSONALISED SERVICE REQUESTS:
+Whenever a user asks for something that requires personalised, hands-on engagement — such as hiring Durgesh, getting a quote, filing their taxes, setting up a company, structuring a deal, Virtual CFO engagement, fundraising support, compliance work, valuation, or any service that needs Durgesh to personally look at their situation — you MUST share his contact details naturally in the conversation. Examples of how to do it:
+- "This is exactly the kind of thing Durgesh handles end-to-end. Best to connect directly — drop him a message on WhatsApp at +91 78018 87130 or email hello@durgeshchavda.com"
+- "Happy to give you the broad strokes here, but for your specific situation you'll want Durgesh on it. Reach him at +91 78018 87130 (WhatsApp works best) or hello@durgeshchavda.com"
+- "For a personalised engagement like this, let's get you connected — WhatsApp Durgesh at +91 78018 87130 or write to hello@durgeshchavda.com"
+Do NOT just say "book a call" or give a generic CTA. Always include the actual number (+91 78018 87130) and/or email (hello@durgeshchavda.com) in your response so the user can act immediately. Be conversational about it — weave it naturally into your answer, don't make it feel like a sales pitch. Answer their question first, then nudge them to connect for the personalised part. `;
 
 // ── State ──
 let fxHistory = [];
@@ -1469,13 +1446,8 @@ async function fxSendMsg(text) {
     fxSend.disabled = !fxInput.value.trim();
   }
 }
-</script>
 
-<!-- ═══════════════════════════════════════════════════════════
-     END FINIX WIDGET
-     ═══════════════════════════════════════════════════════════ -->
+</script>
 
 </body>
 </html>
-
-</body></html>
