@@ -17,6 +17,7 @@ Contact: hello@durgeshchavda.com · WhatsApp/phone +91 78018 87130 · LinkedIn h
 
 ## Guides
 
+- [409A Valuation for Indian Founders: US vs India ESOP Rules](https://www.durgeshchavda.com/insights/409a-valuation-for-indian-founders/): A Delaware C-Corp with an India team needs a 409A valuation for option grants and a merchant-banker valuation for Indian ESOP tax. Timing and pitfalls.
 - [83(b) Election for Indian Founders: Do You Need to File?](https://www.durgeshchavda.com/insights/83b-election-for-indian-founders/): 83(b) election explained for founders in India with a Delaware C-Corp: what it does, when it matters, Form 15620, the 30-day deadline and the Indian side.
 - [How to Close a Delaware Company from India (Step by Step)](https://www.durgeshchavda.com/insights/close-delaware-company-from-india/): Close a Delaware C-Corp or LLC owned from India: clear franchise tax, file dissolution, final IRS returns and Form 966, then FEMA disinvestment reporting.
 - [Consolidating a US Subsidiary into Indian Parent Accounts](https://www.durgeshchavda.com/insights/consolidating-us-subsidiary-india/): How an Indian parent consolidates its US subsidiary: Section 129(3), Ind AS 110 and 21 (or AS 21 and 11), USD translation, AOC-1 and US GAAP adjustments.
