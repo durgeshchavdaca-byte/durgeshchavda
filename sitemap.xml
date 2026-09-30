@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://www.durgeshchavda.com/</loc><lastmod>2026-09-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority><image:image><image:loc>https://www.durgeshchavda.com/assets/durgesh-portrait.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/zenith-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/jakarta-festival.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-gst-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-rajkot.jpg</image:loc></image:image></url>
+  <url><loc>https://www.durgeshchavda.com/ai-in-finance/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/chartered-accountant-ahmedabad/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/fema-rbi-compliance/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/gift-city-ifsc-setup/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/gst-tax-advisory/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/india-entry-services/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/409a-valuation-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/83b-election-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/ai-in-finance-playbook/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/aif-categories-explained/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/aif-taxation-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/angel-fund-sebi-rules/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/close-delaware-company-from-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/consolidating-us-subsidiary-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/convert-llc-to-c-corp/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -17,22 +24,29 @@
   <url><loc>https://www.durgeshchavda.com/insights/delaware-registered-agent/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/delaware-vs-wyoming-llc/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/ein-for-non-us-residents/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/family-office-india-gift-city/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/fc-gpr-filing-guide/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/fc-trs-filing-guide/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/fema-odi-rules-for-us-company/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/foreign-qualification-us-states/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/form-1120-for-indian-owned-c-corp/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/form-5472-foreign-owned-llc/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/gift-city-fund-setup/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/gift-city-fund-vs-sebi-aif/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/gift-city-tax-benefits/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/hiring-first-us-employee/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/how-to-register-a-us-company-from-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/india-us-dtaa/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/india-us-transfer-pricing/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/intercompany-loans-india-us/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/invest-in-gift-city/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/itin-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/open-us-bank-account-from-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/reverse-flip-to-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/safe-notes-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/sebi-aif-registration-process/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/sell-on-amazon-us-from-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/set-up-gcc-in-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/us-bookkeeping-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/us-company-compliance-calendar/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/us-company-dividends-to-india/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -45,9 +59,15 @@
   <url><loc>https://www.durgeshchavda.com/insights/us-trademark-for-indian-startups/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/virtual-cfo-vs-full-time-cfo/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/w-8ben-e-for-indian-companies/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/singapore/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/uae/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/uk/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/usa/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/startup-fundraising-advisory/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/startup-valuation-services/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/us-company-incorporation/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/us-delaware-holdco-structuring/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/venture-capital-fund-setup/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/virtual-cfo-services/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
