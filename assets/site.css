@@ -583,3 +583,10 @@ textarea.fi{min-height:140px;resize:vertical}
 .calc .note{font-size:12.5px;color:var(--muted);margin:10px 0 0}
 .calc .hl{background:var(--hl);padding:1px 6px;border-radius:6px}
 @media (max-width:600px){.calc{padding:18px;box-shadow:4px 4px 0 var(--ink)}.calc .g{grid-template-columns:minmax(0,1fr)}}
+/* ── author box (E-E-A-T) ── */
+.author-box{display:grid;grid-template-columns:72px minmax(0,1fr);gap:18px;align-items:start;margin:36px 0 0;padding:22px;border:1.5px solid #e6e4df;border-radius:16px;background:#fff}
+.author-box img{width:72px;height:72px;border-radius:50%;object-fit:cover;object-position:center 15%}
+.author-box .k{font-family:var(--mono);font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.author-box p{margin:0 0 8px;font-size:15px;line-height:1.6}
+.author-box .links{font-size:14px;margin:0}
+@media (max-width:600px){.author-box{grid-template-columns:minmax(0,1fr)}}
