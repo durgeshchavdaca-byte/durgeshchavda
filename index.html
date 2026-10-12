@@ -30,7 +30,7 @@
 <link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png"/>
 <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 <link rel="manifest" href="/site.webmanifest"/>
-<link rel="preload" as="image" href="/assets/durgesh-portrait.jpg" fetchpriority="high"/>
+<link rel="preload" as="image" type="image/webp" href="/assets/durgesh-portrait-480.webp" imagesrcset="/assets/durgesh-portrait-480.webp 480w, /assets/durgesh-portrait-800.webp 800w" imagesizes="(max-width: 600px) 80vw, 420px" fetchpriority="high"/>
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -428,6 +428,7 @@ html{scroll-behavior:smooth;scroll-padding-top:90px;-webkit-text-size-adjust:100
 html,body{overflow-x:clip}
 body{font-family:var(--sans);color:var(--ink);background:#fff;line-height:1.5;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
 img{display:block;max-width:100%;height:auto}
+picture{display:block}
 a{color:inherit;text-decoration:none}
 button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
 ul{list-style:none}
@@ -1015,7 +1016,7 @@ select.fi{appearance:auto;cursor:pointer}
       <div class="thats-me" aria-hidden="true">that’s me!<svg viewBox="0 0 40 46"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" d="M4 4c16 1 28 11 30 34M28 32l6 8 4-9"/></svg></div>
       <figure class="polaroid">
         <span class="tape" aria-hidden="true"></span><span class="tape r" aria-hidden="true"></span>
-        <img src="assets/durgesh-portrait.jpg" alt="CA Durgesh Chavda, Chartered Accountant and Virtual CFO, Ahmedabad" width="1000" height="1339" fetchpriority="high"/>
+        <picture><source type="image/webp" srcset="assets/durgesh-portrait-480.webp 480w, assets/durgesh-portrait-800.webp 800w" sizes="(max-width: 600px) 80vw, 420px"/><img src="assets/durgesh-portrait.jpg" alt="CA Durgesh Chavda, Chartered Accountant and Virtual CFO, Ahmedabad" width="1000" height="1339" fetchpriority="high"/></picture>
         <figcaption>CA<svg viewBox="0 0 34 10" aria-hidden="true"><use href="#sq-sm"/></svg></figcaption>
       </figure>
       <div class="sticker"><i><svg class="icon"><use href="#i-trend"/></svg></i><div><strong>USD 3.75M</strong><span>Pre-Series A Closed</span></div></div>
@@ -1101,13 +1102,13 @@ select.fi{appearance:auto;cursor:pointer}
       <div class="roll-h"><div class="hand-h rv">a few moments on stage<svg viewBox="0 0 34 16" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" d="M2 4c10 8 20 9 30 6M26 5l6 5-7 3"/></svg></div><svg class="star rv" aria-hidden="true"><use href="#star"/></svg></div>
       <div class="roll-strip">
         <figure class="polaroid rv" style="--rot:-3deg"><span class="tape" aria-hidden="true"></span>
-          <img src="assets/zenith-conference.jpg" alt="Durgesh Chavda speaking on the finance and fundraising panel at Zenith Startup Conference" width="900" height="600" loading="lazy"/>
+          <picture><source type="image/webp" srcset="assets/zenith-conference-600.webp 600w, assets/zenith-conference-900.webp 900w" sizes="(max-width: 600px) 85vw, 340px"/><img src="assets/zenith-conference.jpg" alt="Durgesh Chavda speaking on the finance and fundraising panel at Zenith Startup Conference" width="900" height="600" loading="lazy"/></picture>
           <figcaption>Zenith Startup Conference — Finance &amp; Fundraising Panel<small>Curated roundtable on making institutional finance accessible for early-stage founders</small></figcaption></figure>
         <figure class="polaroid rv" style="--rot:2.5deg;--d:.1s"><span class="tape c blue" aria-hidden="true"></span>
-          <img src="assets/jakarta-festival.jpg" alt="Durgesh Chavda at Jakarta Investment Festival 2025 representing Indian startups" width="1100" height="825" loading="lazy"/>
+          <picture><source type="image/webp" srcset="assets/jakarta-festival-600.webp 600w, assets/jakarta-festival-900.webp 900w" sizes="(max-width: 600px) 85vw, 340px"/><img src="assets/jakarta-festival.jpg" alt="Durgesh Chavda at Jakarta Investment Festival 2025 representing Indian startups" width="1100" height="825" loading="lazy"/></picture>
           <figcaption>Jakarta Investment Festival 2025<small>Representing Indian startups on the global investment stage</small></figcaption></figure>
         <figure class="polaroid rv" style="--rot:-1.5deg;--d:.2s"><span class="tape r" aria-hidden="true"></span>
-          <img src="assets/icai-gst-conference.jpg" alt="Durgesh Chavda at the ICAI GST and Indirect Taxes Conference, Rajkot, February 2025" width="900" height="600" loading="lazy"/>
+          <picture><source type="image/webp" srcset="assets/icai-gst-conference-600.webp 600w, assets/icai-gst-conference-900.webp 900w" sizes="(max-width: 600px) 85vw, 340px"/><img src="assets/icai-gst-conference.jpg" alt="Durgesh Chavda at the ICAI GST and Indirect Taxes Conference, Rajkot, February 2025" width="900" height="600" loading="lazy"/></picture>
           <figcaption>ICAI GST &amp; Indirect Taxes Conference, Rajkot — Feb 2025<small>Representing ICAI Rajkot Branch at the national conference</small></figcaption></figure>
       </div>
     </div>
@@ -1358,7 +1359,7 @@ select.fi{appearance:auto;cursor:pointer}
           <span class="hand">proud moment ✦</span>
         </div>
         <figure class="polaroid rv" style="--d:.1s"><span class="tape r" aria-hidden="true"></span>
-          <img src="assets/icai-rajkot.jpg" alt="Durgesh Chavda with ICAI Rajkot Branch sub-committee members, 2025–26" width="1100" height="1466" loading="lazy"/>
+          <picture><source type="image/webp" srcset="assets/icai-rajkot-600.webp 600w, assets/icai-rajkot-900.webp 900w" sizes="(max-width: 600px) 85vw, 380px"/><img src="assets/icai-rajkot.jpg" alt="Durgesh Chavda with ICAI Rajkot Branch sub-committee members, 2025–26" width="1100" height="1466" loading="lazy"/></picture>
           <figcaption style="flex-direction:column;align-items:flex-start;gap:2px">ICAI Rajkot Branch — Sub-Committee 2025–26<small style="font-family:var(--sans);font-size:12.5px;color:var(--muted)">Contributing to the CA profession at ICAI Rajkot</small></figcaption>
         </figure>
       </div>
