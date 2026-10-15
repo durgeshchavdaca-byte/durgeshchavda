@@ -1,7 +1,151 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-14. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-15. Summary: https://www.durgeshchavda.com/llms.txt
 
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreigners/
+------------------------------------------------------------------------
+Questions answered
+
+# India for NRIs and foreigners: 36 questions answered
+
+The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to October 2026, with a link to the full guide.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·9 min read
+
+Ask your question
+hello@durgeshchavda.com
+
+About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
+For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## For NRIs: tax
+
+### Do NRIs have to pay tax in India?
+Yes, on Indian income only — rent, NRO interest, dividends and capital gains on Indian assets. Income earned and received abroad isn't taxed in India. Read more.
+
+### What are the NRI tax slabs for 2026-27?
+The same as residents under the new regime (nil to ₹4 lakh, then 5% to 30%), but without the rebate that makes ₹12 lakh tax-free for residents. Read more.
+
+### Is NRE interest taxable?
+No. NRE and FCNR interest is tax-free for NRIs; NRO interest is taxable. Read more.
+
+### Do NRIs need to file an Indian tax return?
+Yes if Indian income is above the basic exemption — and usually worth it to recover excess TDS. Read more.
+
+### How many days in India make an NRI resident?
+Generally 182 days in a year. For Indian citizens and people of Indian origin visiting India, the shorter test applies only if Indian income exceeds ₹15 lakh — 120 days plus 365 days over the previous four years. Read more.
+
+### What is FAST-DS 2026?
+A one-time window until 31 December 2026 to declare undisclosed foreign assets (60% cost up to ₹1 crore) or assets missed in Schedule FA (₹1 lakh up to ₹5 crore). Read more.
+
+## For NRIs: money and property
+
+### How much can an NRI repatriate from India?
+Up to USD 1 million per financial year from NRO accounts after tax, with Forms 145 and 146; NRE balances are fully repatriable. Read more.
+
+### Does the US 1% remittance tax apply to bank transfers to India?
+No — only to transfers funded with cash, money orders or cashier's checks, from 1 January 2026. Read more.
+
+### How much TDS applies when an NRI sells property?
+TDS at non-resident capital-gains rates — buyers often deduct on the full price, far more than the final tax; a lower-deduction certificate (Form 128) fixes that. Read more.
+
+### Does a buyer need a TAN to buy property from an NRI?
+Not since 1 October 2026 for resident individual and HUF buyers — they can deposit TDS using their PAN through Form 141. Read more.
+
+### Can NRIs buy agricultural land?
+No. NRIs and OCIs can buy homes and commercial property but can only inherit agricultural land, plantations or farmhouses. Read more.
+
+### Can NRIs apply for IPOs in India?
+Yes — through ASBA from an NRE or NRO account, holding shares in an NRI demat account; check each offer document. Read more.
+
+## For foreign individuals
+
+### Can a foreigner buy property in India?
+A foreign national living outside India who isn't an OCI can only inherit Indian property or lease it for up to 5 years. Read more.
+
+### Can foreigners invest in Indian shares?
+Yes. Since 12 June 2026 any individual resident outside India can buy listed Indian shares directly, without FPI registration, below 10% per company. Read more.
+
+### Can OCI cardholders buy property in India?
+Yes — residential and commercial, but not agricultural land, plantations or farmhouses. Read more.
+
+### Do foreign clients deduct tax when paying Indian freelancers?
+Generally no, if the foreign client has no Indian presence; the freelancer treats it as an export of services. Read more.
+
+## For foreign companies: entering India
+
+### Can a foreign company own 100% of an Indian company?
+Yes in most sectors under the automatic route; some sectors and land-border-country investors need approval. Read more.
+
+### Subsidiary, branch or liaison office?
+Most choose a subsidiary (22% base tax option); a branch pays 35% plus surcharge; a liaison office can't earn income. Read more.
+
+### Can we hire in India without an entity?
+Yes, through an employer of record — but staff who conclude contracts can create permanent-establishment risk. Read more.
+
+### What changed in Press Note 3 in 2026?
+Investors with non-controlling beneficial ownership up to 10% from land-border countries can use the automatic route. Read more.
+
+### Is the H-1B $100,000 fee being collected?
+Not as of October 2026 — a court vacated it in June 2026 — but appeals and a 2026 extension proclamation leave it unsettled. Read more.
+
+### What does a GCC in India cost in tax?
+It's taxed on its cost-plus markup, usually at the 22% base option, with services to the parent zero-rated for GST. Read more.
+
+## For foreign companies: tax and money
+
+### Why is my Indian customer deducting 20%?
+Indian law requires withholding on royalties and technical fees paid abroad; your treaty rate applies with a TRC, Form 41 and a no-PE declaration. Read more.
+
+### What replaced Form 10F?
+Form 41, under the Income-tax Rules, 2026. Read more.
+
+### Does a foreign company need to file an Indian tax return?
+Usually yes if it has Indian taxable income — unless its only income is dividends, interest, royalties or fees taxed at the full domestic rate. Read more.
+
+### How are dividends to a foreign parent taxed?
+20% plus surcharge and cess, or the treaty rate — 15% for a US parent with 10%+, 10% for UK, UAE, Japanese, German or Dutch parents. Read more.
+
+### Does foreign SaaS need Indian GST?
+Yes for sales to consumers and unregistered businesses — simplified registration, 18% IGST; B2B sales are reverse charge. Read more.
+
+### Is India's equalisation levy still charged?
+No — the 2% levy ended on 1 August 2024 and the 6% levy on online ads on 1 April 2025. Read more.
+
+## Checking and buying Indian companies
+
+### How do I verify an Indian company?
+Check MCA master data, the GST taxpayer search and the IEC (all free), then read its filed accounts on MCA for about ₹100. Read more.
+
+### Are private companies' accounts public in India?
+Yes — financial statements and annual returns are filed with the Ministry of Corporate Affairs and can be viewed for a small fee. Read more.
+
+### What's the biggest due-diligence red flag in India?
+Foreign investment that was never reported to RBI or was issued without a valuation — followed by GST mismatches and open tax demands. Read more.
+
+### How is a share purchase from an Indian seller priced?
+At or above fair value under FEMA, certified by a CA, merchant banker or cost accountant, with FC-TRS within 60 days. Read more.
+
+## Trade deals
+
+### Is the India–UK trade deal in force?
+Yes — CETA took effect on 15 July 2026, with a 5-year social-security exemption for posted employees. Read more.
+
+### When does the India–New Zealand FTA start?
+On 20 October 2026. Read more.
+
+### Has India signed a trade deal with the EU?
+Negotiations concluded on 27 January 2026; signature is pending, with entry into force expected later. Read more.
+
+### Is the India–EFTA (Switzerland) agreement in force?
+Yes, since 1 October 2025. Read more.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/india-representative-services/
@@ -36,6 +180,8 @@ Repatriating profits to the parent |
 Extend your own team | White-label accounting for CPA firms
 Virtual / fractional CFO for your India business
 Valuations for FDI and transactions | 
+
+Also in Deutsch · 日本語.
 
 ## Who uses us
 
@@ -1212,6 +1358,18 @@ Selling a flat, moving money out, claiming a TDS refund or working out whether y
 Ask about your NRI tax
 hello@durgeshchavda.com
 
+Quick answers
+
+- Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India.
+
+- NRI tax slab 2026-27: the same slabs as residents (new regime: nil to ₹4 lakh, then 5% to 30%), but without the rebate that makes ₹12 lakh tax-free for residents.
+
+- Interest on NRE and FCNR deposits is tax-free for NRIs; NRO interest is taxable.
+
+- TDS: Indian payers deduct tax at source on most NRI income, often more than the final tax — file a return to get the excess back.
+
+- Deemed resident: an Indian citizen with Indian income above ₹15 lakh who isn’t taxable in any other country can be treated as resident (RNOR) — check with the residential status calculator.
+
 Free tools: capital gains & NRI TDS calculator · residential status calculator
 
 New to NRI tax? Start with the complete NRI taxation guide.
@@ -1255,6 +1413,8 @@ Tax computation, certificates and filings, with your approval before anything is
 03
 ### Done remotely
 No trip to India needed. Calls in your time zone — we have an office in Dubai.
+
+Quick answers: India for NRIs and foreigners — questions answered.
 
 ## Frequently asked questions
 Do NRIs have to file an income tax return in India?
@@ -1537,6 +1697,7 @@ USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 ₹5,000 Cr+PSU bank audit portfolio handled early in career
 
 Foreign company with an Indian subsidiary or Indian customers? See Indian subsidiary compliance and India tax for foreign companies.
+Virtual CFO by city: Mumbai · Bengaluru · Gurgaon & Delhi NCR · Hyderabad · Ahmedabad · Rajkot.
 
 ## Frequently asked questions
 What does a Virtual CFO do?
@@ -1863,6 +2024,7 @@ India’s public registries are unusually open — private companies’ accounts
 
 - Business Standard — DPIIT amends Press Note 3 (Mar 2026)
 - RBI Master Direction — establishment of branch, liaison or project offices
+Quick answers: India for NRIs and foreigners — questions answered.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
@@ -2572,10 +2734,22 @@ NRI taxation
 
 Everything a non-resident Indian needs to know about Indian tax in one place — what’s taxed, at what rate, why TDS usually over-deducts, how treaties help, and how to get money back out.
 
-By CA Durgesh Chavda·Last reviewed 12 October 2026·11 min read
+By CA Durgesh Chavda·Last reviewed 15 October 2026·11 min read
 
 Talk to a CA about NRI tax
 hello@durgeshchavda.com
+
+Quick answers
+
+- Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India.
+
+- NRI tax slab 2026-27: the same slabs as residents (new regime: nil to ₹4 lakh, then 5% to 30%), but without the rebate that makes ₹12 lakh tax-free for residents.
+
+- Interest on NRE and FCNR deposits is tax-free for NRIs; NRO interest is taxable.
+
+- TDS: Indian payers deduct tax at source on most NRI income, often more than the final tax — file a return to get the excess back.
+
+- Deemed resident: an Indian citizen with Indian income above ₹15 lakh who isn’t taxable in any other country can be treated as resident (RNOR) — check with the residential status calculator.
 
 ## Who counts as an NRI for tax
 
@@ -2668,8 +2842,18 @@ NRIs can invest in Indian startups (with FEMA reporting), SEBI AIFs and GIFT Cit
 - File your return to claim refunds; keep Form 146 certificates for repatriation.
 
 Want it handled? See NRI taxation services.
+Quick answers: India for NRIs and foreigners — questions answered.
 
 ## Frequently asked questions
+Do NRIs have to pay tax in India?
+Yes, on income that arises or is received in India — such as rent, NRO interest, dividends and capital gains on Indian assets. Income earned and received outside India is not taxed in India for a non-resident.
+
+What is the income tax slab for NRIs in India?
+For tax year 2026-27 under the default new regime: nil up to ₹4 lakh, 5% to ₹8 lakh, 10% to ₹12 lakh, 15% to ₹16 lakh, 20% to ₹20 lakh, 25% to ₹24 lakh and 30% above, plus surcharge and cess. NRIs don't get the ₹12 lakh rebate available to residents.
+
+Is NRE interest taxable in India?
+No. Interest on NRE accounts and FCNR deposits is exempt for NRIs. Interest on NRO accounts is taxable and subject to TDS.
+
 What are the income tax slabs for NRIs in 2026-27?
 Under the default new regime: nil up to ₹4 lakh, 5% to ₹8 lakh, 10% to ₹12 lakh, 15% to ₹16 lakh, 20% to ₹20 lakh, 25% to ₹24 lakh and 30% above, plus surcharge and cess. NRIs don't get the rebate that makes income up to ₹12 lakh tax-free for residents.
 
@@ -2947,3 +3131,559 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-2026-foreign-asset-disclosure/
+------------------------------------------------------------------------
+Deadline 31 December 2026
+
+# FAST-DS 2026: clean up undisclosed foreign assets by 31 December
+
+Foreign bank accounts, RSUs and ESOPs from a US or UK employer, a dormant account from student days — India’s tax department now sees them through global data exchange. FAST-DS is a one-time window to put them right at a known cost.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your disclosure reviewed
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS 2026 closes on 31 December 2026; declarations are filed in Form 1 on the e-filing portal.
+- Undisclosed foreign assets up to ₹1 crore: 60% in all. Already-taxed income missed in Schedule FA (up to ₹5 crore): ₹1 lakh.
+- It covers people who were resident when the asset was acquired — including today's NRIs.
+
+## What FAST-DS is
+
+- The Foreign Assets of Small Taxpayers Disclosure Scheme, 2026 — rules notified on 14 August 2026; declarations in Form 1 on the income-tax e-filing portal from 16 August 2026.
+
+- The window closes on 31 December 2026. Assets are valued as on 31 March 2026.
+
+- Foreign account data from CRS and FATCA exchanges has been showing up in taxpayers’ information statements since 2026 — which is why many people are hearing about it now.
+
+## Who it’s for
+
+- People who were resident in India in the year the asset was acquired or the income arose — including those who have since become NRIs.
+
+- Typical cases: RSUs or ESOPs from a foreign employer not reported in Schedule FA; a foreign bank account left open after studies; foreign income or assets of returning NRIs.
+
+- Not available for proceeds of crime under the money-laundering law, or where proceedings under the Black Money Act are already complete.
+
+## The two categories
+
+Situation | Ceiling | Cost | 
+
+Undisclosed foreign asset or income | Up to ₹1 crore in aggregate | 30% tax plus an equal amount — 60% in all | 
+
+Income already taxed, but the asset was missed in Schedule FA | Up to ₹5 crore | A flat ₹1 lakh | 
+
+Compare that with the Black Money Act’s penalties and prosecution risk for undisclosed foreign assets — which is why the scheme is worth reviewing even for small holdings.
+
+## How to file
+
+- List every foreign account, security, RSU/ESOP, insurance policy and property — with values as on 31 March 2026.
+
+- Work out which category each item falls into, and whether it’s already been taxed.
+
+- File Form 1 on the e-filing portal, pay, and keep the acknowledgement.
+
+- Report the assets correctly in Schedule FA from now on.
+
+Returning from abroad? See moving back to India: tax and the residential status calculator. Need it done? NRI and cross-border tax services.
+
+## Sources
+
+- Income-tax e-filing portal — FAST-DS user manual
+- All India Radio — CBDT's FAST-DS 2026 comes into force
+- TaxGuru — FAST-DS 2026 Form 1 filing guide
+
+## Frequently asked questions
+What is FAST-DS 2026?
+The Foreign Assets of Small Taxpayers Disclosure Scheme, 2026 — a one-time window, open until 31 December 2026, for people who were resident in India to declare undisclosed foreign assets and income, or foreign assets left out of Schedule FA, at a fixed cost.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. Declarations are filed in Form 1 on the income-tax e-filing portal, which opened on 16 August 2026.
+
+How much do you pay under FAST-DS?
+For undisclosed foreign assets or income up to ₹1 crore: 30% tax plus an equal amount, 60% in all. Where the income was already taxed but the asset was missed in Schedule FA (up to ₹5 crore): a flat ₹1 lakh.
+
+Can NRIs use FAST-DS?
+Yes, if they were resident in India in the year the foreign asset was acquired or the income arose, even if they are non-resident now.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/us-remittance-tax-nri/
+------------------------------------------------------------------------
+NRI update
+
+# The US 1% remittance tax — and how NRIs avoid paying it
+
+Since 1 January 2026 the US has taxed some money sent abroad. For most NRIs sending money to India the answer is simple: fund the transfer from a bank account or a US card and the tax doesn’t apply.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Ask about NRI money transfers
+hello@durgeshchavda.com
+
+Key takeaways
+- The 1% US tax applies only to transfers funded with cash, money orders or cashier's checks, from 1 January 2026.
+- Transfers from a US bank account or with a US debit/credit card are exempt.
+- Nothing changes in India — money sent home by an NRI isn't taxable income there.
+
+## What the tax is
+
+- A 1% excise tax on remittance transfers made after 31 December 2025, under section 4475 of the US Internal Revenue Code (enacted in 2025).
+
+- The sender bears it; the money-transfer provider collects it and pays it to the IRS.
+
+- It applies to everyone sending, not only non-citizens.
+
+## Which transfers are taxed — and which aren’t
+
+How you fund the transfer | 1% tax? | 
+
+Cash at a counter | Yes | 
+
+Money order, cashier’s check or similar physical instrument | Yes | 
+
+From your US bank or credit-union account (online transfer, wire, app linked to your account) | No | 
+
+US-issued debit or credit card | No | 
+
+Proposed IRS regulations (April 2026) treat cashed-check proceeds as cash and include anti-avoidance rules; very small transfers excluded under existing remittance rules stay outside. Final regulations were not yet out at the time of writing.
+
+## The India side doesn’t change
+
+- Money an NRI sends home isn’t income in India — no Indian tax on receiving it.
+
+- Gifts to relatives are tax-free in India; gifts to non-relatives above ₹50,000 can be taxable for the recipient.
+
+- Investing in India? Route money through an NRE account so it stays fully repatriable.
+
+- Sending money out of India is a different matter — Indian TCS on remittances: TCS on foreign remittance.
+
+## Sources
+
+- KPMG — proposed regulations on the remittance excise tax (Apr 2026)
+
+## Frequently asked questions
+Does the US 1% remittance tax apply to bank transfers to India?
+No. Transfers funded from a US bank or credit-union account, and transfers paid with a US-issued debit or credit card, are excluded. The tax applies to transfers funded with cash, money orders, cashier's checks and similar physical instruments.
+
+When did the US remittance tax start?
+It applies to remittance transfers made after 31 December 2025.
+
+Who pays the US remittance tax?
+The sender. The remittance transfer provider collects it and pays it to the IRS, and is liable if it fails to collect.
+
+Is money received from abroad taxed in India?
+Money an NRI sends to family isn't taxable income in India. Gifts from relatives are exempt; gifts above ₹50,000 from non-relatives can be taxable for the person receiving them.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/can-foreigners-buy-property-in-india/
+------------------------------------------------------------------------
+Property guide
+
+# Can foreigners buy property in India? It depends who you are
+
+India’s foreign-exchange rules treat foreign nationals, Overseas Citizens of India and NRIs very differently when it comes to property. Here’s the rule for each — and how money gets back out.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Ask about Indian property
+hello@durgeshchavda.com
+
+Key takeaways
+- Foreign nationals (non-OCI) can't buy Indian property — only inherit it or lease up to 5 years.
+- NRIs and OCIs can buy homes and commercial property, but not agricultural land.
+- NRIs and OCIs can repatriate up to USD 1 million a year from NRO accounts after tax.
+
+## Who can buy what
+
+You are | Homes & commercial property | Agricultural land, plantations, farmhouses | 
+
+NRI (Indian citizen abroad) | Yes — buy freely | No (inheritance only) | 
+
+OCI cardholder | Yes — buy freely | No (inheritance only) | 
+
+Foreign national living outside India (not OCI) | No — only by inheritance from a person resident in India; leases up to 5 years allowed | No | 
+
+Citizen of Pakistan, Bangladesh, Sri Lanka, Afghanistan, China, Iran, Nepal or Bhutan (not OCI) | Needs prior RBI permission, wherever resident (except leases up to 5 years) | No | 
+
+A foreign company can hold property in India through an Indian subsidiary for its business, or through a branch office for permitted activities — see doing business in India.
+
+## How NRIs and OCIs pay
+
+- Only through normal banking channels — inward remittance or NRE / NRO / FCNR accounts. No payment in foreign currency to the seller in India.
+
+- Home loans from Indian banks are available to NRIs and OCIs.
+
+## Tax while you own it and when you sell
+
+- Rent is taxable in India, with TDS deducted by the tenant.
+
+- On sale, the buyer deducts TDS — often far more than the final tax; a lower-deduction certificate (Form 128) helps. Since 1 October 2026, resident individual and HUF buyers can deposit this TDS using their PAN through Form 141, without getting a TAN. See TDS on property sale by an NRI and the capital gains calculator.
+
+## Taking the money out
+
+- Sale proceeds of up to two residential properties bought with foreign money can be repatriated under the rules.
+
+- Otherwise NRIs and OCIs can repatriate up to USD 1 million per financial year from their NRO account after tax, with Forms 145 and 146 (formerly 15CA/15CB). See NRO repatriation.
+
+## Sources
+
+- RBI — FAQs on acquisition of immovable property by non-residents
+
+## Frequently asked questions
+Can a foreigner buy property in India?
+Generally no. A foreign national living outside India who is not an OCI can acquire Indian property only by inheritance from a person resident in India, though leases of up to five years are allowed. OCIs and NRIs can buy residential and commercial property.
+
+Can OCI cardholders buy property in India?
+Yes — residential and commercial property, freely. They cannot buy agricultural land, plantation property or farmhouses except by inheritance.
+
+Can NRIs buy agricultural land in India?
+No. NRIs and OCIs can't buy agricultural land, plantations or farmhouses; they can only inherit them.
+
+How much money can an NRI repatriate from India?
+Up to USD 1 million per financial year from the NRO account, after tax, supported by Forms 145 and 146; balances in NRE accounts are fully repatriable.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/how-foreigners-invest-in-indian-stock-market/
+------------------------------------------------------------------------
+Investor guide
+
+# How foreigners can invest in the Indian stock market
+
+Until June 2026 a foreign national needed FPI registration to buy Indian shares. Not any more — a 2026 FEMA amendment opened the direct route NRIs use to every individual living outside India. Here are the routes, the limits and the tax.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your India investment
+hello@durgeshchavda.com
+
+Key takeaways
+- Since 12 June 2026, any individual living outside India can buy listed Indian shares directly — no FPI registration.
+- Each individual must stay below 10% of a company; all such individuals together below 24%.
+- SWAGAT-FI (from 1 June 2026) eases registration for low-risk foreign investors.
+
+## The three routes
+
+Route | For | How | 
+
+Direct route for individuals (new, June 2026) | Any individual resident outside India — foreign nationals, NRIs, OCIs | Indian broker and demat account with a designated bank account; holding must stay below 10% of a company (24% for all such individuals together) | 
+
+Foreign portfolio investor (FPI) | Funds, family offices, companies — and individuals who prefer it | Register with SEBI through a designated custodian (individuals as Category II FPIs) | 
+
+GIFT City (IFSC) funds | Foreign investors who prefer a fund | Invest in a fund set up in GIFT City that invests in India — see investing through GIFT City | 
+
+Exceed 10% in a company and the excess must be sold within 5 trading days, or the whole holding is treated as FDI. Investors with beneficial owners in a country bordering India need government approval where ownership or control could pass to them.
+
+Indirect exposure — India ETFs and ADRs listed abroad — needs no Indian registration at all.
+
+## What changed in 2026
+
+- FEMA (Non-Debt Instruments) Third Amendment Rules, 2026 (notified 12 June 2026): the listed-equity route that was open only to NRIs and OCIs now covers any individual resident outside India.
+
+- SWAGAT-FI (SEBI circulars of January 2026, effective 1 June 2026): faster single-window registration and longer validity for low-risk FPIs such as government funds, regulated retail funds, insurers and pension funds.
+
+- NRIs, OCIs and resident Indians can contribute up to 100% of an IFSC-based FPI (in place since 2024).
+
+## Tax on gains
+
+- Listed equity: long-term gains (held over 12 months) 12.5% above ₹1.25 lakh; short-term 20% — treaty relief may apply.
+
+- Dividends are taxed in India, with treaty rates available — see dividend withholding by country.
+
+- FPIs need a PAN and usually a local tax representative.
+
+## Sources
+
+- India Briefing — FEMA non-debt amendment for foreign individuals (2026)
+- Taxscan — FEMA NDI rules opened to all individuals resident outside India
+- SEBI — SWAGAT-FI circular (Jan 2026)
+
+## Frequently asked questions
+Can a foreigner invest in the Indian stock market?
+Yes. Since 12 June 2026 any individual resident outside India can buy listed Indian shares directly through an Indian broker and demat account, without FPI registration, as long as each holding stays below 10% of the company. Funds and companies use FPI registration or GIFT City funds.
+
+Can a US citizen buy Indian stocks directly?
+Yes, since the FEMA amendment of 12 June 2026, through an Indian broker and demat account with a designated bank account, subject to the below-10% per-company limit — though some Indian brokers restrict US residents, so check before opening an account.
+
+Can a foreign individual register as an FPI in India?
+Yes. Individuals can register as Category II FPIs with SEBI through a designated custodian, subject to KYC requirements.
+
+What is SWAGAT-FI?
+A SEBI framework effective 1 June 2026 that gives low-risk foreign investors — such as government funds, regulated retail funds, insurers and pension funds — single-window registration with longer validity.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/can-nri-apply-for-ipo-in-india/
+------------------------------------------------------------------------
+NRI investing
+
+# Can NRIs apply for IPOs in India? Yes — here’s how
+
+Jio Platforms’ IPO — reported to open on 21 October 2026 — has NRIs everywhere asking how to apply. Here’s the route, the account choice and the tax.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your IPO investment
+hello@durgeshchavda.com
+
+Key takeaways
+- NRIs can apply in Indian IPOs via ASBA from an NRE or NRO account with an NRI demat account.
+- NRE keeps proceeds fully repatriable; NRO is limited to USD 1 million a year.
+- Jio Platforms' IPO is reported for 21–23 October 2026; confirm dates, price and NRI eligibility in the RHP.
+
+## How NRIs apply
+
+- Apply through ASBA (net banking or your broker’s UPI/ASBA flow) from an NRE or NRO account.
+
+- Hold the shares in an NRI demat account linked to the same type of account (repatriable or non-repatriable).
+
+- A PIS permission is generally not needed for IPO applications; some brokers restrict US and Canadian residents — check before applying.
+
+- Always check the offer document (RHP) for whether NRIs are eligible in that issue and in which category.
+
+## NRE or NRO?
+
+- NRE (repatriable): invest with money from abroad; sale proceeds can go back out freely after tax.
+
+- NRO (non-repatriable): use Indian income; proceeds stay within the USD 1 million-a-year repatriation limit.
+
+- More: NRE vs NRO vs FCNR.
+
+## Tax on IPO gains
+
+Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% above ₹1.25 lakh. Brokers deduct TDS for NRIs; treaty relief and credits at home may apply. Details: tax on IPO listing gains.
+
+## Big IPOs to watch
+
+- Jio Platforms: a fresh issue of 27 crore shares. Reports put the issue at 21–23 October 2026 (anchor book 19 October) and listing around 28 October, with a price band around ₹1,065–1,119 — final terms only in the red herring prospectus (RHP). Check the RHP for NRI eligibility.
+
+- NSE listed on 24 September 2026.
+
+- PhonePe: approved by SEBI; launch postponed, no date set.
+
+## Sources
+
+- Kotak Neo — Jio Platforms IPO expected price band
+- Zerodha support — NRI IPO applications
+
+## Frequently asked questions
+Can NRIs apply for IPOs in India?
+Yes. NRIs apply through ASBA from an NRE or NRO bank account and hold allotted shares in an NRI demat account; check the offer document for NRI eligibility in each issue.
+
+Should NRIs use NRE or NRO for IPO investment?
+Use NRE for money brought from abroad if you want proceeds to be freely repatriable; NRO for Indian income, with repatriation within the USD 1 million-a-year limit.
+
+How are NRI IPO gains taxed?
+Shares sold within 12 months: 20% short-term gains; after 12 months: 12.5% above ₹1.25 lakh a year. TDS is deducted, and a return can recover any excess.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-uk-ceta-in-force-business-guide/
+------------------------------------------------------------------------
+Trade deal update
+
+# India–UK trade deal in force: what changes for businesses
+
+The India–UK Comprehensive Economic and Trade Agreement took effect on 15 July 2026, alongside a social-security deal that matters to every company sending staff between the two countries.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Talk about India–UK business
+hello@durgeshchavda.com
+
+Key takeaways
+- The India–UK CETA took effect on 15 July 2026.
+- The Double Contributions Convention spares posted employees double social-security contributions for up to 5 years.
+- Income tax still follows the India–UK tax treaty.
+
+## What happened
+
+- CETA was signed on 24 July 2025 and took effect on 15 July 2026.
+
+- The Double Contributions Convention (DCC), signed on 10 February 2026, took effect the same day.
+
+## The social-security win: no double contributions
+
+- Employees temporarily posted from India to the UK (or the UK to India) can stay in their home social-security system for up to 5 years (60 months), instead of paying into both.
+
+- It covers employees, not the self-employed. Get the certificate of coverage before the posting starts.
+
+- For Indian IT and services companies with UK projects, and UK firms with India teams, this is a direct cost saving.
+
+## Goods and services
+
+- Tariffs on most Indian exports to the UK are removed or cut; UK goods such as whisky, cars and medical devices get phased tariff cuts into India.
+
+- Rules of origin decide who benefits — exporters need origin certificates and records.
+
+## What doesn’t change
+
+Income tax between India and the UK is still governed by the India–UK tax treaty: withholding on dividends, royalties and fees, and permanent-establishment rules. See India–UK cross-border services and India tax for foreign companies.
+
+## Sources
+
+- Chambers — India-UK CETA in force
+- AccountingWEB — UK-India double contributions
+
+## Frequently asked questions
+Is the India–UK trade deal in force?
+Yes. The India–UK Comprehensive Economic and Trade Agreement took effect on 15 July 2026, after being signed on 24 July 2025.
+
+What is the India–UK Double Contributions Convention?
+A social-security agreement in force from 15 July 2026 that lets employees temporarily posted between India and the UK stay in their home system for up to five years instead of paying contributions in both countries.
+
+Does the India–UK trade deal change income tax?
+No. Income tax is still governed by the India–UK tax treaty; CETA covers tariffs, services and investment, and the DCC covers social-security contributions.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/h1b-fee-moving-work-to-india/
+------------------------------------------------------------------------
+US companies
+
+# The H-1B fee fight — and the India option
+
+Whatever happens to the $100,000 H-1B fee in court, US companies are rethinking where engineering and operations work gets done. Here’s the status, and the three ways to build a team in India.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Plan your India team
+hello@durgeshchavda.com
+
+Key takeaways
+- A US court vacated the $100,000 H-1B fee in June 2026; it isn't being collected, but the legal fight continues.
+- US companies can build in India through a vendor, an employer of record or their own subsidiary (GCC).
+- A cost-plus Indian subsidiary is the usual long-term structure.
+
+## Where the fee stands (October 2026)
+
+- A September 2025 proclamation imposed a $100,000 payment on new H-1B petitions for workers outside the US.
+
+- In June 2026 a federal court in Massachusetts held the fee unlawful and vacated it; the appeals court refused to pause that ruling in July, and the fee has not been collected since.
+
+- Another court upheld the fee in December 2025, and a new proclamation in September 2026 extended it to September 2027 — so the legal position is unsettled. Check with immigration counsel before relying on either outcome.
+
+## Three ways to build in India
+
+Option | Speed | Control | Best for | 
+
+Outsourcing / vendor | Fast | Low | Defined projects | 
+
+Employer of record | 1–2 weeks | Medium | First 5–10 hires | 
+
+Own subsidiary (GCC) | 1–2 months | High | Long-term teams | 
+
+Compare them: hiring without an entity · setting up a GCC · India entry structure chooser.
+
+## Tax and cost points
+
+- A subsidiary billing the US parent cost plus a markup; eligible IT and ITeS units can use the safe-harbour option under India’s Income-tax Rules, 2026.
+
+- Services exported to the parent can be zero-rated for GST.
+
+- Staff without an entity can create permanent-establishment risk — plan before hiring.
+
+## Sources
+
+- Mintz — H-1B fee extension (Sep 2026)
+- Fragomen — H-1B proclamation updates
+
+## Frequently asked questions
+Is the $100,000 H-1B fee still in effect?
+As of October 2026 it is not being collected: a federal court vacated it in June 2026 and the appeals court refused to stay that ruling. But another court upheld it and a new proclamation extended it to 2027, so the position is unsettled — check with immigration counsel.
+
+How can a US company build a team in India?
+Through an outsourcing vendor, an employer of record for the first hires, or its own Indian subsidiary (often called a GCC) charging the parent cost plus a markup.
+
+Is a GCC in India tax-efficient for a US company?
+It is taxed in India on its markup, usually at a 22% base rate option, and services to the parent can be zero-rated for GST; transfer-pricing documentation is essential.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/paying-indian-freelancers-from-abroad/
+------------------------------------------------------------------------
+Hiring guide
+
+# Paying Indian freelancers from abroad — both sides explained
+
+Foreign companies hire Indian designers, developers and consultants every day. The good news: the foreign client’s obligations are light. The Indian freelancer has a few things to get right.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Ask about freelancer tax
+hello@durgeshchavda.com
+
+Key takeaways
+- Foreign clients without an Indian presence generally have no Indian tax to withhold.
+- Indian freelancers' services to foreign clients are zero-rated exports for GST with an LUT.
+- Specified professionals can use presumptive tax under section 58 (50% of receipts).
+
+## If you’re the foreign client
+
+- Generally no Indian tax to withhold when a foreign company with no Indian presence pays an Indian resident freelancer.
+
+- Pay through banking channels so the freelancer receives a foreign-inward-remittance advice (e-FIRA) — their proof of export.
+
+- Keep it a genuine contractor relationship. Full-time, directed “freelancers” can create employment and permanent-establishment risk.
+
+- Collect your own country’s forms (e.g. W-8BEN in the US) as your home rules require.
+
+## If you’re the Indian freelancer
+
+- GST: services to a foreign client paid in foreign currency are an export — zero-rated. Register once turnover crosses ₹20 lakh, file a Letter of Undertaking (LUT) each year and invoice without IGST. See GST on export of services.
+
+- Income tax: specified professionals (engineering, technical consultancy, accountancy, legal, architecture, interior decoration and notified professions) can use the presumptive scheme under section 58 of the Income-tax Act, 2025 — 50% of receipts taxed, up to ₹75 lakh where cash receipts are 5% or less. Others are taxed on actual profit.
+
+- Advance tax applies — see the advance tax guide.
+
+## Sources
+
+- Income-tax e-filing portal
+- GST portal
+
+## Frequently asked questions
+Does a foreign company have to deduct tax when paying an Indian freelancer?
+Generally no, where the foreign company has no presence in India. It should pay through banking channels so the freelancer gets an e-FIRA as proof of the export.
+
+Do Indian freelancers charge GST to foreign clients?
+No GST is charged when the service qualifies as an export — foreign client, payment in foreign currency. Registered freelancers file an LUT and invoice at zero rate.
+
+Can Indian freelancers use presumptive taxation?
+Specified professionals can, under section 58 of the Income-tax Act, 2025: 50% of receipts is treated as income, up to ₹75 lakh of receipts where cash receipts are 5% or less.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
