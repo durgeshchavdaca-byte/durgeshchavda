@@ -161,6 +161,8 @@ No one can guarantee that an AI assistant will name you — answers are generate
 
 Check where you stand first: AEO readiness checker (free, two minutes).
 
+New research: AI Visibility Index 2026 — how 96 B2B websites score for AI readiness.
+
 ## Frequently asked questions
 What are AEO services?
 Answer engine optimization services make a business more likely to be quoted, cited or recommended by AI assistants such as ChatGPT, Gemini, Perplexity, Copilot and Google AI Overviews — through technical access, consistent entity information, answer-first content, structured data, off-site mentions and monthly monitoring.
@@ -280,6 +282,7 @@ Want it done for you? AEO services · see the method on this site: AEO case stud
 - Wikipedia — Generative engine optimization
 - Aggarwal et al. — GEO: Generative Engine Optimization (arXiv)
 - Contently — What is answer engine optimization (Feb 2026)
+New research: AI Visibility Index 2026 — how 96 B2B websites score for AI readiness.
 
 ## Frequently asked questions
 What is AEO in marketing?
