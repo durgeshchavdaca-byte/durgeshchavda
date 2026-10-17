@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url><loc>https://www.durgeshchavda.com/</loc><lastmod>2026-10-17</lastmod><changefreq>weekly</changefreq><priority>1.0</priority><image:image><image:loc>https://www.durgeshchavda.com/assets/durgesh-portrait.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/zenith-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/jakarta-festival.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-gst-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-rajkot.jpg</image:loc></image:image></url>
   <url><loc>https://www.durgeshchavda.com/about/</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/aeo-services/</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/ai-in-finance/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/chartered-accountant-ahmedabad/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/chartered-accountant-dubai/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -24,6 +25,7 @@
   <url><loc>https://www.durgeshchavda.com/insights/83b-election-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/acquire-a-company-in-india/</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/advance-tax-due-dates-2026-27/</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/aeo-case-study-durgeshchavda/</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/ai-in-finance-playbook/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/aif-categories-explained/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/aif-taxation-india/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -128,6 +130,7 @@
   <url><loc>https://www.durgeshchavda.com/insights/us-trademark-for-indian-startups/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/virtual-cfo-vs-full-time-cfo/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/w-8ben-e-for-indian-companies/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/what-is-aeo-answer-engine-optimization/</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/australia/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/canada/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -149,6 +152,7 @@
   <url><loc>https://www.durgeshchavda.com/supplier-verification-india/</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/tax-notice-representation-india/</loc><lastmod>2026-10-14</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/tools/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/tools/aeo-readiness-checker/</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/tools/capital-gains-calculator-property/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/tools/delaware-franchise-tax-calculator/</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/tools/equity-dilution-calculator/</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>

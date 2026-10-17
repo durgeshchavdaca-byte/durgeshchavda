@@ -74,6 +74,307 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/aeo-services/
+------------------------------------------------------------------------
+AEO · AI search visibility
+
+# AEO services — be the answer when buyers ask AI
+
+Your next client may never see a list of links. They’ll ask ChatGPT, Gemini or Perplexity “who can help me with…” and act on the answer. We make sure that answer can include you — with the same method we used on this website.
+
+Book an AEO call
+hello@durgeshchavda.com
+
+## What AEO is
+Answer engine optimization (AEO) is the work of making your business the source AI assistants quote, cite or recommend when people ask questions in your field. Read the full explainer: What is AEO?
+| SEO | AEO | 
+
+Goal | Rank a link on a results page | Be the answer — quoted, cited or recommended by an AI assistant | 
+
+Where | Google and Bing results | ChatGPT, Gemini, Claude, Perplexity, Copilot, Grok, Google AI Overviews and AI Mode, voice assistants | 
+
+What wins | Relevance, links, technical health | Clear answers, trusted entity facts, structured data, citations to sources, mentions across the web — on top of good SEO | 
+
+How it’s measured | Rankings, clicks | How often you’re named or cited for the questions your buyers ask | 
+
+“GEO” (generative engine optimization) is used for much the same work. The terms overlap — what matters is that SEO stays the foundation and AEO builds on it.
+
+## Why it matters for high-value B2B services
+
+- Buyers ask, then shortlist. Founders, CFOs and investors increasingly ask an assistant for options before they search or ask for referrals.
+
+- Answers name only a few firms. A results page shows ten links; an AI answer often names two or three providers. Being one of them is worth more than a page-two ranking.
+
+- Accuracy is the moat. In finance, tax, legal and regulated sectors, assistants favour sources that are specific, current and consistent. That’s where a CA-led approach — fact-checked, sourced, dated — wins.
+
+## What we do
+
+Workstream | What it covers | 
+
+1. AI visibility audit | We ask the major assistants the questions your buyers ask and record who gets named and cited; a technical and content audit explains why | 
+
+2. Entity & trust signals | One consistent description of your firm across your site, profiles and directories; Organization / Person / Service structured data; disambiguation from similarly named firms | 
+
+3. Crawl access | AI crawler rules, llms.txt and full-text files, sitemaps with accurate dates, IndexNow, Bing and Google webmaster setup | 
+
+4. Answer-first content | Pages that answer real buyer questions in the first lines — quick-answer boxes, question-led headings, comparison tables, FAQs, cited sources and review dates | 
+
+5. Service + place pages | Pages for each service in each market you serve, so “who does X in Y?” has an answer pointing to you | 
+
+6. Off-site mentions | The profiles, directories, Q&A answers and articles AI systems learn from and cite — planned and drafted for you | 
+
+7. Monitoring | A fixed set of buyer questions re-tested every month across assistants, plus Search Console and Bing data | 
+
+## How engagements work
+
+01
+### Audit
+Fixed-fee AI visibility audit with a prioritised 90-day plan. Yours to keep, whether or not we continue.
+
+02
+### Build
+We implement the plan — technical setup, entity fixes, answer-first pages, structured data — on your site or with your developers.
+
+03
+### Grow
+A monthly retainer: new answer content, off-site mentions, monitoring and a short report on what moved.
+
+## Who it’s for
+
+- CA, CPA, law, consulting and advisory firms that win clients on trust.
+
+- Fintech, SaaS and B2B companies selling high-value services.
+
+- Fund managers, family offices and GIFT City businesses that need accurate visibility with investors.
+
+- Indian companies selling abroad — and foreign companies wanting to be found by Indian and NRI buyers.
+
+## Proof: this website
+
+We applied the same method to durgeshchavda.com. In about three weeks, daily Google impressions roughly tripled, new pages were indexed within a day or two, and the site ranks first on Bing for its own name and on Google’s first page for several niche terms. The full numbers, with what we did and what’s still unproven: AEO case study.
+
+## What we don’t promise
+
+No one can guarantee that an AI assistant will name you — answers are generated, change over time and differ by user. We promise the work, the measurement and honest reporting. Agencies that guarantee “#1 in ChatGPT” are guessing.
+
+Check where you stand first: AEO readiness checker (free, two minutes).
+
+## Frequently asked questions
+What are AEO services?
+Answer engine optimization services make a business more likely to be quoted, cited or recommended by AI assistants such as ChatGPT, Gemini, Perplexity, Copilot and Google AI Overviews — through technical access, consistent entity information, answer-first content, structured data, off-site mentions and monthly monitoring.
+
+What is the difference between AEO and SEO?
+SEO aims to rank a link on a results page; AEO aims to have your content used in the answer an AI assistant gives. AEO builds on SEO — a site that search engines can't crawl or trust rarely appears in AI answers.
+
+How long does AEO take to show results?
+Technical and on-page changes can be picked up by search-connected assistants within weeks; changes in what models 'know' without searching take longer, because they depend on retraining. Expect to measure progress monthly over at least three months.
+
+Can you guarantee my business will appear in ChatGPT?
+No. AI answers are generated and vary by user and over time, so no honest provider can guarantee placement. We commit to the work and to measuring it transparently.
+
+Do you work with businesses outside finance?
+Yes, mainly B2B and professional-services businesses where accuracy and trust drive buying decisions.
+
+On this page
+
+- What AEO is
+- Why it matters for B2B
+- What we do
+- How engagements work
+- Who it’s for
+- Proof
+- What we don’t promise
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/what-is-aeo-answer-engine-optimization/
+------------------------------------------------------------------------
+AEO guide
+
+# What is AEO? Answer engine optimization, explained
+
+Search is turning into conversation. When someone asks an AI assistant a question, it answers — and names a few sources. AEO is how you become one of them.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·7 min read
+
+Talk about AEO
+hello@durgeshchavda.com
+
+Key takeaways
+- AEO makes your business the source AI assistants quote, cite or recommend.
+- It builds on SEO: crawlable, clear, specific, current and consistent content wins.
+- Measure it by testing your buyers' questions across assistants every month.
+
+## AEO in one paragraph
+
+Answer engine optimization (AEO) is the practice of making your content and your business the source that AI assistants and AI search features quote, cite or recommend. It targets ChatGPT, Gemini, Claude, Perplexity, Copilot, Grok, Google’s AI Overviews and AI Mode, and voice assistants.
+
+| SEO | AEO | 
+
+Goal | Rank a link on a results page | Be the answer — quoted, cited or recommended by an AI assistant | 
+
+Where | Google and Bing results | ChatGPT, Gemini, Claude, Perplexity, Copilot, Grok, Google AI Overviews and AI Mode, voice assistants | 
+
+What wins | Relevance, links, technical health | Clear answers, trusted entity facts, structured data, citations to sources, mentions across the web — on top of good SEO | 
+
+How it’s measured | Rankings, clicks | How often you’re named or cited for the questions your buyers ask | 
+
+“GEO” (generative engine optimization) is used for much the same work. The terms overlap — what matters is that SEO stays the foundation and AEO builds on it.
+
+## How answer engines choose what to say
+
+- Search-connected answers pull pages from a search index at the time of the question — Google’s for Gemini and AI Overviews, Bing’s for ChatGPT search and Copilot, and other indexes for other assistants — then summarise and cite them.
+
+- Built-in knowledge comes from what the model learned in training, drawn from the public web: websites, profiles, directories, forums and news. That’s why consistent mentions across the web matter.
+
+- Both reward the same things: pages that are crawlable, clear, specific, current and consistent with what the rest of the web says about you.
+
+- Academic work on “generative engine optimization” found that adding citations to sources, quotations and statistics made content noticeably more visible in AI-generated answers.
+
+## A 12-point AEO checklist
+
+- AI crawlers (and Bingbot and Googlebot) are allowed in robots.txt.
+
+- The site is verified in Google Search Console and Bing Webmaster Tools, with a sitemap that has accurate last-modified dates.
+
+- New and updated pages are pushed to search engines quickly (IndexNow, indexing requests).
+
+- An llms.txt summary — and ideally a full-text version — tells AI systems what you do.
+
+- One consistent description of your business everywhere: website, LinkedIn, directories, Google Business Profile.
+
+- Organization, Person, Service, FAQ and article structured data, with profiles linked via sameAs.
+
+- Every key page answers its main question in the first two or three lines.
+
+- Headings phrased as the questions buyers actually ask.
+
+- Specifics: numbers, dates, rules, comparisons — not generic marketing copy.
+
+- Sources cited and a visible “last reviewed” date.
+
+- Pages for each service in each market you serve.
+
+- A monthly test: ask the main assistants your buyers’ questions and record whether you’re named.
+
+Score yourself with the AEO readiness checker.
+
+## Common mistakes
+
+- Treating AEO as a replacement for SEO — it’s built on top of it.
+
+- Blocking AI crawlers by accident (often through a security plugin or CDN setting).
+
+- Different business descriptions on different profiles, which makes assistants unsure who you are.
+
+- Believing anyone who guarantees placement in AI answers.
+
+Want it done for you? AEO services · see the method on this site: AEO case study.
+
+## Sources
+
+- Wikipedia — Generative engine optimization
+- Aggarwal et al. — GEO: Generative Engine Optimization (arXiv)
+- Contently — What is answer engine optimization (Feb 2026)
+
+## Frequently asked questions
+What is AEO in marketing?
+Answer engine optimization — optimising content and business information so AI assistants and AI search features (ChatGPT, Gemini, Perplexity, Copilot, Google AI Overviews) quote, cite or recommend you when people ask questions.
+
+Is AEO the same as GEO?
+They overlap heavily. GEO (generative engine optimization) is often used for being cited in generative AI answers; AEO is often used more broadly for answer-style results including featured snippets and voice. In practice the same work serves both.
+
+Does AEO replace SEO?
+No. AI assistants rely on search indexes and on what the web says about you, so SEO remains the foundation; AEO adds answer-first content, entity consistency and AI-specific access.
+
+How do you measure AEO?
+By testing a fixed set of buyer questions across assistants each month and recording whether you're named or cited, alongside Search Console and Bing data for the pages those answers draw on.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/aeo-case-study-durgeshchavda/
+------------------------------------------------------------------------
+Case study
+
+# AEO case study: what we did on our own website
+
+Before offering AEO to clients, we ran it on ourselves. Here is exactly what we changed on durgeshchavda.com from late September 2026, and what the data shows so far — including what we can’t prove yet.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get an AEO audit
+hello@durgeshchavda.com
+
+Key takeaways
+- Daily Google impressions roughly tripled in about three weeks (≈200 to ≈660 a day).
+- New pages were indexed within one to two days; the site ranks first on Bing for its founder's name.
+- AI citations are tracked by monthly manual tests — the data so far is early.
+
+## The numbers (Google Search Console)
+
+Period | Google impressions | Per day | 
+
+First 9 days of tracking (to 6 Oct 2026) | 1,800 | ≈ 200 | 
+
+7 days to 9 Oct 2026 | 2,500 | ≈ 360 | 
+
+7 days to mid-October 2026 | 4,610 | ≈ 660 | 
+
+- The site appeared for 194 different search queries in its first 9 days of tracking, and for 693 in the latest 28 days.
+
+- Page-one positions for niche terms such as the 57th GST Council meeting, Form 5472 due dates and FC-GPR deadlines.
+
+- New pages indexed by Google within one to two days of publishing.
+
+- First on Bing for the founder’s name and its variants.
+
+## What we did
+
+- Crawl access: AI crawlers welcomed in robots.txt; llms.txt and a full-text llms-full.txt; sitemap with real last-modified dates; IndexNow on every release; RSS feed.
+
+- Entity: one consistent description, Person and Organization structured data, a disambiguating description and an about page with quotable key facts.
+
+- Answer-first pages: quick-answer boxes, key takeaways, question-led headings and FAQs on every important page.
+
+- Sources and dates: every guide cites its sources and shows a review date; rules are fact-checked before publishing.
+
+- Coverage: service + place pages (Dubai, Ahmedabad, Mumbai, Bengaluru, Gurgaon, Hyderabad, Gujarat) and pages for the questions foreign companies and NRIs actually ask.
+
+- Freshness: trending rules and deadlines covered within days, with accurate dates.
+
+- Internal links: exact-phrase links from related pages to each target page.
+
+## What we can’t prove yet
+
+- Search Console doesn’t separate AI Overview appearances, and assistants don’t publish citation data — so AI citations are tracked by monthly manual tests, which began in October 2026.
+
+- Three weeks is short. Some of the growth is a new site being discovered; we’ll update this page with longer-term data.
+
+Want the same for your business? AEO services · check your AEO readiness.
+
+## Sources
+
+- Google Search Console (site's own data, Oct 2026)
+
+## Frequently asked questions
+Does AEO work for professional-services firms?
+On this website — a Chartered Accountant's practice — answer-first pages, entity consistency, crawl access and fast indexing coincided with daily Google impressions roughly tripling in about three weeks. AI citations are measured separately through monthly tests.
+
+What was the most effective AEO change?
+Coverage and clarity together: pages that answer specific buyer questions in their first lines, with cited sources and current dates, published and indexed quickly.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreigners/
 ------------------------------------------------------------------------
 Questions answered
@@ -967,6 +1268,8 @@ Clients | Startups and VC-backed companies, fund managers, family offices, NRIs,
 
 Countries served | India, US, UK, Europe, UAE and the Gulf, Singapore, Japan, Canada, Australia | 
 
+AEO | Answer engine optimization for B2B, finance and professional firms — AEO services | 
+
 Core work | Virtual CFO and fundraising; US incorporation and Delaware flips; GIFT City and SEBI AIF funds; FEMA/RBI; NRI tax; due diligence, supplier verification, market research, subsidiary compliance and India tax for foreign companies | 
 
 Contact | hello@durgeshchavda.com · WhatsApp +91 78018 87130 | 
@@ -1025,6 +1328,7 @@ US incorporation from IndiaDelaware C-Corp or LLC, EIN, banking — with ODI and
 
 Prefer to read first? Start with the guides or the free tools.
 Get in touch: contact and office addresses.
+We also help businesses get found in AI answers — AEO services (answer engine optimization).
 
 ## Frequently asked questions
 Who is CA Durgesh Chavda?
