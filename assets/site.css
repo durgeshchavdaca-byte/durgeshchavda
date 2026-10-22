@@ -592,3 +592,4 @@ textarea.fi{min-height:140px;resize:vertical}
 @media (max-width:600px){.author-box{grid-template-columns:minmax(0,1fr)}}
 picture{display:block}
 .topics{margin:4px 0 8px}.topics a.pill{font-family:var(--sans,inherit);font-size:13.5px;padding:8px 13px;border-radius:999px;color:var(--ink,#111);text-decoration:none}.topics a.pill b{font-family:var(--mono);font-weight:500;font-size:11.5px;opacity:.6}.topics a.pill:hover{background:var(--hl)}
+.gloss{margin:10px 0 0;padding:0}.gloss dt{margin-top:14px;font-size:16px}.gloss dd{margin:2px 0 0;padding:0 0 10px;border-bottom:1px dashed #e2ddd3;color:var(--ink,#111)}

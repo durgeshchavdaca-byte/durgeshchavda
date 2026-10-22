@@ -74,6 +74,42 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-business-glossary-foreign-companies/
+------------------------------------------------------------------------
+Glossary
+
+# India business glossary for foreign companies — 44 terms in plain English
+
+The acronyms you’ll meet when dealing with an Indian company, investing or setting up in India — each in one line, with a link to the full guide.
+
+By CA Durgesh Chavda·Last reviewed 22 October 2026·8 min read
+
+Ask about a term
+hello@durgeshchavda.com
+
+Company identifiers 8Tax 10GST and trade 7Foreign investment (FEMA) 12Deals and disputes 7
+
+## Company identifiers
+CINCorporate Identity Number — the unique number the Ministry of Corporate Affairs gives every Indian company. More.LLPINLLP Identification Number — the equivalent of a CIN for a limited liability partnership.DINDirector Identification Number — a unique number every director of an Indian company must hold. More.MCA / MCA21The Ministry of Corporate Affairs and its online portal, where company records, filings and financial statements are kept. More.ROCRegistrar of Companies — the MCA office that registers companies and receives their filings.AOC-4 / MGT-7Annual company filings with MCA: AOC-4 for financial statements, MGT-7 for the annual return (shareholders, directors). More.Private limited companyIndia's most common company form, with limited liability and restrictions on share transfers — the usual vehicle for foreign subsidiaries. More.LLPLimited liability partnership — open to foreign investment only in sectors allowing 100% automatic-route FDI without conditions. More.
+
+## Tax
+PANPermanent Account Number — the income-tax identifier for people and entities, including foreign companies with Indian tax matters. More.TANTax Deduction Account Number — needed by those who deduct tax at source (individual buyers of property from NRIs can use PAN since October 2026). More.TDSTax deducted at source — tax the payer withholds from payments such as salaries, fees, royalties and payments to non-residents. More.TCSTax collected at source — collected by the seller or bank on certain transactions, such as overseas remittances under LRS. More.Income-tax Act, 2025The law that replaced the Income-tax Act, 1961 from 1 April 2026, renumbering sections and forms. More.Form 41The treaty-relief information form a non-resident files online — formerly Form 10F. More.TRCTax residency certificate — issued by a person's home tax authority; needed to claim treaty rates in India. More.DTAADouble taxation avoidance agreement — India's tax treaty with another country. More.PEPermanent establishment — a taxable presence of a foreign company in India, such as an office or dependent agent. More.Forms 145 / 146The remittance declaration (145) and CA certificate (146) for payments abroad — formerly Forms 15CA and 15CB. More.
+
+## GST and trade
+GST / GSTINGoods and Services Tax — India's indirect tax; GSTIN is the 15-character registration number. More.IGSTIntegrated GST — charged on inter-state supplies and imports.LUTLetter of Undertaking — lets an exporter export goods or services without paying IGST. More.OIDAROnline information and database access or retrieval services — the GST category for foreign digital services sold into India. More.IECImport Export Code — the DGFT registration most businesses need to import or export. More.DGFTDirectorate General of Foreign Trade — the government body for trade policy and IEC registration.SEZSpecial Economic Zone — designated zones with export-focused tax and customs treatment.
+
+## Foreign investment (FEMA)
+FEMAForeign Exchange Management Act, 1999 — the law governing foreign investment and cross-border payments. More.FDIForeign direct investment — investment by a non-resident in an Indian company's capital. More.Automatic routeFDI that needs no prior government approval, only reporting — available in most sectors. More.Press Note 3The 2020 rule requiring government approval for investment from countries bordering India — eased in 2026 for non-controlling stakes up to 10%. More.FC-GPRThe RBI form reporting shares issued to a foreign investor — due within 30 days of allotment. More.FC-TRSThe RBI form reporting a share transfer between a resident and a non-resident — within 60 days. More.FLA returnAnnual return on foreign liabilities and assets filed with RBI by 15 July. More.FIRMSRBI's online portal for foreign-investment reporting.AD bankAuthorised dealer bank — a bank permitted by RBI to handle foreign-exchange transactions and many FEMA approvals.ODI / APROverseas direct investment by Indian residents, and the annual performance report filed on each overseas entity. More.ECBExternal commercial borrowing — loans to Indian entities from foreign lenders.Liaison / branch / project officeWays a foreign company can be present in India without an Indian company, each with RBI rules. More.
+
+## Deals and disputes
+NCLTNational Company Law Tribunal — handles insolvency, mergers and company-law disputes.IBCInsolvency and Bankruptcy Code, 2016 — India's insolvency law.SEBISecurities and Exchange Board of India — the securities-market regulator.AIFAlternative Investment Fund — a SEBI-registered private fund (Categories I, II and III). More.GIFT City / IFSCIndia's international financial services centre in Gujarat, regulated by IFSCA. More.DPIITDepartment for Promotion of Industry and Internal Trade — issues FDI policy and press notes.CCICompetition Commission of India — reviews larger mergers and acquisitions.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/india-fdi-updates-2026/
 ------------------------------------------------------------------------
 Updated regularly
@@ -253,6 +289,7 @@ Germany's supply-chain due-diligence duties still apply (reporting suspended); t
 
 ### What FEMA checks matter in a deal?
 That every past foreign investment was reported (FC-GPR within 30 days, FC-TRS within 60 days) and priced at fair value — and that your own deal follows the same rules. More.
+Unfamiliar term? See the India business glossary for foreign companies.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -1281,6 +1318,7 @@ We’re Chartered Accountants, so legal opinions, litigation in courts and immig
 
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
+Unfamiliar term? See the India business glossary for foreign companies.
 
 ## Frequently asked questions
 Who can do work in India on behalf of a foreign company?
@@ -3318,6 +3356,7 @@ India’s public registries are unusually open — private companies’ accounts
 Quick answers: India for NRIs and foreigners — questions answered.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Latest changes: India FDI & foreign investment updates 2026.
+Unfamiliar term? See the India business glossary for foreign companies.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
