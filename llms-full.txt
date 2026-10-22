@@ -74,6 +74,84 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/due-diligence-in-india-faq/
+------------------------------------------------------------------------
+Questions answered
+
+# Due diligence in India: 16 questions answered
+
+The questions foreign companies ask before checking an Indian partner, supplier or target — answered in a sentence or two, current to October 2026.
+
+By CA Durgesh Chavda·Last reviewed 22 October 2026·6 min read
+
+Ask your question
+hello@durgeshchavda.com
+
+About these answers: written by CA Durgesh Chavda, Chartered Accountant (ICAI), from the practice’s own guides. General information — ask us about your deal.
+Basics 4Records and checks 4Scope, time and cost 3Rules that apply 5
+
+## Basics
+
+### What is due diligence on an Indian company?
+An independent check of an Indian company before you invest in it, buy it or partner with it — its identity, finances, tax, regulatory standing, owners and premises. More.
+
+### Can due diligence in India be done remotely?
+Most of it can — public records, filed accounts, data rooms and management calls. A premises visit adds what records can't show; we do both from offices in Ahmedabad, Mumbai, Bengaluru, Rajkot and Dubai. More.
+
+### Who does due diligence in India for foreign companies?
+Chartered Accountants for financial, tax and FEMA work, alongside lawyers for legal diligence. CA Durgesh Chavda's team works for foreign companies and reports in English. More.
+
+### What's the difference between verification and full due diligence?
+Verification answers 'is this company real and roughly what it claims?' from records and a visit. Full due diligence reviews three years of financials, tax, FEMA, related parties and liabilities, with deal recommendations. More.
+
+## Records and checks
+
+### Are Indian private companies' accounts public?
+Yes. Financial statements and annual returns are filed with the Ministry of Corporate Affairs and can be viewed for about ₹100 per company. More.
+
+### How do I check an Indian company's GST status?
+Use 'Search Taxpayer' on the GST portal — it shows whether the GSTIN is active and whether returns are filed. More.
+
+### Can I check the directors of an Indian company?
+Yes — MCA records list directors and their other companies; integrity checks add regulatory lists, insolvency and court records, sanctions and media. More.
+
+### What are the biggest red flags?
+Filed revenue far below claims, cancelled GST, undisclosed charges, unpaid tax demands, related-party cash flows, promoters linked to struck-off companies, and payment requests to another entity. More.
+
+## Scope, time and cost
+
+### How long does due diligence in India take?
+A verification with a site visit typically takes days to a couple of weeks; full financial, tax and FEMA due diligence depends on the company's size and how fast data arrives — the timetable is agreed at the start. More.
+
+### What drives the cost of due diligence in India?
+Scope (verification vs full diligence), the company's size and number of entities, data quality, site visits and travel, and deadlines. We fix the scope and fee upfront. More.
+
+### What will I receive?
+A written English report: what was checked, findings with references to records, red flags and a conclusion — plus agreement points for deals. More.
+
+## Rules that apply
+
+### Does India's anti-bribery law apply to foreign companies?
+Yes — since July 2018 companies carrying on business in India can be liable for bribes by associates unless they had adequate procedures. More.
+
+### Do US companies still need FCPA checks on Indian partners?
+Yes — US enforcement priorities narrowed in 2025, but third-party due diligence remains central to a credible compliance programme. More.
+
+### What do UK companies need?
+Bribery Act 'adequate procedures' and, for large organisations, 'reasonable procedures' under the failure-to-prevent-fraud offence in force since 1 September 2025. More.
+
+### What about EU and German supply-chain rules?
+Germany's supply-chain due-diligence duties still apply (reporting suspended); the EU CSDDD applies from 26 July 2029 and the Forced Labour Regulation from 14 December 2027. More.
+
+### What FEMA checks matter in a deal?
+That every past foreign investment was reported (FC-GPR within 30 days, FC-TRS within 60 days) and priced at fair value — and that your own deal follows the same rules. More.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/partner-due-diligence-india/
 ------------------------------------------------------------------------
 Partner due diligence
@@ -144,6 +222,7 @@ In India, the people behind a company matter as much as the company. With your m
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 People checks: background checks on Indian promoters & directors.
 India’s own rules: anti-bribery law for foreign companies.
+See what you’ll receive: sample due diligence report · due diligence FAQ.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -1195,6 +1274,7 @@ A red-flag report with quantified exposures, and drafting points for the SPA and
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 People checks: background checks on Indian promoters & directors.
+See what you’ll receive: sample due diligence report · due diligence FAQ.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -1264,6 +1344,7 @@ From our offices in Ahmedabad and Rajkot we cover Gujarat’s manufacturing belt
 A written report in English: what we checked, what we found, red flags and a plain-English conclusion. For bigger relationships — distribution, joint ventures, acquisitions — see due diligence in India.
 
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
+See what you’ll receive: sample due diligence report · due diligence FAQ.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
