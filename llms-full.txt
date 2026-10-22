@@ -74,6 +74,112 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-fdi-updates-2026/
+------------------------------------------------------------------------
+Updated regularly
+
+# India FDI & foreign investment updates: 2026 tracker
+
+Every change in 2026 that a foreign company or investor dealing with India should know — newest first, with the date, a one-line summary, our guide and the source. Updated as rules change.
+
+By CA Durgesh Chavda·Last reviewed 22 October 2026·5 min read
+
+Ask about a rule change
+hello@durgeshchavda.com
+
+Last updated: 22 October 2026. India’s first-quarter FDI equity inflows for 2026-27 were reported at about US$19.8 billion, with Singapore the largest source.
+
+## Updates, newest first
+Date | Area | What changed | 
+20 Oct 2026 | Trade | India–New Zealand FTA in force; next tariff cuts 1 January 2027. Our guide · source | 
+14 Oct 2026 | Markets | Jio Platforms files its IPO prospectus (RHP); bidding 21–23 October. Our guide · source | 
+Oct 2026 | Trade | India–US: first tranche of a trade agreement reported finalised; not yet signed. Our guide · source | 
+1 Oct 2026 | FEMA | RBI's amended FEMA export and import regulations take effect — check export-proceeds timelines with your bank. Our guide · source | 
+24 Sep 2026 | SEBI | SEBI board approves FPI participation in non-agricultural commodity derivatives. Our guide · source | 
+3 Sep 2026 | FDI | Press Note 3 (2026): FDI-funded e-commerce entities may hold inventory for exports of goods made in India. Our guide · source | 
+15 Jul 2026 | Trade | India–UK CETA and Double Contributions Convention take effect. Our guide · source | 
+12 Jun 2026 | FEMA | Any individual resident outside India may buy listed Indian shares directly (below 10% per company). Our guide · source | 
+1 Jun 2026 | SEBI | SWAGAT-FI single-window framework for low-risk foreign portfolio investors applies. Our guide · source | 
+May 2026 | FDI | Press Note 2 (2026) operational: land-border beneficial ownership up to 10%, non-controlling, can use the automatic route. Our guide · source | 
+1 Apr 2026 | Tax | Income-tax Act, 2025 and Income-tax Rules, 2026 in force — new section and form numbers (Form 10F becomes Form 41). Our guide · source | 
+1 Apr 2026 | Tax | Share buybacks taxed as capital gains in shareholders' hands. Our guide · source | 
+Feb 2026 | FDI | Press Note 1 (2026): 100% FDI in insurance under the automatic route. Our guide · source | 
+27 Jan 2026 | Trade | India–EU FTA negotiations concluded; signature targeted for December 2026. Our guide · source | 
+
+## Pending — not law yet
+
+- India–EU FTA signature (targeted December 2026).
+- India–US trade agreement signature.
+- RBI’s final regulations on branch, liaison and project offices (draft October 2025).
+Doing a deal now? Partner due diligence · financial due diligence · doing business in India.
+
+## Frequently asked questions
+What changed for foreign investors in India in 2026?
+Among others: the Income-tax Act 2025 took effect on 1 April 2026; Press Note 2 (2026) eased rules for investors with up to 10% non-controlling land-border ownership; from June 2026 any individual abroad can buy listed Indian shares directly; insurance moved to 100% automatic-route FDI; and trade agreements with the UK and New Zealand took effect.
+
+Is the India–EU trade agreement in force?
+Not yet. Negotiations concluded on 27 January 2026 and signature is targeted for December 2026.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/india-company-check/
+------------------------------------------------------------------------
+Fixed-scope check
+
+# India Company Check — a fast, fixed-scope verification
+
+Not ready for full due diligence? Start here. We verify an Indian supplier, distributor or prospective partner from public records — with an optional site visit — and send you a short written report in English.
+
+Order a company check
+hello@durgeshchavda.com
+
+## What it covers
+
+Check | What you learn | 
+
+Company records | Legal name, status, incorporation, registered office, capital, directors | 
+
+Registrations | GST status and filing record, import–export code | 
+
+Filed accounts | Revenue, profit, debt and receivables trend vs what you were told | 
+
+Charges | Assets pledged to lenders | 
+
+Directors | Other companies they run or ran, including struck-off ones | 
+
+Payment check | Whether the bank account you’re asked to pay matches the legal entity | 
+
+Red flags | A plain conclusion: proceed, proceed with conditions, or stop | 
+
+## Optional site visit
+
+From Ahmedabad, Mumbai, Bengaluru or Rajkot (other locations by arrangement): premises, activity, capacity and dated photographs. See supplier verification.
+
+## When you need more
+
+For JVs, investments, large contracts or anti-bribery files, step up to partner due diligence or financial due diligence. See what a full report looks like: sample report.
+
+## Frequently asked questions
+What is an India Company Check?
+A fixed-scope verification of one Indian company from public records — registrations, filed accounts, charges, directors and payment details — with an optional site visit and a short English report.
+
+How is it different from due diligence?
+It answers whether a company is real, solvent-looking and roughly what it claims. Full due diligence adds a deep financial, tax and FEMA review, management meetings and deal recommendations.
+
+On this page
+
+- What it covers
+- Optional site visit
+- When you need more
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/due-diligence-in-india-faq/
 ------------------------------------------------------------------------
 Questions answered
@@ -223,6 +329,7 @@ Due diligence by home country: US companies · UK companies · EU & German compa
 People checks: background checks on Indian promoters & directors.
 India’s own rules: anti-bribery law for foreign companies.
 See what you’ll receive: sample due diligence report · due diligence FAQ.
+Quick start: India Company Check — fixed-scope verification of one company.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -1089,6 +1196,7 @@ Negotiations concluded on 27 January 2026; signature is pending, with entry into
 
 ### Is the India–EFTA (Switzerland) agreement in force?
 Yes, since 1 October 2025. Read more.
+Latest changes: India FDI & foreign investment updates 2026.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -1345,6 +1453,7 @@ A written report in English: what we checked, what we found, red flags and a pla
 
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 See what you’ll receive: sample due diligence report · due diligence FAQ.
+Quick start: India Company Check — fixed-scope verification of one company.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
@@ -3199,6 +3308,7 @@ India’s public registries are unusually open — private companies’ accounts
 - RBI Master Direction — establishment of branch, liaison or project offices
 Quick answers: India for NRIs and foreigners — questions answered.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
+Latest changes: India FDI & foreign investment updates 2026.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
@@ -3290,6 +3400,7 @@ For larger contracts, distributorships, JVs or investments, a CA can read the fi
 - Ministry of Corporate Affairs (MCA21)
 - DGFT — Directorate General of Foreign Trade
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
+Want it done for you? India Company Check.
 
 ## Frequently asked questions
 How can I check if an Indian company is legit?
