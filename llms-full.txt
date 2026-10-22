@@ -834,7 +834,7 @@ By industry: accounting, CA & CPA firms · fintech & financial services · B2B S
 
 ## Proof: this website
 
-We applied the same method to durgeshchavda.com. In about three weeks, daily Google impressions roughly tripled, new pages were indexed within a day or two, and the site ranks first on Bing for its own name and on Google’s first page for several niche terms. The full numbers, with what we did and what’s still unproven: AEO case study.
+We applied the same method to durgeshchavda.com. In under four weeks, daily Google impressions rose about five-fold, new pages were indexed within a day or two, and the site ranks first on Bing for its own name and on Google’s first page for several niche terms. The full numbers, with what we did and what’s still unproven: AEO case study.
 
 ## What we don’t promise
 
@@ -998,7 +998,7 @@ Get an AEO audit
 hello@durgeshchavda.com
 
 Key takeaways
-- Daily Google impressions roughly tripled in about three weeks (≈200 to ≈660 a day).
+- Daily Google impressions rose about five-fold in under four weeks (≈200 to ≈1,030 a day).
 - New pages were indexed within one to two days; the site ranks first on Bing for its founder's name.
 - AI citations are tracked by monthly manual tests — the data so far is early.
 
@@ -1012,11 +1012,15 @@ First 9 days of tracking (to 6 Oct 2026) | 1,800 | ≈ 200 |
 
 7 days to mid-October 2026 | 4,610 | ≈ 660 | 
 
+7 days to 21 October 2026 | 7,240 (104 clicks) | ≈ 1,030 | 
+
 - The site appeared for 194 different search queries in its first 9 days of tracking, and for 693 in the latest 28 days.
 
 - Page-one positions for niche terms such as the 57th GST Council meeting, Form 5472 due dates and FC-GPR deadlines.
 
-- New pages indexed by Google within one to two days of publishing.
+- New pages indexed by Google within one to two days of publishing; 142 pages indexed by 22 October 2026.
+
+- Page-one rankings within days for new topics, such as “Form 41 India” (positions 1–11) and “NRI tax consultants in Ahmedabad” (position 3).
 
 - First on Bing for the founder’s name and its variants.
 
@@ -1050,7 +1054,7 @@ Want the same for your business? AEO services · check your AEO readiness.
 
 ## Frequently asked questions
 Does AEO work for professional-services firms?
-On this website — a Chartered Accountant's practice — answer-first pages, entity consistency, crawl access and fast indexing coincided with daily Google impressions roughly tripling in about three weeks. AI citations are measured separately through monthly tests.
+On this website — a Chartered Accountant's practice — answer-first pages, entity consistency, crawl access and fast indexing coincided with daily Google impressions rising about five-fold in under four weeks. AI citations are measured separately through monthly tests.
 
 What was the most effective AEO change?
 Coverage and clarity together: pages that answer specific buyer questions in their first lines, with cited sources and current dates, published and indexed quickly.
