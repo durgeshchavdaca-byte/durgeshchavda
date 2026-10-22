@@ -142,6 +142,7 @@ In India, the people behind a company matter as much as the company. With your m
 - Legal opinions come from lawyers; we coordinate with your counsel in India or at home.
 
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
+People checks: background checks on Indian promoters & directors.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -1184,6 +1185,7 @@ A red-flag report with quantified exposures, and drafting points for the SPA and
 
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
+People checks: background checks on Indian promoters & directors.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -1255,6 +1257,7 @@ A written report in English: what we checked, what we found, red flags and a pla
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
+Building an India supply base? Sourcing from India (China+1) guide.
 
 ## Frequently asked questions
 How do I verify a supplier in India before paying?
@@ -3400,7 +3403,7 @@ Foreign company guide
 
 Foreign companies can be present in India without forming an Indian company — but RBI decides what each type of office may do. Here are the current rules and what they cost you each year.
 
-By CA Durgesh Chavda·Last reviewed 14 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 October 2026·6 min read
 
 Plan your India office
 hello@durgeshchavda.com
@@ -3409,6 +3412,10 @@ Key takeaways
 - A liaison office needs 3 years of profits and USD 50,000 net worth; a branch 5 years and USD 100,000.
 - A liaison office cannot earn income; it is generally valid for 3 years.
 - From tax year 2026-27 the liaison office statement is Form 162 (formerly Form 49C).
+
+## What is a liaison office in India?
+
+A liaison office is a representative office a foreign company opens in India with permission processed by its bank under RBI rules. It can only act as a communication channel — representing the parent, promoting its products and collaboration — and cannot earn income or do business. A branch office, by contrast, can carry on permitted commercial activities and is taxed as a foreign company.
 
 ## At a glance
 
@@ -3733,7 +3740,7 @@ Foreign vendor guide
 
 Indian customers withhold tax from many payments to foreign suppliers. These three documents are how you get your treaty rate instead of 20% — here’s what each one is and how to get it right.
 
-By CA Durgesh Chavda·Last reviewed 14 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 October 2026·6 min read
 
 Get your vendor pack ready
 hello@durgeshchavda.com
@@ -3742,6 +3749,10 @@ Key takeaways
 - Form 10F was renumbered Form 41 under the Income-tax Rules, 2026.
 - A TRC, Form 41 and a no-PE declaration let an Indian payer apply your treaty rate instead of 20%.
 - If tax was withheld at a lower treaty rate, a foreign company usually still has to file an Indian return.
+
+## What is Form 41 in India?
+
+Form 41 is the form a non-resident files on India’s income-tax portal to claim tax-treaty benefits. It replaced Form 10F from 1 April 2026 under the Income-tax Rules, 2026, and gives the details a tax residency certificate may not contain — status, nationality, tax identification number, period and address. Indian payers ask for it, with a TRC and often a no-PE declaration, before applying a treaty withholding rate to payments abroad.
 
 ## Why your Indian customer is asking
 
@@ -3791,6 +3802,9 @@ We can prepare this pack for you — India tax for foreign companies.
 - Income-tax Act, 2025 — section 207 (Taxsutra)
 
 ## Frequently asked questions
+Is Form 41 the same as Form 10F?
+Yes. Form 10F under the Income-tax Rules, 1962 became Form 41 under the Income-tax Rules, 2026, from 1 April 2026.
+
 What is Form 41 in India?
 Form 41 is the Income-tax Rules 2026 replacement for Form 10F. A non-resident files it online to give the details a tax residency certificate may not contain, so that an Indian payer can apply treaty withholding rates.
 
