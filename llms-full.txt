@@ -229,6 +229,7 @@ Feb 2026 | FDI | Press Note 1 (2026): 100% FDI in insurance under the automatic 
 - India–US trade agreement signature.
 - RBI’s final regulations on branch, liaison and project offices (draft October 2025).
 Doing a deal now? Partner due diligence · financial due diligence · doing business in India.
+Related: the US 1% remittance tax.
 
 ## Frequently asked questions
 What changed for foreign investors in India in 2026?
@@ -453,6 +454,7 @@ India’s own rules: anti-bribery law for foreign companies.
 See what you’ll receive: sample due diligence report · due diligence FAQ.
 Quick start: India Company Check — fixed-scope verification of one company.
 Most Indian partners are family-run: partnering with an Indian family business.
+Related: our offices.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -1086,6 +1088,7 @@ Want it done for you? AEO services · see the method on this site: AEO case stud
 - Aggarwal et al. — GEO: Generative Engine Optimization (arXiv)
 - Contently — What is answer engine optimization (Feb 2026)
 New research: AI Visibility Index 2026 — how 96 B2B websites score for AI readiness.
+Related: AEO for accounting & CPA firms · AEO for fintech · AEO for SaaS.
 
 ## Frequently asked questions
 What is AEO in marketing?
@@ -1400,6 +1403,7 @@ Reports and filings in English, referenced to documents or public records, ready
 We’re Chartered Accountants, so legal opinions, litigation in courts and immigration work stay with lawyers — we coordinate with them. We don’t act as a nominee shareholder or sign as a director on your behalf, and we don’t do anything that would compromise our independence as auditors or advisers.
 
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
+Related: contact & office addresses · 한국어 · Français.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Unfamiliar term? See the India business glossary for foreign companies.
 
@@ -1584,6 +1588,7 @@ Due diligence by home country: US companies · UK companies · EU & German compa
 See what you’ll receive: sample due diligence report · due diligence FAQ.
 Quick start: India Company Check — fixed-scope verification of one company.
 Before you pay: how to pay an Indian supplier safely.
+Related: our Rajkot office (Saurashtra engineering cluster).
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
@@ -1764,6 +1769,8 @@ Many foreign companies set up an Indian subsidiary as a captive engineering, ope
 
 By country: USA · UK · UAE · Singapore.
 
+Related: LLP vs private limited company · Singapore holding companies.
+
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
 日本語のご案内はこちら。
@@ -1855,6 +1862,7 @@ Dividends, service fees, royalties and interest each carry Indian withholding ta
 
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
 MCA deadlines now: AOC-4 & MGT-7 due dates 2026.
+Related: Corporate Laws (Amendment) Bill 2026 · when you need a registered valuer.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
@@ -1931,6 +1939,7 @@ Selling online services to Indian consumers or unregistered businesses? You like
 - On the ground when needed: offices in Ahmedabad, Mumbai, Bengaluru, Rajkot and Dubai for site visits, bank meetings and management interviews.
 
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
+Related: tax notices and representation · paying Indian freelancers.
 
 ## Frequently asked questions
 Why is my Indian customer deducting tax from my invoice?
@@ -2524,6 +2533,8 @@ USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 5+ yearsacross audit, tax, FEMA and startup finance
 ₹5,000 Cr+PSU bank audit portfolio handled early in career
 
+Related: selling on Amazon US from India · Delaware good standing.
+
 ## Frequently asked questions
 Can an Indian resident register a company in the USA?
 Yes. Non-US residents can form a US corporation or LLC in any state. If you live in India, investing in that company is an overseas investment under FEMA and must be made and reported through your Indian bank under the Overseas Investment Rules, 2022.
@@ -2826,6 +2837,7 @@ Tax computation, certificates and filings, with your approval before anything is
 ### Done remotely
 No trip to India needed. Calls in your time zone — we have an office in Dubai.
 
+Related: gifts to and from NRIs · Indian tax notices · lower TDS certificate (Form 128).
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -3111,6 +3123,7 @@ USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 
 Foreign company with an Indian subsidiary or Indian customers? See Indian subsidiary compliance and India tax for foreign companies.
 Virtual CFO by city: Mumbai · Bengaluru · Gurgaon & Delhi NCR · Hyderabad · Ahmedabad · Rajkot.
+Related: white-label accounting for CPA firms.
 
 ## Frequently asked questions
 What does a Virtual CFO do?
@@ -3345,6 +3358,8 @@ As Finance Head / Virtual CFO at Stimuler, Durgesh led and closed a USD 3.75M Pr
 USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 5+ yearsacross audit, tax, FEMA and startup finance
 ₹5,000 Cr+PSU bank audit portfolio handled early in career
+
+Related: virtual CFO in Bengaluru · virtual CFO in Mumbai · finding angel investors.
 
 ## Frequently asked questions
 When should a startup start preparing for fundraising?
@@ -3887,6 +3902,7 @@ Need a review of your current set-up? See India tax for foreign companies, or se
 
 - HSF Kramer — India's Labour Codes implemented
 - Treelife — permanent establishment risk in India
+Related: paying Indian freelancers.
 
 ## Frequently asked questions
 Can a US company hire an employee in India without an entity?
@@ -4276,6 +4292,7 @@ Quick answers: India for NRIs and foreigners — questions answered.
 
 ## Recent ruling
 In October 2026 the Income Tax Appellate Tribunal, Pune reportedly allowed a Singapore-based NRI’s refund claim under the India–Singapore treaty on mutual-fund gains, holding that missing the return deadline did not take away treaty relief (Business Today, 22 Oct 2026). Rulings turn on their facts — if you overpaid tax as an NRI, it is worth reviewing whether a refund is still available.
+Related: gifts and income tax · who can buy property in India · help with an Indian tax notice · moving back to India.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
@@ -4635,6 +4652,7 @@ Returning from abroad? See moving back to India: tax and the residential status 
 - Income-tax e-filing portal — FAST-DS user manual
 - All India Radio — CBDT's FAST-DS 2026 comes into force
 - TaxGuru — FAST-DS 2026 Form 1 filing guide
+Related: if a notice has already arrived.
 
 ## Frequently asked questions
 What is FAST-DS 2026?
@@ -4854,6 +4872,7 @@ Indirect exposure — India ETFs and ADRs listed abroad — needs no Indian regi
 - India Briefing — FEMA non-debt amendment for foreign individuals (2026)
 - Taxscan — FEMA NDI rules opened to all individuals resident outside India
 - SEBI — SWAGAT-FI circular (Jan 2026)
+Related: the reverse: Indians investing in US stocks · tax on IPO gains.
 
 ## Frequently asked questions
 Can a foreigner invest in the Indian stock market?
@@ -4932,6 +4951,7 @@ Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% abov
 
 - Kotak Neo — Jio Platforms IPO expected price band
 - Zerodha support — NRI IPO applications
+Related: moving back to India.
 
 ## Frequently asked questions
 Can NRIs apply for the Jio Platforms IPO?
