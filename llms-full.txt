@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-22. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-23. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -118,15 +118,17 @@ Updated regularly
 
 Every change in 2026 that a foreign company or investor dealing with India should know — newest first, with the date, a one-line summary, our guide and the source. Updated as rules change.
 
-By CA Durgesh Chavda·Last reviewed 22 October 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 23 October 2026·5 min read
 
 Ask about a rule change
 hello@durgeshchavda.com
 
-Last updated: 22 October 2026. India’s first-quarter FDI equity inflows for 2026-27 were reported at about US$19.8 billion, with Singapore the largest source.
+Last updated: 23 October 2026. India’s first-quarter FDI equity inflows for 2026-27 were reported at about US$19.8 billion, with Singapore the largest source.
 
 ## Updates, newest first
 Date | Area | What changed | 
+21 Oct 2026 | RBI | MPC minutes published: repo rate raised 25 bps to 5.50% on 7 October, stance “calibrated tightening”; next meeting 2–4 December. Our guide · source | 
+10 Oct 2026 | FEMA | RBI tightens rupee derivatives rules (A.P. DIR 25 and 26): lower no-exposure limit and a 20% foreign-exchange risk reserve. Our guide · source | 
 20 Oct 2026 | Trade | India–New Zealand FTA in force; next tariff cuts 1 January 2027. Our guide · source | 
 14 Oct 2026 | Markets | Jio Platforms files its IPO prospectus (RHP); bidding 21–23 October. Our guide · source | 
 Oct 2026 | Trade | India–US: first tranche of a trade agreement reported finalised; not yet signed. Our guide · source | 
@@ -4192,6 +4194,9 @@ NRIs can invest in Indian startups (with FEMA reporting), SEBI AIFs and GIFT Cit
 Want it handled? See NRI taxation services.
 Quick answers: India for NRIs and foreigners — questions answered.
 
+## Recent ruling
+In October 2026 the Income Tax Appellate Tribunal, Pune reportedly allowed a Singapore-based NRI’s refund claim under the India–Singapore treaty on mutual-fund gains, holding that missing the return deadline did not take away treaty relief (Business Today, 22 Oct 2026). Rulings turn on their facts — if you overpaid tax as an NRI, it is worth reviewing whether a refund is still available.
+
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
 Yes, on income that arises or is received in India — such as rent, NRO interest, dividends and capital gains on Indian assets. Income earned and received outside India is not taxed in India for a non-resident.
@@ -4495,7 +4500,7 @@ Deadline 31 December 2026
 
 Foreign bank accounts, RSUs and ESOPs from a US or UK employer, a dormant account from student days — India’s tax department now sees them through global data exchange. FAST-DS is a one-time window to put them right at a known cost.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 23 October 2026·5 min read
 
 Get your disclosure reviewed
 hello@durgeshchavda.com
@@ -4504,6 +4509,8 @@ Key takeaways
 - FAST-DS 2026 closes on 31 December 2026; declarations are filed in Form 1 on the e-filing portal.
 - Undisclosed foreign assets up to ₹1 crore: 60% in all. Already-taxed income missed in Schedule FA (up to ₹5 crore): ₹1 lakh.
 - It covers people who were resident when the asset was acquired — including today's NRIs.
+
+Update, 23 October 2026: the income-tax department’s official FAQs confirm 31 December 2026 as the last date — no declaration will be accepted after it. Read the FAQs.
 
 ## What FAST-DS is
 
@@ -4795,10 +4802,16 @@ NRI investing
 
 Jio Platforms’ IPO — reported to open on 21 October 2026 — has NRIs everywhere asking how to apply. Here’s the route, the account choice and the tax.
 
-By CA Durgesh Chavda·Last reviewed 22 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 23 October 2026·6 min read
 
 Plan your IPO investment
 hello@durgeshchavda.com
+
+Quick answers
+- Can NRIs apply for IPOs in India? Yes — through ASBA from an NRE or NRO account, holding the shares in an NRI demat account.
+- NRE keeps proceeds fully repatriable; NRO is limited to USD 1 million a year.
+- Always check the issue’s red herring prospectus for NRI eligibility and category.
+- Tax: 20% if sold within 12 months; 12.5% above ₹1.25 lakh after — details.
 
 Key takeaways
 - NRIs can apply in Indian IPOs via ASBA from an NRE or NRO account with an NRI demat account.
@@ -4841,6 +4854,9 @@ Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% abov
 - Zerodha support — NRI IPO applications
 
 ## Frequently asked questions
+Can NRIs apply for the Jio Platforms IPO?
+NRIs can generally apply in Indian IPOs through ASBA from an NRE or NRO account; whether and in which category NRIs could bid in a specific issue is set out in its red herring prospectus.
+
 Can NRIs apply for IPOs in India?
 Yes. NRIs apply through ASBA from an NRE or NRO bank account and hold allotted shares in an NRI demat account; check the offer document for NRI eligibility in each issue.
 
