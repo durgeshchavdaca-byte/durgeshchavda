@@ -74,6 +74,84 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/tax-compliance-calendar-november-december-2026/
+------------------------------------------------------------------------
+Compliance calendar
+
+# Tax & compliance calendar: November–December 2026
+
+The busiest stretch of the Indian compliance year: transfer-pricing reports, two ITR deadlines, annual company filings, the December advance-tax instalment and three 31 December deadlines. Every date, in order.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your filings done
+hello@durgeshchavda.com
+
+Key takeaways
+- Form 3CEB is due 31 Oct; ITR for audit cases 21 Nov; transfer-pricing cases 30 Nov.
+- Advance tax third instalment: 15 Dec (75%).
+- 31 Dec: belated ITR, GSTR-9/9C and the FAST-DS foreign-asset window.
+
+Date | What’s due | Who | 
+29–30 Oct | AOC-4 (financial statements) — 30 days from an AGM held on 30 September; no extension announced | Companies | 
+30 Oct | LLP Form 8 (statement of account and solvency) | LLPs | 
+31 Oct | Form 3CEB transfer-pricing report — not covered by the CBDT extension | Companies with international transactions | 
+31 Oct | TDS and TCS returns for July–September | Deductors and collectors | 
+7 Nov | TDS / TCS deposit for October | Deductors | 
+11 Nov | GSTR-1 for October | Monthly GST filers | 
+15 Nov | PF / ESI for October; TDS certificates for July–September | Employers; deductors | 
+20 Nov | GSTR-3B for October | Monthly GST filers | 
+21 Nov | Income-tax return for audit cases (CBDT Circular 7/2026) | Companies, audited businesses, partners of audited firms | 
+29 Nov | MGT-7 annual return — 60 days from a 30 September AGM | Companies | 
+30 Nov | Income-tax return for transfer-pricing cases | Companies with Form 3CEB | 
+30 Nov | Liaison office annual statement — Form 162 (formerly 49C) for the year to 31 March 2026 under the earlier rules | Foreign companies with an Indian liaison office | 
+2–4 Dec | RBI Monetary Policy Committee meeting | Borrowers, NRIs, investors | 
+7 Dec | TDS / TCS deposit for November | Deductors | 
+11 Dec | GSTR-1 for November | Monthly GST filers | 
+15 Dec | Advance tax — third instalment (75% cumulative) | Companies, businesses, individuals with tax over ₹10,000 | 
+20 Dec | GSTR-3B for November | Monthly GST filers | 
+31 Dec | Belated income-tax return for 2025-26 | Anyone who missed the due date | 
+31 Dec | GSTR-9 / GSTR-9C annual returns for 2025-26 | GST taxpayers (GSTR-9 optional up to ₹2 crore; 9C above ₹5 crore) | 
+31 Dec | FAST-DS 2026 — last date to declare foreign assets; no extension per the official FAQ | Residents and former residents with undisclosed foreign assets | 
+
+## Watch-outs
+
+- Transfer-pricing cases were not extended: Form 3CEB is due 31 October and the ITR 30 November. See Form 3CEB due date.
+
+- No MCA extension yet for AOC-4 and MGT-7, despite an industry request — late fees run per day.
+
+- FAST-DS closes on 31 December — see the FAST-DS guide.
+
+- GST: the 57th Council’s reforms still need notifications or law changes — status.
+
+Earlier dates: October–November 2026 calendar · ITR details: ITR due dates 2026.
+
+## Sources
+
+- CBDT Circular 7/2026 (income-tax department)
+- FAST-DS FAQs (income-tax department)
+- Taxscan — GSTR-9/9C enabled for FY 2025-26
+- TaxGuru — ICSI seeks MCA filing extension
+
+## Frequently asked questions
+What is the ITR due date for audit cases in 2026?
+21 November 2026 for companies, audited businesses and partners of audited firms, under CBDT Circular 7/2026. Transfer-pricing cases were not covered and remain due on 30 November 2026.
+
+When is the third advance tax instalment due?
+15 December 2026 — 75% of the year's estimated tax, cumulatively.
+
+What is the last date for GSTR-9 and GSTR-9C for FY 2025-26?
+31 December 2026. GSTR-9 is optional for turnover up to ₹2 crore; GSTR-9C applies above ₹5 crore.
+
+Has the AOC-4 / MGT-7 due date been extended for 2026?
+No extension had been announced by late October 2026, though an industry body requested one; companies with a 30 September AGM should file AOC-4 by 29–30 October and MGT-7 by 29 November.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/india-business-glossary-foreign-companies/
 ------------------------------------------------------------------------
 Glossary
