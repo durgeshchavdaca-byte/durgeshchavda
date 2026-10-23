@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/red-flags-indian-company-financial-statements/
+------------------------------------------------------------------------
+Financial due diligence
+
+# Red flags in an Indian company’s financial statements
+
+Before you invest in, acquire or sign up an Indian partner, read its accounts the way an Indian auditor would. Most warning signs are disclosed — in the auditor’s report, the notes and public records — if you know where to look.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Get the accounts reviewed
+hello@durgeshchavda.com
+
+Key takeaways
+- Start with the auditor's report and its CARO annexure — adverse answers point to what to investigate.
+- Related parties, ageing schedules, MSME dues and contingent liabilities are the notes that matter most.
+- Cross-check with MCA charges, EPFO payment history, court records and GST returns.
+
+## Getting the accounts
+
+Every Indian company files its audited financial statements with the Ministry of Corporate Affairs (Form AOC-4). Anyone can buy copies of a company’s filed documents on the MCA portal for a small fee — no permission needed. Ask the company for the latest three years in full (including notes and the auditor’s report), and compare them with what was filed. See how to verify an Indian company.
+
+## 13 red flags and where to find them
+
+Red flag | Where to look | What it can mean | What to ask for | 
+Qualified, adverse or disclaimer opinion; going-concern paragraph | Auditor’s report | The auditor could not agree with, or could not verify, part of the accounts | The basis for the modification and whether it has been fixed | 
+Stock statements to banks don’t match the books | CARO 2020, clause 3(ii)(b) | Inventory or receivables overstated to one side — the bank or the accounts | The reconciliation sent to the bank | 
+Statutory dues unpaid over six months | CARO, clause 3(vii) | Cash strain; interest and penalties building up | Current status of GST, TDS, PF and ESI payments | 
+Income surrendered in a tax assessment but not in the books | CARO, clause 3(viii) | Unrecorded sales or cash dealings | The assessment order | 
+Loan defaults, short-term money used for long-term assets, wilful-defaulter tag | CARO, clause 3(ix) | Liquidity stress or diversion of funds | Bank sanction letters and repayment history | 
+Fraud reported or whistle-blower complaints | CARO, clause 3(xi) | Control failures | What happened and what changed | 
+Cash losses or auditor resignation | CARO, clauses 3(xvii)–(xviii) | Business or governance trouble | The outgoing auditor’s reasons | 
+Large sales, purchases or loans with promoter-linked firms | Related-party note | Profit can be shifted in or out of the company | Pricing basis and board/shareholder approvals | 
+Receivables over a year old or marked disputed | Receivables ageing schedule | Revenue that may never be collected | Customer-wise ageing and collections after year-end | 
+Overdue dues to micro and small suppliers | MSME note | Interest at three times the bank rate; tax disallowance of late payments | Supplier-wise list and payment dates | 
+Big tax demands or guarantees for group companies | Contingent liabilities | Liabilities that are not in the balance sheet yet | Orders, appeals and guarantee deeds | 
+Profit mostly from “other income” | Statement of profit and loss | The core business may be loss-making | Breakdown of other income | 
+Late or missing filings; frequent auditor changes | MCA records | Weak compliance culture | Reasons and any penalties paid | 
+
+## The auditor’s CARO report
+
+Under the Companies (Auditor’s Report) Order, 2020 (CARO), auditors of most companies must answer about 21 specific questions — on inventory, loans, statutory dues, defaults, fraud, related parties, cash losses and more. Read it line by line: an adverse answer is a direct pointer to what to investigate. CARO does not apply to one-person companies, small companies, and private companies below set limits (paid-up capital and reserves up to ₹1 crore, borrowings up to ₹1 crore and revenue up to ₹10 crore) — so for small targets, you need to do more of this work yourself.
+
+## The notes that matter most
+
+- Related parties: list every transaction with the promoter family’s other businesses. In Indian family groups this is normal — the question is whether pricing is fair and approvals were taken. See partnering with family businesses.
+
+- Ageing schedules: since April 2021, Schedule III requires ageing of receivables, payables and capital work-in-progress. Old balances are where problems hide.
+
+- MSME dues: companies must disclose overdue amounts owed to micro and small suppliers under the MSMED Act. Late payments attract interest at three times the RBI bank rate, and income-tax law disallows the expense if payment is late.
+
+- Contingent liabilities: tax and GST demands under appeal, bank guarantees and corporate guarantees given for group companies.
+
+## Cross-checks against public records
+
+- Charges on MCA: secured loans registered against the company’s assets should line up with borrowings in the balance sheet.
+
+- EPFO establishment search: provident-fund payment history gives a rough check on headcount and payroll.
+
+- Court records (eCourts): recovery suits, cheque-bounce cases and insolvency petitions.
+
+- GST returns: with the company’s consent, compare turnover in GST returns with revenue in the accounts.
+
+An illustrative report format: sample India due diligence report. The full list of checks: due diligence checklist.
+
+## How we help
+
+We read Indian accounts for foreign investors, acquirers and buyers — and report in plain English with the questions to put to the company. Financial due diligence in India · partner due diligence.
+
+## Sources
+
+- Companies (Auditor's Report) Order, 2020 — Ministry of Corporate Affairs
+- MSMED Act, 2006 — Ministry of MSME
+- EPFO — establishment search
+- eCourts services
+
+## Frequently asked questions
+What are the red flags in an Indian company's financial statements?
+Common ones are a qualified or adverse audit opinion, adverse answers in the auditor's CARO report (unpaid statutory dues, loan defaults, fraud, cash losses), large related-party transactions, old or disputed receivables, overdue MSME dues, big contingent liabilities and late MCA filings.
+
+Where can I get an Indian company's financial statements?
+Companies file audited financial statements with the Ministry of Corporate Affairs in Form AOC-4. Copies can be bought on the MCA portal for a small fee, without the company's permission.
+
+What is CARO 2020?
+The Companies (Auditor's Report) Order, 2020 requires auditors of most Indian companies to report on specific matters such as inventory, loans, statutory dues, defaults, fraud and related parties. It does not apply to one-person companies, small companies and private companies below set size limits.
+
+Why do MSME dues matter in due diligence?
+Overdue amounts to micro and small suppliers carry interest at three times the RBI bank rate under the MSMED Act, and late payments can be disallowed as an expense for income tax — both can hit profits and cash.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/tax-compliance-calendar-november-december-2026/
 ------------------------------------------------------------------------
 Compliance calendar
@@ -214,6 +309,7 @@ Oct 2026 | Trade | India–US: first tranche of a trade agreement reported final
 1 Oct 2026 | FEMA | RBI's amended FEMA export and import regulations take effect — check export-proceeds timelines with your bank. Our guide · source | 
 24 Sep 2026 | SEBI | SEBI board approves FPI participation in non-agricultural commodity derivatives. Our guide · source | 
 3 Sep 2026 | FDI | Press Note 3 (2026): FDI-funded e-commerce entities may hold inventory for exports of goods made in India. Our guide · source | 
+21 Aug 2026 | FDI | Commerce ministry: 29 investments worth about ₹4,895.65 crore made under the relaxed rule for investors with up to 10% land-border shareholding, up to 20 August. source | 
 15 Jul 2026 | Trade | India–UK CETA and Double Contributions Convention take effect. Our guide · source | 
 12 Jun 2026 | FEMA | Any individual resident outside India may buy listed Indian shares directly (below 10% per company). Our guide · source | 
 1 Jun 2026 | SEBI | SWAGAT-FI single-window framework for low-risk foreign portfolio investors applies. Our guide · source | 
@@ -1404,6 +1500,7 @@ We’re Chartered Accountants, so legal opinions, litigation in courts and immig
 
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 Related: contact & office addresses · 한국어 · Français.
+See also: Latin America.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Unfamiliar term? See the India business glossary for foreign companies.
 
@@ -1516,6 +1613,7 @@ A red-flag report with quantified exposures, and drafting points for the SPA and
 Due diligence by home country: US companies · UK companies · EU & German companies · UAE & Gulf investors · Australian & NZ companies · Japanese companies.
 People checks: background checks on Indian promoters & directors.
 See what you’ll receive: sample due diligence report · due diligence FAQ.
+See also: red flags in Indian company financials.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -3124,6 +3222,7 @@ USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 Foreign company with an Indian subsidiary or Indian customers? See Indian subsidiary compliance and India tax for foreign companies.
 Virtual CFO by city: Mumbai · Bengaluru · Gurgaon & Delhi NCR · Hyderabad · Ahmedabad · Rajkot.
 Related: white-label accounting for CPA firms.
+See also: Ahmedabad.
 
 ## Frequently asked questions
 What does a Virtual CFO do?
@@ -3548,6 +3647,7 @@ For larger contracts, distributorships, JVs or investments, a CA can read the fi
 - DGFT — Directorate General of Foreign Trade
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Want it done for you? India Company Check.
+See also: reading the accounts: red flags.
 
 ## Frequently asked questions
 How can I check if an Indian company is legit?
@@ -3647,6 +3747,7 @@ Want it run for you? Due diligence in India — financial, tax and FEMA, with SP
 - Treelife — FC-TRS filing
 - Income-tax e-filing portal
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
+See also: 13 financial red flags.
 
 ## Frequently asked questions
 What documents are needed for due diligence of an Indian company?
@@ -3726,6 +3827,7 @@ Most post-deal surprises in India are unreported FDI, GST mismatches and tax dem
 
 - Vinod Kothari — Press Note 3 relaxation (Mar 2026)
 - Treelife — FC-TRS filing
+See also: financial red flags.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
