@@ -74,6 +74,78 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/aeo-for-law-firms/
+------------------------------------------------------------------------
+AEO by industry
+
+# AEO for law firms — accurate, citable, within the rules
+
+Clients and in-house counsel now ask AI assistants “which firm handles cross-border M&A in India?” or “how does a foreign company set up a JV in India?” before they call anyone. We help your firm’s expertise show up accurately in those answers — through factual firm information and citable guides, not advertising.
+
+Book an AEO call
+hello@durgeshchavda.com
+
+## Why it matters
+
+- Legal research increasingly starts with an AI assistant — and assistants cite firms whose guides answer questions directly, with current law and dates.
+
+- Advertising and solicitation rules for lawyers are strict — in India under the Bar Council of India’s rules, and under professional conduct rules elsewhere. Factual firm information and educational content are where AEO works; we keep to your rules and your partners approve everything.
+
+- In our AI visibility index, Indian law firms scored 6.2 out of 10 on average for AI readiness — most lose points on structured data, crawler access or pages that don’t answer questions directly.
+
+## Questions your buyers are asking AI assistants
+
+We test questions like these across ChatGPT, Gemini, Claude, Perplexity and Copilot — and track who gets named:
+
+- “Which law firm in India handles inbound M&A for Japanese companies?”
+- “How does a foreign company set up a joint venture in India?”
+- “Who advises on FEMA compounding / FDI approvals?”
+- “What does India’s new [law] mean for foreign investors?”
+
+## What we do
+
+- Audit: what assistants say today, and why — see the AEO audit.
+
+- Entity & trust: one consistent description, structured data, profiles that agree with each other.
+
+- Answer-first pages for each service, market and buyer question — accurate, sourced and dated.
+
+- Access & speed: AI crawler access, llms.txt, Bing and Google webmaster setup, fast indexing.
+
+- Monthly testing of your buyers’ questions, with a short report.
+
+## Built for practice areas, not slogans
+
+- Practice-area pages that state plainly what the firm does, for whom and in which forums — the facts assistants need to describe you correctly.
+
+- Citable explainers on new laws and regulator updates, dated and sourced to the statute or circular.
+
+- People and entity data: consistent descriptions of partners, offices and practice areas across the site and profiles, with structured data.
+
+- Referral partners: we work alongside foreign investors on due diligence, JVs and India entry — we understand the questions your clients ask.
+
+Our own results: AEO case study · free AEO readiness checker.
+
+## Frequently asked questions
+Is AEO allowed for law firms in India?
+The Bar Council of India's rules restrict advertising and solicitation by advocates, but factual information about a firm and educational legal content are commonly published within those limits. Any AEO work should stay within the current rules, with partner approval of all content.
+
+How do AI assistants decide which law firms to mention?
+Search-connected assistants draw on pages that answer the question directly and on consistent information about the firm across its website and trusted profiles. Clear practice-area pages, dated legal explainers and structured data make a firm easier to cite accurately.
+
+Can you do AEO for foreign law firms advising on India?
+Yes. We work with firms outside India that advise clients on Indian transactions, subject to their own professional conduct rules on communications.
+
+On this page
+
+- Why it matters
+- Questions your buyers ask AI
+- What we do
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/due-diligence-india-singapore-companies/
 ------------------------------------------------------------------------
 Due diligence in India
@@ -1229,6 +1301,7 @@ No one can guarantee that an AI assistant will name you — answers are generate
 
 Check where you stand first: AEO readiness checker (free, two minutes).
 
+By industry: AEO for law firms.
 New research: AI Visibility Index 2026 — how 96 B2B websites score for AI readiness.
 
 ## Frequently asked questions
