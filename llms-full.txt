@@ -5170,7 +5170,7 @@ NRI investing
 
 # Can NRIs apply for IPOs in India? Yes — here’s how
 
-Jio Platforms’ IPO — reported to open on 21 October 2026 — has NRIs everywhere asking how to apply. Here’s the route, the account choice and the tax.
+Jio Platforms’ IPO closed for bidding on 23 October 2026, with allotment due on 26 October and listing on 28 October. Here’s how NRIs apply in Indian IPOs, what happens after bidding closes, and the tax.
 
 By CA Durgesh Chavda·Last reviewed 23 October 2026·6 min read
 
@@ -5186,7 +5186,7 @@ Quick answers
 Key takeaways
 - NRIs can apply in Indian IPOs via ASBA from an NRE or NRO account with an NRI demat account.
 - NRE keeps proceeds fully repatriable; NRO is limited to USD 1 million a year.
-- Jio Platforms' IPO is reported for 21–23 October 2026; confirm dates, price and NRI eligibility in the RHP.
+- Jio Platforms' IPO closed on 23 October 2026; allotment is due on 26 October and listing on 28 October (tentative).
 
 ## How NRIs apply
 
@@ -5224,7 +5224,26 @@ Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% abov
 - Zerodha support — NRI IPO applications
 Related: moving back to India.
 
+## After bidding closes: allotment, refunds and listing
+
+Step | Jio Platforms timetable (as reported) | What NRIs should do | 
+
+Allotment | 26 October 2026 | Check status on the registrar’s site or the exchange website with your PAN or application number. | 
+
+Funds unblocked / shares credited | 27 October 2026 | Confirm the ASBA block on your NRE or NRO account is released for any shares not allotted, and that allotted shares reach your NRI demat account. | 
+
+Listing | 28 October 2026 (tentative) | Decide whether to hold or sell. Selling within 12 months is short-term — tax at 20%, deducted by the broker for NRIs. | 
+
+- Oversubscribed issues allot retail shares by lottery, so many applicants receive none — the blocked money is simply released.
+
+- Proceeds go back to the account you applied from: NRE (fully repatriable) or NRO (repatriation within the USD 1 million a year limit, with Forms 145/146 where needed).
+
+- File an Indian return if TDS was deducted on your gains and you want any excess back, or if the treaty with your country of residence gives a lower rate — see tax on IPO gains.
+
 ## Frequently asked questions
+When is the Jio Platforms IPO allotment and listing?
+As reported from the issue timetable: allotment on 26 October 2026, unblocking of funds and credit of shares on 27 October, and listing on BSE and NSE on 28 October 2026 (tentative). Check status on the registrar's or exchange's website.
+
 Can NRIs apply for the Jio Platforms IPO?
 NRIs can generally apply in Indian IPOs through ASBA from an NRE or NRO account; whether and in which category NRIs could bid in a specific issue is set out in its red herring prospectus.
 
