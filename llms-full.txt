@@ -74,6 +74,89 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/check-indian-company-credit-rating/
+------------------------------------------------------------------------
+Counterparty checks
+
+# How to check an Indian company’s credit rating and default history
+
+Before you extend credit terms, pay an advance or sign a long supply contract, check how the Indian company deals with its lenders. Much of this is public — the rest needs the company’s consent, which is itself a useful test.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get a counterparty check
+hello@durgeshchavda.com
+
+Key takeaways
+- Rating agencies publish free rationales — read the outlook and watch for 'issuer not cooperating'.
+- Credit-bureau reports need the company's consent; asking for one is a useful test.
+- Check defaulter lists, MCA charges and IBBI/NCLT records for the company and its directors.
+
+## Seven places to look
+
+Check | Where | Access | What it tells you | 
+Credit rating and rationale | Websites of SEBI-registered rating agencies (CRISIL, ICRA, CARE, India Ratings, Acuité, Infomerics) | Public | Rating, outlook, bank facilities rated, key strengths and weaknesses, recent financials | 
+“Issuer not cooperating” flag | Same rating rationales | Public | The company stopped sharing information with the agency — a warning sign in itself | 
+Company credit report | Credit bureaus (TransUnion CIBIL, Experian, Equifax, CRIF High Mark) | Company’s consent needed | Borrowings, repayment history, overdues, credit enquiries | 
+Suit-filed and wilful-defaulter accounts | Credit-bureau public search (e.g. CIBIL suit-filed accounts) | Public | Banks’ recovery suits against the company or its directors | 
+Charges on assets | MCA company master data | Public | Which lenders hold security, and for how much | 
+Insolvency proceedings | IBBI public announcements; NCLT cause lists | Public | Whether insolvency has been started against the company or its group | 
+GST filing record | GST portal taxpayer search (GSTIN) | Public | Registration status and whether returns are being filed on time | 
+
+## Credit ratings: read the rationale, not just the grade
+
+Most mid-sized Indian companies with bank loans have their loan facilities rated, because banks price loans on the rating. The agencies publish a rationale for each rating on their websites, free. It usually summarises the business, the promoters, recent financials, debt levels and liquidity — often the best free analysis you will find on a private company.
+
+- Watch the direction: a downgrade, a negative outlook or a “rating watch” matters more than the grade itself.
+
+- “Issuer not cooperating”: when a company stops paying for or sharing information with its rating agency, the rating is marked this way. Treat it as a red flag and ask why.
+
+- Several agencies: a company that has moved between agencies may have been shopping for a better rating.
+
+## Credit bureau reports need consent
+
+India’s credit bureaus hold the repayment history of companies that borrow from banks and NBFCs. A third party cannot pull a company’s report without its consent — but you can ask the company to obtain its own report and share it. A partner who refuses a reasonable request for its credit report is telling you something.
+
+## Defaulter lists, charges and insolvency
+
+- Suit-filed and wilful-defaulter searches on credit-bureau websites list accounts that lenders have taken to court or declared wilful defaulters — search for the company and its directors.
+
+- Charges on MCA show which lenders hold security over the company’s assets. Compare them with the borrowings in the accounts.
+
+- IBBI and NCLT records show whether insolvency has been started against the company or a group company.
+
+Put these together with the accounts: red flags in Indian company financials. A free first check on a named company: India company check.
+
+## How we help
+
+We run these checks for foreign buyers, suppliers and investors, read the results alongside the accounts and court records, and send a plain-English summary with the questions to ask. See supplier verification and partner due diligence.
+
+## Sources
+
+- SEBI — registered credit rating agencies
+- TransUnion CIBIL — suit-filed accounts
+- Insolvency and Bankruptcy Board of India — public announcements
+- GST portal — search taxpayer
+
+## Frequently asked questions
+How can I check the credit rating of an Indian company?
+Search the company on the websites of SEBI-registered credit rating agencies such as CRISIL, ICRA, CARE, India Ratings, Acuité and Infomerics. They publish the rating and a rationale summarising the business, financials and debt — free.
+
+What does 'issuer not cooperating' mean in an Indian credit rating?
+The company has stopped sharing information with, or paying, its rating agency, so the agency rates it on limited information. It is a warning sign worth raising with the company.
+
+Can I get an Indian company's CIBIL report?
+Not without its consent. Credit bureaus share a company's credit report with the company itself and with lenders it applies to; you can ask the company to obtain and share its own report.
+
+How do I check whether an Indian company is a wilful defaulter or in insolvency?
+Use the credit bureaus' public suit-filed and wilful-defaulter searches, and check IBBI public announcements and NCLT records for insolvency proceedings against the company or its group.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/red-flags-indian-company-financial-statements/
 ------------------------------------------------------------------------
 Financial due diligence
@@ -149,6 +232,7 @@ We read Indian accounts for foreign investors, acquirers and buyers — and repo
 - MSMED Act, 2006 — Ministry of MSME
 - EPFO — establishment search
 - eCourts services
+See also: credit rating and default checks.
 
 ## Frequently asked questions
 What are the red flags in an Indian company's financial statements?
@@ -378,6 +462,7 @@ From Ahmedabad, Mumbai, Bengaluru or Rajkot (other locations by arrangement): pr
 For JVs, investments, large contracts or anti-bribery files, step up to partner due diligence or financial due diligence. See what a full report looks like: sample report.
 
 Before you pay: how to pay an Indian supplier safely.
+See also: credit rating and default checks.
 
 ## Frequently asked questions
 What is an India Company Check?
@@ -1687,6 +1772,7 @@ See what you’ll receive: sample due diligence report · due diligence FAQ.
 Quick start: India Company Check — fixed-scope verification of one company.
 Before you pay: how to pay an Indian supplier safely.
 Related: our Rajkot office (Saurashtra engineering cluster).
+See also: how to check a supplier’s credit.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
@@ -3648,6 +3734,7 @@ For larger contracts, distributorships, JVs or investments, a CA can read the fi
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Want it done for you? India Company Check.
 See also: reading the accounts: red flags.
+See also: checking credit ratings and defaults.
 
 ## Frequently asked questions
 How can I check if an Indian company is legit?
