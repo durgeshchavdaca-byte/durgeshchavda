@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-23. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-24. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -529,15 +529,16 @@ Updated regularly
 
 Every change in 2026 that a foreign company or investor dealing with India should know — newest first, with the date, a one-line summary, our guide and the source. Updated as rules change.
 
-By CA Durgesh Chavda·Last reviewed 23 October 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 24 October 2026·5 min read
 
 Ask about a rule change
 hello@durgeshchavda.com
 
-Last updated: 23 October 2026. India’s first-quarter FDI equity inflows for 2026-27 were reported at about US$19.8 billion, with Singapore the largest source.
+Last updated: 24 October 2026. India’s first-quarter FDI equity inflows for 2026-27 were reported at about US$19.8 billion, with Singapore the largest source.
 
 ## Updates, newest first
 Date | Area | What changed | 
+23 Oct 2026 | Markets | Jio Platforms’ ₹30,213 crore IPO (fresh issue) closes about 22.19x subscribed — institutions about 70.5x, retail about 2.7x. Allotment 26 Oct, listing 28 Oct (tentative). NRIs in IPOs · source | 
 21 Oct 2026 | RBI | MPC minutes published: repo rate raised 25 bps to 5.50% on 7 October, stance “calibrated tightening”; next meeting 2–4 December. Our guide · source | 
 10 Oct 2026 | FEMA | RBI tightens rupee derivatives rules (A.P. DIR 25 and 26): lower no-exposure limit and a 20% foreign-exchange risk reserve. Our guide · source | 
 20 Oct 2026 | Trade | India–New Zealand FTA in force; next tariff cuts 1 January 2027. Our guide · source | 
@@ -5245,7 +5246,7 @@ NRI investing
 
 Jio Platforms’ IPO closed for bidding on 23 October 2026, with allotment due on 26 October and listing on 28 October. Here’s how NRIs apply in Indian IPOs, what happens after bidding closes, and the tax.
 
-By CA Durgesh Chavda·Last reviewed 23 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 24 October 2026·6 min read
 
 Plan your IPO investment
 hello@durgeshchavda.com
@@ -5296,6 +5297,7 @@ Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% abov
 - Kotak Neo — Jio Platforms IPO expected price band
 - Zerodha support — NRI IPO applications
 Related: moving back to India.
+Jio Platforms IPO closed 23 October 2026: subscribed about 22.19 times overall, per NSE data at 7 pm — qualified institutions about 70.5x, non-institutional investors about 14x and retail about 2.7x (Upstox). With retail oversubscribed, retail allotment is by lottery — many applicants will get no shares and their blocked money is released.
 
 ## After bidding closes: allotment, refunds and listing
 
@@ -5314,6 +5316,9 @@ Listing | 28 October 2026 (tentative) | Decide whether to hold or sell. Selling 
 - File an Indian return if TDS was deducted on your gains and you want any excess back, or if the treaty with your country of residence gives a lower rate — see tax on IPO gains.
 
 ## Frequently asked questions
+How many times was the Jio Platforms IPO subscribed?
+About 22.19 times overall when bidding closed on 23 October 2026, per NSE data at 7 pm — around 70.5 times in the qualified institutional portion, 14 times for non-institutional investors and 2.7 times for retail.
+
 When is the Jio Platforms IPO allotment and listing?
 As reported from the issue timetable: allotment on 26 October 2026, unblocking of funds and credit of shares on 27 October, and listing on BSE and NSE on 28 October 2026 (tentative). Check status on the registrar's or exchange's website.
 
