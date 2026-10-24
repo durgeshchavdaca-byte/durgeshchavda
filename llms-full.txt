@@ -104,8 +104,8 @@ Key takeaways
 
 Topic | NDI Rules 2019 (in force) | Draft FI Rules 2026 | 
 Who can receive foreign investment | Separate categories (Indian company, LLP, investment vehicles…) | One term — “eligible investee entity” — covering companies, LLPs, SEBI-registered investment vehicles, and registered partnership firms and proprietary concerns | 
-What counts as equity | Listed instruments (shares, fully and mandatorily convertible instruments) | Instruments classified as equity under accounting standards; mandatorily convertible instruments with a fixed conversion ratio and price qualify | 
-FDI vs portfolio investment | Depends partly on whether the company is listed | 10% or more = FDI; below 10% = portfolio investment — listed or unlisted | 
+What counts as equity | Equity shares, and fully, compulsorily and mandatorily convertible debentures and preference shares, and share warrants | Instruments classified as equity under accounting standards; mandatorily convertible instruments with a fixed conversion ratio and price qualify | 
+FDI vs portfolio investment | Any investment in an unlisted company is FDI; in a listed company, 10% or more | 10% or more = FDI; below 10% = portfolio investment — listed or unlisted | 
 Foreign-controlled companies | “Foreign owned and/or controlled company” (FOCC) tests | “Foreign controlled entity” — ownership and control follow the sectoral regulator’s rules or the entity’s governing law | 
 Pricing | Different rules for issues and transfers; some transfers exempt | One arm’s-length standard for issues and transfers (certified by a Chartered Accountant, SEBI-registered merchant banker or cost accountant); SEBI rules for listed companies; rights issues exempt | 
 Who is responsible | Mainly the Indian investee company | Also the foreign investor — and, on transfers, both transferor and transferee | 
