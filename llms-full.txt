@@ -74,6 +74,96 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/draft-fema-foreign-investment-rules-2026/
+------------------------------------------------------------------------
+FEMA update
+
+# Draft FEMA (Foreign Investment) Rules 2026 — what changes for foreign investors
+
+On 21 July 2026 the Reserve Bank of India published a full draft to replace the rules that govern foreign investment in Indian companies and LLPs. Consultation closed on 31 August. Here is what would change — and why today’s deals still run on the 2019 rules.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Talk to us about your India investment
+hello@durgeshchavda.com
+
+Key takeaways
+- Draft released 21 July 2026; comments closed 31 August; not yet notified as of 24 October.
+- Would replace the NDI Rules 2019 — which still apply to every deal today.
+- Key changes: 10% FDI line for listed and unlisted, 'foreign controlled entity', one pricing standard, investor-side compliance, easier gifts and pledges.
+
+## Status at 24 October 2026
+
+- Draft only. The Foreign Exchange Management (Foreign Investment) Rules, 2026 were released for comments on 21 July 2026 (RBI press release 2026-2027/726), with a deadline of 31 August 2026.
+
+- When notified in the Gazette by the Ministry of Finance, they would replace the FEM (Non-debt Instruments) Rules, 2019. We have not seen a final notification as of 24 October 2026.
+
+- Until then, the NDI Rules 2019 apply — including today’s pricing, reporting and deferred-consideration rules. Structure current deals on the existing rules, and build in flexibility for the change.
+
+## Key proposed changes
+
+Topic | NDI Rules 2019 (in force) | Draft FI Rules 2026 | 
+Who can receive foreign investment | Separate categories (Indian company, LLP, investment vehicles…) | One term — “eligible investee entity” — covering companies, LLPs, SEBI-registered investment vehicles, and registered partnership firms and proprietary concerns | 
+What counts as equity | Listed instruments (shares, fully and mandatorily convertible instruments) | Instruments classified as equity under accounting standards; mandatorily convertible instruments with a fixed conversion ratio and price qualify | 
+FDI vs portfolio investment | Depends partly on whether the company is listed | 10% or more = FDI; below 10% = portfolio investment — listed or unlisted | 
+Foreign-controlled companies | “Foreign owned and/or controlled company” (FOCC) tests | “Foreign controlled entity” — ownership and control follow the sectoral regulator’s rules or the entity’s governing law | 
+Pricing | Different rules for issues and transfers; some transfers exempt | One arm’s-length standard for issues and transfers (certified by a Chartered Accountant, SEBI-registered merchant banker or cost accountant); SEBI rules for listed companies; rights issues exempt | 
+Who is responsible | Mainly the Indian investee company | Also the foreign investor — and, on transfers, both transferor and transferee | 
+Gifts of shares | 5% cap, USD 50,000 a year, prior RBI approval | Caps and approval removed; gifts between individuals must be to close relatives; repatriation-basis gifts within LRS limits | 
+Pledge of shares | Limited by who can pledge, to whom and why | Non-residents and foreign-controlled entities can pledge equity without those limits | 
+Listing abroad | Separate framework | Direct listing on international exchanges codified in the Rules (Annexure I) | 
+
+The FDI policy itself would sit in an annexure, with DPIIT interpreting it and RBI administering the rules and issuing operational directions.
+
+## What the draft leaves open
+
+Commentators have flagged points the draft does not address, including:
+
+- Deal mechanics: deferred consideration, escrow and indemnity holdbacks.
+
+- Convertible notes for startups and how convertible instruments are valued.
+
+- Anti-dilution and assured-return features common in PE and VC deals, under a fair-value pricing standard.
+
+- Immovable property acquisition by non-residents, which the NDI Rules cover.
+
+## What it means for foreign investors now
+
+- In due diligence, keep checking past compliance against the NDI Rules — FC-GPR and FC-TRS filings, pricing certificates and sectoral caps. Gaps found now are cleaned up under today’s rules. See FC-GPR and FC-TRS.
+
+- In documents, add a change-in-law clause for deals that will close or have later tranches after the new rules are notified — especially if they use deferred consideration, escrows or convertible instruments.
+
+- Investors under 10% in unlisted companies would be treated as portfolio investors under the draft — check what that means for your reporting.
+
+- Responsibility shifts to investors too — keep your own record of each investment’s compliance.
+
+All 2026 changes in one place: India FDI & FEMA updates 2026. Help with filings: FEMA & RBI compliance.
+
+## Sources
+
+- Cyril Amarchand Mangaldas blog — Draft FI Rules 2026: hits and misses
+- CorpLawUpdates — RBI releases draft FEMA (Foreign Investment) Rules, 2026
+- Reserve Bank of India — press releases
+
+## Frequently asked questions
+What are the draft FEMA (Foreign Investment) Rules 2026?
+A draft released by the RBI on 21 July 2026 for public comment (to 31 August 2026) that would replace the FEM (Non-debt Instruments) Rules, 2019 governing foreign investment in Indian companies, LLPs and investment vehicles.
+
+Are the FEMA Foreign Investment Rules 2026 in force?
+Not as of 24 October 2026 — they are a draft. The NDI Rules 2019 continue to apply until the new rules are notified in the Gazette.
+
+How would the draft rules define FDI?
+Foreign investment of 10% or more in the equity of a company or LLP would be FDI, and below 10% portfolio investment — whether the company is listed or unlisted.
+
+Do the draft rules change gifts of Indian shares to non-residents?
+Yes. The draft drops the 5% cap, the USD 50,000 annual limit and prior RBI approval; gifts between individuals would be limited to close relatives, and repatriation-basis gifts to LRS limits.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/aeo-for-law-firms/
 ------------------------------------------------------------------------
 AEO by industry
@@ -548,6 +638,7 @@ Oct 2026 | Trade | India–US: first tranche of a trade agreement reported final
 24 Sep 2026 | SEBI | SEBI board approves FPI participation in non-agricultural commodity derivatives. Our guide · source | 
 3 Sep 2026 | FDI | Press Note 3 (2026): FDI-funded e-commerce entities may hold inventory for exports of goods made in India. Our guide · source | 
 21 Aug 2026 | FDI | Commerce ministry: 29 investments worth about ₹4,895.65 crore made under the relaxed rule for investors with up to 10% land-border shareholding, up to 20 August. source | 
+21 Jul 2026 | FEMA | RBI releases the draft FEMA (Foreign Investment) Rules, 2026 to replace the NDI Rules 2019 (press release 2026-2027/726); comments closed 31 August; not yet notified. Our guide | 
 15 Jul 2026 | Trade | India–UK CETA and Double Contributions Convention take effect. Our guide · source | 
 12 Jun 2026 | FEMA | Any individual resident outside India may buy listed Indian shares directly (below 10% per company). Our guide · source | 
 1 Jun 2026 | SEBI | SWAGAT-FI single-window framework for low-risk foreign portfolio investors applies. Our guide · source | 
@@ -1855,6 +1946,7 @@ Due diligence by home country: US companies · UK companies · EU & German compa
 People checks: background checks on Indian promoters & directors.
 See what you’ll receive: sample due diligence report · due diligence FAQ.
 See also: red flags in Indian company financials.
+Coming change: draft FEMA Foreign Investment Rules 2026.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -3540,6 +3632,7 @@ FEMA reporting sits at the intersection of your AD bank, the RBI’s FIRMS porta
 
 Durgesh has handled FC-GPR reporting and ODI filings for venture-backed companies, including around a USD 3.75M Pre-Series A, and advises on cross-border structures through US Delaware, Singapore, DIFC and Mauritius holding companies.
 Foreign company with an Indian subsidiary or Indian customers? See Indian subsidiary compliance and India tax for foreign companies.
+Coming change: draft FEMA Foreign Investment Rules 2026.
 
 ## Frequently asked questions
 What is the deadline for filing FC-GPR?
@@ -3797,6 +3890,7 @@ Quick answers: India for NRIs and foreigners — questions answered.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Latest changes: India FDI & foreign investment updates 2026.
 Unfamiliar term? See the India business glossary for foreign companies.
+Coming change: draft FEMA Foreign Investment Rules.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
@@ -4071,6 +4165,7 @@ Most post-deal surprises in India are unreported FDI, GST mismatches and tax dem
 - Vinod Kothari — Press Note 3 relaxation (Mar 2026)
 - Treelife — FC-TRS filing
 See also: financial red flags.
+Coming change: draft Foreign Investment Rules 2026.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
