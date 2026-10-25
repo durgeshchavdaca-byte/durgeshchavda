@@ -711,6 +711,7 @@ Date | Area | What changed |
 21 Oct 2026 | RBI | MPC minutes published: repo rate raised 25 bps to 5.50% on 7 October, stance “calibrated tightening”; next meeting 2–4 December. Our guide · source | 
 20 Oct 2026 | Trade | India–New Zealand FTA in force; next tariff cuts 1 January 2027. Our guide · source | 
 14 Oct 2026 | Markets | Jio Platforms files its IPO prospectus (RHP); bidding 21–23 October. Our guide · source | 
+13 Oct 2026 | Trade | UK holds its first CETA Marketplace in Mumbai, with around 200 UK businesses. CETA guide · source | 
 10 Oct 2026 | FEMA | RBI tightens rupee derivatives rules (A.P. DIR 25 and 26): lower no-exposure limit and a 20% foreign-exchange risk reserve. Our guide · source | 
 Oct 2026 | Trade | India–US: first tranche of a trade agreement reported finalised; not yet signed. Our guide · source | 
 1 Oct 2026 | FEMA | RBI's amended FEMA export and import regulations take effect — check export-proceeds timelines with your bank. Our guide · source | 
@@ -1095,6 +1096,8 @@ Key takeaways
 - UK corporate-offence regimes make your procedures for checking third parties a legal defence.
 
 - One English-language report your legal, procurement and finance teams can all use.
+
+Met an Indian partner at the UK’s CETA Marketplace in Mumbai (13 October 2026) or on a trade mission? Start with an India Company Check (USD 249) before you sign.
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -5534,7 +5537,7 @@ Trade deal update
 
 The India–UK Comprehensive Economic and Trade Agreement took effect on 15 July 2026, alongside a social-security deal that matters to every company sending staff between the two countries.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 25 October 2026·5 min read
 
 Talk about India–UK business
 hello@durgeshchavda.com
@@ -5543,6 +5546,8 @@ Key takeaways
 - The India–UK CETA took effect on 15 July 2026.
 - The Double Contributions Convention spares posted employees double social-security contributions for up to 5 years.
 - Income tax still follows the India–UK tax treaty.
+
+Three months in (October 2026): on 13 October the UK held its first CETA Marketplace in Mumbai — one of its largest business delegations to India, with around 200 UK businesses across advanced manufacturing, clean tech, healthcare, fintech, education, consumer products and infrastructure (report). For UK firms, the next step after a marketplace meeting is checking the Indian partner — see due diligence for UK companies.
 
 ## What happened
 
