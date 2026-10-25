@@ -74,6 +74,84 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/set-up-manufacturing-plant-in-gujarat/
+------------------------------------------------------------------------
+Manufacturing in India
+
+# Setting up a manufacturing plant in Gujarat — a guide for foreign companies
+
+Gujarat is one of India’s most industrialised states, with ports, industrial estates and new clusters from semiconductors at Dholera to chemicals, engineering and building materials. Here is the order of work for a foreign manufacturer, from company set-up to the first production run.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your Gujarat plant with us
+hello@durgeshchavda.com
+
+Key takeaways
+- Order of work: subsidiary → site → single-window approvals and pollution consents → factory licence → GST and payroll → production.
+- Check land title and local contractors before paying advances.
+- We work from Ahmedabad and Rajkot, reporting to the parent in English.
+
+## The order of work
+
+Step | What’s involved | Notes | 
+1. Entity | Incorporate an Indian subsidiary (or JV company); file FC-GPR within 30 days of issuing shares | India entry | 
+2. Site | GIDC industrial estate, a private industrial park, or a special investment region such as Dholera; check title, land use, and access to power and water | Title and encumbrance checks | 
+3. Approvals | Apply through Gujarat’s Investor Facilitation Portal (single window); building plan approval; consent to establish from the Gujarat Pollution Control Board | Before construction | 
+4. Before production | Consent to operate (GPCB), factory licence, fire safety, and labour registrations | Before the first shift | 
+5. Tax set-up | GST registration for the Gujarat plant; import–export code; customs set-up for imported machinery; accounting system and TDS | GST advisory | 
+6. People | Payroll, PF and ESI, professional tax, and contract-labour compliance | Subsidiary compliance | 
+7. Suppliers | Check local vendors and contractors before advances and long-term contracts | Supplier verification | 
+8. Incentives | Check eligibility under the state industrial policy and central schemes; claims depend on meeting conditions and timelines | Get eligibility confirmed in writing | 
+
+## Why companies choose Gujarat
+
+- Ports and logistics: west-coast ports for exports to Europe, the Middle East and Africa.
+
+- Industrial estates: a large network of GIDC estates and private parks with ready plots and utilities.
+
+- Clusters: chemicals and pharma, engineering around Rajkot, ceramics at Morbi, textiles, and new electronics and semiconductor projects at Dholera and Sanand.
+
+- Recent moves: in October 2026 Gujarat and Scotland signed a cooperation MoU on renewable energy, trade and investment, and German building-materials group Knauf announced a further €350 million for Indian plants, including one in Gujarat.
+
+## Where foreign manufacturers lose time
+
+- Land title: agricultural land needs conversion for industrial use. Check title, conversion and encumbrances before paying.
+
+- Consents in the wrong order: pollution “consent to establish” must come before construction, and “consent to operate” before production.
+
+- Local contractors: advances to civil and machinery contractors are where money disappears. Check them first.
+
+- Imported machinery: customs classification, duty and GST credit need planning before the shipment lands.
+
+## How we help, from Ahmedabad
+
+Our head office is in Ahmedabad, and we have a Rajkot office in the Saurashtra engineering belt. We set up the Indian company, run accounts, GST, payroll and compliance, check local suppliers and contractors, and report to the parent in English. See CA in Ahmedabad and your team on the ground in India.
+
+## Sources
+
+- Gujarat Investor Facilitation Portal
+- Gujarat Industrial Development Corporation (GIDC)
+- Gujarat Pollution Control Board
+- DeshGujarat — Gujarat and Scotland sign MoU (23 Oct 2026)
+- Lokmat Times — Knauf to invest €350 million in Indian plants
+
+## Frequently asked questions
+How does a foreign company set up a factory in Gujarat?
+Usually by incorporating an Indian subsidiary, securing industrial land (GIDC estate, private park or special investment region), applying for approvals through Gujarat's single-window Investor Facilitation Portal, obtaining pollution consents from the Gujarat Pollution Control Board and a factory licence, and registering for GST, payroll and labour compliance before production.
+
+Can a foreign-owned Indian company buy industrial land in Gujarat?
+An Indian company with foreign investment can generally acquire land needed for its business, subject to state land laws; many manufacturers take allotted plots in GIDC estates or private industrial parks. Title and land-use checks are essential.
+
+What is the Gujarat Investor Facilitation Portal?
+The state government's single-window portal for investors to apply for and track the main state approvals needed to set up and run a business in Gujarat.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/draft-fema-foreign-investment-rules-2026/
 ------------------------------------------------------------------------
 FEMA update
@@ -1125,6 +1203,8 @@ Key takeaways
 - Full scope: partner due diligence · investment due diligence · supplier verification.
 
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
+
+See also: setting up a plant in Gujarat.
 
 ## Sources
 
@@ -2211,6 +2291,7 @@ Many foreign companies set up an Indian subsidiary as a captive engineering, ope
 By country: USA · UK · UAE · Singapore.
 
 Related: LLP vs private limited company · Singapore holding companies.
+See also: manufacturing in Gujarat.
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
