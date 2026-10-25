@@ -74,6 +74,76 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/due-diligence-india-cost/
+------------------------------------------------------------------------
+Pricing
+
+# How much does due diligence in India cost? Three levels, explained
+
+The right level of checking depends on what you are risking. A one-off order needs a different check from a joint venture or an acquisition. Here are the three levels we offer, what each costs, and what drives the price.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get a quote
+hello@durgeshchavda.com
+
+Key takeaways
+- India Company Check: USD 249 fixed, report in 5 working days.
+- Partner/supplier verification and full financial due diligence are quoted after scoping.
+- Cost drivers: size, entities, years, record quality, site visits, timeline and report format.
+
+## Three levels of due diligence
+
+Level | Question it answers | What’s included | Cost and time | 
+1. India Company Check | Is this company real, registered, filing, and roughly what it says it is? | Public records, filed accounts, GST, charges, directors, payment-details match, red-flag conclusion | USD 249 fixed per company · 5 working days | 
+2. Partner / supplier verification | Can I trust this distributor, supplier or JV partner with money, IP or my brand? | Level 1 plus site visit, references, ownership and promoter background, anti-bribery questions | Quoted after a short call — depends mainly on location and depth | 
+3. Financial, tax & FEMA due diligence | Should I invest in or buy this company, and at what price and terms? | Quality of earnings, working capital, debt, tax exposures, FEMA history, related parties, deal recommendations | Scoped quote — depends on size, number of entities, years reviewed and data-room quality | 
+
+Start with Level 1 when you are about to pay an advance, sign a distribution agreement or shortlist suppliers. Move to Level 2 or 3 when the money, exclusivity or reputation at stake is larger. Order an India Company Check.
+
+## What drives the cost of full due diligence
+
+Driver | Why it matters | 
+Size and complexity | Revenue, number of entities and locations, group transactions | 
+Years reviewed | Usually two to three years plus the current year | 
+State of the records | A clean data room is faster; scattered records add time | 
+Site visits | Number of sites and how far they are from our offices (Ahmedabad, Mumbai, Bengaluru, Rajkot) | 
+Timeline | Tight signing deadlines need more people at once | 
+Reporting format | A short red-flag memo costs less than a full report in an investor or lender template | 
+
+## How to keep the cost down
+
+- Agree the scope first: list your three biggest worries (for example tax exposure, customer concentration, FEMA compliance) and focus the work there.
+
+- Ask the target for a data room before work starts: audited accounts, tax returns, GST returns, loan papers and key contracts. See the document checklist.
+
+- Stage it: a company check first, and full due diligence only if the first results are clean.
+
+- Use public data: much can be checked from MCA, GST, court and credit records before you need management time — see credit checks and financial red flags.
+
+What a full report looks like: sample due diligence report (illustrative).
+
+## Sources
+
+- Ministry of Corporate Affairs — company records
+- GST portal — search taxpayer
+
+## Frequently asked questions
+How much does it cost to check an Indian company?
+Our India Company Check costs USD 249 per company, with a written English report within 5 working days. It covers registrations, filed accounts, GST, charges, directors, payment-details matching and a red-flag conclusion.
+
+How much does financial due diligence in India cost?
+It is quoted after scoping, because the cost depends on the target's size, number of entities, years reviewed, the state of its records, site visits and the timeline. Staging the work — a company check first — keeps costs down.
+
+How long does due diligence in India take?
+A company check takes about 5 working days. Partner and supplier verification with a site visit usually takes one to three weeks, and full financial due diligence typically several weeks, depending on how quickly the target shares documents.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/set-up-manufacturing-plant-in-gujarat/
 ------------------------------------------------------------------------
 Manufacturing in India
@@ -790,6 +860,7 @@ For JVs, investments, large contracts or anti-bribery files, step up to partner 
 
 Before you pay: how to pay an Indian supplier safely.
 See also: credit rating and default checks.
+See also: what due diligence costs at each level.
 
 ## Frequently asked questions
 How much does an India Company Check cost?
@@ -883,6 +954,7 @@ Germany's supply-chain due-diligence duties still apply (reporting suspended); t
 ### What FEMA checks matter in a deal?
 That every past foreign investment was reported (FC-GPR within 30 days, FC-TRS within 60 days) and priced at fair value — and that your own deal follows the same rules. More.
 Unfamiliar term? See the India business glossary for foreign companies.
+See also: due diligence cost.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -968,6 +1040,7 @@ Most Indian partners are family-run: partnering with an Indian family business.
 Related: our offices.
 Due diligence for Singapore investors: checking Indian targets and partners.
 Start small: an India Company Check on one Indian company — USD 249, report in 5 working days.
+See also: pricing and levels.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -2038,6 +2111,7 @@ People checks: background checks on Indian promoters & directors.
 See what you’ll receive: sample due diligence report · due diligence FAQ.
 See also: red flags in Indian company financials.
 Coming change: draft FEMA Foreign Investment Rules 2026.
+See also: what due diligence in India costs.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -2113,6 +2187,7 @@ Before you pay: how to pay an Indian supplier safely.
 Related: our Rajkot office (Saurashtra engineering cluster).
 See also: how to check a supplier’s credit.
 Start small: an India Company Check on one Indian company — USD 249, report in 5 working days.
+See also: pricing.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
@@ -4179,6 +4254,7 @@ Want it run for you? Due diligence in India — financial, tax and FEMA, with SP
 - Income-tax e-filing portal
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 See also: 13 financial red flags.
+See also: how much it costs.
 
 ## Frequently asked questions
 What documents are needed for due diligence of an Indian company?
