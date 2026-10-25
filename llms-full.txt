@@ -4699,7 +4699,7 @@ Foreign vendor guide
 
 Indian customers withhold tax from many payments to foreign suppliers. These three documents are how you get your treaty rate instead of 20% — here’s what each one is and how to get it right.
 
-By CA Durgesh Chavda·Last reviewed 22 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 25 October 2026·6 min read
 
 Get your vendor pack ready
 hello@durgeshchavda.com
@@ -4743,6 +4743,31 @@ PAN | Indian tax ID — avoids higher withholding and is needed to file Form 41 
 
 Only sign it if it’s accurate. Staff or contractors in India who conclude contracts for you, an office at your disposal, or long on-site projects can create a PE — see PE risk.
 
+## Sample no-PE declaration (format)
+
+Many Indian payers have their own template; if not, a declaration on the vendor’s letterhead usually covers these points. Illustrative only — adapt it to your facts and the relevant tax treaty, and check it with your adviser.
+
+Declaration regarding permanent establishment
+
+To: [Name of Indian payer], [address]
+Date: [date]
+
+We, [legal name of the foreign company], a company incorporated in [country] with its registered office at [address], declare for the period [from] to [to] that:
+
+- We are a tax resident of [country] for this period, as shown in the enclosed Tax Residency Certificate issued by [authority].
+
+- We do not have a permanent establishment in India within the meaning of Article 5 of the India–[country] Double Taxation Avoidance Agreement — including a fixed place of business, a dependent agent, or a service or installation PE.
+
+- The income received from you under [invoice / agreement reference] is not effectively connected with any permanent establishment or fixed base in India.
+
+- We are the beneficial owner of this income.
+
+- We will inform you promptly if any of these facts change during the period.
+
+Signed for and on behalf of [company] — [name], [designation]
+
+Send it with the TRC and Form 41 (the information the TRC does not show). Only sign it if it is true — see is the no-PE declaration true for you?
+
 ## After you’re paid
 
 - Your customer issues a certificate of the tax withheld; claim it as a foreign tax credit at home.
@@ -4775,6 +4800,9 @@ Not always, but without a PAN the payer may have to withhold at a higher rate un
 
 How long is a TRC valid for Indian treaty purposes?
 It covers the period stated on it — usually a tax year. Provide a TRC and Form 41 covering each period in which you receive payments.
+
+What is the format of a no-PE declaration in India?
+A short letter on the foreign company's letterhead stating its tax residence (with the TRC), that it has no permanent establishment in India under Article 5 of the relevant tax treaty, that the income is not connected with any PE in India, that it is the beneficial owner, and that it will report changes — signed by an authorised person.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
