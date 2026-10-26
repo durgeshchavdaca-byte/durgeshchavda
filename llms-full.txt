@@ -74,6 +74,84 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/signs-of-fraud-indian-subsidiary/
+------------------------------------------------------------------------
+Forensic & fraud
+
+# 12 warning signs of fraud in your Indian subsidiary
+
+Most frauds in overseas subsidiaries are found late, because head office sees only summarised numbers. These are the patterns that show up first in the data and in behaviour — and the safe way to respond when you see them.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Confidential first call
+hello@durgeshchavda.com
+
+Key takeaways
+- Watch purchasing, cash, related parties and payroll first — that's where most frauds show.
+- Several signs together justify a closer look; don't confront before evidence is secured.
+- Commission an independent investigation on the ground, with counsel involved where needed.
+
+## The warning signs
+
+# | Area | What you may see | 
+1 | Purchasing | New vendors created and paid quickly; vendors sharing a bank account, address or phone with an employee; invoices just under approval limits | 
+2 | Purchasing | Prices consistently above market for the same items; one vendor winning every quote | 
+3 | Sales | Revenue spikes at quarter-end followed by credit notes or returns; customers nobody at head office has heard of | 
+4 | Receivables | Old balances that keep being ‘about to be collected’; write-offs approved locally | 
+5 | Cash and bank | Frequent cash withdrawals; payments to individuals described as ‘advances’; bank accounts head office didn’t know about | 
+6 | Related parties | Rent, services or materials bought from companies linked to local management | 
+7 | Payroll | Headcount in payroll higher than seen on site; PF and ESI contributions not matching payroll | 
+8 | Inventory | Stock losses explained as ‘damage’ or ‘scrap’ with weak documentation; scrap sold for cash | 
+9 | Expenses | Round-number consultancy, ‘liaison’ or ‘facilitation’ payments — a bribery warning sign | 
+10 | Controls | One person controls vendor creation, approval and payment; audit points repeated year after year | 
+11 | Behaviour | Local managers resisting visits, delaying data or insisting on handling auditors themselves | 
+12 | Reporting | Monthly numbers that are always on budget, or explanations that change each time | 
+
+One sign alone is rarely proof. Several together — especially in purchasing, cash and related parties — justify a closer look.
+
+## Quick checks head office can run
+
+- Vendor master vs public records: check new vendors’ GST and company registrations, addresses and directors — see how to verify an Indian company.
+
+- Bank details: look for the same bank account across vendors and employees.
+
+- Payroll vs PF: compare payroll headcount with provident-fund contributions.
+
+- Related parties: compare directors of the subsidiary’s top vendors and customers with local management.
+
+## What to do — and what not to do
+
+- Don’t confront first. Alerting the people involved can lead to deleted records and lost evidence.
+
+- Bring in counsel early if bribery or a regulatory disclosure may be involved (FCPA, UK Bribery Act or similar).
+
+- Secure the data: accounting system access, bank statements, email and key documents.
+
+- Commission an independent investigation on the ground — see forensic audit & fraud investigation in India.
+
+- Fix the controls afterwards: vendor creation, approvals, bank mandates and monthly reporting — see subsidiary compliance.
+
+## Sources
+
+- Institute of Chartered Accountants of India — Forensic Accounting and Investigation Standards
+
+## Frequently asked questions
+What are the common signs of fraud in an Indian subsidiary?
+Common signs include new vendors paid quickly or linked to employees, prices above market, quarter-end revenue spikes reversed by credit notes, frequent cash withdrawals, related-party purchases, payroll headcount not matching provident-fund records, poorly documented inventory losses, and round-number 'facilitation' payments.
+
+What should a foreign parent do if it suspects fraud in its Indian subsidiary?
+Avoid confronting the people involved first, involve counsel early where bribery or disclosure may be at issue, secure the accounting, bank and email data, and commission an independent forensic investigation on the ground before fixing controls.
+
+Can head office detect fraud in an Indian subsidiary remotely?
+Partly. Checking new vendors against public company and GST records, comparing bank details across vendors and staff, and matching payroll to provident-fund contributions can surface warning signs, but confirming fraud usually needs a forensic investigation on the ground.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/forensic-audit-india/
 ------------------------------------------------------------------------
 Forensic audit
@@ -136,6 +214,8 @@ We follow the Forensic Accounting and Investigation Standards issued by the Inst
 US, UK and European groups need facts from their Indian subsidiary to decide on disclosure, discipline and remediation under the FCPA, the UK Bribery Act and similar laws. We investigate on the ground in India and report in English, in a form your counsel can use. See India’s anti-bribery law for foreign companies and Indian subsidiary compliance.
 
 Before you buy, a forensic lens on the target is often cheaper than an investigation after: transaction due diligence · red flags in Indian company financials.
+
+Guide: 12 warning signs of fraud in your Indian subsidiary.
 
 ## Frequently asked questions
 What is a forensic audit in India?
@@ -2910,6 +2990,7 @@ Dividends, service fees, royalties and interest each carry Indian withholding ta
 MCA deadlines now: AOC-4 & MGT-7 due dates 2026.
 Related: Corporate Laws (Amendment) Bill 2026 · when you need a registered valuer.
 See also: forensic audit & fraud investigation in India.
+Guide: 12 warning signs of fraud in your Indian subsidiary.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
