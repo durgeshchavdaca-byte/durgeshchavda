@@ -74,6 +74,83 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/us-company-formation-non-residents/
+------------------------------------------------------------------------
+US incorporation worldwide
+
+# US company formation for non-residents — from anywhere in the world
+
+Founders and companies outside the US form American LLCs and corporations to sell to US customers, raise from US investors or use US payment platforms. We set it up remotely and keep it compliant — whether you are in Dubai, London, Lagos, Singapore, São Paulo or Bengaluru.
+
+Plan your US company
+hello@durgeshchavda.com
+
+## Who it’s for
+
+- SaaS, e-commerce and services businesses in the UAE, Gulf, UK, Europe, Africa, Singapore, Latin America and India selling to US customers.
+
+- Startups raising from US investors, who usually expect a Delaware C-Corp.
+
+- Freelancers and agencies who want a US entity for contracts and payments — see US LLC for freelancers.
+
+## LLC or C-Corp?
+
+| LLC | C-Corp | 
+
+Best for | Owner-run businesses, services, e-commerce | Startups raising venture capital, issuing stock options | 
+
+Usual state | Wyoming or Delaware — see Delaware vs Wyoming | Delaware — see C-Corp vs LLC | 
+
+Key annual filings for foreign owners | Form 5472 with a pro forma 1120 for a single-member LLC; state annual tax or report | Federal corporate return; Delaware franchise tax and annual report | 
+
+## How it works
+
+01
+### Structure
+A short call on your business, owners and home-country tax — so the US entity fits with your local company and personal tax.
+
+02
+### Form & EIN
+State filing, registered agent, operating agreement or bylaws, and an EIN from the IRS — no SSN or ITIN needed. See EIN for non-residents.
+
+03
+### Bank & compliance
+US bank or fintech account, bookkeeping set-up and a calendar of every federal and state deadline.
+
+## Staying compliant
+
+- Form 5472: foreign-owned single-member LLCs must file it each year with a pro forma Form 1120; the penalty for missing it is USD 25,000 per form — see Form 5472 guide.
+
+- Delaware: corporations file an annual report and pay franchise tax by 1 March; LLCs pay an annual tax by 1 June — see Delaware franchise tax.
+
+- Home country: your own country may tax or require reporting of a foreign company you own — we flag this at the structuring stage, and work with your local adviser.
+
+- Full calendar: US company compliance calendar.
+
+## Frequently asked questions
+Can a non-resident form a US company?
+Yes. Non-US citizens and residents can form an LLC or corporation in any US state, usually Delaware or Wyoming, without visiting the US, and obtain an EIN from the IRS without an SSN or ITIN.
+
+Should a foreign founder choose an LLC or a C-Corp?
+An LLC usually suits owner-run service or e-commerce businesses; a Delaware C-Corp suits startups raising from US investors or issuing stock options. Home-country tax rules also matter.
+
+What annual filings does a foreign-owned US LLC have?
+A foreign-owned single-member LLC files Form 5472 with a pro forma Form 1120 each year (penalty USD 25,000 per missed form), plus its state's annual report or tax.
+
+Do you help founders outside India?
+Yes — founders and companies in the UAE, Gulf, UK, Europe, Africa, Singapore, Latin America and elsewhere, working remotely.
+
+On this page
+
+- Who it’s for
+- LLC or C-Corp
+- How it works
+- Staying compliant
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/vendor-due-diligence-india/
 ------------------------------------------------------------------------
 Sell-side due diligence
@@ -417,6 +494,8 @@ hello@durgeshchavda.com
 ## Investing through Mauritius
 
 Mauritius has long been one of the largest routes for investment into India. Since the 2016 protocol to the India–Mauritius tax treaty, India can tax capital gains on shares of Indian companies acquired on or after 1 April 2017, and treaty benefits need genuine substance and a tax residency certificate (Form 41). We review structures before money moves.
+
+Not in India? US company formation for non-residents worldwide.
 
 ## Frequently asked questions
 Can you check an Indian supplier for an African importer?
@@ -3807,6 +3886,7 @@ USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 ₹5,000 Cr+PSU bank audit portfolio handled early in career
 
 Related: selling on Amazon US from India · Delaware good standing.
+Not in India? US company formation for non-residents worldwide.
 
 ## Frequently asked questions
 Can an Indian resident register a company in the USA?
