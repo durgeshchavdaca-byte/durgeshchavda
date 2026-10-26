@@ -294,10 +294,12 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
 !function(){
   if (document.getElementById('td-root')) return;
   var CALL_IN = 'https://topmate.io/cadurgesh_chavda/741479';   // swap for the ₹499 Topmate service link
-  var CALL_INTL = 'https://topmate.io/cadurgesh_chavda'; // swap for the USD 10 Topmate service link
+  var CALL_INTL = 'https://topmate.io/cadurgesh_chavda/741479'; // international pricing pending (Topmate tier); India service for now
+  var INTRO = 'https://topmate.io/cadurgesh_chavda/741484'; // free 15-min intro for business enquiries
   var WA = 'https://wa.me/917801887130?text=';
   var tz = ''; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
   var india = /Calcutta|Kolkata/.test(tz);
+  var biz = /due-diligence|forensic|company-check|supplier|partner|india-entry|subsidiary|representative|international|aeo|us-company-formation|market-entry|promoter|\/ja\/|\/de\/|\/fr\/|\/ko\/|\/es\//.test(location.pathname);
   var css = '#td-root{position:fixed;right:18px;bottom:18px;z-index:9999;font-family:inherit}'
     + '#td-btn{display:flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:12px 18px;background:var(--ink,#111);color:var(--paper,#fff);font:600 15px/1 inherit;cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.18)}'
     + '#td-btn .dot{width:8px;height:8px;border-radius:50%;background:#25d366}'
@@ -313,14 +315,16 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
   var page = location.pathname;
   var waText = encodeURIComponent('Hi Durgesh, I found you on durgeshchavda.com (' + page + '). My question: ');
-  var priceMain = india ? '₹499' : 'USD 10';
-  var priceAlt = india ? 'USD 10 outside India' : '₹499 in India';
+  var priceMain = india ? '₹499' : '₹499 (about USD 6)';
+  var priceAlt = india ? 'pay by UPI or card' : 'paid in rupees by card';
   var root = document.createElement('div'); root.id = 'td-root';
   root.innerHTML =
     '<div id="td-panel" role="dialog" aria-label="Talk to Durgesh">'
     + '<button class="td-x" type="button" aria-label="Close">×</button>'
     + '<h3>Talk to Durgesh</h3><p>Chartered Accountant · NRI tax, US companies, due diligence, forensic audit.</p>'
+    + (biz ? '<a class="td-opt" href="' + INTRO + '" target="_blank" rel="noopener" data-td="intro"><b>Business enquiry? Free 15-min intro</b><span>Due diligence, forensic audit, India entry, CFO or AEO — book a free call to scope it.</span></a>' : '')
     + '<a class="td-opt wa" href="' + WA + waText + '" target="_blank" rel="noopener" data-td="wa"><b>Chat free on WhatsApp</b><span>Your first 10 messages are free — quick questions answered by Durgesh.</span></a>'
+    + (biz ? '' : '<a class="td-opt" href="' + INTRO + '" target="_blank" rel="noopener" data-td="intro"><b>Business enquiry? Free 15-min intro</b><span>Due diligence, forensic audit, India entry, CFO or AEO — book a free call to scope it.</span></a>')
     + '<a class="td-opt" href="' + (india ? CALL_IN : CALL_INTL) + '" target="_blank" rel="noopener" data-td="call"><b>Book a 30-min call — ' + priceMain + '</b><span>Video call with Durgesh, paid when you book (' + priceAlt + ').</span></a>'
     + '<a class="td-opt" href="/consult/" data-td="how"><b>How it works</b><span>What the free chat covers, and when a call makes sense.</span></a>'
     + '<p class="td-note">General guidance only. Detailed advice, document review and filings are quoted separately.</p>'
