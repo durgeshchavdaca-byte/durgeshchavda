@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://www.durgeshchavda.com/</loc><lastmod>2026-10-25</lastmod><changefreq>weekly</changefreq><priority>1.0</priority><image:image><image:loc>https://www.durgeshchavda.com/assets/durgesh-portrait.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/zenith-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/jakarta-festival.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-gst-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-rajkot.jpg</image:loc></image:image></url>
+  <url><loc>https://www.durgeshchavda.com/</loc><lastmod>2026-10-26</lastmod><changefreq>weekly</changefreq><priority>1.0</priority><image:image><image:loc>https://www.durgeshchavda.com/assets/durgesh-portrait.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/zenith-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/jakarta-festival.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-gst-conference.jpg</image:loc></image:image><image:image><image:loc>https://www.durgeshchavda.com/assets/icai-rajkot.jpg</image:loc></image:image></url>
   <url><loc>https://www.durgeshchavda.com/about/</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/aeo-audit/</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/aeo-for-accounting-firms/</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -25,6 +25,7 @@
   <url><loc>https://www.durgeshchavda.com/due-diligence-india/</loc><lastmod>2026-10-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/es/</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/fema-rbi-compliance/</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/forensic-audit-india/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/fr/</loc><lastmod>2026-10-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/fractional-cfo-for-startups/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/gift-city-ifsc-setup/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -154,7 +155,7 @@
   <url><loc>https://www.durgeshchavda.com/insights/tds-on-property-sale-by-nri/</loc><lastmod>2026-10-23</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/tds-rate-chart-2026-27/</loc><lastmod>2026-10-07</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/term-sheet-guide-india/</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://www.durgeshchavda.com/insights/uflpa-indian-suppliers-traceability/</loc><lastmod>2026-10-15</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://www.durgeshchavda.com/insights/uflpa-indian-suppliers-traceability/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/uk-company-from-india/</loc><lastmod>2026-10-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/us-bookkeeping-for-indian-founders/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/us-company-compliance-calendar/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -171,10 +172,12 @@
   <url><loc>https://www.durgeshchavda.com/insights/w-8ben-e-for-indian-companies/</loc><lastmod>2026-09-26</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/insights/what-is-aeo-answer-engine-optimization/</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/africa/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/australia/</loc><lastmod>2026-10-22</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/canada/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/europe/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/gulf/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://www.durgeshchavda.com/international/japan/</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/latin-america/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/singapore/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://www.durgeshchavda.com/international/uae/</loc><lastmod>2026-09-30</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
