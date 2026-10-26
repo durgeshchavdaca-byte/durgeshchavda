@@ -74,6 +74,79 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-in-uk-indian-tax-guide/
+------------------------------------------------------------------------
+NRI tax · UK
+
+# NRIs in the UK — Indian tax and UK tax, side by side
+
+If you live in the UK and have income or assets in India, both countries may tax it. India taxes your Indian income; the UK taxes its residents on worldwide income. Here is how the two fit together — and where people slip.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Sort your Indian tax
+hello@durgeshchavda.com
+
+Key takeaways
+- NRE interest is exempt in India but generally taxable in the UK.
+- Indian mutual funds can fall under UK offshore fund rules — gains taxed as income.
+- Use an HMRC certificate of residence + Form 41 for treaty rates; claim foreign tax credit relief in the UK.
+
+## Income by income: India vs the UK
+
+Income or asset | India | UK (residents) | Watch out | 
+NRO interest | Taxed; bank deducts TDS (30% plus surcharge and cess by default) | Taxable for UK residents; foreign tax credit relief | Treaty reduces Indian tax with an HMRC certificate of residence and Form 41 | 
+NRE / FCNR interest | Exempt while you are an NRI | Taxable for UK residents (unless covered by the FIG regime) | Often missed on UK returns | 
+Dividends from Indian shares | Taxed in India; treaty caps it at 10% in most cases | Taxable; credit for Indian tax | Claim the treaty rate rather than the 20% domestic rate | 
+Sale of Indian property | Capital gains tax; buyer deducts TDS | Taxable for UK residents; credit for Indian tax | Lower-TDS certificate (Form 128) avoids over-deduction | 
+Indian mutual funds | Capital gains tax in India | Offshore fund rules — gains on non-reporting funds taxed as income | Check reporting-fund status before investing | 
+Rent from Indian property | Taxed; tenant may deduct TDS | Taxable; credit for Indian tax | File an Indian return to claim deductions | 
+
+## The UK’s FIG regime (from April 2025)
+
+From 6 April 2025 the UK replaced the old remittance basis for non-domiciled residents with a four-year foreign income and gains (FIG) regime for people arriving after ten years of non-residence. Within those four years, qualifying foreign income and gains can be exempt from UK tax if claimed; after that, worldwide income is taxed. If you moved to the UK recently, check whether you qualify before reporting Indian income.
+
+## Avoiding double tax
+
+- In India: claim the India–UK treaty rate (for example a 10% cap on dividends in most cases) by giving the payer an HMRC certificate of residence and Form 41.
+
+- In the UK: claim foreign tax credit relief for Indian tax paid on the same income on your Self Assessment return.
+
+- File an Indian return to recover excess TDS — see NRI income tax return.
+
+## Which country are you resident in?
+
+India uses day counts (182 days, or 60 days plus 365 days over four years, with special rules for visiting NRIs) — see residential status and RNOR. The UK uses its Statutory Residence Test. You can be resident in both in a year; the treaty’s tie-breaker rules then decide where you are treated as resident for treaty purposes.
+
+## How we help
+
+We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales and repatriation — and work with your UK accountant so both returns agree. See NRI tax services and India advisory for clients in the UK.
+
+## Sources
+
+- GOV.UK — Tax on foreign income
+- GOV.UK — Get a certificate of residence
+- GOV.UK — Offshore funds: list of reporting funds
+
+## Frequently asked questions
+Is NRE interest taxable in the UK?
+Yes, for UK residents in general — NRE interest is exempt in India while you are an NRI, but the UK taxes residents on worldwide income. Recent arrivals may be able to claim relief under the UK's four-year foreign income and gains regime.
+
+How are Indian mutual funds taxed for UK residents?
+Under the UK's offshore fund rules, gains on funds without UK reporting-fund status are generally taxed as income rather than capital gains, so check a fund's status before investing.
+
+How do NRIs in the UK claim India–UK treaty rates?
+Give the Indian payer an HMRC certificate of residence and Form 41. For example, the treaty generally caps Indian tax on dividends at 10%.
+
+What replaced the UK remittance basis?
+From 6 April 2025, a four-year foreign income and gains (FIG) regime for people becoming UK resident after ten years of non-residence.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-in-usa-indian-tax-guide/
 ------------------------------------------------------------------------
 NRI tax · USA
@@ -131,6 +204,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 - IRS — Report of Foreign Bank and Financial Accounts (FBAR)
 - IRS — Comparison of Form 8938 and FBAR requirements
 - IRS — Form 8802 (US residency certification, Form 6166)
+Living in the UK? NRIs in the UK: Indian tax and UK tax.
 
 ## Frequently asked questions
 Is NRE interest taxable in the US?
@@ -4319,6 +4393,7 @@ No trip to India needed. Calls in your time zone — we have an office in Dubai.
 
 Related: gifts to and from NRIs · Indian tax notices · lower TDS certificate (Form 128).
 Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
+Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -5822,6 +5897,7 @@ Quick answers: India for NRIs and foreigners — questions answered.
 In October 2026 the Income Tax Appellate Tribunal, Pune reportedly allowed a Singapore-based NRI’s refund claim under the India–Singapore treaty on mutual-fund gains, holding that missing the return deadline did not take away treaty relief (Business Today, 22 Oct 2026). Rulings turn on their facts — if you overpaid tax as an NRI, it is worth reviewing whether a refund is still available.
 Related: gifts and income tax · who can buy property in India · help with an Indian tax notice · moving back to India.
 Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
+Living in the UK? NRIs in the UK: Indian tax and UK tax.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
