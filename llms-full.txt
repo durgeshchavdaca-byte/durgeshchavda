@@ -2292,6 +2292,16 @@ A monthly retainer: new answer content, off-site mentions, monitoring and a shor
 
 By industry: accounting, CA & CPA firms · fintech & financial services · B2B SaaS. Start with an AEO audit.
 
+## Where we work
+
+AEO is done remotely, so location doesn’t limit us. We work with firms in India, the United States and Canada, the UK and Europe, the UAE and the Gulf, Singapore and the rest of Asia, Japan and Korea, Australia and New Zealand, Africa and Latin America.
+
+- Multilingual answers: AI assistants answer in the buyer’s language. We test your buyers’ questions in English and in the languages of your markets, and structure pages so assistants can cite them — this site has pages in Japanese, German, French, Korean and Spanish.
+
+- Local search engines and assistants: beyond ChatGPT, Gemini, Claude and Perplexity, we check Copilot and Bing (which many assistants draw on) and, where relevant, regional assistants.
+
+- Time zones: calls are scheduled to suit you; work runs asynchronously in between.
+
 ## Proof: this website
 
 We applied the same method to durgeshchavda.com. In under four weeks, daily Google impressions rose about five-fold, new pages were indexed within a day or two, and the site ranks first on Bing for its own name and on Google’s first page for several niche terms. The full numbers, with what we did and what’s still unproven: AEO case study.
@@ -2321,6 +2331,9 @@ No. AI answers are generated and vary by user and over time, so no honest provid
 Do you work with businesses outside finance?
 Yes, mainly B2B and professional-services businesses where accuracy and trust drive buying decisions.
 
+Do you offer AEO services outside India?
+Yes. AEO work is done remotely for firms in the US, Canada, the UK and Europe, the UAE and Gulf, Singapore and Asia, Japan and Korea, Australia and New Zealand, Africa and Latin America — including testing buyers' questions in their own languages.
+
 On this page
 
 - What AEO is
@@ -2328,6 +2341,7 @@ On this page
 - What we do
 - How engagements work
 - Who it’s for
+- Where we work
 - Proof
 - What we don’t promise
 - FAQ
