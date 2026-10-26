@@ -74,6 +74,83 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-in-usa-indian-tax-guide/
+------------------------------------------------------------------------
+NRI tax · USA
+
+# NRIs in the US — Indian tax and US reporting, side by side
+
+If you live in the US and have money in India, two tax systems apply. India taxes your Indian income; the US taxes your worldwide income and wants your Indian accounts reported. Most problems come from the gaps between the two.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Sort your Indian tax
+hello@durgeshchavda.com
+
+Key takeaways
+- NRE interest is exempt in India but taxable in the US.
+- FBAR above USD 10,000 combined; FATCA Form 8938 above USD 50,000/75,000 (single, in the US).
+- Indian mutual funds are generally PFICs — take US advice; use Form 6166 + Form 41 for treaty rates in India.
+
+## Income by income: India vs the US
+
+Income or asset | India | US (residents and citizens) | Watch out | 
+NRO interest | Taxed; bank deducts TDS (30% plus surcharge and cess by default) | Taxable; claim credit for Indian tax | Treaty caps Indian tax at 15% with a US residency certificate (Form 6166) and Form 41 | 
+NRE / FCNR interest | Exempt while you are an NRI | Taxable for US residents and citizens | Often missed on US returns | 
+Rent from Indian property | Taxed; tenant may deduct TDS | Taxable; foreign tax credit for Indian tax | File an Indian return to claim deductions | 
+Sale of Indian property | Capital gains tax; buyer deducts TDS on the sale | Taxable; foreign tax credit | Lower-TDS certificate (Form 128) avoids over-deduction | 
+Indian mutual funds | Capital gains tax in India | Generally treated as PFICs — Form 8621, punitive default rules | Take US advice before buying or holding | 
+Indian shares (direct) | Capital gains tax in India | Taxable; foreign tax credit | No PFIC issue for ordinary company shares | 
+
+## US reporting of Indian accounts
+
+- FBAR (FinCEN Form 114): required if your foreign financial accounts together exceed USD 10,000 at any time in the year. Due 15 April, with an automatic extension to 15 October.
+
+- FATCA (Form 8938): filed with your US return when specified foreign assets exceed the thresholds — for a single filer living in the US, more than USD 50,000 on the last day of the year or USD 75,000 at any time (double for married filing jointly).
+
+- PFIC (Form 8621): Indian mutual funds are generally passive foreign investment companies for US tax, with complex filings and potentially punitive tax.
+
+## Avoiding double tax
+
+- In India: claim the India–US treaty rate (for example 15% on interest) with a US tax residency certificate — Form 6166, requested from the IRS on Form 8802 — and Form 41. See the India–US DTAA guide.
+
+- In the US: claim a foreign tax credit (Form 1116) for Indian tax paid on the same income.
+
+- File an Indian return to get excess TDS refunded — see NRI income tax return.
+
+## Moving money
+
+NRO balances can be repatriated up to USD 1 million a year with Forms 145 and 146 — see NRO repatriation. Note the US 1% remittance tax on certain cash-funded transfers from the US.
+
+## How we help
+
+We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales, repatriation — and coordinate with your US CPA so both returns tell the same story. US returns, FBAR and Form 8621 are signed by your US preparer. See NRI tax services and India advisory for clients in the US.
+
+## Sources
+
+- IRS — Report of Foreign Bank and Financial Accounts (FBAR)
+- IRS — Comparison of Form 8938 and FBAR requirements
+- IRS — Form 8802 (US residency certification, Form 6166)
+
+## Frequently asked questions
+Is NRE interest taxable in the US?
+Yes, for US residents and citizens. NRE interest is exempt in India while you are an NRI, but the US taxes worldwide income, so it must be reported on your US return.
+
+Do NRIs in the US need to file FBAR for Indian accounts?
+Yes, if the combined balance of all foreign financial accounts exceeds USD 10,000 at any time in the year. FBAR (FinCEN Form 114) is due 15 April, with an automatic extension to 15 October.
+
+Are Indian mutual funds a problem for US residents?
+Generally yes. Indian mutual funds are usually treated as PFICs for US tax, which means Form 8621 filings and potentially punitive tax; take US advice before buying or holding them.
+
+How do NRIs in the US claim India–US treaty rates?
+Provide the Indian payer a US tax residency certificate (IRS Form 6166, requested on Form 8802) and Form 41. Interest is then capped at 15% (10% for bank loans) under the treaty.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/us-company-formation-non-residents/
 ------------------------------------------------------------------------
 US incorporation worldwide
@@ -4205,6 +4282,7 @@ Tax computation, certificates and filings, with your approval before anything is
 No trip to India needed. Calls in your time zone — we have an office in Dubai.
 
 Related: gifts to and from NRIs · Indian tax notices · lower TDS certificate (Form 128).
+Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -5702,6 +5780,7 @@ Quick answers: India for NRIs and foreigners — questions answered.
 ## Recent ruling
 In October 2026 the Income Tax Appellate Tribunal, Pune reportedly allowed a Singapore-based NRI’s refund claim under the India–Singapore treaty on mutual-fund gains, holding that missing the return deadline did not take away treaty relief (Business Today, 22 Oct 2026). Rulings turn on their facts — if you overpaid tax as an NRI, it is worth reviewing whether a refund is still available.
 Related: gifts and income tax · who can buy property in India · help with an Indian tax notice · moving back to India.
+Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
@@ -5839,6 +5918,7 @@ From 1 April 2026, the Income-tax Act, 2025 and Income-tax Rules, 2026 replaced 
 - You own a US LLC: the US may ignore the LLC while India treats it as a separate company, which can complicate treaty access and credits. See ODI & tax rules for US companies.
 
 Are you the foreign side of the payment? Read Form 41, TRC and the no-PE declaration.
+Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 
 ## Frequently asked questions
 What is the dividend tax rate under the India–US DTAA?
