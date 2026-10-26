@@ -74,6 +74,85 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/vendor-due-diligence-india/
+------------------------------------------------------------------------
+Sell-side due diligence
+
+# Vendor due diligence in India — getting ready for a foreign buyer
+
+When a foreign buyer or investor looks at an Indian company, their due diligence team will find the gaps. If you find them first — and fix or explain them — you keep control of the story, the timetable and the price.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Prepare for your deal
+hello@durgeshchavda.com
+
+Key takeaways
+- Find and fix the gaps before the buyer does — it protects price and timetable.
+- FEMA filings on past foreign investment are a common trap; regularise early.
+- Prepare a clean data room and a short vendor due diligence report.
+
+## Why do vendor due diligence?
+
+- Fewer surprises: late discoveries are what lead to price cuts, bigger escrows and tougher warranties.
+
+- Faster deals: a prepared data room and a clear report shorten the buyer’s work.
+
+- Time to fix: many issues — late FEMA filings, unreconciled GST, missing approvals — can be regularised before the deal, but not in the last week.
+
+## What to review before the buyer does
+
+Area | What to have ready | 
+Financials | Audited accounts reconciled to management accounts; normalised EBITDA with one-offs explained; working capital trends | 
+Tax | Income-tax assessments and pending demands; TDS defaults; GST returns reconciled with books; transfer-pricing files | 
+FEMA / RBI | Every foreign investment, loan and remittance reported on time (FC-GPR, FC-TRS, FLA, ECB); late filings regularised before the buyer finds them | 
+Company law | Share capital history, registers, board and shareholder approvals, charges and annual filings up to date on MCA | 
+Related parties | List of transactions with promoter-linked entities, arm’s-length support, and plans to end or formalise them | 
+Contracts and people | Key customer and supplier contracts, change-of-control clauses, ESOPs, labour compliance | 
+
+## The FEMA trap
+
+Foreign buyers pay particular attention to past foreign-investment filings, because gaps can delay closing and may need regularisation with the RBI. Check every past foreign round and transfer: was the filing made, on time, at a compliant price? See FC-GPR, FC-TRS and the draft FEMA Foreign Investment Rules 2026.
+
+## Building the data room
+
+- Three years of audited accounts, tax returns and GST returns, with reconciliations.
+
+- Corporate records: incorporation documents, registers, minutes, MCA filings and charges.
+
+- FEMA filings and RBI acknowledgements for every foreign investment, loan and transfer.
+
+- Material contracts, licences, property documents and insurance.
+
+- A short vendor due diligence report summarising findings and how each was resolved.
+
+The buyer’s view of the same exercise: due diligence checklist · financial red flags.
+
+## How we help
+
+We run vendor due diligence for Indian companies preparing for a foreign buyer or investor, fix what can be fixed — FEMA regularisation, GST reconciliations, overdue filings — and help build the data room and answer the buyer’s questions. See fundraising and deal support and FEMA & RBI compliance.
+
+## Sources
+
+- Reserve Bank of India — FEMA reporting (FIRMS portal)
+- Ministry of Corporate Affairs
+
+## Frequently asked questions
+What is vendor due diligence?
+Due diligence commissioned by the seller (or the company raising money) before a buyer's review — to find and fix or explain issues in financials, tax, FEMA filings, company law and contracts, and to present a clean data room.
+
+Why should an Indian company do vendor due diligence before a foreign deal?
+Because foreign buyers' due diligence will find gaps — especially in FEMA filings, tax and related-party transactions — and late discoveries lead to price cuts, larger escrows and delays. Many issues can be regularised if found early.
+
+What do foreign buyers check most closely in Indian companies?
+Normalised earnings and working capital, tax exposures, FEMA compliance on past foreign investment, related-party transactions, company-law filings and key contracts with change-of-control clauses.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/consult/
 ------------------------------------------------------------------------
 Consultations
@@ -2702,6 +2781,7 @@ Coming change: draft FEMA Foreign Investment Rules 2026.
 See also: what due diligence in India costs.
 Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
 Suspect fraud after a deal? Forensic audit & fraud investigation.
+Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -4395,6 +4475,7 @@ FEMA reporting sits at the intersection of your AD bank, the RBI’s FIRMS porta
 Durgesh has handled FC-GPR reporting and ODI filings for venture-backed companies, including around a USD 3.75M Pre-Series A, and advises on cross-border structures through US Delaware, Singapore, DIFC and Mauritius holding companies.
 Foreign company with an Indian subsidiary or Indian customers? See Indian subsidiary compliance and India tax for foreign companies.
 Coming change: draft FEMA Foreign Investment Rules 2026.
+Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 
 ## Frequently asked questions
 What is the deadline for filing FC-GPR?
@@ -4556,6 +4637,7 @@ USD 3.75MPre-Series A led and closed end-to-end for an AI EdTech startup
 ₹5,000 Cr+PSU bank audit portfolio handled early in career
 
 Related: virtual CFO in Bengaluru · virtual CFO in Mumbai · finding angel investors.
+Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 
 ## Frequently asked questions
 When should a startup start preparing for fundraising?
@@ -4930,6 +5012,7 @@ Most post-deal surprises in India are unreported FDI, GST mismatches and tax dem
 - Treelife — FC-TRS filing
 See also: financial red flags.
 Coming change: draft Foreign Investment Rules 2026.
+Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
