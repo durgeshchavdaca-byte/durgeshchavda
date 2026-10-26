@@ -74,6 +74,91 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/uflpa-indian-suppliers-traceability/
+------------------------------------------------------------------------
+Supply-chain compliance
+
+# UFLPA and Indian suppliers — a traceability checklist for US importers
+
+Many US companies moved sourcing to India partly to reduce China exposure. But the Uyghur Forced Labor Prevention Act looks at where inputs come from, not just where the final product is made. If an Indian supplier uses cotton, polysilicon, aluminium or other materials that trace back to Xinjiang, the shipment can still be detained.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your Indian supplier
+hello@durgeshchavda.com
+
+Key takeaways
+- UFLPA presumption (since 21 June 2022) follows inputs — Indian-made goods can be caught.
+- Ask for bill of materials, input invoices, import records and production records.
+- Verify against Indian import, GST e-way bill and company records, plus a plant visit.
+
+## The rule in brief
+
+- The Uyghur Forced Labor Prevention Act (UFLPA) was signed on 23 December 2021. Since 21 June 2022, US Customs and Border Protection (CBP) presumes that goods made wholly or partly in Xinjiang, or by entities on the UFLPA Entity List, are made with forced labour and cannot be imported.
+
+- The importer can overcome the presumption only with clear and convincing evidence — which in practice means supply-chain tracing documents.
+
+- The presumption follows the inputs. A finished product made in India is covered if a covered input is used anywhere in its supply chain.
+
+## Where Indian supply chains carry exposure
+
+- Textiles and apparel: imported cotton, yarn or fabric.
+
+- Solar: polysilicon, wafers and cells inside modules assembled in India.
+
+- Aluminium, PVC and other materials sourced from Chinese suppliers, and electronics components.
+
+## What to ask your Indian supplier
+
+- A bill of materials showing each significant input and its supplier.
+
+- For each input: the supplier’s name and country, purchase invoices and import records (bills of entry).
+
+- Mill, refinery or smelter declarations for raw materials such as cotton, polysilicon and aluminium.
+
+- Production records linking those inputs to your orders (batch or lot traceability).
+
+- Confirmation that no supplier in the chain is on the UFLPA Entity List — and the evidence they checked.
+
+## How to verify it in India
+
+- Match documents to records: Indian import records (bills of entry), GST e-way bills and purchase registers should line up with the declared inputs and quantities.
+
+- Visit the plant: see the raw-material store, check batch records and labels, and confirm capacity matches the volumes invoiced.
+
+- Check the supplier itself: registration, filed accounts, ownership and related parties — see India Company Check and supplier verification.
+
+- Repeat: re-check when the supplier changes its input sources, and at least once a year.
+
+## Selling to Europe too?
+
+The EU Forced Labour Regulation will apply from 14 December 2027 and works differently — it bans products made with forced labour from the EU market regardless of origin. The same traceability evidence will help. See due diligence for European companies.
+
+## How we help
+
+We visit Indian suppliers, collect and test the traceability documents against Indian import, GST and company records, and give you an English report you can keep on file for CBP. We are Chartered Accountants, not customs lawyers — your trade counsel decides what to submit to CBP. See due diligence for US companies.
+
+## Sources
+
+- U.S. Customs and Border Protection — Uyghur Forced Labor Prevention Act
+- U.S. Department of Homeland Security — UFLPA Entity List
+
+## Frequently asked questions
+Does the UFLPA apply to goods made in India?
+Yes, if any input in the supply chain was made wholly or partly in Xinjiang or by an entity on the UFLPA Entity List. The presumption follows the inputs, so Indian-made goods using such inputs can be detained by US Customs.
+
+What documents should an Indian supplier provide for UFLPA?
+A bill of materials, supplier details, purchase invoices and import records for each significant input, raw-material origin declarations, production records linking inputs to your orders, and evidence that no supplier is on the UFLPA Entity List.
+
+How can a US importer verify an Indian supplier's traceability claims?
+By matching the supplier's documents against Indian import records, GST e-way bills and purchase registers, visiting the plant to check raw-material stores and batch records, and checking the supplier's registration, accounts and ownership.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/big-4-vs-boutique-due-diligence-india/
 ------------------------------------------------------------------------
 Choosing an adviser
@@ -1285,6 +1370,8 @@ Key takeaways
 
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
 
+US importers: UFLPA traceability checklist for Indian suppliers.
+
 ## Sources
 
 - Skadden — cross-border enforcement priorities 2026
@@ -2355,6 +2442,7 @@ Related: our Rajkot office (Saurashtra engineering cluster).
 See also: how to check a supplier’s credit.
 Start small: an India Company Check on one Indian company — USD 249, report in 5 working days.
 See also: pricing.
+US importers: UFLPA traceability checklist for Indian suppliers.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
