@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-26. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-27. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -74,6 +74,74 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-in-canada-indian-tax-guide/
+------------------------------------------------------------------------
+NRI tax · Canada
+
+# NRIs in Canada — Indian tax and Canadian tax, side by side
+
+Canada is home to one of the largest Indian diasporas. If you live there and still have income or assets in India, India taxes your Indian income and Canada taxes your worldwide income — and wants your Indian assets reported. Here is how to keep both sides clean.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Sort your Indian tax
+hello@durgeshchavda.com
+
+Key takeaways
+- NRE interest is exempt in India but taxable in Canada.
+- File T1135 if Indian investments cost more than CAD 100,000 at any time in the year.
+- Use a CRA residency certificate + Form 41 for the 15% treaty rate on interest; claim the foreign tax credit in Canada.
+
+## Income by income: India vs Canada
+
+Income or asset | India | Canada (residents) | Watch out | 
+NRO interest | Taxed; bank deducts TDS (30% plus surcharge and cess by default) | Taxable; claim the foreign tax credit | Treaty caps Indian tax at 15% with a Canadian residency certificate and Form 41 | 
+NRE / FCNR interest | Exempt while you are an NRI | Taxable for Canadian residents | Often missed on Canadian returns | 
+Dividends from Indian shares | Taxed in India; treaty cap 15% (company with 10%+ voting power) or 25% | Taxable; credit for Indian tax | Claim the treaty rate | 
+Sale of Indian property | Capital gains tax; buyer deducts TDS | Taxable as a capital gain; credit for Indian tax | Lower-TDS certificate (Form 128) avoids over-deduction | 
+Indian bank accounts, shares, funds, property held for investment | — | Report on Form T1135 if total cost exceeds CAD 100,000 at any time in the year | Penalties for late or missing T1135 | 
+Rent from Indian property | Taxed; tenant may deduct TDS | Taxable; credit for Indian tax | File an Indian return to claim deductions | 
+
+## Form T1135: reporting Indian assets
+
+Canadian residents must file Form T1135 (Foreign Income Verification Statement) if the total cost of their specified foreign property — Indian bank deposits, shares, mutual funds and property held for investment — exceeds CAD 100,000 at any time in the year. A home you use personally is generally not included. Late or missing filings attract penalties, so keep a running cost record of Indian assets.
+
+## Avoiding double tax
+
+- In India: claim the India–Canada treaty rate (for example 15% on interest) with a certificate of residency from the Canada Revenue Agency and Form 41.
+
+- In Canada: claim the foreign tax credit for Indian tax paid on the same income.
+
+- File an Indian return to recover excess TDS — see NRI income tax return.
+
+## Moving to or from Canada
+
+Your Indian residential status depends on days spent in India — see residential status and RNOR. Planning a move back? Read returning to India — most of the RNOR planning applies to Canada too.
+
+## How we help
+
+We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales and repatriation up to USD 1 million a year — and coordinate with your Canadian accountant. See NRI tax services and India advisory for clients in Canada.
+
+## Sources
+
+- Canada Revenue Agency — Form T1135, Foreign Income Verification Statement
+
+## Frequently asked questions
+Is NRE interest taxable in Canada?
+Yes. NRE interest is exempt in India while you are an NRI, but Canada taxes its residents on worldwide income, so it must be reported on your Canadian return.
+
+Do I need to file T1135 for my Indian bank accounts?
+Yes, if the total cost of your specified foreign property — including Indian bank deposits, shares, mutual funds and investment property — exceeds CAD 100,000 at any time in the year.
+
+What is the treaty rate on Indian interest for Canadian residents?
+The India–Canada tax treaty caps Indian tax on interest at 15%, available with a Canadian certificate of residency and Form 41; otherwise the bank deducts 30% plus surcharge and cess on NRO interest.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-in-uk-indian-tax-guide/
 ------------------------------------------------------------------------
 NRI tax · UK
@@ -127,6 +195,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 - GOV.UK — Tax on foreign income
 - GOV.UK — Get a certificate of residence
 - GOV.UK — Offshore funds: list of reporting funds
+Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 
 ## Frequently asked questions
 Is NRE interest taxable in the UK?
@@ -205,6 +274,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 - IRS — Comparison of Form 8938 and FBAR requirements
 - IRS — Form 8802 (US residency certification, Form 6166)
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
+Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 
 ## Frequently asked questions
 Is NRE interest taxable in the US?
@@ -4394,6 +4464,7 @@ No trip to India needed. Calls in your time zone — we have an office in Dubai.
 Related: gifts to and from NRIs · Indian tax notices · lower TDS certificate (Form 128).
 Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
+Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -5898,6 +5969,7 @@ In October 2026 the Income Tax Appellate Tribunal, Pune reportedly allowed a Sin
 Related: gifts and income tax · who can buy property in India · help with an Indian tax notice · moving back to India.
 Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
+Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
