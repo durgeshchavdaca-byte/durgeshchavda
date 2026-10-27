@@ -74,6 +74,94 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/resident-director-india-foreign-company/
+------------------------------------------------------------------------
+India entry
+
+# Resident director in India — the 182-day rule for foreign-owned companies
+
+It is the question foreign founders ask most when setting up in India: do we need an Indian director? You don’t need an Indian partner, but you do need one director who lives in India for most of the year. Here is how the rule works and how foreign groups fill the seat safely.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get the structure right
+hello@durgeshchavda.com
+
+Key takeaways
+- Every Indian company needs one director who stays in India 182+ days in the financial year.
+- Nationality doesn't matter; the other directors can live abroad.
+- Limit authority, agree indemnity and keep filings current — 3 years of missed filings disqualifies directors for 5 years.
+
+## The rule
+
+- Two directors minimum for a private limited company (Companies Act 2013, section 149(1)). A public company needs three.
+
+- At least one resident director — someone who stays in India for a total of 182 days or more in the financial year (section 149(3)). For a company incorporated during the year, the requirement applies proportionately.
+
+- Nationality does not matter. A foreign national living in India can be the resident director; an Indian citizen living abroad usually cannot.
+
+- The other director(s) can be anywhere in the world — typically executives of the foreign parent.
+
+## Who can fill the seat
+
+Option | Why it works | Watch out | 
+An Indian employee (country manager, finance head) | Already in India; knows the business | Becomes a statutory officer; needs board-approved limits on authority | 
+A director relocating from the parent | Full control stays with the group | Needs an employment visa and must actually spend 182 days in India | 
+An NRI or Indian citizen in the group | Trusted, often easier visa position | Counts only if they spend 182 days in India in the financial year | 
+An independent professional director | Fast; experienced in compliance | Check them carefully; agree indemnity, scope and fees in writing | 
+
+## What the resident director is responsible for
+
+A director is not a name on a form. Under section 166 they owe duties of good faith, care and diligence, and they can be treated as an “officer in default” for compliance failures they knew about. The biggest practical risk: if the company fails to file its financial statements or annual returns for three continuous financial years, every director is disqualified for five years from being appointed to any Indian company (section 164(2)). A director can also hold at most 20 directorships (10 public companies).
+
+## Protecting both sides
+
+- Board-approved limits: the resident director signs statutory filings; banking and contract authority stays with the parent’s nominees or needs dual signatures.
+
+- Reserved matters in the articles or shareholder resolutions: borrowing, new bank accounts, related-party deals, hiring above a level.
+
+- Indemnity and D&O insurance for the director, and a written engagement setting scope and fees.
+
+- A compliance calendar someone owns — most director problems start with missed AOC-4, MGT-7 or tax filings. See Indian subsidiary compliance.
+
+- Background checks on any independent director: other directorships, disqualifications, litigation — the same checks we run for partner due diligence.
+
+## Paperwork
+
+- Each director needs a Director Identification Number (DIN) and a digital signature certificate. At incorporation, DINs for up to three directors are allotted through the SPICe+ form.
+
+- Foreign directors’ passports and address proofs must be notarised and apostilled (or consularised) — usually the slowest step.
+
+- Directors appointed later are reported to the Registrar on Form DIR-12 within 30 days.
+
+- A foreign director who comes to India to work for the company needs an employment visa; a business visa generally covers board meetings and short visits.
+
+Not sure how to structure it? Book a free 15-minute call or compare entity types with the structure chooser.
+
+## Sources
+
+- Companies Act 2013 — India Code
+- Ministry of Corporate Affairs (MCA21)
+
+## Frequently asked questions
+Does a foreign-owned company in India need an Indian director?
+It needs a resident director, not an Indian one: at least one director must stay in India for 182 days or more in the financial year. Nationality does not matter, and the other directors can live abroad.
+
+Can an NRI be the resident director of an Indian company?
+Only if they actually spend at least 182 days in India during the financial year. An Indian citizen living abroad for most of the year does not meet the rule.
+
+What happens if a company does not have a resident director?
+It is in breach of section 149(3) of the Companies Act 2013. Fix it by appointing a director who meets the 182-day test and filing DIR-12 within 30 days.
+
+What is the biggest risk for a resident director?
+Disqualification: if the company fails to file financial statements or annual returns for three continuous financial years, its directors are disqualified for five years from other Indian directorships.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/talk-to-an-india-expert/
 ------------------------------------------------------------------------
 For companies outside India
@@ -148,6 +236,8 @@ More: doing business in India guide · India questions answered · India busines
 United StatesIndia subsidiaries, GCCs, partner checks.United KingdomCETA, partner checks, India entry.EuropeGermany, Netherlands, France, Nordics and more.UAE & GulfFrom our Dubai office.SingaporeHolding companies and India subsidiaries.JapanSubsidiaries, GCCs, reporting to Tokyo.Australia & NZECTA, the NZ trade deal.CanadaSubsidiaries and cross-border tax.Latin AmericaBrazil, Mexico and beyond.AfricaSourcing from India, investing in India.
 
 Other languages: 日本語 · Deutsch · Français · 한국어 · Español
+
+Need a director in India? Resident director: the 182-day rule and your options.
 
 ## Frequently asked questions
 Can a foreigner own 100% of a company in India?
@@ -3107,6 +3197,7 @@ Related: contact & office addresses · 한국어 · Français.
 See also: Latin America.
 Start small: an India Company Check on one Indian company — USD 249, report in 5 working days.
 Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
+Need a director in India? Resident director: the 182-day rule and your options.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Unfamiliar term? See the India business glossary for foreign companies.
 
@@ -3492,6 +3583,7 @@ By country: USA · UK · UAE · Singapore.
 Related: LLP vs private limited company · Singapore holding companies.
 See also: manufacturing in Gujarat.
 Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
+Need a director in India? Resident director: the 182-day rule and your options.
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
@@ -3589,6 +3681,7 @@ MCA deadlines now: AOC-4 & MGT-7 due dates extended to 31 Dec 2026 / 31 Jan 2027
 Related: Corporate Laws (Amendment) Bill 2026 · when you need a registered valuer.
 See also: forensic audit & fraud investigation in India.
 Guide: 12 warning signs of fraud in your Indian subsidiary.
+Need a director in India? Resident director: the 182-day rule and your options.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
@@ -5205,6 +5298,7 @@ Latest changes: India FDI & foreign investment updates 2026.
 Unfamiliar term? See the India business glossary for foreign companies.
 Coming change: draft FEMA Foreign Investment Rules.
 Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
+Need a director in India? Resident director: the 182-day rule and your options.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
