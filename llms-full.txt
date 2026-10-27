@@ -1637,7 +1637,7 @@ Key takeaways
 - 31 Dec: belated ITR, GSTR-9/9C and the FAST-DS foreign-asset window.
 
 Date | What’s due | Who | 
-29–30 Oct | AOC-4 (financial statements) — 30 days from an AGM held on 30 September; no extension announced | Companies | 
+29–30 Oct | AOC-4 original due date (30 days from a 30 September AGM) — additional fees waived until 31 December 2026 (MCA General Circular 05/2026) | Companies | 
 30 Oct | LLP Form 8 (statement of account and solvency) | LLPs | 
 31 Oct | Form 3CEB transfer-pricing report — not covered by the CBDT extension | Companies with international transactions | 
 31 Oct | TDS and TCS returns for July–September | Deductors and collectors | 
@@ -1646,7 +1646,7 @@ Date | What’s due | Who |
 15 Nov | PF / ESI for October; TDS certificates for July–September | Employers; deductors | 
 20 Nov | GSTR-3B for October | Monthly GST filers | 
 21 Nov | Income-tax return for audit cases (CBDT Circular 7/2026) | Companies, audited businesses, partners of audited firms | 
-29 Nov | MGT-7 annual return — 60 days from a 30 September AGM | Companies | 
+29 Nov | MGT-7 original due date (60 days from a 30 September AGM) — additional fees waived until 31 January 2027 | Companies | 
 30 Nov | Income-tax return for transfer-pricing cases | Companies with Form 3CEB | 
 30 Nov | Liaison office annual statement — Form 162 (formerly 49C) for the year to 31 March 2026 under the earlier rules | Foreign companies with an Indian liaison office | 
 2–4 Dec | RBI Monetary Policy Committee meeting | Borrowers, NRIs, investors | 
@@ -1662,7 +1662,7 @@ Date | What’s due | Who |
 
 - Transfer-pricing cases were not extended: Form 3CEB is due 31 October and the ITR 30 November. See Form 3CEB due date.
 
-- No MCA extension yet for AOC-4 and MGT-7, despite an industry request — late fees run per day.
+- MCA relief (24 October): AOC-4 can be filed without additional fees until 31 December 2026 and MGT-7/MGT-7A until 31 January 2027. Miss those dates and fees run from the original due date. AGM deadlines and ADT-1 are not extended — details.
 
 - FAST-DS closes on 31 December — see the FAST-DS guide.
 
@@ -1676,7 +1676,6 @@ Earlier dates: October–November 2026 calendar · ITR details: ITR due dates 20
 - FAST-DS FAQs (income-tax department)
 - Taxscan — GSTR-9/9C enabled for FY 2025-26
 - TaxGuru — ICSI seeks MCA filing extension
-MCA deadlines: AOC-4 & MGT-7 due dates 2026.
 
 ## Frequently asked questions
 What is the ITR due date for audit cases in 2026?
@@ -1689,7 +1688,7 @@ What is the last date for GSTR-9 and GSTR-9C for FY 2025-26?
 31 December 2026. GSTR-9 is optional for turnover up to ₹2 crore; GSTR-9C applies above ₹5 crore.
 
 Has the AOC-4 / MGT-7 due date been extended for 2026?
-No extension had been announced by late October 2026, though an industry body requested one; companies with a 30 September AGM should file AOC-4 by 29–30 October and MGT-7 by 29 November.
+Yes. MCA General Circular 05/2026 (24 October 2026) allows AOC-4 to be filed without additional fees until 31 December 2026 and MGT-7/MGT-7A until 31 January 2027 for FY 2025-26. Filing after those dates attracts fees from the original due date; AGM deadlines are not extended.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -3475,7 +3474,7 @@ Dividends, service fees, royalties and interest each carry Indian withholding ta
 - On the ground when needed: offices in Ahmedabad, Mumbai, Bengaluru, Rajkot and Dubai for site visits, bank meetings and management interviews.
 
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
-MCA deadlines now: AOC-4 & MGT-7 due dates 2026.
+MCA deadlines now: AOC-4 & MGT-7 due dates extended to 31 Dec 2026 / 31 Jan 2027.
 Related: Corporate Laws (Amendment) Bill 2026 · when you need a registered valuer.
 See also: forensic audit & fraud investigation in India.
 Guide: 12 warning signs of fraud in your Indian subsidiary.
@@ -6579,7 +6578,7 @@ NRI investing
 
 Jio Platforms’ IPO closed for bidding on 23 October 2026, with allotment due on 26 October and listing on 28 October. Here’s how NRIs apply in Indian IPOs, what happens after bidding closes, and the tax.
 
-By CA Durgesh Chavda·Last reviewed 24 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 27 October 2026·6 min read
 
 Plan your IPO investment
 hello@durgeshchavda.com
@@ -6631,6 +6630,7 @@ Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% abov
 - Zerodha support — NRI IPO applications
 Related: moving back to India.
 Jio Platforms IPO closed 23 October 2026: subscribed about 22.19 times overall, per NSE data at 7 pm — qualified institutions about 70.5x, non-institutional investors about 14x and retail about 2.7x (Upstox). With retail oversubscribed, retail allotment is by lottery — many applicants will get no shares and their blocked money is released.
+Jio Platforms lists on 28 October 2026 (issue price ₹1,119; lot of 12 shares). If you sell on listing day, the gain is short-term and taxed at 20% plus 4% cess (plus surcharge where applicable). Illustration: for every ₹100 gain per share, a 12-share lot makes ₹1,200 — tax of about ₹250 before surcharge. Hold beyond 12 months and gains above ₹1.25 lakh a year are taxed at 12.5%. NRIs: the broker deducts TDS — see NRIs in IPOs.
 
 ## After bidding closes: allotment, refunds and listing
 
