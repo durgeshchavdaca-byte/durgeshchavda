@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-27. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-28. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -6870,7 +6870,7 @@ NRI investing
 
 Jio Platforms’ IPO closed for bidding on 23 October 2026, with allotment due on 26 October and listing on 28 October. Here’s how NRIs apply in Indian IPOs, what happens after bidding closes, and the tax.
 
-By CA Durgesh Chavda·Last reviewed 27 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 28 October 2026·6 min read
 
 Plan your IPO investment
 hello@durgeshchavda.com
@@ -6922,7 +6922,7 @@ Sell within 12 months: 20% short-term capital gains. After 12 months: 12.5% abov
 - Zerodha support — NRI IPO applications
 Related: moving back to India.
 Jio Platforms IPO closed 23 October 2026: subscribed about 22.19 times overall, per NSE data at 7 pm — qualified institutions about 70.5x, non-institutional investors about 14x and retail about 2.7x (Upstox). With retail oversubscribed, retail allotment is by lottery — many applicants will get no shares and their blocked money is released.
-Jio Platforms lists on 28 October 2026 (issue price ₹1,119; lot of 12 shares). If you sell on listing day, the gain is short-term and taxed at 20% plus 4% cess (plus surcharge where applicable). Illustration: for every ₹100 gain per share, a 12-share lot makes ₹1,200 — tax of about ₹250 before surcharge. Hold beyond 12 months and gains above ₹1.25 lakh a year are taxed at 12.5%. NRIs: the broker deducts TDS — see NRIs in IPOs.
+Jio Platforms listed on 28 October 2026 at ₹1,358 on NSE and BSE, a 21.36% premium to the ₹1,119 issue price (lot of 12 shares). If you sold at the listing price, the gain is ₹239 a share, or ₹2,868 per lot. That is a short-term gain taxed at 20% plus 4% cess (plus surcharge where applicable): about ₹597 per lot before surcharge. Hold beyond 12 months and gains above ₹1.25 lakh a year are taxed at 12.5%. NRIs: the broker deducts TDS. See NRIs in IPOs. Listing price as reported by Groww, Upstox and National Herald; your actual sale price sets your gain.
 
 ## After bidding closes: allotment, refunds and listing
 
