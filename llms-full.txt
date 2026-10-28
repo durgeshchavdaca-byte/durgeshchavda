@@ -1057,6 +1057,22 @@ Japan’s Unfair Competition Prevention Act amendments (effective 1 April 2024) 
 
 - The India–Japan Comprehensive Economic Partnership Agreement has applied since 2011; treaty rates on payments to Japan need a tax residency certificate and Form 41.
 
+## Japanese companies in Gujarat
+
+From our Ahmedabad office we reach Sanand, Mandal–Becharaji, Hansalpur and Dholera within a day for site visits, plant set-up meetings and supplier checks, and GIFT City in about 30 minutes.
+
+Topic | What it means for a Japanese parent | 
+
+India–Japan tax treaty | Indian tax on dividends, interest, royalties and fees for technical services paid to Japan is capped at 10% (about 20% under domestic law), with a Japanese residence certificate and Form 41. | 
+
+India–Japan CEPA | In force since August 2011. Certificates of origin matter for machinery and parts imported from Japan. | 
+
+Year-end | Indian companies close on 31 March, as most Japanese listed parents do, so monthly closes and reporting packages can follow the parent’s calendar. | 
+
+J-SOX | Where the Indian subsidiary is within the parent’s internal-control scope, controls need documentation and testing evidence. | 
+
+Japanese summary: 日本語の概要 · due diligence for Japanese companies · setting up a plant in Gujarat.
+
 ## Frequently asked questions
 Do you support Japanese companies in India?
 Yes — subsidiary and GCC set-up, accounting, GST, transfer pricing, reporting to the Japanese parent, and due diligence on Indian partners and suppliers, with reports in English and a Japanese overview page.
@@ -1064,12 +1080,16 @@ Yes — subsidiary and GCC set-up, accounting, GST, transfer pricing, reporting 
 Is there a trade agreement between India and Japan?
 Yes. The India–Japan Comprehensive Economic Partnership Agreement has applied since 2011.
 
+What is the withholding tax on dividends paid from India to Japan?
+Under the India–Japan tax treaty, Indian tax on dividends paid to a Japanese resident is capped at 10%, provided the parent gives a Japanese tax residence certificate and Form 41. Without them, the domestic rate (about 20% plus surcharge and cess) applies.
+
 On this page
 
 - Set-up and GCCs
 - Partner and supplier checks
 - Tax and reporting
 - FAQ
+- Japanese companies in Gujarat
 
 Ask Durgesh
 
