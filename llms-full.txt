@@ -74,6 +74,77 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-japan-withholding-tax-payments/
+------------------------------------------------------------------------
+Japan · Tax
+
+# Paying your Japanese parent from India: withholding tax and the 10% treaty rate
+
+When an Indian subsidiary pays dividends, royalties, technical fees or interest to its parent in Japan, India deducts tax at source. The India–Japan tax treaty caps that tax at 10%, against about 20% under Indian law, but only if the paperwork is in place before the payment.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get the treaty rate right
+hello@durgeshchavda.com
+
+Key takeaways
+- India–Japan treaty: 10% cap on dividends, interest, royalties and technical fees (domestic about 20%).
+- Get the TRC and Form 41 before paying; remit with Forms 145/146.
+- GST under reverse charge on imported services; transfer pricing on every related-party payment.
+
+## Rates at a glance
+
+Payment to Japan | Indian domestic rate | India–Japan treaty cap | Watch out | 
+Dividends | 20% plus surcharge and cess | 10% | Board-declared dividend; Form 41 and TRC before payment | 
+Interest on loans from the parent | 20% plus surcharge and cess (lower rates for some approved borrowings) | 10% | Loans from Japan are external commercial borrowings: check ECB rules first | 
+Royalties (brand, technology licences) | 20% plus surcharge and cess | 10% | Royalty must be at arm’s length: transfer pricing applies | 
+Fees for technical services | 20% plus surcharge and cess | 10% | Group service charges: keep evidence the services were actually rendered | 
+
+The rate actually applied is the lower of the domestic rate and the treaty rate, provided the Japanese recipient is the beneficial owner and the documents below are in place.
+
+## The paperwork, before you pay
+
+- Tax residency certificate from the Japanese tax authorities for the parent company.
+
+- Form 41 (the declaration that replaced Form 10F from 1 April 2026), with the parent’s details. See Form 41 and the no-PE declaration.
+
+- A no permanent establishment declaration where relevant, so the payment is not treated as business income of a Japanese office in India.
+
+- Form 145 online and, where required, a chartered accountant’s certificate in Form 146 (the old 15CA and 15CB) for the bank to remit.
+
+## GST on royalties and service fees
+
+When the Indian company imports services from Japan (technology licences, group management services, engineering support), GST is usually paid by the Indian company itself under reverse charge, and can normally be claimed back as input-tax credit if the company makes taxable supplies.
+
+## Transfer pricing
+
+Royalties, service fees and interest paid to the parent are related-party transactions. They need to be priced at arm’s length and documented every year, or the deduction in India can be cut in an assessment. For new Japanese subsidiaries, set the transfer pricing policy before the first invoice.
+
+## How we help
+
+We set up the treaty paperwork, review the agreements behind the payments, handle the remittance forms with the bank, and keep transfer pricing documentation in order, reporting to Japan in English. See India advisory for Japanese companies and India tax for foreign companies. 日本語: 日本語の概要.
+
+## Sources
+
+- Embassy of Japan in India — Protocol amending the India–Japan tax convention
+- Income Tax Department — Notification 1136/2006 (India–Japan protocol)
+
+## Frequently asked questions
+What is the withholding tax on royalties paid from India to Japan?
+Under the India–Japan tax treaty, Indian tax on royalties paid to a Japanese beneficial owner is capped at 10% of the gross amount, provided the recipient gives a Japanese tax residency certificate and Form 41. Otherwise the domestic rate of 20% plus surcharge and cess applies.
+
+Is the treaty rate on dividends from India to Japan 10%?
+Yes. The India–Japan treaty, as amended by the 2006 protocol, caps Indian tax on dividends paid to a Japanese resident at 10%.
+
+Which forms are needed to remit money from India to Japan in 2026?
+From 1 April 2026 the bank needs Form 145 (formerly 15CA) and, for larger taxable payments, a chartered accountant's certificate in Form 146 (formerly 15CB); the treaty rate also needs a tax residency certificate and Form 41.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Managing Partner at Finvy, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/due-diligence-india-canadian-companies/
 ------------------------------------------------------------------------
 Due diligence in India
@@ -1072,6 +1143,8 @@ Year-end | Indian companies close on 31 March, as most Japanese listed parents d
 J-SOX | Where the Indian subsidiary is within the parent’s internal-control scope, controls need documentation and testing evidence. | 
 
 Japanese summary: 日本語の概要 · due diligence for Japanese companies · setting up a plant in Gujarat.
+
+Paying a parent in Japan? India–Japan withholding tax and the 10% treaty rate.
 
 ## Frequently asked questions
 Do you support Japanese companies in India?
@@ -3867,6 +3940,7 @@ Selling online services to Indian consumers or unregistered businesses? You like
 
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
 Related: tax notices and representation · paying Indian freelancers.
+Paying a parent in Japan? India–Japan withholding tax and the 10% treaty rate.
 
 ## Frequently asked questions
 Why is my Indian customer deducting tax from my invoice?
