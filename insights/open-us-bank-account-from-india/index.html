@@ -259,7 +259,7 @@
 !function(){const nav=document.getElementById('nav'),nights=[...document.querySelectorAll('[data-night]')];function f(){const p=scrollY+36;nav.classList.toggle('dark',nights.some(n=>n.offsetTop<=p&&n.offsetTop+n.offsetHeight>p))}addEventListener('scroll',f,{passive:true});f();
 const b=document.getElementById('menuBtn'),m=document.getElementById('mnav');function c(){m.classList.remove('open');b.setAttribute('aria-expanded','false');b.textContent='Menu'}b.addEventListener('click',()=>{const o=m.classList.toggle('open');b.setAttribute('aria-expanded',o);b.textContent=o?'Close':'Menu'});m.querySelectorAll('a').forEach(a=>a.addEventListener('click',c));document.addEventListener('click',e=>{if(m.classList.contains('open')&&!m.contains(e.target)&&e.target!==b)c()})}();
 document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){return((new FormData(f)).get(k)||'').toString().trim()}function txt(){var s=v('svc'),c=v('cty'),n=v('n'),co=v('co'),m=v('m');return 'Hi Durgesh, I\'m '+(n||'—')+(co?' ('+co+')':'')+'.\nI need: '+s+'\nBased in: '+c+(m?'\nDetails: '+m:'')+'\n(sent from durgeshchavda.com'+location.pathname+')'}var ok=f.querySelector('.enq-ok'),er=f.querySelector('.enq-err'),bt=f.querySelector('[type=submit]');f.addEventListener('submit',function(e){e.preventDefault();ok.hidden=true;er.hidden=true;var em=v('e');if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em)){er.textContent='Please add your email so Durgesh can reply — or use WhatsApp.';er.hidden=false;f.querySelector('[name=e]').focus();return}if(v('_honey'))return;bt.disabled=true;var s=v('svc'),c=v('cty');fetch('https://formsubmit.co/ajax/hello@durgeshchavda.com',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify({_subject:'Website enquiry: '+s+(c?' — '+c:''),_template:'table',_replyto:em,name:v('n'),email:em,company:v('co'),service:s,based_in:c,message:v('m'),page:location.href})}).then(function(r){return r.json()}).then(function(j){if(j&&(j.success===true||j.success==='true')){ok.hidden=false;f.querySelectorAll('input:not([type=radio]),textarea').forEach(function(x){x.value=''})}else{throw 0}}).catch(function(){er.innerHTML='Sorry, that didn&rsquo;t go through. Please email <a href="mailto:hello@durgeshchavda.com">hello@durgeshchavda.com</a> or use WhatsApp +91 78018 87130.';er.hidden=false}).then(function(){bt.disabled=false})});f.querySelector('[data-wa]').addEventListener('click',function(){window.open('https://wa.me/917801887130?text='+encodeURIComponent(txt()),'_blank','noopener')});f.querySelector('[data-mail]').addEventListener('click',function(){var fb=f.querySelector('.enq-fb');if(fb)setTimeout(function(){fb.hidden=false},1200);location.href='mailto:hello@durgeshchavda.com?subject='+encodeURIComponent('Enquiry: '+v('svc')+(v('cty')?' — '+v('cty'):''))+'&body='+encodeURIComponent(txt())})});
-/* Talk to Durgesh — free WhatsApp chat (first 10 messages) + paid 30-min call via Topmate (₹499 India / USD 10 outside India). 26 Oct 2026 */
+/* Talk to Durgesh (28 Oct: visitors outside India get 'Free 15-min call' + one nudge per session) — free WhatsApp chat (first 10 messages) + paid 30-min call via Topmate (₹499 India / USD 10 outside India). 26 Oct 2026 */
 !function(){
   if (document.getElementById('td-root')) return;
   var CALL_IN = 'https://topmate.io/cadurgesh_chavda/741479';   // swap for the ₹499 Topmate service link
@@ -268,7 +268,8 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
   var WA = 'https://wa.me/917801887130?text=';
   var tz = ''; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
   var india = /Calcutta|Kolkata/.test(tz);
-  var biz = /due-diligence|forensic|company-check|supplier|partner|india-entry|subsidiary|representative|international|aeo|us-company-formation|market-entry|promoter|\/ja\/|\/de\/|\/fr\/|\/ko\/|\/es\//.test(location.pathname);
+  var foreign = !!tz && !india; // visitor outside India: lead with the free intro call
+  var biz = /due-diligence|forensic|company-check|supplier|partner|india-entry|subsidiary|representative|international|aeo|us-company-formation|market-entry|promoter|\/ja\/|\/de\/|\/fr\/|\/ko\/|\/es\//.test(location.pathname) || foreign;
   var css = '#td-root{position:fixed;right:18px;bottom:18px;z-index:9999;font-family:inherit}'
     + '#td-btn{display:flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:12px 18px;background:var(--ink,#111);color:var(--paper,#fff);font:600 15px/1 inherit;cursor:pointer;box-shadow:0 8px 24px rgba(0,0,0,.18)}'
     + '#td-btn .dot{width:8px;height:8px;border-radius:50%;background:#25d366}'
@@ -280,6 +281,8 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
     + '.td-opt.wa b:before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:#25d366;margin-right:8px;vertical-align:middle}'
     + '.td-x{position:absolute;top:10px;right:12px;border:0;background:none;font-size:18px;cursor:pointer;color:inherit}'
     + '.td-note{font-size:12px!important;margin:6px 0 0!important}'
+    + '#td-nudge{position:absolute;right:0;bottom:60px;width:min(300px,calc(100vw - 32px));background:var(--paper,#fff);color:var(--ink,#111);border:1px solid var(--line,#ddd);border-radius:14px;box-shadow:0 12px 36px rgba(0,0,0,.16);padding:14px 34px 14px 14px;font-size:14px;line-height:1.45;display:none}'
+    + '#td-nudge a{display:inline-block;margin-top:8px;font-weight:600;color:inherit}#td-root.nudge #td-nudge{display:block}#td-root.open #td-nudge{display:none}'
     + '@media print{#td-root{display:none}}';
   var st = document.createElement('style'); st.textContent = css; document.head.appendChild(st);
   var page = location.pathname;
@@ -298,13 +301,24 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
     + '<a class="td-opt" href="/consult/" data-td="how"><b>How it works</b><span>What the free chat covers, and when a call makes sense.</span></a>'
     + '<p class="td-note">General guidance only. Detailed advice, document review and filings are quoted separately.</p>'
     + '</div>'
-    + '<button id="td-btn" type="button" aria-expanded="false" aria-controls="td-panel"><span class="dot"></span>Talk to Durgesh</button>';
+    + (foreign ? '<div id="td-nudge" role="status"><button class="td-x td-nx" type="button" aria-label="Dismiss">×</button><b>Planning business in India?</b><br>Talk to a Chartered Accountant in India for 15 minutes, free: entity setup, partner checks, FDI rules and tax. Slots show in your time zone.<br><a href="' + INTRO + '" target="_blank" rel="noopener" data-td="nudge">Book a free call →</a></div>' : '')
+    + '<button id="td-btn" type="button" aria-expanded="false" aria-controls="td-panel"><span class="dot"></span>' + (foreign ? 'Free 15-min call' : 'Talk to Durgesh') + '</button>';
   document.body.appendChild(root);
   var btn = root.querySelector('#td-btn');
   function set(o){ root.classList.toggle('open', o); btn.setAttribute('aria-expanded', o ? 'true' : 'false'); }
   btn.addEventListener('click', function(){ set(!root.classList.contains('open')); });
   root.querySelector('.td-x').addEventListener('click', function(){ set(false); });
   document.addEventListener('keydown', function(e){ if (e.key === 'Escape') set(false); });
+  // one gentle nudge per session for visitors outside India
+  var nudge = root.querySelector('#td-nudge');
+  if (nudge) {
+    var seen = false; try { seen = sessionStorage.getItem('td-nudge') === '1'; } catch (e) {}
+    function hideNudge(){ root.classList.remove('nudge'); try { sessionStorage.setItem('td-nudge', '1'); } catch (e) {} }
+    nudge.querySelector('.td-nx').addEventListener('click', hideNudge);
+    nudge.querySelector('a').addEventListener('click', hideNudge);
+    btn.addEventListener('click', hideNudge);
+    if (!seen) setTimeout(function(){ if (!root.classList.contains('open')) root.classList.add('nudge'); }, 20000);
+  }
 }();
 
 </script>
