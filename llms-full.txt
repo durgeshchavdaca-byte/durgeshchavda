@@ -74,6 +74,107 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/tools/ipo-tax-calculator/
+------------------------------------------------------------------------
+Free tool
+
+# IPO tax calculator: how much tax on your IPO profit?
+
+Enter your allotment price, selling price and number of shares to see the tax on your IPO gain, the cess and surcharge, and what you keep. Pre-filled with Jio Platforms’ listing (₹1,119 issue price, ₹1,358 listing price, 12-share lot).
+
+Ask about your IPO tax
+hello@durgeshchavda.com
+
+## How IPO gains are taxed (FY 2026-27)
+
+When you sell | Tax | Notes | 
+
+Within 12 months of allotment (including listing day) | 20% short-term capital gains | Plus surcharge (capped at 15%) and 4% cess. Selling on listing day is a delivery sale, not intraday. | 
+
+After 12 months | 12.5% on long-term gains above ₹1.25 lakh a year | The ₹1.25 lakh exemption is shared across all listed shares and equity funds. | 
+
+- Cost: your allotment (issue) price. Brokerage on sale is deductible; securities transaction tax (STT) is not.
+
+- Losses: a short-term loss can be set off against short- or long-term gains; a long-term loss only against long-term gains. Carry forward up to 8 years if you file on time.
+
+- NRIs: the broker deducts tax at source on the gain. File an Indian return to claim back any excess. See NRIs in IPOs.
+
+Worked examples and the full rules: tax on IPO listing gains in India.
+
+## Frequently asked questions
+How much tax do I pay on IPO profit in India?
+If you sell within 12 months of allotment, the gain is short-term and taxed at 20% plus 4% cess (and surcharge if your income is above ₹50 lakh). After 12 months, gains above ₹1.25 lakh a year are taxed at 12.5% plus cess.
+
+Is IPO listing gain taxable if I sell on listing day?
+Yes. Shares allotted in an IPO and sold on listing day are a delivery sale, so the gain is a short-term capital gain taxed at 20% plus cess, not speculative income.
+
+How much tax on Jio Platforms listing gains?
+Jio Platforms listed at ₹1,358 against a ₹1,119 issue price. On a 12-share lot sold at the listing price, the gain is ₹2,868 and the tax is about ₹597 (20% plus 4% cess, before any surcharge).
+
+Do NRIs pay tax on IPO gains in India?
+Yes, at the same rates. The broker deducts the tax at source when the shares are sold; NRIs can file an Indian return to claim back any excess.
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/tools/gold-tax-calculator/
+------------------------------------------------------------------------
+Free tool
+
+# Gold tax calculator: tax on selling gold in 2026
+
+Selling old jewellery before Dhanteras (6 November 2026), or booking profit on gold ETFs? See the tax on your gain, then read the rules for buying, gifting and holding gold.
+
+Ask about your gold tax
+hello@durgeshchavda.com
+
+## How gold is taxed when you sell
+
+Type of gold | Long-term after | Long-term tax | Short-term tax | 
+
+Jewellery, coins, bars, digital gold | 24 months | 12.5%, no indexation | Your slab rate | 
+
+Gold ETFs (listed) | 12 months | 12.5% | Your slab rate | 
+
+Gold mutual funds (fund of funds) | 24 months | 12.5% | Your slab rate | 
+
+Plus 4% cess, and surcharge if your income is above ₹50 lakh (capped at 15% on long-term gains). Keep the original bill: without it, proving your cost is hard.
+
+## Buying gold this Dhanteras
+
+- GST: 3% on the value of the gold, plus 5% on making charges.
+
+- PAN: needed for jewellery purchases of ₹2 lakh or more.
+
+- Cash: a jeweller cannot accept ₹2 lakh or more in cash from you for one purchase; pay by card, UPI or bank transfer.
+
+- Exchanging old jewellery: swapping old gold for new is treated as selling the old piece, so a gain can arise.
+
+## Gold as a gift
+
+Gold received from relatives, or on your marriage, is not taxed. Gifts from friends and others are taxed as income if their total value in the year is above ₹50,000. When you later sell gifted or inherited gold, the original owner’s cost and holding period carry over to you.
+
+## How much gold can you keep at home?
+
+There is no legal limit on owning gold you can explain. Under CBDT Instruction No. 1916 (1994), during a tax search officers do not seize jewellery up to 500 g for a married woman, 250 g for an unmarried woman and 100 g for a man, even without documents. Above that, keep bills, gift records or inheritance papers.
+
+NRIs bringing gold to India: customs rules apply. See NRI tax services. Selling property instead? Use the property capital gains calculator.
+
+## Frequently asked questions
+What is the tax on selling gold jewellery in 2026?
+If you held it for more than 24 months, the gain is long-term and taxed at 12.5% without indexation, plus cess. If you held it for 24 months or less, the gain is added to your income and taxed at your slab rate.
+
+Is there tax on gold ETF profit?
+Yes. Gold ETFs held for more than 12 months are taxed at 12.5% on the gain; within 12 months the gain is taxed at your slab rate.
+
+How much gold can I keep at home in India?
+There is no legal limit if you can explain the source. Under CBDT Instruction 1916, officers do not seize up to 500 g for a married woman, 250 g for an unmarried woman and 100 g for a man during a search, even without documents.
+
+Is gold received as a gift taxable?
+Not if it comes from a relative or on your marriage. Gifts from others are taxable if their total value in the year exceeds ₹50,000.
+
+Is PAN required to buy gold on Dhanteras?
+Yes, for jewellery purchases of ₹2 lakh or more. Jewellers also cannot accept ₹2 lakh or more in cash for a purchase.
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/how-to-choose-an-advisor-in-india/
 ------------------------------------------------------------------------
 For companies outside India
