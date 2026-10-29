@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-28. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-29. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -7059,6 +7059,8 @@ By CA Durgesh Chavda·Last reviewed 28 October 2026·6 min read
 
 Plan your IPO investment
 hello@durgeshchavda.com
+
+Free tool: IPO tax calculator: enter your allotment price, selling price and shares to see your exact tax.
 
 Quick answers
 - Can NRIs apply for IPOs in India? Yes — through ASBA from an NRE or NRO account, holding the shares in an NRI demat account.
