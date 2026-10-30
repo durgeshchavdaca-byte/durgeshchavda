@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-29. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-10-30. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -6312,7 +6312,7 @@ Foreign vendor guide
 
 Indian customers withhold tax from many payments to foreign suppliers. These three documents are how you get your treaty rate instead of 20% — here’s what each one is and how to get it right.
 
-By CA Durgesh Chavda·Last reviewed 25 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 30 October 2026·6 min read
 
 Get your vendor pack ready
 hello@durgeshchavda.com
@@ -6342,15 +6342,21 @@ No-PE declaration | Your statement that you have no permanent establishment in I
 
 Beneficial ownership declaration | That you are the beneficial owner of the income | You, on letterhead (often combined) | 
 
-PAN | Indian tax ID — avoids higher withholding and is needed to file Form 41 online | Indian income-tax department, on application | 
+PAN | Indian tax ID: helps avoid higher withholding and is needed to file an Indian return. Not needed for Form 41, which can be filed without a PAN. | Indian income-tax department, on application | 
 
-## Form 41: the new name for Form 10F
+## Form 41: the new name for Form 10F (what the official FAQ says)
 
-- From 1 April 2026, the Income-tax Rules, 2026 renumbered Form 10F as Form 41. Indian payers may still say “10F”.
+- From 1 April 2026, Form 10F (section 90(5) of the 1961 Act, Rule 21AB) became Form 41, a self-declaration under section 159(8) of the Income-tax Act, 2025 and Rule 75 of the Income-tax Rules, 2026. Indian payers may still say “10F”.
 
-- It is filed electronically on the income-tax portal, which needs a PAN-based login for the non-resident.
+- Mandatory for a non-resident to claim treaty benefits. Without a valid Form 41 (with the TRC), the Indian payer must deduct tax at the full domestic rate, and an exemption claimed in a return is taxed at Indian rates.
 
-- File it for each tax year (April–March), matched to the period on your TRC.
+- Online only, on the income-tax e-filing portal. No PAN needed: non-residents without a PAN register under the new “non-residents without PAN” category and verify by OTP sent to phone and email. With a PAN, verify by EVC (bank or demat account), net banking or a digital signature.
+
+- Once per tax year (April to March). There is no fixed deadline, but it must be in place when treaty benefits are claimed, so file it before the first payment of the year.
+
+- Attach: your tax residency certificate, valid for the relevant Indian financial year, and your tax identification number from your home country.
+
+- Cannot be edited once submitted and acknowledged, so check every detail first. No proof of tax payment is needed, and Aadhaar is not required.
 
 ## Is the no-PE declaration true for you?
 
@@ -6395,8 +6401,8 @@ We can prepare this pack for you — India tax for foreign companies.
 
 ## Sources
 
+- Income Tax Department — Form 41 FAQs
 - Income Tax Department — Form 41 note
-- Income-tax Act, 2025 — section 207 (Taxsutra)
 
 ## Frequently asked questions
 Is Form 41 the same as Form 10F?
@@ -6409,7 +6415,16 @@ What is a no PE declaration?
 A declaration by a foreign company that it has no permanent establishment in India. Indian payers use it, with a TRC and Form 41, to apply treaty rates — for business profits, usually nil withholding.
 
 Is a PAN mandatory for a foreign company receiving payments from India?
-Not always, but without a PAN the payer may have to withhold at a higher rate unless prescribed details are provided, and filing Form 41 online or an Indian return needs one.
+Not always. Without a PAN the payer may have to withhold at a higher rate unless prescribed details are provided, and filing an Indian return needs one. Form 41 itself can be filed without a PAN.
+
+Can Form 41 be filed without a PAN?
+Yes. According to the Income Tax Department's Form 41 FAQs, non-residents without a PAN can register on the e-filing portal under the category for non-residents without PAN and file Form 41 online, verifying by OTP.
+
+Is Form 41 mandatory, and how often is it filed?
+Yes, it is mandatory to claim treaty benefits. It is filed online once per tax year, with a tax residency certificate valid for that year and your home-country tax identification number.
+
+Can I edit Form 41 after submitting it?
+No. Once Form 41 is submitted and the acknowledgement is generated, it cannot be edited, so check the details before you submit.
 
 How long is a TRC valid for Indian treaty purposes?
 It covers the period stated on it — usually a tax year. Provide a TRC and Form 41 covering each period in which you receive payments.
@@ -6655,7 +6670,7 @@ The India–US treaty doesn’t tax every technical fee at source. “Fees for i
 
 ### When an Indian payer pays a US person or company
 
-- The US recipient provides a Tax Residency Certificate (for US residents, typically IRS Form 6166) and the self-declaration India requires (Form 10F, filed electronically).
+- The US recipient provides a Tax Residency Certificate (for US residents, typically IRS Form 6166) and the self-declaration India requires (Form 41, formerly Form 10F, filed electronically).
 
 - The Indian payer applies the lower of the domestic or treaty rate, and completes the remittance documentation with its bank and chartered accountant.
 
