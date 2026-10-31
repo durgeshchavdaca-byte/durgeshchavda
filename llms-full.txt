@@ -2392,6 +2392,7 @@ Last updated: 24 October 2026. India’s first-quarter FDI equity inflows for 20
 ## Updates, newest first
 Date | Area | What changed | 
 30 Oct 2026 | SEBI | FPI KYC review eased: the periodic review of foreign portfolio investors’ KYC moves from one year to two years, and from three years to eight years, depending on the category (as reported from SEBI’s statement). | 
+29 Oct 2026 | Enforcement Directorate (FEMA) | Searches in Bengaluru and Madhya Pradesh over alleged crypto-based cross-border transfers. In one matter the ED alleges a Delaware entity linked to Instadapp/Fluid was a paper company run from India (preliminary contravention about USD 40 million). Allegations only. Founder checklist: ODI, APR and POEM. | 
 27 Oct 2026 | Government (under consideration) | Lighter FDI paperwork being considered under Press Note 2 of 2026 for foreign entities with up to 10% non-controlling land-border ownership (Business Standard). Not yet notified. | 
 24 Oct 2026 | MCA | General Circular 05/2026: AOC-4 without additional fees until 31 Dec 2026, MGT-7/7A until 31 Jan 2027 (FY 2025-26); AGM dates not extended. Our guide | 
 23 Oct 2026 | Markets | Jio Platforms’ ₹30,213 crore IPO (fresh issue) closes about 22.19x subscribed — institutions about 70.5x, retail about 2.7x. Allotment 26 Oct, listing 28 Oct (tentative). NRIs in IPOs · source | 
