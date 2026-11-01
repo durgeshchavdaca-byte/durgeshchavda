@@ -111,11 +111,11 @@ UK practice? See outsourced accounting for UK accountancy practices.
 
 - Social Security numbers. A full SSN can go offshore only if the consent covers it and both firms maintain an adequate data protection safeguard. Otherwise SSNs are masked before files reach us.
 
-- PTINs. Anyone who prepares or helps prepare federal returns for compensation needs a PTIN, so staff working on your returns hold one before tax-prep work begins.
+- PTINs. Anyone who prepares or helps prepare federal returns for compensation needs a PTIN, so we arrange PTINs for the staff assigned to your returns before any tax-prep work starts.
 
 - Your EFIN and signature. We never sign or e-file. Your licensed preparer reviews, signs and files.
 
-- Your security plan. Tax preparers must keep a written information security plan. We work inside yours: your remote desktop or portal, multi-factor logins you create and can revoke, and no client files saved on local machines.
+- Your security plan. Tax preparers must keep a written information security plan. We work inside yours: your remote desktop or portal, with multi-factor logins you create and can revoke, so client files stay in your environment.
 
 Full guide: outsourcing tax preparation to India: Section 7216, PTIN and security.
 
@@ -157,10 +157,10 @@ Which returns can you prepare for a CPA firm?
 We prepare Form 1040 individual returns and Forms 1065, 1120-S and 1120 business returns as drafts with workpapers, for your licensed preparer to review, sign and file. We also handle bookkeeping, monthly close, 1099 listings and audit workpapers.
 
 Do your staff need a PTIN to work on US returns?
-Yes. The IRS requires anyone who prepares or assists in preparing federal tax returns for compensation to have a PTIN, including preparers outside the US. Our staff on your returns hold one before tax-prep work begins.
+Yes. The IRS requires anyone who prepares or assists in preparing federal tax returns for compensation to have a PTIN, including preparers outside the US. We arrange PTINs for the staff assigned to your returns before any tax-prep work starts.
 
 How do you protect client data?
-We sign confidentiality and data-processing agreements before access, work inside your systems through logins you control and can revoke, and do not keep client files on local machines. You decide what we can see.
+We sign confidentiality and data-processing agreements before access, work inside your systems through logins you control and can revoke, and can work entirely inside your systems so client files stay with you. You decide what we can see.
 
 How much does outsourced accounting from India cost?
 It is quoted per return or as a fixed monthly fee once we see your volumes and return types, and is usually well below the cost of a local hire. Start with a pilot on a few files to judge quality first.
@@ -216,9 +216,9 @@ From 6 April 2026, sole traders and landlords with qualifying income (gross, not
 
 ## UK GDPR and AML
 
-- International transfers. The UK has no adequacy regulations for India, so personal data sent to us needs an appropriate safeguard, usually the ICO’s International Data Transfer Agreement (IDTA) or the UK Addendum to the EU standard contractual clauses, plus a transfer risk assessment. We sign the agreement before any access.
+- International transfers. The UK has no adequacy regulations for India, so personal data sent to us needs an appropriate safeguard, usually the ICO’s International Data Transfer Agreement (IDTA) or the UK Addendum to the EU standard contractual clauses, plus a transfer risk assessment. We sign one with you before any access.
 
-- Your systems. We work inside your practice software and portals, with logins you create and can revoke. Client files are not kept on local machines.
+- Your systems. We work inside your practice software and portals, with logins you create and can revoke, so client files stay in your environment.
 
 - AML stays with you. Client due diligence, engagement letters and your supervisory obligations remain with your practice; we work to your instructions.
 
@@ -249,7 +249,7 @@ Do you submit returns to HMRC?
 No. We prepare; your practice reviews and submits as the client's agent, so the client relationship and HMRC authorisation stay with you.
 
 Is outsourcing to India GDPR compliant?
-It can be. Because India has no UK adequacy regulations, transfers need an appropriate safeguard, usually the ICO's International Data Transfer Agreement or the UK Addendum to the EU standard contractual clauses, plus a transfer risk assessment. We sign one before any access and work only inside your systems.
+It can be. Because India has no UK adequacy regulations, transfers need an appropriate safeguard, usually the ICO's International Data Transfer Agreement or the UK Addendum to the EU standard contractual clauses, plus a transfer risk assessment. We sign one with you before any access and can work entirely inside your systems.
 
 How much does it cost?
 It is quoted as a fixed monthly fee or per job once we see your volumes, and is usually well below the cost of a local hire. Start with a pilot on a few clients.
@@ -4784,11 +4784,11 @@ UK practice? See outsourced accounting for UK accountancy practices.
 
 - Social Security numbers. A full SSN can go offshore only if the consent covers it and both firms maintain an adequate data protection safeguard. Otherwise SSNs are masked before files reach us.
 
-- PTINs. Anyone who prepares or helps prepare federal returns for compensation needs a PTIN, so staff working on your returns hold one before tax-prep work begins.
+- PTINs. Anyone who prepares or helps prepare federal returns for compensation needs a PTIN, so we arrange PTINs for the staff assigned to your returns before any tax-prep work starts.
 
 - Your EFIN and signature. We never sign or e-file. Your licensed preparer reviews, signs and files.
 
-- Your security plan. Tax preparers must keep a written information security plan. We work inside yours: your remote desktop or portal, multi-factor logins you create and can revoke, and no client files saved on local machines.
+- Your security plan. Tax preparers must keep a written information security plan. We work inside yours: your remote desktop or portal, with multi-factor logins you create and can revoke, so client files stay in your environment.
 
 Full guide: outsourcing tax preparation to India: Section 7216, PTIN and security.
 
@@ -4830,10 +4830,10 @@ Which returns can you prepare for a CPA firm?
 We prepare Form 1040 individual returns and Forms 1065, 1120-S and 1120 business returns as drafts with workpapers, for your licensed preparer to review, sign and file. We also handle bookkeeping, monthly close, 1099 listings and audit workpapers.
 
 Do your staff need a PTIN to work on US returns?
-Yes. The IRS requires anyone who prepares or assists in preparing federal tax returns for compensation to have a PTIN, including preparers outside the US. Our staff on your returns hold one before tax-prep work begins.
+Yes. The IRS requires anyone who prepares or assists in preparing federal tax returns for compensation to have a PTIN, including preparers outside the US. We arrange PTINs for the staff assigned to your returns before any tax-prep work starts.
 
 How do you protect client data?
-We sign confidentiality and data-processing agreements before access, work inside your systems through logins you control and can revoke, and do not keep client files on local machines. You decide what we can see.
+We sign confidentiality and data-processing agreements before access, work inside your systems through logins you control and can revoke, and can work entirely inside your systems so client files stay with you. You decide what we can see.
 
 How much does outsourced accounting from India cost?
 It is quoted per return or as a fixed monthly fee once we see your volumes and return types, and is usually well below the cost of a local hire. Start with a pilot on a few files to judge quality first.
