@@ -74,6 +74,90 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/how-to-choose-offshore-accounting-partner/
+------------------------------------------------------------------------
+For CPA and UK firms
+
+# How to choose an offshore accounting partner: 12 questions to ask
+
+Most offshore arrangements that fail do so for predictable reasons: unclear quality standards, weak access control, staff turnover or no way out. These twelve questions surface those risks before you sign.
+
+By CA Durgesh Chavda·Last reviewed 2 November 2026·5 min read
+
+Put these questions to us
+hello@durgeshchavda.com
+
+Key takeaways
+- Test quality with a pilot on three to five real files before signing.
+- Insist on work inside your own systems, with logins you control and written security controls.
+- US: Section 7216 consent, SSN safeguards and PTINs. UK: an IDTA and transfer risk assessment.
+
+## Quality
+
+- Who will actually do the work, and who reviews it? Ask for the qualifications of the named team (for example Chartered Accountants or CPAs) and how many review layers sit between preparer and you.
+
+- Will you work to our checklists and software? A good partner adapts to your workpaper standards and tools rather than asking you to adopt theirs.
+
+- Can we run a paid or free pilot on real files? Three to five files from your current workload tell you more than any sales call.
+
+- What turnaround do you commit to in busy season? Ask how capacity scales between February and April, not just in quiet months.
+
+## Security and compliance
+
+- Where will our data sit? The safest answer is “in your systems”: your remote desktop, portal and software, with logins you create and can revoke.
+
+- What controls do you have, in writing? Multi-factor authentication, device policy, no local downloads or USB storage, access logs, and any independent attestation such as SOC 2 or ISO 27001 if they have one.
+
+- US firms: how do you handle Section 7216 and PTINs? They should expect you to collect 7216 consents, mask SSNs unless safeguards allow otherwise, and have PTINs for preparers. See the 7216 and PTIN checklist.
+
+- UK firms: will you sign an IDTA? Transfers of personal data to India need a safeguard such as the International Data Transfer Agreement or the UK Addendum, plus a transfer risk assessment.
+
+## People and continuity
+
+- Will we have a named, stable team? Ask about staff turnover and what happens when someone leaves mid-season.
+
+- What are the overlap hours? India is 10 hours 30 minutes ahead of New York in winter and 5 hours 30 minutes ahead of London, so agree a daily overlap window for questions.
+
+## Contract and exit
+
+- How is the fee set? Per return, per hour or a fixed monthly fee, agreed upfront, with clear rules for rework.
+
+- How do we leave? Notice period, return of all working papers, deletion of any data, and no lock-in beyond a reasonable notice period.
+
+## Red flags
+
+- They want client files emailed or downloaded to their own machines.
+
+- They offer to sign or e-file returns themselves, or to act as the client’s agent without being asked.
+
+- No pilot, only a long contract.
+
+- They cannot name who will work on your files.
+
+Want to put these questions to us? See outsourced accounting for CPA firms or for UK practices, and book a free 15-minute call.
+
+## Sources
+
+- IRS: Section 7216 frequently asked questions
+- ICO: International data transfer agreement and guidance
+- The CPA Journal: considerations for tax return preparers outsourcing overseas (Aug 2025)
+
+## Frequently asked questions
+What should I ask an offshore accounting firm before hiring them?
+Ask who does and reviews the work, whether they work in your systems and checklists, whether they will run a pilot on real files, their busy-season turnaround, their written security controls, how they handle Section 7216 and PTINs (US) or an IDTA (UK), staff continuity, overlap hours, fees and how you can exit.
+
+Is it safe to outsource accounting to India?
+It can be, if the partner works only inside your systems with logins you control, uses multi-factor authentication, keeps no files on local machines, and the legal safeguards are in place: Section 7216 consent and SSN safeguards for US returns, or an IDTA for UK personal data.
+
+Should I start with a pilot when outsourcing accounting?
+Yes. A pilot on three to five real files from your current workload shows quality, communication and turnaround before you commit to a longer arrangement.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/uk-self-assessment-deadline-31-january-2027/
 ------------------------------------------------------------------------
 UK tax · 2025-26 returns
@@ -319,6 +403,7 @@ A fixed monthly fee or a per-return fee agreed upfront, with turnaround times se
 - Your licensed professionals keep responsibility for sign-off and client advice.
 
 Planning the season? US tax deadlines 2027: the busy-season calendar.
+Comparing providers? 12 questions to ask an offshore accounting partner.
 
 ## Frequently asked questions
 Can a US CPA firm outsource tax return preparation to India?
@@ -410,6 +495,7 @@ A fixed monthly fee or a per-job fee agreed upfront, usually well below the cost
 India is 5 hours 30 minutes ahead of the UK in winter (4 hours 30 minutes during British Summer Time), so work sent in the afternoon can be ready the next morning. US firm? See outsourced accounting for CPA firms.
 
 Next big date: self assessment deadline, 31 January 2027.
+Comparing providers? 12 questions to ask an offshore accounting partner.
 
 ## Frequently asked questions
 Can a UK accountancy practice outsource work to India?
@@ -578,6 +664,7 @@ Looking for a team that works this way? See outsourced accounting and tax prep f
 - IRS: PTIN requirements for tax return preparers
 - The CPA Journal: considerations for tax return preparers outsourcing overseas (Aug 2025)
 Planning the season? US tax deadlines 2027: the busy-season calendar.
+Comparing providers? 12 questions to ask an offshore accounting partner.
 
 ## Frequently asked questions
 Is it legal for a CPA firm to outsource tax returns to India?
@@ -4999,6 +5086,7 @@ A fixed monthly fee or a per-return fee agreed upfront, with turnaround times se
 - Your licensed professionals keep responsibility for sign-off and client advice.
 
 Planning the season? US tax deadlines 2027: the busy-season calendar.
+Comparing providers? 12 questions to ask an offshore accounting partner.
 
 ## Frequently asked questions
 Can a US CPA firm outsource tax return preparation to India?
