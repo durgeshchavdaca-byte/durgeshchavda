@@ -74,6 +74,90 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/uk-self-assessment-deadline-31-january-2027/
+------------------------------------------------------------------------
+UK tax · 2025-26 returns
+
+# Self assessment deadline: 31 January 2027
+
+Online self assessment returns for the 2025-26 tax year, and any tax still owed, are due by 31 January 2027. That date falls on a Sunday this time, but the deadline does not move. Here are the dates, payments and penalties to plan around.
+
+By CA Durgesh Chavda·Last reviewed 2 November 2026·4 min read
+
+Get help before 31 January
+hello@durgeshchavda.com
+
+Key takeaways
+- 2025-26 online returns and tax due 31 January 2027; file by 30 December 2026 to pay under £3,000 through PAYE.
+- Payments on account: half of last year's bill on 31 January and 31 July if the bill was £1,000 or more.
+- Late filing: £100, then £10 a day after three months, then 5% or £300 at six and 12 months.
+
+## Key dates for 2025-26 returns
+
+Date | What happens | 
+
+31 October 2026 | Paper return deadline (passed) | 
+
+30 December 2026 | File online by this date to have tax owed of less than £3,000 collected through your PAYE tax code, if you are employed or get a pension | 
+
+31 January 2027 | Online return due; pay the balance for 2025-26 and the first payment on account for 2026-27 | 
+
+31 July 2027 | Second payment on account for 2026-27 | 
+
+## Payments on account
+
+If your last self assessment bill was £1,000 or more, HMRC usually expects two advance payments towards the next year, each half of the previous year’s bill, due on 31 January and 31 July. You do not have to make them if more than 80% of your tax was collected at source, for example through PAYE. If your income has fallen, you can apply to reduce them, but you will pay interest if the reduction turns out to be too much.
+
+## Late-filing penalties
+
+How late | Penalty | 
+
+1 day | £100, even if there is no tax to pay | 
+
+3 months | £10 a day for up to 90 days (up to £900) | 
+
+6 months | 5% of the tax due or £300, whichever is higher | 
+
+12 months | A further 5% or £300, whichever is higher | 
+
+Late payment brings interest at the Bank of England base rate plus 4% and separate late-payment penalties. If you have a reasonable excuse, you can appeal a penalty.
+
+## How this fits with MTD for Income Tax
+
+Making Tax Digital for Income Tax started on 6 April 2026, so it covers the 2026-27 tax year. The 2025-26 return due on 31 January 2027 is filed in the usual way, even if you are already sending quarterly updates. See MTD for Income Tax: quarterly updates.
+
+## For accountancy practices: the January crunch
+
+January is when unfiled returns, missing records and payments on account all land together, this year alongside a February MTD quarterly update. Practices that move record-chasing and first drafts earlier, often to an offshore team, spend January reviewing instead of preparing. See outsourced accounting for UK practices.
+
+Living in the UK with income in India? See the guide for Indians in the UK.
+
+## Sources
+
+- GOV.UK: Self Assessment tax returns, deadlines
+- GOV.UK: Self Assessment tax returns, penalties
+- GOV.UK: Understand your Self Assessment tax bill, payments on account
+- GOV.UK: Pay your Self Assessment tax bill through your tax code
+
+## Frequently asked questions
+When is the self assessment deadline in 2027?
+31 January 2027 for online 2025-26 returns and for paying the balance of 2025-26 tax and the first payment on account for 2026-27. The date falls on a Sunday but the deadline does not move.
+
+What is the penalty for filing self assessment late?
+£100 straight away, then £10 a day for up to 90 days after three months, then 5% of the tax due or £300 (whichever is higher) at six months and again at 12 months. Interest and late-payment penalties apply to unpaid tax.
+
+Can I pay my self assessment tax through my tax code?
+Yes, if you owe less than £3,000, are employed or receive a pension, and file your return online by 30 December 2026.
+
+Who has to make payments on account?
+Anyone whose last self assessment bill was £1,000 or more, unless more than 80% of their tax was collected at source. Each payment is half of the previous year's bill, due on 31 January and 31 July.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/us-tax-deadlines-2027/
 ------------------------------------------------------------------------
 US tax · 2027 season
@@ -324,6 +408,8 @@ Confidentiality agreement, IDTA or addendum, access set up through your systems,
 A fixed monthly fee or a per-job fee agreed upfront, usually well below the cost of a local hire.
 
 India is 5 hours 30 minutes ahead of the UK in winter (4 hours 30 minutes during British Summer Time), so work sent in the afternoon can be ready the next morning. US firm? See outsourced accounting for CPA firms.
+
+Next big date: self assessment deadline, 31 January 2027.
 
 ## Frequently asked questions
 Can a UK accountancy practice outsource work to India?
@@ -579,6 +665,7 @@ MTD turns an annual job into a quarterly one. Practices that keep up usually mov
 - GOV.UK: Send quarterly updates (Making Tax Digital for Income Tax)
 - GOV.UK: Deadline approaches for first Making Tax Digital quarterly update
 - ATT: How does the income exemption work for MTD?
+Next big date: self assessment deadline, 31 January 2027.
 
 ## Frequently asked questions
 When is the next MTD for Income Tax quarterly update due?
@@ -1340,6 +1427,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 - GOV.UK — Get a certificate of residence
 - GOV.UK — Offshore funds: list of reporting funds
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
+Next big date: self assessment deadline, 31 January 2027.
 
 ## Frequently asked questions
 Is NRE interest taxable in the UK?
