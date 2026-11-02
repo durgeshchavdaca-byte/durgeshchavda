@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-01. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-02. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,91 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/us-tax-deadlines-2027/
+------------------------------------------------------------------------
+US tax · 2027 season
+
+# US tax deadlines 2027: the busy-season calendar
+
+The 2027 filing season covers tax year 2026 and is the first under the new $2,000 threshold for Forms 1099-NEC and 1099-MISC. Here are the dates for calendar-year filers, with weekend roll-forwards already applied.
+
+By CA Durgesh Chavda·Last reviewed 1 November 2026·4 min read
+
+Plan your busy-season capacity
+hello@durgeshchavda.com
+
+Key takeaways
+- W-2 and 1099-NEC due Monday 1 Feb 2027; 1065 and 1120-S Monday 15 Mar; 1040 and 1120 Thursday 15 Apr.
+- Extensions run to 15 Sep (1065, 1120-S) and 15 Oct (1040, 1120, FBAR).
+- 1099-NEC/MISC threshold is $2,000 for payments made in 2026; 1099-K back to $20,000 and 200 transactions.
+
+## 2027 filing calendar (tax year 2026, calendar-year filers)
+
+Date | What is due | 
+
+Friday 15 January 2027 | Fourth-quarter 2026 estimated tax payment | 
+
+Monday 1 February 2027 | Forms W-2 and 1099-NEC to recipients and the IRS/SSA; 1099-MISC to recipients; Q4 Forms 941 and annual 940 (31 January falls on a Sunday) | 
+
+Monday 15 March 2027 | Form 1065 (partnerships) and Form 1120-S (S corporations), with K-1s; Form 7004 to extend | 
+
+Wednesday 31 March 2027 | Electronically filed 1099-MISC and most other information returns (other than 1099-NEC) to the IRS | 
+
+Thursday 15 April 2027 | Form 1040 and Form 1120 (calendar-year C corporations), with Form 5472 where required; Form 4868 or 7004 to extend; first-quarter 2027 estimated tax; FBAR (FinCEN 114), with an automatic extension to 15 October | 
+
+Wednesday 15 September 2027 | Extended Forms 1065 and 1120-S | 
+
+Friday 15 October 2027 | Extended Forms 1040 and 1120; extended FBAR | 
+
+Fiscal-year filers and state returns have their own dates. Check state calendars separately.
+
+## What is new for the 2027 season
+
+- 1099-NEC and 1099-MISC threshold: $2,000. Under the One Big Beautiful Bill Act, the reporting threshold rose from $600 to $2,000 for payments made in 2026, and will be adjusted for inflation from 2027. Vendor lists built on the old $600 rule will over-report.
+
+- 1099-K: back to $20,000 and 200 transactions. Payment platforms report only above both limits, so fewer clients will receive one, but income is still taxable without a form.
+
+## How firms spread the load
+
+When | Work to get ahead of | 
+
+November to December | Bookkeeping catch-up for business clients, W-9 collection, engagement letters and Section 7216 consents for any offshore work | 
+
+January | 1099 vendor listings against the $2,000 threshold, payroll year-end, organizers out | 
+
+February to mid-March | Partnership and S-corporation returns and K-1s | 
+
+Mid-March to April | Individual and C-corporation returns; extensions for anything incomplete | 
+
+May to October | Extended returns, amended returns, planning | 
+
+Firms that use an offshore team usually hand over the data-entry-heavy work (bookkeeping clean-up, 1099 listings, trial balance to return, first drafts) and keep review and signature in-house. See outsourced accounting and tax prep for CPA firms and the 7216 and PTIN checklist.
+
+## Sources
+
+- IRS: Publication 509, Tax Calendars
+- CPA Practice Advisor: One Big Beautiful Bill Act changes 1099 thresholds
+- Avalara: OBBBA 1099 reporting threshold
+
+## Frequently asked questions
+When are 1065 and 1120-S returns due in 2027?
+Monday 15 March 2027 for calendar-year partnerships and S corporations, with K-1s. Form 7004 extends the filing date to 15 September 2027.
+
+When is the 2027 tax filing deadline for individuals?
+Thursday 15 April 2027 for 2026 Form 1040 returns. Form 4868 extends filing, but not payment, to 15 October 2027.
+
+When are W-2s and 1099-NEC forms due in 2027?
+Monday 1 February 2027, because 31 January 2027 falls on a Sunday. Both go to recipients and to the IRS or SSA by that date.
+
+What is the 1099-NEC threshold for 2026 payments?
+$2,000. The One Big Beautiful Bill Act raised the reporting threshold for Forms 1099-NEC and 1099-MISC from $600 to $2,000 for payments made in 2026, with inflation adjustments from 2027.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/outsourced-accounting-for-cpa-firms/
@@ -148,6 +233,8 @@ A fixed monthly fee or a per-return fee agreed upfront, with turnaround times se
 - Access only through the systems you approve, with accounts you control and can revoke.
 
 - Your licensed professionals keep responsibility for sign-off and client advice.
+
+Planning the season? US tax deadlines 2027: the busy-season calendar.
 
 ## Frequently asked questions
 Can a US CPA firm outsource tax return preparation to India?
@@ -404,6 +491,7 @@ Looking for a team that works this way? See outsourced accounting and tax prep f
 - IRS: Section 7216 frequently asked questions
 - IRS: PTIN requirements for tax return preparers
 - The CPA Journal: considerations for tax return preparers outsourcing overseas (Aug 2025)
+Planning the season? US tax deadlines 2027: the busy-season calendar.
 
 ## Frequently asked questions
 Is it legal for a CPA firm to outsource tax returns to India?
@@ -4821,6 +4909,8 @@ A fixed monthly fee or a per-return fee agreed upfront, with turnaround times se
 - Access only through the systems you approve, with accounts you control and can revoke.
 
 - Your licensed professionals keep responsibility for sign-off and client advice.
+
+Planning the season? US tax deadlines 2027: the busy-season calendar.
 
 ## Frequently asked questions
 Can a US CPA firm outsource tax return preparation to India?
