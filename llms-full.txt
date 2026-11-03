@@ -74,6 +74,176 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fema-compounding-rbi-regional-offices-2026/
+------------------------------------------------------------------------
+FEMA · RBI · October 2026
+
+# FEMA compounding: ODI, ECB and guarantee cases move to RBI regional offices
+
+If your company missed an overseas investment filing, took a foreign loan without following the rules, or gave a guarantee for a foreign subsidiary without reporting it, compounding is how the default is settled. From late October 2026, many of these cases go to RBI regional offices instead of the central office in Mumbai.
+
+By CA Durgesh Chavda·Last reviewed 3 November 2026·5 min read
+
+Regularise your FEMA default
+hello@durgeshchavda.com
+
+Key takeaways
+- RBI circular of 23 October 2026: ODI, borrowing/lending and guarantee compounding moved to regional offices.
+- ODI cases routed by UIN; borrowing and guarantees by registered office; multi-category or no-UIN cases stay central.
+- Late reports within the window: late fee. Beyond it, or substantive breaches: compounding.
+
+Have an old FEMA default? We work out whether a late fee is enough or compounding is needed, and prepare the application.Free 15-min callWhatsApp
+
+## What changed
+
+- RBI circular A.P. (DIR Series) No. 28/2026-27, dated 23 October 2026, delegates compounding of contraventions relating to overseas investment, borrowing and lending and guarantees to selected regional offices.
+
+- Which office: overseas investment cases go by the foreign entity’s UIN; borrowing, lending and guarantee cases go to the office covering the applicant’s registered office or domicile.
+
+- What stays in Mumbai: applications without a UIN, or covering several categories at once, are still handled by the Foreign Exchange Department’s compounding cell (CEFA) at RBI’s central office.
+
+- The office-wise jurisdiction table is in the Master Direction on Compounding of Contraventions under FEMA, 1999 (22 April 2025), which RBI is updating.
+
+## Late fee or compounding?
+
+Situation | Usual route | 
+
+A report filed late (for example Form FC, APR, FC-GPR) within the window the rules allow | Pay a late submission fee; see the LSF calculator | 
+
+Reporting so late that the late-fee route is no longer available | Compounding | 
+
+A substantive breach: investing without the required approval, a foreign loan outside the borrowing rules, an unreported guarantee | Compounding | 
+
+## How compounding works
+
+- Map every contravention with dates and amounts; RBI wants the full picture in one application.
+
+- File the compounding application with the documents and the application fee, to the right office.
+
+- RBI computes the compounding amount under the Master Direction, based on the amount and the period of the contravention.
+
+- Pay within the time given; the contravention is then treated as settled, and no further proceedings follow for it.
+
+## Who should act now
+
+- Indian companies with foreign subsidiaries whose APRs or Form FC were missed in past years.
+
+- Companies that gave guarantees or loans to overseas group companies without reporting them.
+
+- Companies that raised foreign loans without completing the borrowing formalities.
+
+- Groups planning a fundraise, IPO or sale: investors’ due diligence will find these defaults, and compounding before the deal is cheaper and faster than explaining them during it.
+
+Related: APR and audit for overseas subsidiaries, ODI rules for US companies and FEMA / RBI compliance.
+
+## Sources
+
+- TaxGuru: FEMA compounding for overseas investments, loans and guarantees delegated to regional offices
+- Sansa Legal: RBI sends FEMA compounding to regional offices
+- AK & Partners: Banking & Finance Digest, 2 November 2026
+
+## Frequently asked questions
+What did RBI change about FEMA compounding in October 2026?
+Circular A.P. (DIR Series) No. 28/2026-27 of 23 October 2026 delegated compounding of contraventions relating to overseas investment, borrowing and lending, and guarantees to selected RBI regional offices. Cases without a UIN or covering several categories stay with the central office.
+
+Which RBI office handles my compounding application?
+For overseas investment, the office mapped to the foreign entity's UIN; for borrowing, lending and guarantees, the office covering your registered office or domicile. The jurisdiction table is in the Master Direction on Compounding of Contraventions under FEMA.
+
+Do I need compounding or just a late submission fee?
+A late report filed within the window the rules allow can usually be regularised with a late submission fee. Reporting beyond that window, and substantive breaches such as investing without approval or unreported guarantees, need compounding.
+
+Is compounding a penalty?
+It is a voluntary settlement: you admit the contravention and pay a compounding amount computed by RBI, and the matter is closed without adjudication proceedings.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/tds-on-payment-to-foreign-software-saas-company/
+------------------------------------------------------------------------
+Cross-border tax · Software
+
+# TDS on software and SaaS paid to foreign companies
+
+Almost every Indian business now pays a foreign company for software: cloud, CRM, design tools, enterprise licences. The question accountants keep asking is whether TDS applies when the money goes to, say, Oracle Singapore or AWS. Usually it does not, but only if the paperwork is in place.
+
+By CA Durgesh Chavda·Last reviewed 3 November 2026·5 min read
+
+Check your foreign payment
+hello@durgeshchavda.com
+
+Key takeaways
+- Standard software licences and SaaS from a foreign vendor with no Indian PE: generally no TDS under treaty.
+- Keep the vendor's TRC and Form 41; file Forms 145/146 (formerly 15CA/15CB) where required.
+- Customised software, technical services or an Indian PE can change the answer; equalisation levy has been abolished.
+
+Paying a foreign vendor? We confirm the TDS position, get the vendor's Form 41 and TRC, and file Forms 145/146.Free 15-min callWhatsApp
+
+## Short answer
+
+For most standard software licences and SaaS subscriptions bought from a foreign company with no permanent establishment in India, the payment is not taxable in India under the tax treaty, so no TDS is needed. You still need the vendor’s tax residency certificate and Form 41 (formerly Form 10F) on file, and the remittance paperwork (Forms 145/146, formerly 15CA/15CB) where the bank requires it.
+
+## Why: the Supreme Court software ruling
+
+In Engineering Analysis Centre of Excellence v CIT (2 March 2021), the Supreme Court held that paying for the use of software under an end-user licence or a distribution agreement is not a payment for the use of copyright, so it is not “royalty” under India’s tax treaties. Without royalty, and without a permanent establishment in India, the foreign vendor’s income is not taxable in India, and there is nothing to deduct tax from.
+
+## Which payments are different
+
+Payment | Usual position | 
+
+Standard licence or SaaS subscription (cloud, CRM, productivity, design) | Generally not taxable in India under treaty; no TDS with TRC and Form 41 | 
+
+Software customised for you, or with source-code or copyright rights transferred | May be royalty; check the treaty rate | 
+
+Implementation, consulting or support by the vendor’s people | May be fees for technical services; some treaties (for example US, UK, Singapore) tax these only if they “make available” know-how | 
+
+Vendor has an office, staff or dependent agent in India | Possible permanent establishment; TDS may apply | 
+
+## Equalisation levy is gone
+
+The 2% equalisation levy on e-commerce supplies was abolished from 1 August 2024, and the 6% levy on online advertising from 1 April 2025. There is no separate levy to deduct on these payments now.
+
+## What to do, step by step
+
+- Classify the payment: licence, subscription, service or customised software.
+
+- Collect from the vendor: tax residency certificate, Form 41 (they file it online, no PAN needed) and a no-PE declaration.
+
+- If not taxable: no TDS; file Form 145 (formerly 15CA) and get Form 146 (formerly 15CB) where required by the remittance rules and your bank.
+
+- If taxable: deduct under section 393(2) of the Income-tax Act, 2025 (formerly 195) at the treaty or Act rate, deposit it, report it in Form 144 (formerly 27Q) and issue Form 131.
+
+- GST: a GST-registered business importing online services pays GST under reverse charge and can usually claim the input credit.
+
+Related: TDS on payments to non-residents, Form 41 and no-PE declaration and GST on foreign SaaS.
+
+## Sources
+
+- ITAT Online: Engineering Analysis Centre of Excellence v CIT (Supreme Court, 2 March 2021), full text
+- Income Tax Department: Form 41 FAQs
+- Income-tax e-filing portal
+
+## Frequently asked questions
+Is TDS required on payment to a foreign software company?
+Usually not for standard software licences or SaaS subscriptions from a foreign company with no permanent establishment in India: after the Supreme Court's 2021 Engineering Analysis ruling, these are not royalty under tax treaties, so the income is not taxable in India. Keep the vendor's tax residency certificate and Form 41, and file Forms 145/146 where required.
+
+Do I need to deduct TDS on AWS or Microsoft subscriptions paid abroad?
+Generally no, if the payment is a standard cloud or software subscription to a foreign entity without a permanent establishment in India and you hold its tax residency certificate and Form 41. Payments to an Indian entity of the same group follow domestic TDS rules instead.
+
+Is equalisation levy still payable on foreign software or ads?
+No. The 2% equalisation levy on e-commerce supplies ended from 1 August 2024 and the 6% levy on online advertising ended from 1 April 2025.
+
+Is GST payable on SaaS bought from a foreign company?
+Yes. A GST-registered business importing online services pays GST under reverse charge, usually with input tax credit. For unregistered buyers, the foreign supplier charges GST.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-income-tax-slab-2026-27/
 ------------------------------------------------------------------------
 NRI tax · 2026-27
@@ -182,6 +352,7 @@ By CA Durgesh Chavda·Last reviewed 3 November 2026·5 min read
 Get your APR done before 31 December
 hello@durgeshchavda.com
 
+APRs missed in past years? late fee or compounding.
 Key takeaways
 - APR due 31 December 2026 through your AD bank.
 - Controlled subsidiary = audited statements needed, even if the host country requires no audit.
@@ -3462,6 +3633,7 @@ By CA Durgesh Chavda·Last reviewed 31 October 2026·5 min read
 Ask about a rule change
 hello@durgeshchavda.com
 
+RBI moves FEMA compounding to regional offices (23 Oct 2026).
 Last updated: 24 October 2026. India’s first-quarter FDI equity inflows for 2026-27 were reported at about US$19.8 billion, with Singapore the largest source.
 
 ## Updates, newest first
@@ -3470,6 +3642,7 @@ Date | Area | What changed |
 29 Oct 2026 | Enforcement Directorate (FEMA) | Searches in Bengaluru and Madhya Pradesh over alleged crypto-based cross-border transfers. In one matter the ED alleges a Delaware entity linked to Instadapp/Fluid was a paper company run from India (preliminary contravention about USD 40 million). Allegations only. Founder checklist: ODI, APR and POEM. | 
 27 Oct 2026 | Government (under consideration) | Lighter FDI paperwork being considered under Press Note 2 of 2026 for foreign entities with up to 10% non-controlling land-border ownership (Business Standard). Not yet notified. | 
 24 Oct 2026 | MCA | General Circular 05/2026: AOC-4 without additional fees until 31 Dec 2026, MGT-7/7A until 31 Jan 2027 (FY 2025-26); AGM dates not extended. Our guide | 
+23 Oct 2026 | RBI | Compounding of FEMA contraventions for overseas investment, borrowing/lending and guarantees delegated to selected regional offices (A.P. (DIR Series) Circular No. 28/2026-27). What it means. | 
 23 Oct 2026 | Markets | Jio Platforms’ ₹30,213 crore IPO (fresh issue) closes about 22.19x subscribed — institutions about 70.5x, retail about 2.7x. Allotment 26 Oct, listing 28 Oct (tentative). NRIs in IPOs · source | 
 21 Oct 2026 | RBI | MPC minutes published: repo rate raised 25 bps to 5.50% on 7 October, stance “calibrated tightening”; next meeting 2–4 December. Our guide · source | 
 20 Oct 2026 | Trade | India–New Zealand FTA in force; next tariff cuts 1 January 2027. Our guide · source | 
@@ -5297,6 +5470,7 @@ Selling online services to Indian consumers or unregistered businesses? You like
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
 Related: tax notices and representation · paying Indian freelancers.
 Paying a parent in Japan? India–Japan withholding tax and the 10% treaty rate.
+Selling software to India? when Indian buyers deduct TDS.
 
 ## Frequently asked questions
 Why is my Indian customer deducting tax from my invoice?
@@ -6581,6 +6755,7 @@ One missed FC-GPR or delayed RBI filing can hold up your next round. Every forei
 Get your filings sorted
 hello@durgeshchavda.com
 
+New: FEMA compounding moves to RBI regional offices (Oct 2026).
 Due 31 December: APR for overseas subsidiaries.
 Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a free 15-min intro
 Free tool: FEMA late submission fee calculator — LSF for late FC-GPR, FC-TRS, ODI and other filings under RBI's formula.
@@ -7460,6 +7635,7 @@ By CA Durgesh Chavda·Last reviewed 14 October 2026·6 min read
 Sort out your India GST
 hello@durgeshchavda.com
 
+Buying SaaS from abroad? the TDS side.
 Key takeaways
 - Foreign suppliers of online services to unregistered Indian customers register via GST REG-10 and charge 18% IGST.
 - Since 1 October 2023 the OIDAR net covers any unregistered recipient, including unregistered businesses.
@@ -8314,10 +8490,12 @@ Investor guide
 
 Until June 2026 a foreign national needed FPI registration to buy Indian shares. Not any more — a 2026 FEMA amendment opened the direct route NRIs use to every individual living outside India. Here are the routes, the limits and the tax.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 3 November 2026·6 min read
 
 Plan your India investment
 hello@durgeshchavda.com
+
+Reporting under the June 2026 rules: RBI’s companion payment and reporting regulations require repatriable investments by foreign individuals in listed Indian shares to go through a designated repatriable rupee account, and introduce a new reporting form, Form LEC (IFI), handled through the authorised dealer bank. Each individual stays below 10% of a company’s paid-up equity, with an aggregate cap of 24% for such individuals.
 
 Key takeaways
 - Since 12 June 2026, any individual living outside India can buy listed Indian shares directly — no FPI registration.
