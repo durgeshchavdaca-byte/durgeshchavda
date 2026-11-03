@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-income-tax-slab-2026-27/
+------------------------------------------------------------------------
+NRI tax · 2026-27
+
+# NRI income tax slab 2026-27: rates, the missing rebate and your refund
+
+NRIs pay Indian tax only on income earned or received in India, at the same slab rates as residents, with two big differences: no ₹12 lakh rebate, and TDS that is usually far higher than the tax actually due.
+
+By CA Durgesh Chavda·Last reviewed 3 November 2026·4 min read
+
+Claim your NRI refund
+hello@durgeshchavda.com
+
+Key takeaways
+- NRI slabs 2026-27 (new regime): nil to ₹4 lakh, then 5% to 30% in ₹4 lakh steps above.
+- No ₹12 lakh rebate for NRIs; old-regime exemption is ₹2.5 lakh at any age.
+- Bank TDS on NRO interest is 31.2%; most NRIs get a refund by filing a return.
+
+Had TDS deducted on your NRO interest, rent or gains? Most NRIs are owed a refund. We file your Indian return and claim it.Ask on WhatsAppFree 15-min call
+
+## New regime slabs for NRIs (2026-27)
+
+Taxable income | Rate | 
+
+Up to ₹4 lakh | Nil | 
+₹4 lakh to ₹8 lakh | 5% | 
+₹8 lakh to ₹12 lakh | 10% | 
+₹12 lakh to ₹16 lakh | 15% | 
+₹16 lakh to ₹20 lakh | 20% | 
+₹20 lakh to ₹24 lakh | 25% | 
+Above ₹24 lakh | 30% | 
+
+Plus 4% health and education cess, and surcharge on high incomes (10% above ₹50 lakh, 15% above ₹1 crore, 25% above ₹2 crore under the new regime). The ₹75,000 standard deduction applies if you have Indian salary or pension.
+
+## No ₹12 lakh rebate for NRIs
+
+Residents with income up to ₹12 lakh pay no tax because of the rebate (section 156 of the Income-tax Act, 2025, formerly section 87A). That rebate is only for residents. An NRI with ₹10 lakh of Indian income pays tax from the first rupee above ₹4 lakh.
+
+## Old regime for NRIs
+
+NRIs can still choose the old regime, with its deductions. The basic exemption is ₹2.5 lakh at any age: the higher limits for senior citizens apply only to residents.
+
+## Special rates that apply regardless of slab
+
+Income | Tax for NRIs | 
+
+Listed shares and equity funds, held up to 12 months | 20% | 
+
+Listed shares and equity funds, held over 12 months | 12.5% above ₹1.25 lakh a year | 
+
+Property held over 24 months | 12.5% without indexation (the indexation option for property bought before 23 July 2024 is for residents only) | 
+
+Interest on NRE deposits | Exempt | 
+
+## Example: why most NRIs are owed a refund
+
+NRI with ₹10 lakh interest on an NRO fixed deposit | Amount | 
+
+TDS deducted by the bank (30% plus 4% cess) | ₹3,12,000 | 
+
+Actual tax under the new regime: 5% on ₹4 to ₹8 lakh, 10% on ₹8 to ₹10 lakh, plus cess | ₹41,600 | 
+
+Refund if you file an Indian return | ₹2,70,400 | 
+
+A treaty rate can cut the TDS itself: for example, India’s treaties with the UAE, UK and US cap tax on interest, if you give the bank a tax residency certificate and Form 41. Either way, filing the return is how you get the excess back. See filing an ITR as an NRI.
+
+## Who counts as an NRI?
+
+Broadly, you are a non-resident for a year if you are in India for less than 182 days (with extra tests for some visitors and high earners). Check with the residential status calculator. Moved recently? See the NRI checklist for the UAE and the full NRI taxation guide.
+
+## Sources
+
+- Income-tax e-filing portal
+- Income Tax Department: Form 41 FAQs (treaty rates for non-residents)
+- Consulate General of India, Dubai: CBDT clarification on tax residency of NRIs
+
+## Frequently asked questions
+What is the income tax slab for NRIs in 2026-27?
+Under the new regime: nil up to ₹4 lakh, 5% from ₹4 to ₹8 lakh, 10% from ₹8 to ₹12 lakh, 15% from ₹12 to ₹16 lakh, 20% from ₹16 to ₹20 lakh, 25% from ₹20 to ₹24 lakh and 30% above ₹24 lakh, plus 4% cess and surcharge on high incomes.
+
+Do NRIs get the ₹12 lakh tax rebate?
+No. The rebate that makes income up to ₹12 lakh tax-free (section 156 of the Income-tax Act, 2025, formerly 87A) is available only to residents. NRIs pay tax on Indian income above ₹4 lakh under the new regime.
+
+What is the basic exemption limit for NRIs?
+₹4 lakh under the new regime and ₹2.5 lakh under the old regime, at any age. The higher old-regime limits for senior citizens apply only to residents.
+
+Can an NRI get a refund of TDS on NRO interest?
+Usually yes. Banks deduct 30% plus cess on NRO interest, which is often far more than the slab tax due. Filing an Indian income tax return claims the excess back; a treaty rate with a tax residency certificate and Form 41 can also reduce the TDS.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/apr-audit-overseas-subsidiary/
 ------------------------------------------------------------------------
 FEMA · ODI · Due 31 December
@@ -1682,6 +1777,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
 Sort your Indian tax
 hello@durgeshchavda.com
 
+Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
 Key takeaways
 - NRE interest is exempt in India but taxable in Canada.
 - File T1135 if Indian investments cost more than CAD 100,000 at any time in the year.
@@ -1750,6 +1846,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
 Sort your Indian tax
 hello@durgeshchavda.com
 
+Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
 Key takeaways
 - NRE interest is exempt in India but generally taxable in the UK.
 - Indian mutual funds can fall under UK offshore fund rules — gains taxed as income.
@@ -1825,6 +1922,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
 Sort your Indian tax
 hello@durgeshchavda.com
 
+Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
 Key takeaways
 - NRE interest is exempt in India but taxable in the US.
 - FBAR above USD 10,000 combined; FATCA Form 8938 above USD 50,000/75,000 (single, in the US).
@@ -6152,6 +6250,7 @@ Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 New NRI in the UAE? start with this checklist.
+Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -7567,6 +7666,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·11 min read
 Talk to a CA about NRI tax
 hello@durgeshchavda.com
 
+Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
 Moved to Dubai? account-by-account checklist.
 Quick answers
 
