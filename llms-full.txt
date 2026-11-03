@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-02. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-03. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,281 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/apr-audit-overseas-subsidiary/
+------------------------------------------------------------------------
+FEMA · ODI · Due 31 December
+
+# APR for an overseas subsidiary: do you need an audit?
+
+If an Indian company or resident owns a foreign company, it must file an Annual Performance Report (APR) with its bank every year. The question that trips most groups up: does the foreign subsidiary need audited accounts when its own country does not require an audit?
+
+By CA Durgesh Chavda·Last reviewed 3 November 2026·5 min read
+
+Get your APR done before 31 December
+hello@durgeshchavda.com
+
+Key takeaways
+- APR due 31 December 2026 through your AD bank.
+- Controlled subsidiary = audited statements needed, even if the host country requires no audit.
+- Unaudited (certified) statements only if no control and no host-country audit requirement.
+
+APR due 31 December 2026. We prepare the subsidiary's financials and the APR, and coordinate the audit with a practising auditor.Free 15-min callWhatsAppEmail
+
+## Short answer
+
+If you control the foreign entity, you need audited financial statements for the APR, even if the host country (for example Delaware or many US states) does not require an audit. Unaudited statements are allowed only when both conditions hold: the Indian investor does not have control, and the host country does not mandate an audit. In that case, the unaudited statements are certified by the statutory auditor of the Indian entity, or by a chartered accountant where no statutory audit applies.
+
+## When is the APR due?
+
+By 31 December every year, through your authorised dealer (AD) bank, based on the foreign entity’s accounts for the year ending in the previous calendar year (for most groups, the year to 31 March). For a subsidiary with a March 2026 year end, the APR is due by 31 December 2026. Late filing attracts a late submission fee; see the FEMA late submission fee calculator.
+
+## Which case are you?
+
+Situation | Basis for the APR | 
+
+Wholly owned or controlled subsidiary, host country requires audit (for example UK companies above the small-company exemption) | Audited statements under host-country law | 
+
+Wholly owned or controlled subsidiary, no audit required locally (for example most Delaware corporations) | Audited statements still needed; a special purpose audit for APR is common | 
+
+Minority stake without control, no local audit requirement | Unaudited statements certified by the Indian entity’s statutory auditor or a CA | 
+
+## How groups get it done
+
+- Prepare the foreign entity’s financial statements in its own currency, from the same books used for consolidation.
+
+- Arrange the audit. Where no local audit exists, groups commonly have a special purpose audit of those statements done for APR and banking purposes. Ask your AD bank in advance which auditor it will accept.
+
+- Prepare and file the APR with the AD bank, with the audited statements and the foreign entity’s key figures.
+
+- Keep the rest of ODI reporting current: Form FC for any new remittance, and the annual FLA return where applicable.
+
+## Common mistakes
+
+- Assuming “no US audit requirement” means “no audit for the APR”.
+
+- Filing the APR on INR consolidation figures instead of the subsidiary’s own statements.
+
+- Leaving it to December, when auditors and banks are busiest.
+
+- Missing APRs for dormant or loss-making subsidiaries; they still need one.
+
+Related: FEMA and ODI rules when Indians own a US company and FEMA / RBI compliance.
+
+## Sources
+
+- RBI: Form APR and instructions (Overseas Investment, 2022)
+- RBI: Foreign Exchange Management (Overseas Investment) Regulations, 2022
+- Compliance Calendar: audit requirement for APR filing
+
+## Frequently asked questions
+Is an audit required for the APR of an overseas subsidiary?
+Yes, if the Indian investor has control. The APR must then be based on audited financial statements even where the host country does not require an audit. Unaudited statements, certified by the Indian entity's statutory auditor or a chartered accountant, are allowed only when the investor has no control and the host country does not mandate an audit.
+
+What is the due date for the APR in 2026?
+31 December 2026 for foreign entities whose accounting year ended in 2026 up to that point, for most groups the year to 31 March 2026. It is filed through the authorised dealer bank.
+
+Does a Delaware subsidiary of an Indian company need an audit?
+Delaware law does not generally require a private corporation to be audited, but if the Indian parent controls it, the APR still needs audited financial statements, so a special purpose audit is usually done for the APR and bank.
+
+What happens if the APR is filed late?
+A late submission fee applies under the overseas investment rules, and the AD bank may restrict further overseas remittances until reporting is regularised. It is cheaper to file on time.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/moved-to-dubai-nri-checklist/
+------------------------------------------------------------------------
+NRI · UAE · New residents
+
+# Moved from India to Dubai? Your NRI checklist
+
+Moving to the UAE for work changes your status under Indian tax and foreign exchange law, and almost every account you hold in India has to be updated. Here is the order to do it in, investment by investment.
+
+By CA Durgesh Chavda·Last reviewed 3 November 2026·6 min read
+
+Get your move sorted
+hello@durgeshchavda.com
+
+Key takeaways
+- Non-resident if in India less than 182 days in the year (employment abroad).
+- Re-designate savings to NRO, open NRE, convert demat; update MFs, EPF, NPS, SGBs and insurance.
+- Only Indian-source income is taxed in India; file a return to recover excess TDS.
+
+Just moved? We review your residential status and every holding, then take you through each change with your bank, broker and fund houses.Free 15-min callWhatsAppEmail
+
+## 1. Your residential status
+
+- An Indian citizen who leaves India for employment abroad is a non-resident for a financial year if in India for less than 182 days in that year. The year you leave is usually still a resident year if you spent 182 days or more in India before leaving.
+
+- There is a deemed-residency rule for Indian citizens with high Indian income who are not taxed anywhere else. The CBDT has said it is not meant to catch citizens who are bona fide workers in other countries, such as in the UAE, where there is no personal income tax. Keep your UAE employment contract and Emirates ID.
+
+- Count your days with the residential status calculator.
+
+## 2. Bank accounts (FEMA)
+
+- Tell each bank you are now non-resident. Resident savings accounts must be re-designated as NRO accounts; banks generally expect this promptly after you leave.
+
+- Open an NRE account for money you earn abroad: balances and interest are repatriable and NRE interest is tax-free in India.
+
+- Indian income such as rent, dividends and interest goes into the NRO account. You can send up to USD 1 million a financial year abroad from NRO balances, with Forms 145 and 146 (formerly 15CA and 15CB) where required.
+
+## 3. Investments, one by one
+
+Holding | What to do | 
+
+Shares and demat (for example Zerodha) | A resident demat cannot continue as is. Convert to an NRI demat and trading account linked to your NRE (repatriable, through PIS) or NRO (non-repatriable) bank account, and transfer the holdings. | 
+
+Mutual funds and SIPs | Update your tax status to NRI with each fund house or registrar, update your bank mandate to an NRE/NRO account, and complete NRI KYC. UAE residents can generally continue investing. | 
+
+Smallcase and other broker platforms | Follow the broker’s NRI process once your demat is converted; some products are not open to NRIs. | 
+
+EPF | Your account can stay. Update your status and bank details; check the tax on interest and the rules before withdrawing. | 
+
+NPS | NRIs can continue NPS. Update your status, address and bank account with your NPS provider. | 
+
+Sovereign Gold Bonds | Bonds bought while resident can be held until early redemption or maturity. Interest (2.5% a year) is taxable in India. Check the capital gains position before selling. | 
+
+ULIPs and life insurance | Update your residential status and address with the insurer; premiums can be paid from NRE or NRO accounts. Check the tax on maturity for high-premium policies. | 
+
+Crypto (for example CoinDCX) | Check whether the exchange allows NRI accounts. Gains on crypto are taxed at 30% in India, and TDS applies on transfers. | 
+
+Nothing needs to be sold just because you moved. The aim is to re-paper each holding so it stays compliant and you can bring the money out later.
+
+## 4. Indian tax from now on
+
+- As a non-resident, only income earned or received in India is taxable in India: interest, rent, dividends, capital gains on Indian assets. Your UAE salary is not taxed in India.
+
+- Banks, brokers and fund houses will deduct TDS at NRI rates, often higher than your actual tax. File an Indian return to claim refunds; see ITR for NRIs.
+
+- The India–UAE tax treaty can lower tax on some income; you will need a UAE tax residency certificate.
+
+- Your PAN stays valid; NRIs are not required to link PAN with Aadhaar, but update your status with the tax department so your PAN is not treated as inoperative.
+
+## The order to do it in
+
+- Confirm your residential status for the year.
+- Re-designate bank accounts and open NRE/NRO.
+- Convert demat and trading accounts.
+- Update mutual funds, EPF, NPS, insurance and SGB records.
+- Check each platform you use for NRI eligibility.
+- Plan your first NRI tax return.
+
+Related: NRI tax services, a CA for Indians in Dubai and NRI taxation guide.
+
+## Sources
+
+- Consulate General of India, Dubai: CBDT clarification on deemed tax residency (Feb 2020)
+- RBI: Foreign Exchange Management (Deposit) Regulations, 2016 (NRE/NRO)
+- IDFC FIRST Bank: impact of residential status on Indian investments
+
+## Frequently asked questions
+What should I do with my Indian bank account after moving to Dubai?
+Tell the bank you are now non-resident and have your resident savings account re-designated as an NRO account. Open an NRE account for money earned in the UAE; NRE balances are repatriable and the interest is tax-free in India.
+
+Can I keep my Zerodha account after becoming an NRI?
+Not as a resident account. You need to convert it to an NRI demat and trading account linked to an NRE account (repatriable, through PIS) or an NRO account (non-repatriable), and move your holdings across.
+
+Can an NRI in the UAE continue mutual fund SIPs?
+Generally yes. Update your tax status to NRI with each fund house, complete NRI KYC and change the bank mandate to an NRE or NRO account. Some fund houses restrict investors in certain countries, but the UAE is usually accepted.
+
+Can I keep Sovereign Gold Bonds after becoming an NRI?
+Yes. Bonds bought while you were resident can be held until early redemption or maturity. The 2.5% interest is taxable in India.
+
+Is my UAE salary taxed in India?
+No, not once you are a non-resident. Non-residents are taxed in India only on income earned or received in India, such as Indian interest, rent, dividends and capital gains.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/edf-export-of-services-freelancers/
+------------------------------------------------------------------------
+FEMA · Exports · New from October 2026
+
+# EDF for services: what freelancers, SaaS and creators need now
+
+Since October 2026, banks have been asking service exporters, including freelancers and creators, for an Export Declaration Form (EDF) and an invoice before crediting foreign payments. Here is what the rule requires and how to deal with the practical problems.
+
+By CA Durgesh Chavda·Last reviewed 3 November 2026·5 min read
+
+Get your EDFs sorted
+hello@durgeshchavda.com
+
+Key takeaways
+- Service exporters now file an EDF with their bank: one per month, within 30 days of month-end.
+- October 2026 invoices: EDF due by 30 November 2026.
+- Make your own invoice; match the name to the SWIFT remitter, with an annexure for platform payments.
+
+Payment stuck at the bank? We prepare your invoices and EDFs and deal with the bank, so your foreign receipts are credited.Free 15-min callWhatsAppEmail
+
+## What changed
+
+- RBI’s Foreign Exchange Management (Export and Import of Goods and Services) Regulations, 2026 replaced the old export rules. Service exports, not just software, now need an export declaration with the bank.
+
+- One EDF can cover all of a month’s service invoices, filed within 30 days of the end of the month in which the invoices are raised. For October 2026 invoices, that is by 30 November 2026.
+
+- You file with your bank (the AD bank); the bank reports to RBI. Export proceeds should normally be received within nine months of the invoice.
+
+## “Google or Upwork doesn’t give me an invoice”
+
+You make the invoice yourself. It does not need to come from the payer.
+
+- Your details: name, address, PAN, and GSTIN if registered.
+
+- Billed to: the entity you contract with. For AdSense in India this is Google Asia Pacific Pte. Ltd., Singapore; for marketplaces, check your platform terms.
+
+- Service, period and amount in the foreign currency, matching the payment.
+
+- Invoice number and date, and your LUT reference if you are under GST.
+
+## When the remitter name doesn’t match
+
+Banks often insist that the name on the invoice matches the remitter in the SWIFT message. Platform payments come from a payment entity (for example an escrow or payments company), not from your client. A practical fix is one monthly invoice addressed to the remitter exactly as it appears in the SWIFT message, describing the services delivered through the platform, with an annexure listing each underlying client invoice and the platform’s transaction statement. Confirm with your bank before you rely on it.
+
+## GST and income tax still apply
+
+- If you are GST-registered, file an LUT so your exports are zero-rated, and report them in GSTR-1. See GST on export of services and LUT.
+
+- Export income is taxable in India like any other income; keep the bank’s inward remittance advice (e-FIRA) with your invoices.
+
+## Monthly checklist
+
+- Raise invoices for all foreign clients or platforms for the month.
+- Match each payment to an invoice and the SWIFT remitter.
+- File one EDF for the month with your bank within 30 days of month-end.
+- Keep the e-FIRA, invoices and EDF acknowledgement together.
+
+## Sources
+
+- EY: RBI issues Export and Import of Goods and Services Regulations, 2026
+- LKS: RBI releases FEMA 2026 export-import regulations
+- Skydo: EDF filing guide 2026 for service exporters
+- Google AdSense Help: contracting entity and tax invoices
+
+## Frequently asked questions
+Do freelancers need to file an EDF in 2026?
+Banks are asking service exporters, including freelancers, for an Export Declaration Form under the FEMA export regulations that apply to services from October 2026. One EDF can cover all of a month's service invoices and is filed with your bank within 30 days of the month-end.
+
+What is the EDF deadline for October 2026 invoices?
+30 November 2026, because the EDF for a month's service invoices is due within 30 days from the end of the month in which the invoices were raised.
+
+How do I create an invoice for AdSense income?
+Make it yourself: your name, address and PAN, billed to Google Asia Pacific Pte. Ltd., Singapore (the AdSense contracting entity for India), describing the publisher services for the month, with the amount in US dollars matching the payment, an invoice number and date, and your LUT reference if GST-registered.
+
+My bank says the invoice name must match the SWIFT remitter. What do I do?
+Address a monthly invoice to the remitter exactly as named in the SWIFT message, describe the services delivered through the platform, and attach an annexure listing the underlying client invoices and the platform statement. Check with your bank that it will accept this.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/how-to-choose-offshore-accounting-partner/
@@ -572,6 +847,8 @@ You add us as a user in QuickBooks or Xero. We never need your bank password, an
 03
 ### Monthly close
 Books closed and the report sent by an agreed date each month, with one list of questions for you.
+
+Freelancer or SaaS exporter? EDF rules from October 2026.
 
 ## Frequently asked questions
 Can I outsource my bookkeeping to India?
@@ -4839,6 +5116,7 @@ Related: Corporate Laws (Amendment) Bill 2026 · when you need a registered valu
 See also: forensic audit & fraud investigation in India.
 Guide: 12 warning signs of fraud in your Indian subsidiary.
 Need a director in India? Resident director: the 182-day rule and your options.
+Indian parent of a foreign company? APR and audit rules.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
@@ -5277,6 +5555,8 @@ Office #1904, 19th Floor, Tamani Arts, Business Bay, Dubai, United Arab Emirates
 +91 78018 87130 · hello@durgeshchavda.com
 
 Open in Google Maps
+
+Just moved? the NRI checklist for your Indian money.
 
 ## Frequently asked questions
 Is there an Indian CA in Dubai for NRI tax?
@@ -5871,6 +6151,7 @@ Related: gifts to and from NRIs · Indian tax notices · lower TDS certificate (
 Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
+New NRI in the UAE? start with this checklist.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -6201,6 +6482,7 @@ One missed FC-GPR or delayed RBI filing can hold up your next round. Every forei
 Get your filings sorted
 hello@durgeshchavda.com
 
+Due 31 December: APR for overseas subsidiaries.
 Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a free 15-min intro
 Free tool: FEMA late submission fee calculator — LSF for late FC-GPR, FC-TRS, ODI and other filings under RBI's formula.
 
@@ -7285,6 +7567,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·11 min read
 Talk to a CA about NRI tax
 hello@durgeshchavda.com
 
+Moved to Dubai? account-by-account checklist.
 Quick answers
 
 - Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India.
