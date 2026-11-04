@@ -8735,13 +8735,13 @@ Why now: foreign account data received under CRS and FATCA is showing up against
 
 | Category 1: undisclosed | Category 2: not reported | 
 
-What it covers | A foreign asset bought from income never taxed in India, or foreign income that should have been taxed but was not | A foreign asset bought from income already taxed, or bought while you were a non-resident, but left out of Schedule FA | 
+What it covers | A foreign asset whose source you cannot explain, or foreign income that was taxable in India but never offered to tax | A foreign asset bought from income already taxed, or bought while you were a non-resident, but left out of Schedule FA | 
 
 Limit | Asset value plus income up to ₹1 crore in aggregate | Asset value up to ₹5 crore in aggregate | 
 
 Cost | 30% tax plus an equal amount: 60% | Flat ₹1,00,000 | 
 
-Typical case | Unreported foreign salary, rent, dividends or sale proceeds; an account funded from untaxed money | RSUs taxed through Indian payroll; savings from years abroad; a student-days account | 
+Typical case | Unreported foreign rent, dividends, interest or sale gains while resident; an account funded from money that escaped Indian tax | RSUs taxed through Indian payroll; savings from years abroad; a student-days account | 
 
 Worked example (from the department’s FAQs): a foreign bank account worth ₹60 lakh and ₹20 lakh of undisclosed foreign income. Tax at 30% is ₹18 lakh plus ₹6 lakh, plus an equal additional amount, so ₹48 lakh in all.
 
