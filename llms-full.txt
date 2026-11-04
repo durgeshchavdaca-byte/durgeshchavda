@@ -74,6 +74,90 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/indian-medical-device-supplier-cdsco-licence-check/
+------------------------------------------------------------------------
+Supplier checks · Medical devices
+
+# Buying medical devices from India: check the licence first
+
+India is a growing source of medical devices and consumables. Before you place an order, sign a distribution deal or invest, confirm that your Indian partner actually holds the licence for the device it is selling you. Here is what to ask for and how to read it.
+
+By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
+
+Get your supplier verified
+hello@durgeshchavda.com
+
+Key takeaways
+- Class A/B manufacturer: Form MD-5 (state authority). Class C/D: Form MD-9 (CDSCO, after site audit).
+- Importers need MD-15; sellers and distributors need MD-42 registration.
+- Match entity, factory address, device and class to the licence; an Indian licence is not FDA or CE.
+
+Need it checked on the ground? We verify the licence, the company and the factory, and send you a written report.Free 15-min callSupplier verification
+
+## Risk classes
+
+Under India’s Medical Devices Rules, 2017, devices are classified by risk: Class A (low), Class B (low to moderate), Class C (moderate to high) and Class D (high). The class decides who issues the licence and how closely the factory is examined.
+
+## Which licence your supplier should hold
+
+If the supplier… | Licence | Issued by | 
+
+Manufactures Class A or B devices | Form MD-5 (applied for on MD-3) | State Licensing Authority | 
+
+Manufactures Class C or D devices | Form MD-9 (applied for on MD-7), granted after an audit of the site | Central Licensing Authority (CDSCO) | 
+
+Imports devices into India | Form MD-15 import licence (applied for on MD-14) | Central Licensing Authority (CDSCO) | 
+
+Sells or distributes devices it does not make | Form MD-42 registration | State Licensing Authority | 
+
+## How to verify the licence
+
+- Get a copy of the licence and its annexure listing the devices covered.
+
+- Match the details: the company name and the factory address on the licence must match the entity you are contracting with and the site you are told makes your product. Check the company on the Ministry of Corporate Affairs records and its GST registration.
+
+- Match the device: your exact device, model and class must appear on the licence. A licence for one device does not cover another.
+
+- Confirm it is current with the issuing authority, and that it has not been suspended or cancelled.
+
+- See the factory: for anything other than simple low-risk items, a visit is the only way to confirm the licensed site is where the goods are made.
+
+## Beyond the licence
+
+- Quality system: ISO 13485 certification and recent audit reports.
+
+- Your market’s rules: an Indian licence is not a US FDA clearance or an EU CE mark. Check the approvals your own market needs, and who holds them.
+
+- Export documents: ask what the supplier will provide, for example a free sale certificate and test reports.
+
+- Financial health and ownership: filed accounts, charges, litigation and who really owns the business. See red flags in Indian company accounts.
+
+Related: Indian supplier verification and site visits and due diligence on Indian partners.
+
+## Sources
+
+- CDSCO: Regulatory pathway under the Medical Devices Rules, 2017
+- CDSCO: FAQs on medical devices
+
+## Frequently asked questions
+Which licence does an Indian medical device manufacturer need?
+Under the Medical Devices Rules, 2017, manufacturers of Class A and B devices need a licence in Form MD-5 from the State Licensing Authority, and manufacturers of Class C and D devices need a licence in Form MD-9 from the Central Licensing Authority (CDSCO), granted after a site audit.
+
+How do I check an Indian medical device supplier's licence?
+Ask for a copy of the licence and its device annexure, match the company name, factory address and your exact device and class against it, confirm with the issuing authority that it is current, and verify the company's registration and the factory itself.
+
+Does an Indian CDSCO licence mean the device can be sold in the US or EU?
+No. An Indian licence covers manufacture and sale in India. Selling in the US or EU needs the approvals of those markets, such as US FDA clearance or a CE mark, so check who holds them.
+
+What licence does an Indian importer or distributor of medical devices need?
+An importer needs an import licence in Form MD-15 from the Central Licensing Authority, and a business that sells or distributes devices it does not make needs a registration in Form MD-42.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/fast-ds-filing-service/
 ------------------------------------------------------------------------
 FAST-DS 2026 · Deadline 31 December
@@ -4354,6 +4438,7 @@ See also: pricing and levels.
 For Korean companies: due diligence in India for Korean companies (English).
 Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
 For Canadian companies: due diligence in India for Canadian companies.
+Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -4436,6 +4521,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 US importers: UFLPA traceability checklist for Indian suppliers.
 For Canadian companies: due diligence in India for Canadian companies.
 Accounting firm? See outsourced tax prep for US CPA firms, support for UK practices and bookkeeping for US and UK businesses.
+Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
 
 ## Sources
 
@@ -5540,6 +5626,7 @@ See also: how to check a supplier’s credit.
 Start small: an India Company Check on one Indian company — USD 249, report in 5 working days.
 See also: pricing.
 US importers: UFLPA traceability checklist for Indian suppliers.
+Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
