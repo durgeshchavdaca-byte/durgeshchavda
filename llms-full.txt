@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-03. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-04. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,93 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/itr-u-updated-return-time-limit/
+------------------------------------------------------------------------
+Income tax · Updated returns
+
+# ITR-U time limit: last dates and extra tax, year by year
+
+Missed income, a wrong claim, or a year you never filed? An updated return (ITR-U) lets you correct it voluntarily within 48 months of the end of the assessment year, if you pay the tax, interest and an extra tax that rises the longer you wait.
+
+By CA Durgesh Chavda·Last reviewed 4 November 2026·4 min read
+
+Fix past years before the rate rises
+hello@durgeshchavda.com
+
+Key takeaways
+- ITR-U window: 48 months from the end of the assessment year.
+- Extra tax: 25%, 50%, 60% or 70% of tax and interest, depending on how late.
+- FY 2021-22 closes 31 March 2027; ITR-U cannot be used for refunds or losses.
+
+Closing soon: the window for FY 2021-22 (AY 2022-23) ends on 31 March 2027, and the extra tax for that year is already at the top rate of 70%. For FY 2022-23 (AY 2023-24), it rises from 60% to 70% after 31 March 2027.
+
+## Last dates and current extra tax (as on November 2026)
+
+Financial year (assessment year) | Extra tax if filed now | Rate rises on | Last date for ITR-U | 
+
+2021-22 (AY 2022-23) | 70% | — | 31 March 2027 | 
+
+2022-23 (AY 2023-24) | 60% | 1 April 2027 (to 70%) | 31 March 2028 | 
+
+2023-24 (AY 2024-25) | 50% | 1 April 2027 (to 60%) | 31 March 2029 | 
+
+2024-25 (AY 2025-26) | 25% | 1 April 2027 (to 50%) | 31 March 2030 | 
+
+The extra tax is a percentage of the tax and interest due on the additional income. For FY 2025-26, a belated or revised return can still be filed until 31 December 2026, which is cheaper than an updated return.
+
+## How the extra tax works
+
+Filed within, from the end of the assessment year | Additional tax | 
+
+12 months | 25% | 
+12 to 24 months | 50% | 
+24 to 36 months | 60% | 
+36 to 48 months | 70% | 
+
+## When you cannot file an updated return
+
+- To reduce your tax, increase a refund, or file or increase a loss.
+
+- If a search or survey has been started against you, or an assessment or reassessment for that year is pending or completed.
+
+- Beyond 48 months: older years cannot be fixed with ITR-U.
+
+## “I never filed for several years”
+
+If TDS was deducted and you simply never filed, ITR-U can cover only the last four assessment years, and only where it increases tax or brings in unreported income. Years with excess TDS and no tax due are not helped by ITR-U, because it cannot be used to claim a refund. Older years can still be picked up by the department if it has information, so get the position reviewed year by year. NRIs with Indian TDS often fall into this; see ITR for NRIs.
+
+## How to file
+
+- Work out the additional income and the tax and interest on it.
+- Pay the tax, interest and additional tax first.
+- File the updated return form on the e-filing portal for that year, with the payment details.
+- Keep the computation; the department can still ask questions.
+
+## Sources
+
+- Taxmann: FAQs on updated return of income (ITR-U)
+- Business Today: ITR-U deadline extended to 48 months (Budget 2025)
+- Income-tax e-filing portal
+
+## Frequently asked questions
+What is the last date to file ITR-U for AY 2023-24?
+31 March 2028, because an updated return can be filed within 48 months from the end of the assessment year. Filed now, the additional tax is 60%; it rises to 70% from 1 April 2027.
+
+What is the last date for ITR-U for FY 2021-22?
+31 March 2027 for AY 2022-23. The additional tax for that year is already at the highest rate of 70% of the tax and interest.
+
+How much extra tax is payable on an updated return?
+25% of the tax and interest if filed within 12 months of the end of the assessment year, 50% within 24 months, 60% within 36 months and 70% within 48 months.
+
+Can I file ITR-U to claim a refund?
+No. An updated return cannot reduce tax, increase a refund or create or increase a loss. It is only for reporting additional income or correcting errors that increase tax.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fema-compounding-rbi-regional-offices-2026/
@@ -5539,6 +5626,8 @@ GST notices and audits | Indian entities, foreign SaaS suppliers registered unde
 ## Refunds of excess tax
 
 Foreign companies and NRIs often have tax withheld at the wrong rate. We file the return, apply the treaty and follow the refund through. Related: India tax for foreign companies · NRI tax services.
+
+Missed income in an earlier year? ITR-U last dates and extra tax.
 
 ## Frequently asked questions
 Can a foreign company respond to an Indian tax notice without travelling to India?
