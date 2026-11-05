@@ -74,6 +74,106 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/demat-and-mutual-funds-after-becoming-nri/
+------------------------------------------------------------------------
+NRI · Investments
+
+# Demat and mutual funds after becoming an NRI: step by step
+
+You do not need to sell your Indian shares or mutual funds when you move abroad. But a resident demat account cannot simply carry on, and every mutual fund folio needs your new status, address and bank. Here is the order to do it in.
+
+By CA Durgesh Chavda·Last reviewed 5 November 2026·5 min read
+
+Get your NRI conversion done
+hello@durgeshchavda.com
+
+Key takeaways
+- Move resident demat holdings to an NRO non-PIS demat by off-market transfer; no need to sell.
+- Use NRE PIS for fresh repatriable investment; no intraday or short selling for NRIs.
+- Update every mutual fund folio and SIP mandate separately; TDS applies to NRI gains and dividends.
+
+## When does this need to be done?
+
+Under FEMA, you become a non-resident as soon as you leave India for a job or to live abroad, not at the end of the tax year. Your broker, depository participant and fund houses should be told promptly. Holding shares in a resident account after your status has changed is a compliance gap, and brokers can take a week or more to process the paperwork.
+
+## Shares: resident demat to NRI demat
+
+Account | Linked bank | Use it for | 
+
+NRO non-PIS demat and trading | NRO account | Shares you already hold from your resident days. Sale proceeds are non-repatriable, but can be sent abroad within the NRO limits with Form 15CA/15CB | 
+
+NRE PIS demat and trading | NRE account | Fresh investment from your foreign income, on a repatriable basis | 
+
+- Open an NRO (and, if you want, an NRE) bank account, or redesignate your savings account as NRO.
+
+- Open an NRO non-PIS demat and trading account with your broker.
+
+- Move your holdings from the resident demat by an off-market transfer (delivery instruction slip). You do not have to sell them.
+
+- Close the resident demat. Some depository participants now allow the status to be changed on the same account; ask yours.
+
+- Update apps built on your broker (for example smallcase) once the new account is live.
+
+As an NRI, you cannot do intraday trading or short selling in Indian equities, so check any standing strategies.
+
+## Mutual funds and SIPs
+
+- Folios do not move with the demat. Update each fund house or its registrar (CAMS or KFintech) with your NRI status, overseas address, FATCA declaration and an NRE or NRO bank mandate. Units held through a broker’s platform may need a separate transfer request.
+
+- SIPs can usually continue once the mandate is moved to an NRE or NRO account. Money invested from your resident savings stays non-repatriable.
+
+- Some fund houses do not accept investments from residents of the US or Canada. Residents of the UAE, Singapore and the UK can generally invest. Check each fund house.
+
+## Tax and TDS as an NRI
+
+Income | What changes | 
+
+Capital gains on shares and equity funds | Still taxable in India. The broker or fund house deducts TDS on the gain at the time of sale or redemption | 
+
+Dividends | TDS at 20%, or the lower treaty rate if you give a Tax Residency Certificate and Form 10F | 
+
+Refund of excess TDS | Only by filing an Indian return; see ITR for NRIs | 
+
+## Checklist
+
+- Bank: redesignate to NRO, and open an NRE account if you will invest from abroad.
+
+- Broker: NRO non-PIS account, off-market transfer, close the resident demat.
+
+- Mutual funds: status, address, FATCA and bank mandate for every folio.
+
+- NPS and EPF: update status and bank details.
+
+- Tax: Tax Residency Certificate and Form 10F for treaty rates, and a plan for TDS refunds.
+
+Related: moved to Dubai: NRI checklist, US stocks after becoming an NRI and repatriation from an NRO account.
+
+## Sources
+
+- HDFC Bank: What happens to your demat account after a residency change
+- Groww: Converting a resident demat account to an NRI demat account
+- ICICI Direct: Resident to NRI conversion
+- Business Standard: Moving abroad? Changes to make in bank, demat and MF accounts
+
+## Frequently asked questions
+Can I keep my Indian shares after becoming an NRI?
+Yes. You do not need to sell. Move them from your resident demat to an NRO non-PIS demat account by an off-market transfer, then close the resident demat or ask your depository participant to change its status.
+
+What is the difference between NRE PIS and NRO non-PIS?
+An NRO non-PIS account holds shares bought while you were resident, and proceeds go to your NRO account. An NRE PIS account is for fresh investment from foreign income on a repatriable basis.
+
+Can I continue my mutual fund SIPs as an NRI?
+Usually yes. Update each folio with your NRI status, overseas address and FATCA details, and move the SIP mandate to an NRE or NRO account. Some fund houses do not accept residents of the US or Canada.
+
+Is TDS deducted on mutual fund redemption for NRIs?
+Yes. Fund houses deduct TDS on the capital gain when an NRI redeems units. Excess TDS can be claimed back only by filing an Indian income-tax return.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/us-stocks-after-becoming-nri/
 ------------------------------------------------------------------------
 NRI · Foreign shares
@@ -165,6 +265,7 @@ Related: investing in US stocks from India, moved to Dubai: NRI checklist and FA
 - IRS: Some nonresidents with US assets must file estate tax returns
 - Income Tax Department: FAST-DS FAQs
 - Legal500 (S&A Law Offices): Union Budget 2026-27, direct tax
+Shares and mutual funds in India? Demat and mutual funds after becoming an NRI.
 
 ## Frequently asked questions
 Can an NRI keep US stocks bought while resident in India?
@@ -1141,6 +1242,7 @@ Related: NRI tax services, a CA for Indians in Dubai and NRI taxation guide.
 - RBI: Foreign Exchange Management (Deposit) Regulations, 2016 (NRE/NRO)
 - IDFC FIRST Bank: impact of residential status on Indian investments
 Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
+Shares and mutual funds in India? Demat and mutual funds after becoming an NRI.
 
 ## Frequently asked questions
 What should I do with my Indian bank account after moving to Dubai?
@@ -8607,6 +8709,7 @@ Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
+Shares and mutual funds in India? Demat and mutual funds after becoming an NRI.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
