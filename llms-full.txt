@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-04. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-05. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,120 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/us-stocks-after-becoming-nri/
+------------------------------------------------------------------------
+NRI · Foreign shares
+
+# US stocks after becoming an NRI: what changes and what to fix
+
+Many Indians build a US stock portfolio through an app under the Liberalised Remittance Scheme, then move to Dubai, Singapore, the UK or the US for work. The shares can stay, but the tax position, the reporting and the US paperwork all change, and gaps from the years you were resident in India need fixing.
+
+By CA Durgesh Chavda·Last reviewed 5 November 2026·6 min read
+
+Get your US holdings reviewed
+hello@durgeshchavda.com
+
+Key takeaways
+- You can keep US shares bought while resident; NRIs are not taxed in India on them.
+- Every resident-year return should show them in Schedule FA; FY 2025-26 can be revised free until 31 December 2026.
+- File a new W-8BEN within 30 days of moving; Dubai residents face 30% US dividend withholding.
+
+Before 31 December 2026: if your US shares were left out of Schedule FA in your FY 2025-26 return, a revised return filed by 31 December 2026 carries no fee. For earlier years, check whether FAST-DS applies; its last date is also 31 December 2026.
+
+## Can I keep US shares bought while I was resident in India?
+
+Yes. Under FEMA, a person resident outside India may continue to hold foreign assets acquired while resident in India. You do not need to sell. Update your status and address with the investing platform and its US broker, because some platforms limit service to residents of certain countries.
+
+Once you are a non-resident under FEMA, the Liberalised Remittance Scheme no longer governs fresh investment. You can invest from your foreign salary directly, and no Indian TCS applies to money that never leaves an Indian bank.
+
+## How the shares are taxed in India
+
+Your status for the year | US dividends and gains | Schedule FA | 
+
+Resident and ordinarily resident | Taxable in India. Gains after 24 months: 12.5%. Earlier: slab rates. Credit for US tax withheld (Form 67) | Required | 
+
+Resident but not ordinarily resident (RNOR) | Generally not taxable in India | Not required | 
+
+Non-resident | Not taxable in India | Not required | 
+
+US shares are not listed on an Indian stock exchange, so Indian tax treats them like unlisted shares: long-term after 24 months. Your status is decided for each financial year as a whole, so the year you move is often still a resident year. See residential status and RNOR.
+
+## Schedule FA for the years you were resident
+
+- Every return filed as a resident should list the US shares, the brokerage account and the dividends in Schedule FA, even if you sold nothing.
+
+- Schedule FA follows the calendar year. The FY 2025-26 return (AY 2026-27) covers holdings from 1 January to 31 December 2025.
+
+- Omitting it can attract a ₹10 lakh penalty per year under the Black Money Act. Since 1 October 2024, this is not applied where your foreign assets other than property total ₹20 lakh or less. Above that, the relief is lost.
+
+## How to fix a missed disclosure
+
+Year | Route | Last date | 
+
+FY 2025-26 (AY 2026-27) | Revised return with Schedule FA | 31 December 2026 with no fee; up to 31 March 2027 with a fee of ₹1,000 or ₹5,000 | 
+
+Earlier years | Check eligibility for FAST-DS (shares bought from taxed income: flat ₹1 lakh) | 31 December 2026 | 
+
+Unreported dividends or gains | Updated return (ITR-U) with additional tax | Depends on the year; see ITR-U time limits | 
+
+## Update your W-8BEN with the US broker
+
+Your W-8BEN tells the US broker which country you are tax resident in. If that changes, you must give a new form within 30 days. This changes the US tax withheld on dividends:
+
+- As an Indian resident, the India-US tax treaty limits dividend withholding to 25%.
+
+- The US has no income tax treaty with the UAE, so a Dubai resident generally suffers the full 30%.
+
+- Residents of the UK, Singapore, Canada and others get their own treaty rate.
+
+## US estate tax: often missed
+
+For people who are not US citizens or residents, US shares are US assets for US estate tax. The exemption is only US$60,000, whatever country you live in. On a large US portfolio, plan for this, and keep nominee details current with the platform.
+
+## Checklist when you move abroad
+
+- Confirm your residential status for the year of the move and the next year.
+
+- Check Schedule FA in every return filed as a resident while you held the shares.
+
+- Update the platform and the US broker: country of residence, address and a new W-8BEN.
+
+- Keep statements of cost and dates for every lot, for the gain computation if you return.
+
+- Plan for US estate tax if the portfolio is large.
+
+Related: investing in US stocks from India, moved to Dubai: NRI checklist and FAST-DS for returning NRIs.
+
+## Sources
+
+- IRS: About Form W-8BEN
+- IRS: United States income tax treaties, A to Z
+- IRS: Some nonresidents with US assets must file estate tax returns
+- Income Tax Department: FAST-DS FAQs
+- Legal500 (S&A Law Offices): Union Budget 2026-27, direct tax
+
+## Frequently asked questions
+Can an NRI keep US stocks bought while resident in India?
+Yes. Under FEMA, a person resident outside India can continue to hold foreign assets acquired while resident in India. You do not need to sell them, but update your status with the platform and the US broker.
+
+Is an NRI taxed in India on US stock gains and dividends?
+No. A non-resident is not taxed in India on income that arises outside India, such as dividends and gains on US shares. In years you were a resident and ordinarily resident, they are taxable in India, with credit for US tax withheld.
+
+Do NRIs need to fill Schedule FA?
+No. Schedule FA applies only to residents who are ordinarily resident. But every return you filed as a resident should show your US shares, and a missed disclosure for FY 2025-26 can be corrected by a revised return, with no fee up to 31 December 2026.
+
+What US tax is withheld on dividends after moving to Dubai?
+Generally 30%. The US has no income tax treaty with the UAE, so the 25% rate available to Indian residents under the India-US treaty no longer applies once you update your W-8BEN to the UAE.
+
+Do I need a new W-8BEN after moving abroad?
+Yes. If your country of tax residence changes, give your US broker a new W-8BEN within 30 days of the change.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/indian-medical-device-supplier-cdsco-licence-check/
@@ -480,6 +594,7 @@ Planning the move back? See returning to India from the US.
 
 - TaxGuru: FAST-DS 2026 FAQs (categories)
 - Income Tax Department: FAST-DS FAQs (13 August 2026)
+Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
 
 ## Frequently asked questions
 Can returning NRIs use FAST-DS?
@@ -531,7 +646,7 @@ Financial year (assessment year) | Extra tax if filed now | Rate rises on | Last
 
 2024-25 (AY 2025-26) | 25% | 1 April 2027 (to 50%) | 31 March 2030 | 
 
-The extra tax is a percentage of the tax and interest due on the additional income. For FY 2025-26, a belated or revised return can still be filed until 31 December 2026, which is cheaper than an updated return.
+The extra tax is a percentage of the tax and interest due on the additional income. For FY 2025-26, a belated return can still be filed until 31 December 2026, and a revised return until 31 March 2027 (with a fee of ₹1,000 or ₹5,000 after 31 December). Both are cheaper than an updated return.
 
 ## How the extra tax works
 
@@ -1025,6 +1140,7 @@ Related: NRI tax services, a CA for Indians in Dubai and NRI taxation guide.
 - Consulate General of India, Dubai: CBDT clarification on deemed tax residency (Feb 2020)
 - RBI: Foreign Exchange Management (Deposit) Regulations, 2016 (NRE/NRO)
 - IDFC FIRST Bank: impact of residential status on Indian investments
+Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
 
 ## Frequently asked questions
 What should I do with my Indian bank account after moving to Dubai?
@@ -8490,6 +8606,7 @@ Related: gifts and income tax · who can buy property in India · help with an I
 Living in the US? NRIs in the US: Indian tax, FBAR, FATCA & PFIC.
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
+Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
