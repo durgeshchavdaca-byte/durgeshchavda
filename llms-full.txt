@@ -74,6 +74,99 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-email-from-income-tax-department/
+------------------------------------------------------------------------
+FAST-DS · Foreign assets
+
+# Got the FAST-DS email? Here is what it means
+
+Since 25 September 2026, the Income Tax Department has been emailing and texting taxpayers that its records indicate they may have overseas financial interests, and pointing them to FAST-DS. It is not a notice, but it should not be ignored.
+
+By CA Durgesh Chavda·Last reviewed 5 November 2026·4 min read
+
+Get your position checked before 31 December
+hello@durgeshchavda.com
+
+Key takeaways
+- The email is an advisory, not a notice; no reply is needed.
+- Check AIS > Foreign Assets Information against Schedule FA in each resident-year return.
+- Revise FY 2025-26 free by 31 Dec 2026; use FAST-DS (₹1 lakh flat for taxed-income assets) for earlier years.
+
+## What the email is
+
+- It is an advisory, not a legal notice. It does not ask for a reply and sets no date to respond.
+
+- It is based on data that foreign banks, brokers and custodians share with India under CRS and FATCA.
+
+- A real notice appears under Pending Actions on the e-filing portal. Check there too.
+
+- The department now has a record that you were told. If proceedings start later, “I didn’t know” will be harder to argue.
+
+## Where to see what they have
+
+- Log in to the e-filing portal directly. Do not use the link in the email or SMS.
+
+- Open AIS through the Compliance Portal and look for Foreign Assets Information.
+
+- Compare it with Schedule FA and the foreign income schedules in each return you filed as a resident.
+
+The AIS view is not complete. List everything you held abroad yourself: bank accounts, brokerage accounts, RSUs and ESOPs, insurance policies and property.
+
+## Which route fits
+
+Your position | What to do | Last date | 
+
+Everything was reported | Nothing. Keep your returns and statements ready | — | 
+
+Missed only in the FY 2025-26 return | Revised return with Schedule FA | 31 Dec 2026 with no fee (to 31 Mar 2027 with a fee) | 
+
+Missed in earlier years; asset bought from taxed income or while you were an NRI (RSUs, ESOPs, old bank account, US stocks) | FAST-DS: flat ₹1 lakh, for assets up to ₹5 crore | 31 Dec 2026 | 
+
+Foreign income that was taxable in India but never taxed | FAST-DS: 30% tax plus an equal amount, up to ₹1 crore | 31 Dec 2026 | 
+
+Foreign assets other than property of ₹20 lakh or less | The ₹10 lakh penalty is not applied for defaults from 1 October 2024. Check this before paying anything | — | 
+
+Work out your number with the free FAST-DS calculator, and read the full FAST-DS guide.
+
+## Two things people get wrong
+
+- A foreign bank account is valued at the total deposits since you opened it, not the current balance. See FAST-DS for foreign bank accounts.
+
+- Old foreign statements take time. Overseas banks can take weeks to send them, so request them now.
+
+## Who is getting it
+
+Reported cases include employees with RSUs from a foreign employer, people with accounts from their student years abroad, returning NRIs who still hold foreign accounts, and small US share investors. People who report every year have also received it, for example where one year or one brokerage account was left out. See FAST-DS for RSUs and ESOPs and FAST-DS for returning NRIs.
+
+## Sources
+
+- TaxGuru: Received an email on FAST-DS 2026? What it means
+- Paasa: Income tax email on foreign assets and FAST-DS
+- CAalley (Indian Express): Income Tax Department shares foreign assets info, nudges for disclosure
+- Income Tax Department: FAST-DS FAQs
+
+## Frequently asked questions
+Is the FAST-DS email from the Income Tax Department a notice?
+No. It describes itself as an automated advisory, not a legal notice, and does not ask for a reply. A real notice appears under Pending Actions on the e-filing portal.
+
+Do I need to reply to the income tax email about overseas financial interests?
+No reply is required. But check the Foreign Assets Information in your AIS against Schedule FA in your past returns, and correct any gap before 31 December 2026.
+
+Where can I see the foreign asset data the department has?
+Log in to the e-filing portal, open AIS through the Compliance Portal and look for Foreign Assets Information. It comes from data shared by foreign institutions under CRS and FATCA, and may not be complete.
+
+I reported everything. Can I ignore the email?
+Yes, if every return filed while you were resident shows your foreign assets and income correctly. Keep the returns and foreign statements ready in case questions come later.
+
+What if I only missed it in last year's return?
+File a revised return for FY 2025-26 with Schedule FA. There is no fee until 31 December 2026.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/demat-and-mutual-funds-after-becoming-nri/
 ------------------------------------------------------------------------
 NRI · Investments
@@ -438,6 +531,8 @@ Form 4 (certificate) | Issued after the payment is verified |
 
 Fees are fixed upfront after a short review of your holdings. Not sure if you need it? Try the FAST-DS calculator or read the complete FAST-DS guide.
 
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
+
 ## Frequently asked questions
 Can you file FAST-DS for me?
 Yes. We review your foreign assets, value them as on 31 March 2026, choose the right category, file Form 1, help you pay the amount in Form 2 through challan ITNS 289, file Form 3 and follow through to the Form 4 certificate.
@@ -475,6 +570,8 @@ Choose your situation and enter the value of your foreign assets as on 31 March 
 
 Get it filed before 31 December
 hello@durgeshchavda.com
+
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 
 Want it filed for you? We value the assets and file Form 1 to Form 3 before 31 December.WhatsApp usFree 15-min callHow we file
 
@@ -514,6 +611,7 @@ By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
 Fix your RSU reporting
 hello@durgeshchavda.com
 
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 Key takeaways
 - RSUs taxed via Indian payroll but missing from Schedule FA: usually the ₹1 lakh category.
 - Unreported dividends or sale gains abroad: undisclosed foreign income at 60%.
@@ -586,6 +684,7 @@ By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
 Sort out your foreign account
 hello@durgeshchavda.com
 
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 Key takeaways
 - FAST-DS values a bank account at the sum of all deposits, not the balance.
 - Deposits from non-resident earnings or taxed income: ₹1 lakh flat; from untaxed income: 60%.
@@ -660,6 +759,7 @@ By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
 Regularise your foreign assets
 hello@durgeshchavda.com
 
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 Key takeaways
 - Assets acquired while non-resident and missed in Schedule FA: flat ₹1 lakh (up to ₹5 crore).
 - Unreported income after becoming resident: 60% category.
@@ -6286,6 +6386,7 @@ GST notices and audits | Indian entities, foreign SaaS suppliers registered unde
 Foreign companies and NRIs often have tax withheld at the wrong rate. We file the return, apply the treaty and follow the refund through. Related: India tax for foreign companies · NRI tax services.
 
 Missed income in an earlier year? ITR-U last dates and extra tax.
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 
 ## Frequently asked questions
 Can a foreign company respond to an Indian tax notice without travelling to India?
@@ -9020,6 +9121,7 @@ By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
 Get your disclosure reviewed
 hello@durgeshchavda.com
 
+Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 Closes 31 December 2026. No declaration can be filed after that date. We handle the valuation and the filing end to end.WhatsApp usFree 15-min callHow we file
 
 ## What FAST-DS is
