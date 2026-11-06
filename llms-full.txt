@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-05. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-06. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,640 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/nri-money-transfer-service/
+------------------------------------------------------------------------
+For Indians in the UK, Europe, US, Canada and Australia
+
+# Move your money between India and abroad, without the bank back-and-forth
+
+Property sold, an inheritance, NRO savings, or parents sending you money: we get the tax settled, the CA certificate issued, Form 145 filed and the bank satisfied, so the money reaches your account abroad. Everything is handled remotely.
+
+Get your money moved
+hello@durgeshchavda.com
+
+Tell us what you are moving. We reply with the route, the paperwork and the tax, before you commit.WhatsApp usFree 15-min callTransfer checker
+
+## Who we help
+
+- NRIs selling property in India: TDS, a lower TDS certificate, capital gains and getting the proceeds out.
+
+- Heirs repatriating an inheritance from parents: bank accounts, deposits, shares and property.
+
+- NRIs with NRO savings: rent, dividends, pension and old resident savings.
+
+- Parents in India sending money to children abroad under LRS, and the TCS on it.
+
+- NRIs sending money home: NRE vs NRO, buying property, investing, gifts to family.
+
+## What we do
+
+- Work out the Indian tax and file returns or claim TDS refunds.
+
+- Apply for a lower TDS certificate (Form 128) before a property sale.
+
+- Issue the CA certificate (Form 146) and file Form 145.
+
+- Prepare the bank file and follow up until the money is sent.
+
+- Flag what your country of residence needs, such as Form 3520 in the US or T1135 in Canada, and coordinate with your local accountant.
+
+- Check whether any past foreign assets need FAST-DS before 31 December 2026.
+
+## Documents we usually need
+
+- PAN, passport and visa or residence permit, and your NRO/NRE bank details.
+
+- Source of the money: sale deed, will or succession certificate, deposit statements, gift letter.
+
+- Proof of Indian tax paid: TDS certificates, returns.
+
+## Guides for your country
+United KingdomUK tax after April 2025United StatesForm 3520, FBAR, PFICCanadaT1135 and CRAAustraliaATO and AUSTRACEuropeGift and inheritance tax
+
+## Frequently asked questions
+How much money can an NRI send from India abroad?
+Up to USD 1 million per financial year from NRO balances, property sale proceeds and inheritance, after Indian tax, with Form 145 and usually a CA certificate in Form 146. NRE and FCNR balances can be sent without limit.
+
+Can you handle everything if I am abroad?
+Yes. Documents are shared digitally, forms are filed online, and we coordinate with your bank. Some banks need your signature or a video call, which we schedule.
+
+What is Form 145 and Form 146?
+From 1 April 2026 they replaced Form 15CA and Form 15CB. Form 145 is the remitter's online declaration; Form 146 is the chartered accountant's certificate on the tax position.
+
+Do you help with tax in my country too?
+We flag what your country requires, such as Form 3520 in the US or T1135 in Canada, and work with your local accountant so both sides match.
+
+On this page
+
+- Who we help
+- What we do
+- Documents
+- Your country
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/tools/nri-money-transfer-checker/
+------------------------------------------------------------------------
+Free tool
+
+# NRI money transfer checker: route, limit, forms and tax
+
+Pick the direction, your country and what the money is. See how much can go, the forms your bank will ask for, the Indian tax, and what your country of residence taxes or reports.
+
+Get your transfer handled
+hello@durgeshchavda.com
+
+Want it done for you? We prepare Forms 145 and 146 and deal with the bank.WhatsApp usFree 15-min callTransfer checker
+
+## How it works
+
+- NRO money, property sale proceeds and inheritance share one limit of US$1 million per financial year (April to March), after Indian tax.
+
+- NRE and FCNR balances can go abroad without limit.
+
+- Gifts from parents go under LRS: US$250,000 per parent per year, with TCS above ₹10 lakh.
+
+- Forms 145 and 146 replaced 15CA and 15CB from 1 April 2026.
+
+Country guides: UK, US, Canada, Australia, Europe.
+
+## Frequently asked questions
+How much money can an NRI transfer from India per year?
+Up to US$1 million per financial year from NRO balances, property sale proceeds and inheritance combined, after paying Indian tax. NRE and FCNR balances have no limit.
+
+Can my parents in India send me money abroad?
+Yes, under the Liberalised Remittance Scheme, up to US$250,000 per parent per financial year. TCS of 20% applies above ₹10 lakh a year, which they can adjust against their tax.
+
+What happens above US$1 million?
+Spread the remittance across financial years, or apply to the RBI through your bank for approval.
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-for-nris-abroad/
+------------------------------------------------------------------------
+FAST-DS · NRIs
+
+# FAST-DS for NRIs abroad: do you still need it?
+
+Most NRIs assume an Indian foreign-asset scheme has nothing to do with them. But if you were resident in India in any year while holding something abroad, and it never went into Schedule FA, that year can still come back. FAST-DS closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 6 November 2026·5 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- NRIs today can still need FAST-DS for years they were resident in India.
+- Common cases: accounts or RSUs before moving, the year of the move, student accounts.
+- Flat ₹1 lakh for taxed-income assets; file online from abroad by 31 December 2026.
+
+Not sure if it applies? Send us your India and abroad timeline; we tell you in one reply.WhatsApp usFree 15-min callHow we file
+
+## When an NRI needs to look at FAST-DS
+
+Your story | Why it matters | 
+
+You opened a UK, US, Canadian or Australian account or got RSUs before you moved, while still resident in India | Each resident year needed Schedule FA | 
+
+Your year of moving was still a resident year in India | The new foreign salary account and any foreign income belonged in that year’s return | 
+
+You studied abroad, came back to work in India, then left again | The account from your student days may have been open during your Indian working years | 
+
+You plan to return to India | Once resident again, everything abroad must be reported; clear the past first. See returning NRIs | 
+
+You have been non-resident in every year you held the asset | No Schedule FA was needed. FAST-DS is not for you | 
+
+The scheme is open to people who are non-resident today, if they were resident in India in the year the foreign asset was acquired or the foreign income arose.
+
+## What it costs
+
+- Asset bought from income already taxed in India, or while you were a non-resident, and only missing from Schedule FA: a flat ₹1 lakh (assets up to ₹5 crore).
+
+- Foreign income that should have been taxed in India but was not: 30% tax plus an equal amount (up to ₹1 crore).
+
+- Small holdings: since 1 October 2024 the ₹10 lakh penalty is not applied where foreign assets other than property total ₹20 lakh or less. Check before paying.
+
+Work it out with the free FAST-DS calculator.
+
+## Filing from abroad
+
+- Everything is online: Form 1 on the e-filing portal, payment online, Form 3 after paying.
+
+- You need your Indian PAN login and Aadhaar OTP or a digital signature for verification.
+
+- Foreign bank statements from the year you opened the account are the slow part: bank accounts are valued at the total deposits since opening. Ask for them now.
+
+## Got the department’s email?
+
+Many NRIs received the “overseas financial interests” email too. It is an advisory, not a notice. See what the FAST-DS email means.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs
+- TaxGuru: Received an email on FAST-DS 2026?
+
+## Frequently asked questions
+Can an NRI file FAST-DS?
+Yes, if you were resident in India in the year the foreign asset was acquired or the foreign income arose, even if you are non-resident today.
+
+I have always been an NRI while holding my foreign accounts. Do I need FAST-DS?
+No. Schedule FA applies only to residents, so assets held only in non-resident years did not need reporting in India.
+
+Can I file FAST-DS from the UK, US, Canada or Australia?
+Yes. Form 1 is filed on the e-filing portal, payment is online, and verification is by Aadhaar OTP or a digital signature.
+
+What is the deadline for FAST-DS?
+Form 1 must be filed by 31 December 2026. Payment follows once the department issues Form 2.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-money-india-to-uk/
+------------------------------------------------------------------------
+NRIs in the UK · Money transfers
+
+# Money between India and the UK: limits, forms and UK tax
+
+Sold a flat in Pune, inherited from your parents, or just want your NRO savings in your UK account? Here is what India allows, the paperwork your bank will ask for, and what HMRC expects since the non-dom rules ended.
+
+By CA Durgesh Chavda·Last reviewed 6 November 2026·6 min read
+
+Get your transfer done right
+hello@durgeshchavda.com
+
+Key takeaways
+- NRO to UK: up to USD 1 million a year after Indian tax, with Forms 145 and 146.
+- No UK tax on a gift from parents; Indian interest, rent and gains are taxable in the UK since April 2025.
+- Keep source-of-funds papers ready for your UK bank.
+
+Moving a large amount? We prepare Form 145 and the CA certificate, handle TDS on property sales and talk to your bank.WhatsApp usFree 15-min callTransfer checker
+
+## India to UK: what can go, and how
+Money in India | Can it go abroad? | Limit and paperwork | 
+
+NRE or FCNR deposit | Yes, freely | No limit. No Indian tax on NRE interest | 
+
+NRO balance: rent, dividends, pension, savings from before you left | Yes, after Indian tax | Up to USD 1 million per financial year, with Form 145 and usually a CA certificate in Form 146 | 
+
+Sale of a flat or land | Yes, after TDS and tax | Within the USD 1 million. Proceeds of up to two homes bought with foreign money or NRE funds can go back up to the amount you paid. A lower TDS certificate (Form 128) stops excess TDS | 
+
+Inheritance from parents | Yes | Within the USD 1 million, with the will or succession papers. India has no inheritance tax | 
+
+Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,000 per parent per year. TCS of 20% above ₹10 lakh, which they can adjust against their tax | 
+
+## UK to India: where to send it
+Send it to | Best for | Indian tax | 
+
+NRE account | Savings you may want to take back later | Interest tax-free in India (but taxable where you live) | 
+
+NRO account | Paying Indian bills, EMIs, joint use with Indian income | Interest taxable in India, TDS deducted | 
+
+Your parents’ account | Supporting family | Gifts to relatives are not taxed in India | 
+
+Property, mutual funds, shares | Investing in India through NRE or NRO | Gains taxed in India; NRIs cannot buy farm land | 
+
+## What the UK taxes and checks
+
+- Worldwide income: since 6 April 2025 the remittance basis has gone. UK residents are taxed on Indian interest (including NRE interest), rent and gains as they arise, with credit for Indian tax under the India-UK treaty. People arriving after 10 years outside the UK can claim the 4-year foreign income and gains relief.
+
+- Gifts and inheritances from India: receiving money from your parents is not income in the UK, so there is no UK income tax on it. Keep the gift letter and their bank trail.
+
+- Property sale in India: the gain is taxable in the UK too if you are UK resident, with credit for the Indian tax paid.
+
+- Your UK bank will ask for the source of funds on a large receipt. Form 145, the CA certificate, the sale deed or will are what satisfy them.
+FAST-DS check before 31 December 2026: if you were resident in India in any year while holding a foreign account, shares or RSUs, and they were not in Schedule FA, see FAST-DS for NRIs abroad.
+
+## Steps to send money from India
+
+- Pay or settle Indian tax on the money (TDS on rent, interest or property sale).
+- Move it to your NRO account if it is not there already.
+- Get the CA certificate (Form 146) and file Form 145 online.
+- Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
+Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+
+## Sources
+
+- RBI: Master Direction on remittance of assets (USD 1 million limit)
+- RBI: FAQs on remittance of assets
+- GOV.UK: Tax on foreign income
+
+## Frequently asked questions
+How much money can an NRI in the UK transfer from India?
+From an NRO account, up to USD 1 million per financial year, covering balances, property sale proceeds and inheritance, after Indian tax. NRE and FCNR balances can be sent without limit.
+
+Is money received from India taxable in the UK?
+A gift or inheritance from your parents is not income, so no UK income tax. But income from India, such as interest, rent and gains, is taxable in the UK for UK residents since April 2025, with credit for Indian tax.
+
+Is NRE interest taxable in the UK?
+Yes, for UK residents. It is tax-free only in India. Claim the foreign income relief if you qualify as a recent arrival.
+
+Which forms are needed to send money from India to the UK?
+Form 145 (the old 15CA) filed online, and usually a chartered accountant's certificate in Form 146 (the old 15CB), plus the source documents your bank asks for.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-money-india-to-usa/
+------------------------------------------------------------------------
+NRIs in the US · Money transfers
+
+# Money between India and the US: limits, forms and IRS reporting
+
+Parents sending you money, an inheritance, or selling property in India and moving it to your US account? India’s limits are the easy part. The IRS forms are where people get penalised.
+
+By CA Durgesh Chavda·Last reviewed 6 November 2026·6 min read
+
+Get your transfer done right
+hello@durgeshchavda.com
+
+Key takeaways
+- NRO to US: up to USD 1 million a year after Indian tax, with Forms 145 and 146.
+- Gifts or inheritances from India over US$100,000 a year: Form 3520.
+- FBAR for Indian accounts over US$10,000; Indian mutual funds are PFICs.
+
+Moving a large amount? We prepare Form 145 and the CA certificate, handle TDS on property sales and talk to your bank.WhatsApp usFree 15-min callTransfer checker
+
+## India to USA: what can go, and how
+Money in India | Can it go abroad? | Limit and paperwork | 
+
+NRE or FCNR deposit | Yes, freely | No limit. No Indian tax on NRE interest | 
+
+NRO balance: rent, dividends, pension, savings from before you left | Yes, after Indian tax | Up to USD 1 million per financial year, with Form 145 and usually a CA certificate in Form 146 | 
+
+Sale of a flat or land | Yes, after TDS and tax | Within the USD 1 million. Proceeds of up to two homes bought with foreign money or NRE funds can go back up to the amount you paid. A lower TDS certificate (Form 128) stops excess TDS | 
+
+Inheritance from parents | Yes | Within the USD 1 million, with the will or succession papers. India has no inheritance tax | 
+
+Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,000 per parent per year. TCS of 20% above ₹10 lakh, which they can adjust against their tax | 
+
+## USA to India: where to send it
+Send it to | Best for | Indian tax | 
+
+NRE account | Savings you may want to take back later | Interest tax-free in India (but taxable where you live) | 
+
+NRO account | Paying Indian bills, EMIs, joint use with Indian income | Interest taxable in India, TDS deducted | 
+
+Your parents’ account | Supporting family | Gifts to relatives are not taxed in India | 
+
+Property, mutual funds, shares | Investing in India through NRE or NRO | Gains taxed in India; NRIs cannot buy farm land | 
+
+## What the US taxes and reports
+Situation | US requirement | 
+
+Gift or inheritance from parents in India over US$100,000 in a year | Form 3520. No tax, but heavy penalties if not filed | 
+
+Indian bank accounts (NRE, NRO, FD) above US$10,000 in total at any time | FBAR (FinCEN 114), and Form 8938 above the FATCA thresholds | 
+
+Indian mutual funds | Treated as PFICs: punitive tax and Form 8621. Get advice before buying more | 
+
+NRE interest, Indian rent, property gains | Taxable in the US, with foreign tax credit for Indian tax | 
+
+You send a gift to your parents above the annual exclusion | You file Form 709; tax is rarely due because of the lifetime exemption | 
+
+Cash or money-order transfers to India | 1% remittance tax since 2026; bank transfers and US cards are exempt. See the 1% remittance tax | 
+
+FAST-DS check before 31 December 2026: if you were resident in India in any year while holding a foreign account, shares or RSUs, and they were not in Schedule FA, see FAST-DS for NRIs abroad.
+
+## Steps to send money from India
+
+- Pay or settle Indian tax on the money (TDS on rent, interest or property sale).
+- Move it to your NRO account if it is not there already.
+- Get the CA certificate (Form 146) and file Form 145 online.
+- Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
+Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+
+## Sources
+
+- RBI: Master Direction on remittance of assets (USD 1 million limit)
+- IRS: About Form 3520
+- IRS: Report of Foreign Bank and Financial Accounts (FBAR)
+- IRS: Comparison of Form 8938 and FBAR requirements
+
+## Frequently asked questions
+Do I pay US tax on money my parents send from India?
+No. A gift is not income. But if gifts from foreign persons exceed US$100,000 in a year, you must report them on Form 3520.
+
+How much can an NRI in the US repatriate from India?
+Up to USD 1 million per financial year from NRO balances, property sale proceeds and inheritance, after Indian tax, with Forms 145 and 146. NRE and FCNR balances have no limit.
+
+Do I need to report Indian bank accounts to the IRS?
+Yes. If your foreign accounts exceed US$10,000 in total at any point in the year, file an FBAR; Form 8938 may also apply above the FATCA thresholds.
+
+Are Indian mutual funds a problem for US residents?
+Yes. They are generally PFICs for US tax, with punitive tax and Form 8621 reporting. Review them before investing more.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-money-india-to-canada/
+------------------------------------------------------------------------
+NRIs in Canada · Money transfers
+
+# Money between India and Canada: limits, forms and CRA rules
+
+Bringing your Indian savings to Canada, receiving help from your parents, or selling property back home? Here is what India allows and what the CRA expects you to report.
+
+By CA Durgesh Chavda·Last reviewed 6 November 2026·6 min read
+
+Get your transfer done right
+hello@durgeshchavda.com
+
+Key takeaways
+- NRO to Canada: up to USD 1 million a year after Indian tax, with Forms 145 and 146.
+- No Canadian tax on gifts or inheritances; T1135 above CAD 100,000 of foreign property.
+- NRE interest and Indian rent are taxable in Canada.
+
+Moving a large amount? We prepare Form 145 and the CA certificate, handle TDS on property sales and talk to your bank.WhatsApp usFree 15-min callTransfer checker
+
+## India to Canada: what can go, and how
+Money in India | Can it go abroad? | Limit and paperwork | 
+
+NRE or FCNR deposit | Yes, freely | No limit. No Indian tax on NRE interest | 
+
+NRO balance: rent, dividends, pension, savings from before you left | Yes, after Indian tax | Up to USD 1 million per financial year, with Form 145 and usually a CA certificate in Form 146 | 
+
+Sale of a flat or land | Yes, after TDS and tax | Within the USD 1 million. Proceeds of up to two homes bought with foreign money or NRE funds can go back up to the amount you paid. A lower TDS certificate (Form 128) stops excess TDS | 
+
+Inheritance from parents | Yes | Within the USD 1 million, with the will or succession papers. India has no inheritance tax | 
+
+Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,000 per parent per year. TCS of 20% above ₹10 lakh, which they can adjust against their tax | 
+
+## Canada to India: where to send it
+Send it to | Best for | Indian tax | 
+
+NRE account | Savings you may want to take back later | Interest tax-free in India (but taxable where you live) | 
+
+NRO account | Paying Indian bills, EMIs, joint use with Indian income | Interest taxable in India, TDS deducted | 
+
+Your parents’ account | Supporting family | Gifts to relatives are not taxed in India | 
+
+Property, mutual funds, shares | Investing in India through NRE or NRO | Gains taxed in India; NRIs cannot buy farm land | 
+
+## What Canada taxes and reports
+
+- Gifts and inheritances: Canada has no tax on money you receive as a gift or inheritance from India.
+
+- Form T1135: if the cost of your foreign property (Indian bank deposits, shares, mutual funds, a rented flat) is over CAD 100,000 at any time in the year, you must file it. Your own home in India used personally is excluded.
+
+- Worldwide income: NRE interest, Indian rent and gains on Indian property are taxable in Canada for residents, with foreign tax credit for Indian tax.
+
+- Banks report international transfers of CAD 10,000 or more to FINTRAC. That is routine; just keep the paper trail.
+FAST-DS check before 31 December 2026: if you were resident in India in any year while holding a foreign account, shares or RSUs, and they were not in Schedule FA, see FAST-DS for NRIs abroad.
+
+## Steps to send money from India
+
+- Pay or settle Indian tax on the money (TDS on rent, interest or property sale).
+- Move it to your NRO account if it is not there already.
+- Get the CA certificate (Form 146) and file Form 145 online.
+- Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
+Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+
+## Sources
+
+- RBI: Master Direction on remittance of assets (USD 1 million limit)
+- CRA: Form T1135, Foreign Income Verification Statement
+- FINTRAC (Financial Transactions and Reports Analysis Centre of Canada)
+
+## Frequently asked questions
+Is money from India taxable in Canada?
+A gift or inheritance is not taxable in Canada. Income from India, such as NRE interest, rent and capital gains, is taxable for Canadian residents, with credit for Indian tax.
+
+Do I need to file T1135 for Indian accounts?
+Yes, if the total cost of your specified foreign property, including Indian deposits and investments, exceeds CAD 100,000 at any time in the year.
+
+How much can I repatriate from India to Canada?
+Up to USD 1 million per financial year from NRO balances, property sale proceeds and inheritance, after Indian tax, with Forms 145 and 146.
+
+Is NRE interest taxable in Canada?
+Yes, for Canadian residents. It is tax-free only in India.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-money-india-to-australia/
+------------------------------------------------------------------------
+NRIs in Australia · Money transfers
+
+# Money between India and Australia: limits, forms and ATO rules
+
+Selling the family flat, receiving an inheritance, or moving your NRO savings to Australia? India’s rules decide how much can go; the ATO decides what is taxable once it lands.
+
+By CA Durgesh Chavda·Last reviewed 6 November 2026·6 min read
+
+Get your transfer done right
+hello@durgeshchavda.com
+
+Key takeaways
+- NRO to Australia: up to USD 1 million a year after Indian tax, with Forms 145 and 146.
+- No gift or inheritance tax in Australia; keep documents for large deposits.
+- Indian interest, rent and gains go in your Australian return with an offset.
+
+Moving a large amount? We prepare Form 145 and the CA certificate, handle TDS on property sales and talk to your bank.WhatsApp usFree 15-min callTransfer checker
+
+## India to Australia: what can go, and how
+Money in India | Can it go abroad? | Limit and paperwork | 
+
+NRE or FCNR deposit | Yes, freely | No limit. No Indian tax on NRE interest | 
+
+NRO balance: rent, dividends, pension, savings from before you left | Yes, after Indian tax | Up to USD 1 million per financial year, with Form 145 and usually a CA certificate in Form 146 | 
+
+Sale of a flat or land | Yes, after TDS and tax | Within the USD 1 million. Proceeds of up to two homes bought with foreign money or NRE funds can go back up to the amount you paid. A lower TDS certificate (Form 128) stops excess TDS | 
+
+Inheritance from parents | Yes | Within the USD 1 million, with the will or succession papers. India has no inheritance tax | 
+
+Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,000 per parent per year. TCS of 20% above ₹10 lakh, which they can adjust against their tax | 
+
+## Australia to India: where to send it
+Send it to | Best for | Indian tax | 
+
+NRE account | Savings you may want to take back later | Interest tax-free in India (but taxable where you live) | 
+
+NRO account | Paying Indian bills, EMIs, joint use with Indian income | Interest taxable in India, TDS deducted | 
+
+Your parents’ account | Supporting family | Gifts to relatives are not taxed in India | 
+
+Property, mutual funds, shares | Investing in India through NRE or NRO | Gains taxed in India; NRIs cannot buy farm land | 
+
+## What Australia taxes and checks
+
+- No gift or inheritance tax: money your parents give you, or leave you, is not taxed in Australia. Keep the gift letter or will, because the ATO can ask where a large deposit came from.
+
+- Worldwide income: Australian residents are taxed on NRE interest, Indian rent and Indian capital gains, with a foreign income tax offset for Indian tax.
+
+- Indian property sale: the gain is in your Australian return too. The Indian TDS and tax become your offset.
+
+- Banks report international transfers to AUSTRAC. That is routine; the papers from India explain the money.
+FAST-DS check before 31 December 2026: if you were resident in India in any year while holding a foreign account, shares or RSUs, and they were not in Schedule FA, see FAST-DS for NRIs abroad.
+
+## Steps to send money from India
+
+- Pay or settle Indian tax on the money (TDS on rent, interest or property sale).
+- Move it to your NRO account if it is not there already.
+- Get the CA certificate (Form 146) and file Form 145 online.
+- Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
+Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+
+## Sources
+
+- RBI: Master Direction on remittance of assets (USD 1 million limit)
+- RBI: FAQs on remittance of assets
+- Australian Taxation Office
+- AUSTRAC
+
+## Frequently asked questions
+Is money from India taxable in Australia?
+Gifts and inheritances are not taxed in Australia. Income from India, such as interest, rent and capital gains, is taxable for Australian residents, with a foreign income tax offset.
+
+How much can I transfer from India to Australia?
+Up to USD 1 million per financial year from NRO balances, property sale proceeds and inheritance, after Indian tax, with Forms 145 and 146. NRE balances have no limit.
+
+Do I pay tax in both India and Australia on a property sale?
+India taxes the gain first through TDS and your Indian return. Australia also taxes it if you are resident, but gives an offset for the Indian tax.
+
+Is NRE interest taxable in Australia?
+Yes, for Australian residents. It is tax-free only in India.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-money-india-to-europe/
+------------------------------------------------------------------------
+NRIs in Europe · Money transfers
+
+# Money between India and Europe: limits, forms and gift tax
+
+Working in Germany, the Netherlands, Ireland or France and moving money to or from India? India’s side is the same everywhere in Europe. The surprise is that some European countries tax gifts and inheritances you receive.
+
+By CA Durgesh Chavda·Last reviewed 6 November 2026·6 min read
+
+Get your transfer done right
+hello@durgeshchavda.com
+
+Key takeaways
+- NRO to Europe: up to USD 1 million a year after Indian tax, with Forms 145 and 146.
+- Several European countries tax gifts and inheritances received; check before a large gift.
+- Indian income is usually taxable locally, with treaty credit.
+
+Moving a large amount? We prepare Form 145 and the CA certificate, handle TDS on property sales and talk to your bank.WhatsApp usFree 15-min callTransfer checker
+
+## India to Europe: what can go, and how
+Money in India | Can it go abroad? | Limit and paperwork | 
+
+NRE or FCNR deposit | Yes, freely | No limit. No Indian tax on NRE interest | 
+
+NRO balance: rent, dividends, pension, savings from before you left | Yes, after Indian tax | Up to USD 1 million per financial year, with Form 145 and usually a CA certificate in Form 146 | 
+
+Sale of a flat or land | Yes, after TDS and tax | Within the USD 1 million. Proceeds of up to two homes bought with foreign money or NRE funds can go back up to the amount you paid. A lower TDS certificate (Form 128) stops excess TDS | 
+
+Inheritance from parents | Yes | Within the USD 1 million, with the will or succession papers. India has no inheritance tax | 
+
+Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,000 per parent per year. TCS of 20% above ₹10 lakh, which they can adjust against their tax | 
+
+## Europe to India: where to send it
+Send it to | Best for | Indian tax | 
+
+NRE account | Savings you may want to take back later | Interest tax-free in India (but taxable where you live) | 
+
+NRO account | Paying Indian bills, EMIs, joint use with Indian income | Interest taxable in India, TDS deducted | 
+
+Your parents’ account | Supporting family | Gifts to relatives are not taxed in India | 
+
+Property, mutual funds, shares | Investing in India through NRE or NRO | Gains taxed in India; NRIs cannot buy farm land | 
+
+## What European countries tax
+
+- Gift and inheritance tax on the receiver: unlike the UK, US, Canada and Australia, countries such as Germany, France, Spain, Ireland and the Netherlands can tax a gift or inheritance received by their residents, with allowances that depend on the relationship. Check before your parents send a large amount.
+
+- Worldwide income: residents are generally taxed on Indian interest (including NRE), rent and gains, with credit under India’s tax treaty with that country.
+
+- Reporting: foreign accounts and assets often have to be declared in your local return.
+FAST-DS check before 31 December 2026: if you were resident in India in any year while holding a foreign account, shares or RSUs, and they were not in Schedule FA, see FAST-DS for NRIs abroad.
+
+## Steps to send money from India
+
+- Pay or settle Indian tax on the money (TDS on rent, interest or property sale).
+- Move it to your NRO account if it is not there already.
+- Get the CA certificate (Form 146) and file Form 145 online.
+- Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
+Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+
+## Sources
+
+- RBI: Master Direction on remittance of assets (USD 1 million limit)
+- Your Europe (EU): Inheritance tax in the EU
+
+## Frequently asked questions
+Is a gift from parents in India taxable in Germany or the Netherlands?
+It can be. Several European countries, including Germany, France, Spain, Ireland and the Netherlands, tax gifts and inheritances received by their residents, with allowances. Check the local rules before a large transfer.
+
+How much can I transfer from India to Europe?
+Up to USD 1 million per financial year from NRO balances, property sale proceeds and inheritance, after Indian tax, with Forms 145 and 146. NRE balances have no limit.
+
+Is NRE interest taxable in Europe?
+Generally yes for residents of European countries; it is tax-free only in India.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fast-ds-email-from-income-tax-department/
@@ -532,6 +1166,7 @@ Form 4 (certificate) | Issued after the payment is verified |
 Fees are fixed upfront after a short review of your holdings. Not sure if you need it? Try the FAST-DS calculator or read the complete FAST-DS guide.
 
 Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
+Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 
 ## Frequently asked questions
 Can you file FAST-DS for me?
@@ -796,6 +1431,7 @@ Planning the move back? See returning to India from the US.
 - TaxGuru: FAST-DS 2026 FAQs (categories)
 - Income Tax Department: FAST-DS FAQs (13 August 2026)
 Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
+Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 
 ## Frequently asked questions
 Can returning NRIs use FAST-DS?
@@ -2825,6 +3461,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 ## Sources
 
 - Canada Revenue Agency — Form T1135, Foreign Income Verification Statement
+Sending money between India and your country? Limits, forms and local tax rules.
 
 ## Frequently asked questions
 Is NRE interest taxable in Canada?
@@ -2900,6 +3537,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 - GOV.UK — Offshore funds: list of reporting funds
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 Next big date: self assessment deadline, 31 January 2027.
+Sending money between India and your country? Limits, forms and local tax rules.
 
 ## Frequently asked questions
 Is NRE interest taxable in the UK?
@@ -2982,6 +3620,7 @@ We handle the Indian side — returns, TDS refunds, lower-TDS certificates, prop
 - IRS — Form 8802 (US residency certification, Form 6166)
 Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
+Sending money between India and your country? Limits, forms and local tax rules.
 
 ## Frequently asked questions
 Is NRE interest taxable in the US?
@@ -7277,6 +7916,7 @@ Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 New NRI in the UAE? start with this checklist.
 Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
+Moving money abroad? NRI money transfer help and the free transfer checker.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -9203,6 +9843,7 @@ For small, already-taxed holdings under ₹20 lakh, FAST-DS may not be necessary
 - Back in India after years abroad: FAST-DS for returning NRIs.
 
 Want it done for you? See our FAST-DS filing service.
+Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 
 ## Frequently asked questions
 What is FAST-DS 2026?
@@ -9288,6 +9929,7 @@ Proposed IRS regulations (April 2026) treat cashed-check proceeds as cash and in
 ## Sources
 
 - KPMG — proposed regulations on the remittance excise tax (Apr 2026)
+Sending money between India and your country? Limits, forms and local tax rules.
 
 ## Frequently asked questions
 Does the US 1% remittance tax apply to bank transfers to India?
