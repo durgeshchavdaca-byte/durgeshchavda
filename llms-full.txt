@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-06. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-07. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -74,6 +74,184 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/gift-from-parents-in-india-to-nri-child/
+------------------------------------------------------------------------
+NRI · Gifts
+
+# Parents in India sending you money abroad: limits, TCS and tax both sides
+
+Helping with a house deposit in Toronto, a car in London or a cushion in New Jersey? Parents in India can send a gift abroad legally and without tax for either side in most cases. The details that trip people up are TCS and the reporting in your country.
+
+By CA Durgesh Chavda·Last reviewed 7 November 2026·5 min read
+
+Plan the gift properly
+hello@durgeshchavda.com
+
+Key takeaways
+- LRS: US$250,000 per parent per year; TCS of 20% above ₹10 lakh, refundable.
+- No Indian tax for parent or child on the gift.
+- No tax on receipt in the US, UK, Canada or Australia; US Form 3520 above US$100,000.
+
+Planning a large gift? We work out the TCS, the paperwork and the reporting in your country before the money moves.WhatsApp usFree 15-min callTransfer checker
+
+## The India side
+
+Point | Rule | 
+
+How it is sent | Under the Liberalised Remittance Scheme (LRS), from the parent’s own bank account | 
+
+Limit | US$250,000 per parent per financial year, so up to US$500,000 from both parents | 
+
+TCS | 20% on the amount above ₹10 lakh a year, collected by the bank. It is not a cost: the parent claims it against their tax or as a refund | 
+
+Indian tax for you | None. Gifts from relatives, including parents, are exempt | 
+
+Indian tax for your parents | None on the gift itself. Income you later earn on it is yours | 
+
+Another route: your parents can gift rupees into your NRO account. That is still within their LRS limit, and getting it abroad from NRO needs Forms 145 and 146.
+
+## Your country’s side
+
+Where you live | Tax on the gift | What to watch | 
+
+United States | None | Form 3520 if gifts from foreign persons exceed US$100,000 in the year | 
+
+United Kingdom | None | Keep the gift letter; your bank will ask about the source of funds | 
+
+Canada | None | Lenders want a gift letter for a house deposit; T1135 if you then hold foreign property over CAD 100,000 | 
+
+Australia | None | Keep evidence that it is a gift, not income or a loan | 
+
+Europe | Possibly | Germany, France, Spain, Ireland and the Netherlands can tax gifts received by residents | 
+
+## Paperwork that makes it smooth
+
+- A short gift letter from each parent: amount, relationship, “no repayment expected”.
+
+- Parents’ PAN and their bank’s LRS form (A2) and declaration.
+
+- Proof the money is theirs: bank statement, FD maturity or sale deed.
+
+- Your account details abroad, in your name.
+
+## Common mistakes
+
+- Sending from a relative’s account but calling it the parent’s gift.
+
+- Forgetting that the TCS is refundable, and losing it by not claiming it in the parent’s return.
+
+- In the US, missing Form 3520 because “there was no tax”.
+
+Related: TCS on foreign remittances, the TCS calculator and the transfer checker.
+
+## Sources
+
+- RBI: FAQs on the Liberalised Remittance Scheme
+- IRS: About Form 3520
+- GOV.UK: Tax on foreign income
+
+## Frequently asked questions
+How much money can parents in India send to their child abroad?
+Up to US$250,000 per parent per financial year under the Liberalised Remittance Scheme, so up to US$500,000 from both parents.
+
+Is TCS charged when parents send a gift abroad?
+Yes. TCS of 20% applies to the amount above ₹10 lakh in a financial year. The parent can claim it against their income tax or as a refund.
+
+Is a gift from parents in India taxable for an NRI child?
+Not in India: gifts from relatives are exempt. In the US, UK, Canada and Australia there is no tax on a gift received, though the US requires Form 3520 above US$100,000 a year.
+
+Do I need a gift letter?
+It is strongly advised. Banks abroad and lenders ask for one, and it shows the money is a gift and not income or a loan.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-inheritance-from-india-abroad/
+------------------------------------------------------------------------
+NRI · Inheritance
+
+# Inherited money in India? How to get it to your account abroad
+
+Losing a parent is hard enough. The paperwork to move what they left you from India is the last thing you want to fight with from another country. India has no inheritance tax, and the money can come out. Here is the order to do it in.
+
+By CA Durgesh Chavda·Last reviewed 7 November 2026·5 min read
+
+Get your inheritance moved
+hello@durgeshchavda.com
+
+Key takeaways
+- No inheritance tax in India; later income and gains are the heir's.
+- Send up to US$1 million a year with Forms 145 and 146 and the inheritance papers.
+- US: Form 3520 over US$100,000; UK, Canada, Australia: no tax on receipt.
+
+Dealing with this from abroad? We coordinate the claims, the tax and the transfer, and keep your trips to India to a minimum.WhatsApp usFree 15-min callTransfer checker
+
+## Step by step
+
+- Gather the documents: death certificate, the will (with probate where required) or a succession or legal heir certificate, your PAN, passport and proof of relationship.
+
+- Claim each asset as nominee or legal heir:
+- Bank deposits: the bank’s claim form; funds go to your NRO account.
+- Shares: transmission to your NRI demat account through the depository participant.
+- Mutual funds: transmission request with the fund house or registrar.
+- Property: mutation in the land records and the society; then sell or keep.
+
+- Settle Indian tax: no tax on the inheritance itself, but income after the date of death (interest, rent) and gains when you sell are yours to report. Property sales attract TDS; a lower TDS certificate (Form 128) avoids excess.
+
+- Send it abroad: up to US$1 million per financial year from NRO balances, sale proceeds and inherited assets, with Form 145, a CA certificate in Form 146 and the inheritance documents. Larger amounts can be spread over years or approved by the RBI.
+
+## What your country expects
+
+Where you live | Tax on the inheritance | Reporting | 
+
+United States | None for you | Form 3520 for bequests from a foreign person over US$100,000; later income and gains are taxable in the US | 
+
+United Kingdom | No UK tax on receiving it | Later Indian income and gains are taxable in the UK | 
+
+Canada | None | T1135 if your foreign property costs over CAD 100,000 | 
+
+Australia | None | Keep the will and claim papers for the ATO; later income and gains are taxable | 
+
+Europe | Possibly | Several countries tax inheritances received by residents | 
+
+## Tips from the field
+
+- Start with the nominations: a nominee claim is much faster than a succession certificate.
+
+- Do the property mutation before you try to sell.
+
+- Keep every claim letter: the bank sending the money abroad will ask for the chain from the death certificate to the money.
+
+Related: repatriation from NRO, TDS on property sale by NRIs and demat and mutual funds for NRIs.
+
+## Sources
+
+- RBI: Master Direction on remittance of assets (USD 1 million limit)
+- RBI: FAQs on remittance of assets
+- IRS: About Form 3520
+
+## Frequently asked questions
+Is there inheritance tax in India?
+No. India has no inheritance or estate tax. Income earned on the inherited assets after the date of death, and gains when you sell them, are taxable for the heir.
+
+How much inherited money can an NRI transfer abroad?
+Up to US$1 million per financial year, covering NRO balances, sale proceeds and inherited assets together, with Form 145, a CA certificate in Form 146 and the inheritance documents.
+
+Do I pay US tax on an inheritance from India?
+No US tax on receiving it, but bequests from foreign persons over US$100,000 in a year must be reported on Form 3520. Later income and gains are taxable in the US.
+
+Can I claim an inheritance in India without travelling?
+Often yes. Many claims, transmissions and the transfer can be handled with documents sent from abroad, with signatures attested at the Indian consulate where needed.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/nri-money-transfer-service/
 ------------------------------------------------------------------------
 For Indians in the UK, Europe, US, Canada and Australia
@@ -123,6 +301,8 @@ Tell us what you are moving. We reply with the route, the paperwork and the tax,
 
 ## Guides for your country
 United KingdomUK tax after April 2025United StatesForm 3520, FBAR, PFICCanadaT1135 and CRAAustraliaATO and AUSTRACEuropeGift and inheritance tax
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 How much money can an NRI send from India abroad?
@@ -172,6 +352,8 @@ Want it done for you? We prepare Forms 145 and 146 and deal with the bank.WhatsA
 - Forms 145 and 146 replaced 15CA and 15CB from 1 April 2026.
 
 Country guides: UK, US, Canada, Australia, Europe.
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 How much money can an NRI transfer from India per year?
@@ -334,6 +516,8 @@ Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on prop
 - RBI: Master Direction on remittance of assets (USD 1 million limit)
 - RBI: FAQs on remittance of assets
 - GOV.UK: Tax on foreign income
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 How much money can an NRI in the UK transfer from India?
@@ -429,6 +613,8 @@ Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on prop
 - IRS: About Form 3520
 - IRS: Report of Foreign Bank and Financial Accounts (FBAR)
 - IRS: Comparison of Form 8938 and FBAR requirements
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 Do I pay US tax on money my parents send from India?
@@ -517,6 +703,8 @@ Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on prop
 - RBI: Master Direction on remittance of assets (USD 1 million limit)
 - CRA: Form T1135, Foreign Income Verification Statement
 - FINTRAC (Financial Transactions and Reports Analysis Centre of Canada)
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 Is money from India taxable in Canada?
@@ -606,6 +794,8 @@ Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on prop
 - RBI: FAQs on remittance of assets
 - Australian Taxation Office
 - AUSTRAC
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 Is money from India taxable in Australia?
@@ -691,6 +881,8 @@ Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on prop
 
 - RBI: Master Direction on remittance of assets (USD 1 million limit)
 - Your Europe (EU): Inheritance tax in the EU
+Parents sending you money? Gift from parents in India: limits and tax.
+Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
 Is a gift from parents in India taxable in Germany or the Netherlands?
