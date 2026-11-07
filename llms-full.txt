@@ -74,6 +74,106 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/buy-out-indian-jv-partner/
+------------------------------------------------------------------------
+Deals · Joint ventures
+
+# Buying out your Indian JV partner: pricing, filings and what to check first
+
+More foreign groups are moving from 50:50 or 74:26 joint ventures in India to full ownership, helped by FDI caps that have opened up in sectors such as insurance. Buying the Indian partner’s stake is a share transfer from a resident to a non-resident, and FEMA sets the rules on price, timing and reporting.
+
+By CA Durgesh Chavda·Last reviewed 7 November 2026·5 min read
+
+Plan the buyout with us
+hello@durgeshchavda.com
+
+Key takeaways
+- Resident-to-non-resident transfer: price not less than fair value; FC-TRS within 60 days.
+- Up to 25% of the price can be deferred within 18 months; stamp duty 0.015%.
+- Check licences, related-party deals, guarantees and change-of-control clauses first.
+
+Planning a buyout? We value the shares, run the diligence on the JV and file FC-TRS, from India.Free 15-min callDue diligence
+
+## The FEMA rules on the purchase
+
+Point | Rule | 
+
+Is it allowed? | Yes, if the sector allows the higher foreign stake under the automatic route; otherwise government approval is needed. Buyers from countries sharing a land border with India need approval (Press Note 3) | 
+
+Price | Not less than fair value for unlisted shares, under an internationally accepted pricing method, certified by a CA, a SEBI-registered merchant banker or a practising cost accountant | 
+
+Deferred payment | Up to 25% of the price can be paid within 18 months; escrow and indemnity holdbacks on the same terms | 
+
+Reporting | Form FC-TRS within 60 days of the payment or the transfer, whichever is earlier, through the AD bank on the FIRMS portal | 
+
+Stamp duty | 0.015% of the consideration on the share transfer | 
+
+## Tax on both sides
+
+- The Indian partner pays capital gains tax on the sale.
+
+- You, the buyer: if you buy below fair market value, the shortfall can be taxed in India as your income. The FEMA floor and the tax valuation should line up, so one valuation report should address both.
+
+- Check whether any part of the price is really for a non-compete or brand: it may be taxed differently and needs separate drafting.
+
+## Diligence before you buy the rest
+
+You may have sat on the board for years, but the Indian partner usually ran operations. Before paying for control, check:
+
+- Licences and assets in the partner’s name: land, leases, trademarks, government licences, bank guarantees.
+
+- Related-party dealings: supplies, rent, services or loans between the JV and the partner’s group, and whether they continue after exit.
+
+- Guarantees the partner gave for JV loans, which lenders will want replaced.
+
+- Change-of-control clauses in customer contracts, loans and leases.
+
+- Employees and key managers who are loyal to the partner.
+
+- Tax and FEMA history: pending notices, transfer pricing, and whether past foreign investment filings (FC-GPR, FC-TRS, annual FLA return) were made on time.
+
+- Competition approval: large deals can need CCI clearance under the deal-value threshold.
+
+## Typical sequence
+
+- Check the sector cap, route and any approvals.
+
+- Run focused diligence and agree the price with an independent valuation.
+
+- Sign the share purchase agreement, with escrow or deferred payment if needed.
+
+- Pay through banking channels; the AD bank records it.
+
+- Transfer the shares (demat), pay stamp duty and file FC-TRS within 60 days.
+
+- Update the board, the registers and the MCA filings; replace the partner’s guarantees.
+
+Related: setting up a joint venture in India, acquiring a company in India, FC-TRS filing guide and due diligence on Indian partners.
+
+## Sources
+
+- RBI: Master Direction, Foreign Investment in India
+- Aviva: agreement to purchase the remaining 26% stake in its India joint venture
+
+## Frequently asked questions
+Can a foreign company buy out its Indian joint venture partner?
+Yes, if the sector allows the higher foreign stake under the automatic route, or with government approval where needed. The purchase is a share transfer from a resident to a non-resident under FEMA.
+
+What is the minimum price when a foreign partner buys shares from an Indian partner?
+For unlisted shares, not less than fair value under an internationally accepted pricing method, certified by a chartered accountant, a SEBI-registered merchant banker or a practising cost accountant.
+
+Which form is filed when a non-resident buys shares from a resident?
+Form FC-TRS, filed through the AD bank on the RBI FIRMS portal within 60 days of the payment or the transfer, whichever is earlier.
+
+Can part of the price be deferred in an Indian share purchase?
+Yes. Up to 25% of the total consideration can be paid within 18 months, and escrow or indemnity holdbacks are allowed on the same terms.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/media-kit/
 ------------------------------------------------------------------------
 Media kit
@@ -5671,6 +5771,7 @@ For Korean companies: due diligence in India for Korean companies (English).
 Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
 For Canadian companies: due diligence in India for Canadian companies.
 Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
+Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -6090,6 +6191,7 @@ Most JV disputes trace back to something knowable at the start: liabilities in t
 - RBI — Master Directions (Foreign Investment in India)
 - DPIIT — FDI policy
 Most Indian partners are family-run: partnering with an Indian family business.
+Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 
 ## Frequently asked questions
 Can a foreign company form a joint venture in India?
@@ -6779,6 +6881,7 @@ See also: what due diligence in India costs.
 Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
 Suspect fraud after a deal? Forensic audit & fraud investigation.
 Selling or raising from abroad? Vendor (sell-side) due diligence in India.
+Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -9119,6 +9222,7 @@ Most post-deal surprises in India are unreported FDI, GST mismatches and tax dem
 See also: financial red flags.
 Coming change: draft Foreign Investment Rules 2026.
 Selling or raising from abroad? Vendor (sell-side) due diligence in India.
+Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
