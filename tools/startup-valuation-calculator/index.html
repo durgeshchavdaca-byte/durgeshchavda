@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>Startup Valuation Calculator (VC Method): Pre & Post-Money</title>
+<title>Startup Valuation Calculator: Pre & Post-Money (VC Method)</title>
 <meta name="description" content="Free startup valuation calculator (VC method): exit value, target return and future dilution give today&#x27;s pre- and post-money valuation and investor stake."/>
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1"/>
 <link rel="canonical" href="https://www.durgeshchavda.com/tools/startup-valuation-calculator/"/>
@@ -11,13 +11,13 @@
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Durgesh Chavda"/>
 <meta property="og:locale" content="en_IN"/>
-<meta property="og:title" content="Startup Valuation Calculator (VC Method): Pre &amp; Post-Money"/>
+<meta property="og:title" content="Startup Valuation Calculator: Pre &amp; Post-Money (VC Method)"/>
 <meta property="og:description" content="Free startup valuation calculator (VC method): exit value, target return and future dilution give today&#x27;s pre- and post-money valuation and investor stake."/>
 <meta property="og:url" content="https://www.durgeshchavda.com/tools/startup-valuation-calculator/"/>
 <meta property="og:image" content="https://www.durgeshchavda.com/assets/og/tools-startup-valuation-calculator.jpg"/>
 <meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="Startup Valuation Calculator (VC Method): Pre &amp; Post-Money"/>
+<meta name="twitter:title" content="Startup Valuation Calculator: Pre &amp; Post-Money (VC Method)"/>
 <meta name="twitter:description" content="Free startup valuation calculator (VC method): exit value, target return and future dilution give today&#x27;s pre- and post-money valuation and investor stake."/>
 <meta name="twitter:image" content="https://www.durgeshchavda.com/assets/og/tools-startup-valuation-calculator.jpg"/>
 <link rel="alternate" type="application/rss+xml" title="Durgesh Chavda — Insights" href="https://www.durgeshchavda.com/insights/feed.xml"/>
@@ -105,6 +105,22 @@
       "@type": "Answer",
       "text": "No. Indian share issues need a registered valuer's report for preferential allotment and, for foreign investors, a FEMA fair-value certificate from a CA, SEBI-registered merchant banker or practising cost accountant."
      }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I value my startup with no revenue?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Use a method that does not need revenue: the VC method (work back from a realistic exit), the scorecard method (compare with recent local deals) or the Berkus method (value the risks you have already reduced). Investors will benchmark against comparable rounds in any case."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "What is the difference between pre-money and post-money valuation?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Pre-money is the company's value before the new investment; post-money is pre-money plus the investment. The investor's stake is the investment divided by the post-money valuation."
+     }
     }
    ]
   }
@@ -183,8 +199,19 @@ document.getElementById('vlc').addEventListener('input',calc);calc()})();
 <li>Preferential allotments need a registered valuer&rsquo;s report under the Companies Act.</li>
 <li>Shares issued to foreign investors can&rsquo;t be priced below fair value under FEMA, certified by a CA, SEBI-registered merchant banker or practising cost accountant.</li>
 <li>Angel tax no longer applies — see <a href="/insights/angel-tax-abolished/">angel tax</a>. Formal valuations: <a href="/startup-valuation-services/">valuation services</a>.</li>
-</ul>
-<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How is a startup valued by VCs?</summary><div class="a">Early-stage investors often use the VC method: estimate the company's value at exit, divide by the return they need, and adjust for dilution from future rounds to arrive at today's post-money valuation.</div></details><details><summary>Is the VC method valuation enough for issuing shares in India?</summary><div class="a">No. Indian share issues need a registered valuer's report for preferential allotment and, for foreign investors, a FEMA fair-value certificate from a CA, SEBI-registered merchant banker or practising cost accountant.</div></details></div>
+</ul><h2 id="example">Worked example</h2>
+<p>A SaaS startup expects &#8377;100 crore of revenue in year 5; similar listed or acquired companies trade at 5&times; revenue, so the exit value is &#8377;500 crore. A seed investor wants 20&times; their money and expects 40% dilution from later rounds.</p>
+<ul><li>Post-money today = &#8377;500 crore &divide; 20 &times; (1 &minus; 0.40) = <strong>&#8377;15 crore</strong>.</li>
+<li>If they invest &#8377;3 crore, pre-money = &#8377;12 crore and their stake = 20%.</li></ul>
+<h2 id="methods">Other ways early-stage startups are valued</h2>
+<div class="tbl-wrap"><table class="tbl"><tr><th>Method</th><th>How it works</th><th>Best for</th></tr>
+<tr><td>VC method (this calculator)</td><td>Works back from a likely exit value and the investor&rsquo;s target return</td><td>Seed to Series A</td></tr>
+<tr><td>Revenue or ARR multiple</td><td>Current or next-year revenue &times; a multiple from comparable deals</td><td>Startups with steady revenue</td></tr>
+<tr><td>Scorecard method</td><td>Starts from the average pre-money of similar local deals, adjusted up or down for team, market, product and traction</td><td>Pre-revenue</td></tr>
+<tr><td>Berkus method</td><td>Assigns a value to each risk reduced: idea, prototype, team, strategic relationships, early sales</td><td>Pre-revenue</td></tr>
+<tr><td>Discounted cash flow</td><td>Present value of projected cash flows at a high discount rate</td><td>Later stage; also used by registered valuers for legal compliance</td></tr></table></div>
+<p>For the legal price of shares in India, a registered valuer or merchant banker usually uses DCF or comparable companies. The negotiated price and the legal valuation need to line up: see <a href="/insights/409a-valuation-for-indian-founders/">409A for Indian founders</a> if you have a US parent.</p>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How is a startup valued by VCs?</summary><div class="a">Early-stage investors often use the VC method: estimate the company's value at exit, divide by the return they need, and adjust for dilution from future rounds to arrive at today's post-money valuation.</div></details><details><summary>Is the VC method valuation enough for issuing shares in India?</summary><div class="a">No. Indian share issues need a registered valuer's report for preferential allotment and, for foreign investors, a FEMA fair-value certificate from a CA, SEBI-registered merchant banker or practising cost accountant.</div></details><details><summary>How do I value my startup with no revenue?</summary><div class="a">Use a method that does not need revenue: the VC method (work back from a realistic exit), the scorecard method (compare with recent local deals) or the Berkus method (value the risks you have already reduced). Investors will benchmark against comparable rounds in any case.</div></details><details><summary>What is the difference between pre-money and post-money valuation?</summary><div class="a">Pre-money is the company's value before the new investment; post-money is pre-money plus the investment. The investor's stake is the investment divided by the post-money valuation.</div></details></div>
 
   </article>
   

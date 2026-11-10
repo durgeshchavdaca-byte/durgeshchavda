@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>Equity Dilution Calculator for Startups (with Option Pool)</title>
+<title>Startup Equity Dilution Calculator (with Option Pool)</title>
 <meta name="description" content="Free startup dilution calculator: enter pre-money, investment and shares to see founder dilution, price per share, new shares and the option-pool shuffle."/>
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1"/>
 <link rel="canonical" href="https://www.durgeshchavda.com/tools/equity-dilution-calculator/"/>
@@ -11,13 +11,13 @@
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Durgesh Chavda"/>
 <meta property="og:locale" content="en_IN"/>
-<meta property="og:title" content="Equity Dilution Calculator for Startups (with Option Pool)"/>
+<meta property="og:title" content="Startup Equity Dilution Calculator (with Option Pool)"/>
 <meta property="og:description" content="Free startup dilution calculator: enter pre-money, investment and shares to see founder dilution, price per share, new shares and the option-pool shuffle."/>
 <meta property="og:url" content="https://www.durgeshchavda.com/tools/equity-dilution-calculator/"/>
 <meta property="og:image" content="https://www.durgeshchavda.com/assets/og/tools-equity-dilution-calculator.jpg"/>
 <meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="Equity Dilution Calculator for Startups (with Option Pool)"/>
+<meta name="twitter:title" content="Startup Equity Dilution Calculator (with Option Pool)"/>
 <meta name="twitter:description" content="Free startup dilution calculator: enter pre-money, investment and shares to see founder dilution, price per share, new shares and the option-pool shuffle."/>
 <meta name="twitter:image" content="https://www.durgeshchavda.com/assets/og/tools-equity-dilution-calculator.jpg"/>
 <link rel="alternate" type="application/rss+xml" title="Durgesh Chavda — Insights" href="https://www.durgeshchavda.com/insights/feed.xml"/>
@@ -113,6 +113,22 @@
       "@type": "Answer",
       "text": "It varies with valuation and amount raised, but founders commonly sell roughly 10–25% per round; model each round, including the option pool, before agreeing terms."
      }
+    },
+    {
+     "@type": "Question",
+     "name": "How do I calculate founder dilution over multiple rounds?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Multiply your ownership by (1 minus the percentage sold) for each round. For example, 70% after seed, then selling 20% in Series A, leaves 70% × 0.8 = 56%."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does the option pool dilute investors?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It depends on when it is created. A pool created before the round (in the pre-money) dilutes only the existing shareholders; a pool created after the round dilutes everyone, including the new investor."
+     }
     }
    ]
   }
@@ -195,8 +211,20 @@ document.getElementById('dlc').addEventListener('input',calc);calc()})();
 <li><strong>Price per share</strong> = pre-money ÷ fully diluted shares before the round (including any pool top-up).</li>
 <li><strong>The option-pool shuffle:</strong> when investors ask for the pool to be topped up <em>before</em> the round, the new options dilute only existing holders — effectively lowering your real pre-money. The calculator shows that &ldquo;effective pre-money&rdquo;.</li>
 <li>More on negotiating it: <a href="/insights/term-sheet-guide-india/">term sheets explained</a> · <a href="/insights/startup-funding-guide-india/">startup funding guide</a>.</li>
-</ul>
-<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How do you calculate dilution in a funding round?</summary><div class="a">Divide the investment by the post-money valuation (pre-money plus investment) to get the new investor's stake; existing holders' percentages fall proportionally. If an option pool is created before the round, it dilutes existing holders further.</div></details><details><summary>What is the option pool shuffle?</summary><div class="a">Creating or topping up the employee option pool before the round, so the new options dilute only the founders and existing investors rather than the new investor — which lowers the effective pre-money valuation.</div></details><details><summary>How much dilution is normal in a seed or Series A round?</summary><div class="a">It varies with valuation and amount raised, but founders commonly sell roughly 10–25% per round; model each round, including the option pool, before agreeing terms.</div></details></div>
+</ul><h2 id="example">Worked example</h2>
+<p>Founders own 100% of 10,00,000 shares. A seed investor puts in &#8377;2 crore at an &#8377;8 crore pre-money, and asks for a 10% option pool to be created before the round.</p>
+<ul><li>Post-money = &#8377;10 crore, so the investor owns <strong>20%</strong>.</li>
+<li>The pool takes 10% of the post-money cap table, so founders end with <strong>70%</strong>, not 80%.</li>
+<li>Because the pool came out of the pre-money, the founders&rsquo; effective pre-money is &#8377;7 crore, not &#8377;8 crore.</li></ul>
+<h2 id="rounds">Dilution across several rounds</h2>
+<div class="tbl-wrap"><table class="tbl"><tr><th>Round</th><th>Sold in round</th><th>Founders after the round</th></tr>
+<tr><td>Start</td><td>&ndash;</td><td>100%</td></tr>
+<tr><td>Seed</td><td>20% plus 10% pool</td><td>70%</td></tr>
+<tr><td>Series A</td><td>20%</td><td>56%</td></tr>
+<tr><td>Series B</td><td>15%</td><td>47.6%</td></tr></table></div>
+<p>Each round multiplies your stake by (1 &minus; the percentage sold). Run each round through the calculator to see the price per share and new shares issued.</p>
+<p>For foreign investors, the price per share cannot be below fair value under FEMA, and the allotment is reported in Form FC-GPR. See <a href="/insights/startup-funding-guide-india/">startup funding guide</a>.</p>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How do you calculate dilution in a funding round?</summary><div class="a">Divide the investment by the post-money valuation (pre-money plus investment) to get the new investor's stake; existing holders' percentages fall proportionally. If an option pool is created before the round, it dilutes existing holders further.</div></details><details><summary>What is the option pool shuffle?</summary><div class="a">Creating or topping up the employee option pool before the round, so the new options dilute only the founders and existing investors rather than the new investor — which lowers the effective pre-money valuation.</div></details><details><summary>How much dilution is normal in a seed or Series A round?</summary><div class="a">It varies with valuation and amount raised, but founders commonly sell roughly 10–25% per round; model each round, including the option pool, before agreeing terms.</div></details><details><summary>How do I calculate founder dilution over multiple rounds?</summary><div class="a">Multiply your ownership by (1 minus the percentage sold) for each round. For example, 70% after seed, then selling 20% in Series A, leaves 70% × 0.8 = 56%.</div></details><details><summary>Does the option pool dilute investors?</summary><div class="a">It depends on when it is created. A pool created before the round (in the pre-money) dilutes only the existing shareholders; a pool created after the round dilutes everyone, including the new investor.</div></details></div>
 
   </article>
   
