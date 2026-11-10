@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-10. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-11. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,116 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/uk-failure-to-prevent-fraud-india/
+------------------------------------------------------------------------
+Compliance · UK companies in India · 2026
+
+# UK failure to prevent fraud: what it means for your India operations
+
+Since 1 September 2025, a large organisation can be prosecuted in the UK if someone acting for it commits fraud intended to benefit it, unless it had reasonable procedures to prevent fraud. For UK groups, many of those “associated persons” sit in India: sales agents, distributors, the Indian subsidiary, an offshore centre, outsourced call-centre staff. Here is how to cover them.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Review your India risk
+hello@durgeshchavda.com
+
+Key takeaways
+- Large UK organisations are liable for fraud by associated persons, including those in India.
+- Indian agents, subsidiaries, GCCs, call centres and service providers can all be associated persons.
+- Defence: reasonable procedures that actually reach India: risk assessment, due diligence, contracts, monitoring.
+
+Quick answer: if your organisation is large (two of: more than 250 employees, more than £36 million turnover, more than £18 million assets), fraud by your Indian agents, subsidiary, offshore centre or service providers that is meant to benefit you can make you liable. Your defence is reasonable fraud prevention procedures, which need to reach India: a risk assessment, due diligence on Indian partners, contract clauses, training and monitoring.
+
+## The offence in brief
+
+Point | Rule | 
+
+Law | Economic Crime and Corporate Transparency Act 2023; in force 1 September 2025 | 
+
+Who is caught | Large organisations, including groups measured together and overseas organisations with a UK connection | 
+
+Associated persons | Employees, agents, subsidiaries, and anyone providing services for or on behalf of the organisation | 
+
+What triggers it | A listed fraud offence (for example false representation, false accounting, cheating the public revenue) intended to benefit the organisation or its clients | 
+
+Defence | Reasonable fraud prevention procedures, as described in Home Office guidance | 
+
+Penalty | Unlimited fine | 
+
+## Where India comes in
+
+- Sales agents and distributors who misstate products, fake documents or misrepresent terms to win business for you.
+
+- Your Indian subsidiary or GCC producing false reports, inflated figures or misleading information to customers.
+
+- Outsourced call centres and BPOs mis-selling or misleading UK customers on your behalf.
+
+- Suppliers providing services for you who falsify certificates or test results that you pass on to customers.
+
+The UK Bribery Act already required similar thinking for bribery. Many groups can extend the same programme, but fraud risks (mis-selling, false accounting, document fraud) are different from bribery risks and need their own assessment.
+
+## Making “reasonable procedures” reach India
+
+- Top-level commitment: the board owns fraud prevention, including overseas operations.
+
+- Risk assessment: list your Indian associated persons and how each could commit fraud that benefits you.
+
+- Proportionate procedures: approval controls, segregation of duties and reporting lines in the Indian entity.
+
+- Due diligence: background checks on Indian agents, distributors and service providers before appointment and periodically. See partner due diligence in India.
+
+- Communication and training: for staff and partners in India, in practical terms.
+
+- Monitoring and review: audits of the Indian entity and key partners, whistleblowing channels people trust, and follow-up on red flags.
+
+## Contract clauses for Indian partners
+
+- Warranties against fraud and false documents; compliance with your code of conduct.
+
+- Audit and information rights, including over sub-contractors.
+
+- Duty to report suspected fraud; cooperation with investigations.
+
+- Termination for breach without penalty.
+
+## India red flags to look for
+
+- Agents who resist due diligence or ask for payment to third parties.
+
+- Commission levels well above the market.
+
+- Indian entity results that consistently beat targets with weak documentation.
+
+- Complaints from customers about what your Indian call centre told them.
+
+Related: anti-bribery law for foreign companies in India, signs of fraud in an Indian subsidiary, vendor due diligence in India.
+
+## Sources
+
+- CMS: failure to prevent fraud, reasonable procedures guidance published
+- WilmerHale: UK failure to prevent fraud offence to come into force
+- Sidley: the new UK corporate offence of failure to prevent fraud
+- K&L Gates: UK Fraud Strategy Framework 2026 to 2029
+
+## Frequently asked questions
+Does the UK failure to prevent fraud offence apply to Indian subsidiaries and agents?
+It can. Associated persons include employees, agents, subsidiaries and anyone providing services for or on behalf of a large organisation. If they commit a listed fraud intended to benefit the organisation or its clients, the organisation can be liable unless it had reasonable fraud prevention procedures.
+
+Which organisations are caught by the failure to prevent fraud offence?
+Large organisations meeting two of three tests: more than 250 employees, more than £36 million turnover and more than £18 million total assets, measured across the group. It has applied since 1 September 2025.
+
+What are reasonable fraud prevention procedures for India operations?
+A risk assessment of Indian associated persons, proportionate controls in the Indian entity, due diligence on Indian agents, distributors and service providers, training, contract clauses with audit rights, and monitoring including whistleblowing channels.
+
+What is the penalty for failure to prevent fraud?
+An unlimited fine for the organisation, plus the reputational and contractual consequences.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/foreign-investment-indian-banks-nbfcs/
@@ -5090,6 +5200,7 @@ One sign alone is rarely proof. Several together — especially in purchasing, c
 ## Sources
 
 - Institute of Chartered Accountants of India — Forensic Accounting and Investigation Standards
+UK group with India operations? Failure to prevent fraud: what it means for your India operations.
 
 ## Frequently asked questions
 What are the common signs of fraud in an Indian subsidiary?
@@ -6564,6 +6675,7 @@ Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
 For Canadian companies: due diligence in India for Canadian companies.
 Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
+UK group with India operations? Failure to prevent fraud: what it means for your India operations.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -11458,6 +11570,7 @@ Income tax between India and the UK is still governed by the India–UK tax trea
 
 - Chambers — India-UK CETA in force
 - AccountingWEB — UK-India double contributions
+UK group with India operations? Failure to prevent fraud: what it means for your India operations.
 
 ## Frequently asked questions
 Is the India–UK trade deal in force?
