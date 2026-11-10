@@ -74,6 +74,116 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/eudr-sourcing-from-india/
+------------------------------------------------------------------------
+Sourcing · EU rules · Applies 30 December 2026
+
+# EUDR and Indian suppliers: what EU buyers need before 30 December
+
+The EU Deforestation Regulation (EUDR) applies to large and medium operators from 30 December 2026, after two postponements; the Commission’s May 2026 review ruled out another. If you place Indian coffee, rubber, wood products or other covered goods on the EU market, you need to trace them back to the plot of land and prove they were produced legally. With smallholder-heavy supply chains, that is the hard part in India.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Get suppliers checked
+hello@durgeshchavda.com
+
+Key takeaways
+- Applies 30 December 2026 (large/medium); 30 June 2027 (micro/small, non-timber).
+- Need plot geolocation, deforestation-free since 31 Dec 2020, legality under Indian law.
+- Smallholder coffee and rubber chains in India need on-the-ground verification.
+
+Quick answer: for each shipment you need the geolocation of every plot where the commodity was produced, evidence that it is deforestation-free since 31 December 2020 and legally produced under Indian law, a risk assessment, and a due diligence statement filed in the EU system. Large and medium operators: from 30 December 2026. Micro and small operators (outside timber): from 30 June 2027.
+
+## What is covered
+
+Commodity | Indian supply chains affected | 
+
+Coffee | Karnataka, Kerala and Tamil Nadu estates and smallholders; green and roasted coffee | 
+
+Rubber | Natural rubber (mainly Kerala) and listed rubber products such as tyres | 
+
+Wood | Furniture, handicrafts, paper and packaging, plywood | 
+
+Soya, cocoa, oil palm | Soya meal, cocoa products, palm-based derivatives | 
+
+Cattle | Listed cattle products; check the current scope for leather, which the Commission has proposed changing | 
+
+## What you need from Indian suppliers
+
+- Geolocation: GPS points (or polygons for plots over 4 hectares) for every plot that produced the goods in the shipment.
+
+- Deforestation-free evidence: no deforestation (or forest degradation, for wood) on those plots after 31 December 2020.
+
+- Legality: production complied with Indian law: land-use rights, environmental rules, labour and human rights, tax, and forest rules for wood.
+
+- Traceability through aggregators, processors and exporters, without mixing compliant and unknown material.
+
+- Your own risk assessment and mitigation, then the due diligence statement before placing goods on the market or exporting.
+
+## Where Indian supply chains struggle
+
+- Smallholders: coffee and rubber come from very large numbers of small farms, often through local traders, so plot data is scattered.
+
+- Land records: plot boundaries and ownership need to be matched to state land records; informal tenancy is common.
+
+- Aggregation and mixing: curing works, rubber dealers and processors combine lots from many sources.
+
+- Documentation quality: exporters may offer certificates or declarations that do not cover every plot in your shipment.
+
+## How to check an Indian supplier
+
+Check | What good looks like | 
+
+Supplier mapping | A list of farms or estates, aggregators and processors behind each shipment | 
+
+Geolocation data | Plot coordinates you can test against satellite deforestation layers | 
+
+Land and legality evidence | Land records, permits and labour compliance for a sample of plots, verified on the ground | 
+
+Segregation | Physical separation of EUDR-compliant lots through processing and shipping | 
+
+Company checks | Exporter’s registration, ownership, financial health and litigation; see how to verify an Indian company | 
+
+Desk reviews miss the gaps that matter: plots that don’t exist, coordinates copied across farms, or a trader who can’t say where 30% of the volume came from. Sample site visits are what give a buyer confidence.
+
+## What to do before 30 December
+
+- List the covered products you import from India and their suppliers.
+
+- Ask each supplier for plot-level data and a traceability description now; prioritise the largest volumes.
+
+- Verify a sample on the ground in India.
+
+- Update contracts: data delivery, segregation, audit rights, and what happens if goods fail.
+
+Related: UFLPA and traceability from Indian suppliers, sourcing from India, India–EU FTA.
+
+## Sources
+
+- European Commission: EU Deforestation Regulation
+- EY: EUDR application postponed to 30 December 2026
+- Law firm briefing (hlc.com): Commission publishes simplification package ahead of December 2026
+- Mayer Brown: EUDR, what lies ahead in 2026
+
+## Frequently asked questions
+When does the EUDR apply?
+From 30 December 2026 for large and medium operators and traders, and from 30 June 2027 for micro and small enterprises outside the timber sector. The Commission's May 2026 review ruled out another delay.
+
+Does the EUDR apply to coffee and rubber from India?
+Yes. Coffee and rubber are covered commodities, as are wood, soya, cocoa, oil palm and cattle, and listed products made from them. EU operators need plot-level geolocation and proof of deforestation-free, legal production.
+
+What does an EU buyer need from an Indian supplier under the EUDR?
+Geolocation of every plot that produced the goods, evidence of no deforestation after 31 December 2020, evidence of legal production under Indian law, and traceability through aggregators and processors so compliant goods are not mixed with unknown sources.
+
+How can EU buyers verify Indian suppliers for the EUDR?
+Map the supply chain behind each shipment, test plot coordinates against satellite data, check land and legality documents for a sample of plots on the ground, confirm segregation through processing, and run standard company checks on the exporter.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/uk-failure-to-prevent-fraud-india/
 ------------------------------------------------------------------------
 Compliance · UK companies in India · 2026
@@ -5057,6 +5167,7 @@ We run vendor due diligence for Indian companies preparing for a foreign buyer o
 - Reserve Bank of India — FEMA reporting (FIRMS portal)
 - Ministry of Corporate Affairs
 Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
+Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
 
 ## Frequently asked questions
 What is vendor due diligence?
@@ -5506,6 +5617,7 @@ We visit Indian suppliers, collect and test the traceability documents against I
 
 - U.S. Customs and Border Protection — Uyghur Forced Labor Prevention Act
 - U.S. Department of Homeland Security — UFLPA Entity List
+Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
 
 ## Frequently asked questions
 Does the UFLPA apply to goods made in India?
@@ -6926,6 +7038,7 @@ Key takeaways
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
 
 See also: setting up a plant in Gujarat.
+Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
 
 ## Sources
 
