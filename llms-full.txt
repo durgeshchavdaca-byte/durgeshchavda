@@ -74,6 +74,123 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/category-3-aif/
+------------------------------------------------------------------------
+Funds · Investors · 2026
+
+# Category III AIF: minimum investment, tax and who can invest
+
+Category III AIFs are India’s hedge-fund style vehicles: long-short, derivatives and other trading strategies, sold to investors who can put in at least ₹1 crore. The big difference from Category I and II is tax. A Category III fund pays tax itself, so your returns arrive after tax.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Talk through the AIF
+hello@durgeshchavda.com
+
+Key takeaways
+- Minimum ticket ₹1 crore (₹25 lakh for the manager's employees and directors).
+- No pass-through: the fund pays tax; trading income at the maximum marginal rate.
+- Compare post-tax, post-fee returns with PMS and mutual funds before investing.
+
+Quick answer: minimum investment is ₹1 crore per investor (₹25 lakh for employees and directors of the fund or its manager). The fund, not the investor, pays tax on its income: capital gains at capital-gains rates and trading (business) income at the maximum marginal rate. Distributions to investors are generally not taxed again.
+
+## What a Category III AIF is
+
+SEBI’s AIF Regulations put funds that use diverse or complex trading strategies, and may use leverage, including through listed or unlisted derivatives, in Category III. In practice that means long-short equity funds, absolute-return and hedge strategies, and some PIPE (private investment in public equity) funds.
+
+Point | Category III rule | 
+
+Minimum investment | ₹1 crore per investor per scheme; ₹25 lakh for employees and directors of the AIF or its manager | 
+
+Minimum fund size | ₹20 crore per scheme | 
+
+Structure | Usually a trust; open-ended or close-ended | 
+
+Leverage | Allowed, within limits set by SEBI | 
+
+Tax | At fund level (no pass-through) | 
+
+TDS on payouts | The 10% TDS on investment-fund income applies to Category I and II funds, not Category III | 
+
+Separately, SEBI’s 2025 amendments created “Accredited Investors only” schemes, and cut the minimum ticket for large value funds for accredited investors from ₹70 crore to ₹25 crore. These follow their own rules.
+
+## How Category III is taxed
+
+- No pass-through. The pass-through regime (section 224 of the Income-tax Act, 2025, earlier section 115UB) covers only Category I and II funds. A Category III trust is taxed through its trustee as a representative assessee.
+
+- Capital gains on listed shares are taxed at the fund level at the normal rates: 20% for short-term gains and 12.5% for long-term gains, plus surcharge and cess.
+
+- Trading and derivatives income is generally business income, taxed at the maximum marginal rate. With surcharge and cess, this is the most expensive part of a Category III fund’s tax bill.
+
+- Determinate vs indeterminate trust: if investors’ shares are not determinate, the maximum marginal rate can apply to all income. A July 2025 Delhi High Court ruling held that a Category III trust is not indeterminate merely because investors are not named in the deed.
+
+- In your hands: the fund has already paid tax, so distributions are generally not taxed again. Gains on redeeming or selling units need separate advice based on the fund’s structure; check the tax note in the placement memorandum.
+
+## Category III vs PMS vs mutual funds
+
+| Category III AIF | PMS | Equity mutual fund | 
+
+Minimum | ₹1 crore | ₹50 lakh | No real minimum | 
+
+Who pays tax | The fund | You, on every trade in your account | You, when you redeem | 
+
+Derivatives and leverage | Allowed within SEBI limits | Limited | Limited (hedging) | 
+
+Fees | Management fee plus performance fee, often above a hurdle | Management and/or performance fee | Expense ratio, capped by SEBI | 
+
+Because a Category III fund pays tax at the fund level, your post-tax return depends heavily on the strategy’s mix of short-term gains and trading income. Ask the manager for post-tax returns, not just pre-tax.
+
+## Who can invest
+
+- Resident individuals, HUFs, companies, LLPs, trusts and family offices that meet the minimum and complete KYC.
+
+- NRIs and OCIs can invest, on a repatriable or non-repatriable basis, subject to FEMA and the fund’s own terms. Because the fund pays Indian tax itself, NRIs may find it hard to use treaty benefits. A GIFT City fund can work better for money held abroad; see GIFT City fund vs SEBI AIF.
+
+- Foreign investors can invest in AIF units under the automatic route, subject to SEBI’s eligibility requirements.
+
+## Before you sign
+
+- Check the fund’s SEBI registration in SEBI’s list of registered AIFs.
+
+- Read the private placement memorandum: strategy, leverage, lock-in, exit loads and the tax note.
+
+- Understand the fee stack: management fee, performance fee, hurdle and high-water mark.
+
+- Ask for net-of-tax, net-of-fee returns for past periods.
+
+- If you are an NRI, check how you will repatriate the money and whether your country of residence taxes the distribution again.
+
+Related: how all AIF categories are taxed, AIF categories explained and setting up an AIF with SEBI.
+
+## Sources
+
+- EaseValue: Section 224, Income-tax Act 2025 (AIF pass-through)
+- TDSMAN: TDS on income from investment fund, section 393 (old 194LBB)
+- Legal500: SEBI amends the AIF Regulations (accredited investors, large value funds)
+- SEBI board paper: proposals for accredited investors (Sep 2025)
+
+## Frequently asked questions
+What is the minimum investment in a Category III AIF?
+₹1 crore per investor per scheme. Employees and directors of the AIF or its manager can invest from ₹25 lakh. Separate rules apply to accredited-investor-only schemes.
+
+How is a Category III AIF taxed in India?
+At the fund level. Category III AIFs do not get pass-through status, so the fund (usually a trust, through its trustee) pays tax: capital gains at capital-gains rates and trading or derivatives income at the maximum marginal rate. Distributions to investors are generally not taxed again.
+
+Is there TDS on Category III AIF distributions?
+The 10% TDS on income distributed by investment funds applies to Category I and II AIFs. Category III funds pay tax themselves, so that TDS provision does not apply to their distributions.
+
+Can NRIs invest in Category III AIFs?
+Yes, subject to FEMA, KYC and the fund's terms, on a repatriable or non-repatriable basis. Because the fund pays Indian tax itself, NRIs may not be able to use treaty benefits, so a GIFT City fund is sometimes a better fit.
+
+Category III AIF or PMS: which is more tax-efficient?
+It depends on the strategy. In a PMS every trade is taxed in your hands; in a Category III AIF the fund pays tax, with trading income at the maximum marginal rate. Compare post-tax, post-fee returns for your tax bracket.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/buy-out-indian-jv-partner/
 ------------------------------------------------------------------------
 Deals · Joint ventures
@@ -8530,6 +8647,8 @@ SEBI or IFSCA application, team eligibility, placement memorandum inputs, bank a
 Fund accounting, capital calls and distributions, valuations, SEBI/IFSCA reporting, tax and investor statements.
 
 Durgesh has sat on the other side of the table: as Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end, so he knows what portfolio reporting founders can realistically deliver.
+
+Investing in a hedge-style fund? Category III AIF: minimum investment, tax and who can invest.
 
 ## Frequently asked questions
 How do I start a venture capital fund in India?
