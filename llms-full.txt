@@ -74,6 +74,111 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/aerospace-defence-supplier-due-diligence-india/
+------------------------------------------------------------------------
+Sourcing · Aerospace and defence · 2026
+
+# Sourcing aerospace and defence parts from India: what to verify first
+
+Global engine and airframe makers are buying more from India. GE Aerospace has said it plans to nearly double its Indian supplier spend, to about US$400 million a year by 2030, with partners such as Tata Advanced Systems, Mahindra Aerostructures and Godrej making engine parts. For a buyer, the hard part is not finding suppliers but proving that a supplier’s certificates, licences and ownership are what they say.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Get a supplier checked
+hello@durgeshchavda.com
+
+Key takeaways
+- Verify AS9100 (IAQG OASIS) and Nadcap (eAuditNet) against the actual site.
+- Check defence and export licences, ownership and land-border links.
+- Screen agents and public-sector dealings for bribery risk.
+
+Quick answer: before awarding an aerospace or defence contract to an Indian supplier, verify its AS9100 certificate in the IAQG OASIS database and any Nadcap approvals for special processes, check licences (industrial licence for defence items, export licences for dual-use goods), map its owners (including any land-border-country links), test its financial health, and screen for bribery and agent risk.
+
+## Why buyers are looking at India
+
+- Large aerospace groups already source engine and airframe parts from Indian suppliers, and are expanding.
+
+- Defence: foreign investment of up to 74% is allowed under the automatic route for companies seeking new industrial licences, so foreign OEMs can also set up or buy into Indian manufacturers. The government can review any defence investment on national-security grounds.
+
+- Domestic programmes and offset or indigenisation requirements push foreign primes to build Indian supply chains.
+
+## The checks that matter
+
+Area | What to verify | How | 
+
+Quality system | AS9100 certificate: scope, sites covered, expiry | IAQG OASIS database; match the legal entity and address | 
+
+Special processes | Nadcap for heat treatment, NDT, coatings, welding, chemical processing | PRI eAuditNet; check which processes and which site | 
+
+Customer approvals | Approved-supplier status with the OEMs it claims | Ask for supplier codes and approval letters; confirm with the OEM where possible | 
+
+Defence licence | Industrial licence for defence items, where the products need one | Licence copy, product scope and conditions | 
+
+Civil aviation | DGCA approvals where the supplier produces parts for aircraft certified in India | Approval certificates and scope | 
+
+Export controls | SCOMET licences for dual-use exports from India; ability to handle ITAR or EAR-controlled data you send | Export licence history, controlled-data procedures, screening of staff and sub-suppliers | 
+
+Ownership | Ultimate owners, related parties, any land-border-country ownership | MCA records, shareholding filings; see Press Note 2 (2026) | 
+
+Financial health | Can it fund long qualification cycles and tooling? | Filed accounts, credit rating, bank borrowings, charges on assets | 
+
+Integrity | Use of agents, public-sector customers, past investigations | Litigation and media searches, agent agreements, anti-bribery policy | 
+
+## Bribery and agent risk
+
+Defence and aerospace work in India often involves public-sector customers and intermediaries. If you are covered by the US FCPA, the UK Bribery Act or similar laws, a supplier’s payments to agents can become your problem. Ask who the supplier pays to win government work, review those contracts, and add audit and termination rights. See anti-bribery law for foreign companies in India.
+
+## Red flags
+
+- Certificate held by a group company or a different site from the one making your parts.
+
+- Expired or suspended certificates, or scope that does not cover your process.
+
+- Heavy reliance on one customer, or sudden growth without matching capital spending.
+
+- Unexplained related-party transactions or frequent changes in directors.
+
+- Reluctance to let you audit sub-suppliers who do special processes.
+
+## A practical sequence
+
+- Desk checks: certificates, MCA records, accounts, litigation and media.
+
+- Site visit and process audit by someone who knows aerospace manufacturing.
+
+- Ownership and integrity review, including agents.
+
+- Contract with quality, export-control, anti-bribery and audit clauses.
+
+- Ongoing monitoring: certificate expiry, financial filings, changes in owners.
+
+Related: vendor due diligence in India, contract manufacturing checklist, sourcing from India.
+
+## Sources
+
+- GE Aerospace: plans to nearly double supplier spend in India
+- IBEF: GE Aerospace to boost India supply-chain spending to US$400 million by 2030
+- Legal500: up to 74% FDI under the automatic route in defence
+
+## Frequently asked questions
+How do I verify an Indian aerospace supplier's AS9100 certificate?
+Search the IAQG OASIS database for the supplier, and check that the certified legal entity, site address and scope match the facility that will make your parts, and that the certificate is current.
+
+Can foreign companies invest in Indian defence manufacturers?
+Yes. Foreign investment of up to 74% is permitted under the automatic route for companies seeking new industrial licences; higher stakes need government approval, and the government can review defence investments on national-security grounds.
+
+What export licences apply to aerospace parts from India?
+Dual-use items on India's SCOMET list need an export licence from DGFT. Separately, if you share US-controlled technical data, the supplier must be able to comply with ITAR or EAR requirements you flow down.
+
+What are red flags when sourcing aerospace parts from India?
+Certificates held by a different entity or site, expired or narrow certificate scope, dependence on one customer, unexplained related-party dealings, frequent director changes and refusal to allow audits of special-process sub-suppliers.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/press-note-2-2026-land-border-fdi/
 ------------------------------------------------------------------------
 FDI · Land-border investors · 2026
@@ -4750,6 +4855,7 @@ We run vendor due diligence for Indian companies preparing for a foreign buyer o
 
 - Reserve Bank of India — FEMA reporting (FIRMS portal)
 - Ministry of Corporate Affairs
+Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
 
 ## Frequently asked questions
 What is vendor due diligence?
@@ -7478,6 +7584,7 @@ Suspect fraud after a deal? Forensic audit & fraud investigation.
 Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
+Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
