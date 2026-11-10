@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/early-stage-vc-funds-india/
+------------------------------------------------------------------------
+Startups · Fundraising · 2026
+
+# Early-stage VCs in India: who writes the first cheque
+
+Most Indian startups raise their first institutional money from a seed fund or the early-stage arm of a larger VC, often alongside angels. Here are the main types of early-stage investors, well-known names in each, what they check before investing, and the filings that follow.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Get investor-ready
+hello@durgeshchavda.com
+
+Key takeaways
+- Seed funds, generalist VCs with seed programmes, sector funds and angel networks.
+- Standard instrument: CCPS, with a registered valuer's report.
+- Foreign VC money: FEMA fair value + FC-GPR within 30 days.
+
+Quick answer: early-stage money in India comes from four places: dedicated seed funds (for example Blume Ventures, 3one4 Capital, Antler India, Better Capital, Titan Capital, India Quotient), generalist VCs with seed programmes (Peak XV Partners and its Surge programme, Accel, Elevation Capital, Lightspeed, Z47, Nexus), sector specialists (Fireside Ventures for consumer brands, Omnivore for agri and food, Speciale Invest for deep tech) and angel networks and funds. Check each firm’s current focus and stage on its website before you pitch.
+
+## Types of early-stage investors
+
+Type | Well-known examples | Typical stage | 
+
+Seed and early-stage funds | Blume Ventures, 3one4 Capital, Kalaari Capital, Chiratae Ventures, Stellaris Venture Partners, India Quotient, Prime Venture Partners, Kae Capital, Arkam Ventures, Java Capital | Pre-seed to Series A | 
+
+Generalist VCs with seed programmes | Peak XV Partners (formerly Sequoia India and SEA; Surge), Accel, Elevation Capital, Lightspeed, Z47 (formerly Matrix Partners India), Nexus Venture Partners | Seed to growth | 
+
+Accelerators and pre-seed | Antler India, Y Combinator (global, accepts Indian founders), Surge | Idea to seed | 
+
+Founder-led and micro funds | Better Capital, Titan Capital, All In Capital, First Cheque | Pre-seed and seed | 
+
+Sector funds | Fireside Ventures (consumer), Omnivore (agri and food), Speciale Invest (deep tech), WEH Ventures | Seed to Series A | 
+
+Angel networks and angel funds | Indian Angel Network, Inflection Point Ventures, LetsVenture-led syndicates; see angel investors in India | Pre-seed and seed | 
+
+Names and focus change: funds raise new vehicles, rebrand and shift stage. Use this as a starting map, not an endorsement.
+
+## What early-stage VCs check
+
+- Founders: background, why this team, and how much each founder owns and has committed.
+
+- Market and traction: size of the problem, early revenue or usage, retention, and how fast it is growing.
+
+- A clean company: incorporation documents, cap table, founder agreements and vesting, IP assigned to the company, ROC and tax filings up to date. Messy paperwork slows or kills deals at diligence.
+
+- The numbers: a simple financial model, monthly burn and runway, and use of funds. See the runway calculator.
+
+## How the money comes in
+
+- Compulsorily convertible preference shares (CCPS) are the standard instrument for VC rounds in India. Early cheques sometimes use compulsorily convertible debentures or iSAFE notes.
+
+- Shares are issued by private placement or preferential allotment, with a registered valuer’s report.
+
+- Foreign VCs (or Indian funds with foreign-controlled managers): the issue price cannot be below fair value under FEMA, and the company files Form FC-GPR within 30 days of allotment. See the startup funding guide.
+
+- Some investors ask for a US holding company. Think hard before a flip; see Delaware flip and reverse flip.
+
+## Before you pitch
+
+- Clean cap table and founder agreements with vesting.
+
+- Financial model and monthly MIS for at least the last 6 to 12 months.
+
+- A data room: incorporation documents, contracts, IP assignments, statutory filings.
+
+- Know your numbers: use the valuation and dilution calculators before you discuss terms.
+
+- Read the term sheet clause by clause: term sheet guide.
+
+## Sources
+
+- Peak XV Partners (formerly Sequoia India and SEA)
+- Z47 (formerly Matrix Partners India)
+- RBI: Master Direction, Foreign Investment in India
+
+## Frequently asked questions
+Which VCs invest in early-stage startups in India?
+Well-known early-stage investors include seed funds such as Blume Ventures, 3one4 Capital, Kalaari Capital, Chiratae Ventures, Stellaris Venture Partners and India Quotient; generalist VCs with seed programmes such as Peak XV Partners (Surge), Accel, Elevation Capital, Lightspeed, Z47 and Nexus; and accelerators such as Antler India. Check each firm's current focus before pitching.
+
+What instrument do VCs use to invest in Indian startups?
+Mostly compulsorily convertible preference shares (CCPS). Early rounds sometimes use compulsorily convertible debentures or iSAFE notes. Shares are issued with a registered valuer's report.
+
+What filings are needed when a foreign VC invests in an Indian startup?
+The issue price must be at least fair value under FEMA, certified by a CA, SEBI-registered merchant banker or practising cost accountant, and the company files Form FC-GPR with RBI through its bank within 30 days of allotment.
+
+What do early-stage investors look for in India?
+A strong founding team, a large problem with early traction, a clean company (cap table, founder vesting, IP assignment, compliance) and clear numbers: burn, runway and use of funds.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/tools/nri-income-tax-calculator/
 ------------------------------------------------------------------------
 Free tool
