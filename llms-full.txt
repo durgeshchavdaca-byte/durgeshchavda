@@ -74,6 +74,49 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/tools/nri-income-tax-calculator/
+------------------------------------------------------------------------
+Free tool
+
+# NRI income tax calculator: what you owe, and what you get back
+
+Enter your Indian income for FY 2026-27. The calculator applies the NRI rules (no ₹12 lakh rebate, special rates on capital gains), compares the new and old regimes, and shows whether the TDS already deducted means a refund.
+
+Get your NRI return filed
+hello@durgeshchavda.com
+
+## How NRI tax is worked out
+
+- Slab rates apply to salary, rent, interest and short-term gains on non-equity assets. New regime: nil up to ₹4 lakh, then 5% to 30% (30% above ₹24 lakh). Old regime: nil up to ₹2.5 lakh, 5%, 20%, then 30% above ₹10 lakh. NRIs don’t get the higher exemption for senior citizens.
+
+- No rebate: the section 87A rebate that makes income up to ₹12 lakh tax-free for residents is not available to NRIs.
+
+- Capital gains at special rates: 20% on short-term gains from listed shares and equity funds, 12.5% on long-term gains (above ₹1.25 lakh a year for listed equity). NRIs can’t set the basic exemption limit against these gains.
+
+- Surcharge above ₹50 lakh of income (10%), ₹1 crore (15%), ₹2 crore (25%); capped at 15% on capital gains. Cess 4% on top.
+
+- TDS on NRO interest is 30% plus cess, and property buyers deduct on the whole sale price, so many NRIs pay far more than their real tax and should file for a refund.
+
+## Example
+
+An NRI with ₹5 lakh of NRO interest suffers TDS of about ₹1.56 lakh (31.2%). Actual tax under the new regime: ₹5,200. Filing a return gets back about ₹1.5 lakh.
+
+Full rules: NRI income tax slabs 2026-27 · NRI taxation guide · TDS when an NRI sells property.
+
+## Frequently asked questions
+How much tax does an NRI pay in India?
+Under the new regime, NRIs pay nil on the first ₹4 lakh of slab income, then 5% to 30%, with no ₹12 lakh rebate. Capital gains are taxed at special rates: 20% on short-term gains from listed shares and 12.5% on long-term gains. Add surcharge on high incomes and 4% cess.
+
+Do NRIs get the ₹12 lakh tax-free limit?
+No. The section 87A rebate is only for residents, so an NRI with ₹12 lakh of Indian income pays tax on it (about ₹62,400 under the new regime, including cess).
+
+Can an NRI choose the old tax regime?
+Yes. NRIs can choose the old regime and claim deductions such as 80C and 80D. It helps mainly when deductions are large; the calculator compares both.
+
+Why do NRIs get income tax refunds?
+Banks deduct 30% plus cess on NRO interest and property buyers deduct TDS on the whole sale price, often far more than the real tax. Filing an Indian return gets the excess back.
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/tax-on-jio-platforms-ipo-profit/
 ------------------------------------------------------------------------
 IPO tax · Update 10 November 2026
@@ -2436,6 +2479,8 @@ Key takeaways
 - Bank TDS on NRO interest is 31.2%; most NRIs get a refund by filing a return.
 
 Had TDS deducted on your NRO interest, rent or gains? Most NRIs are owed a refund. We file your Indian return and claim it.Ask on WhatsAppFree 15-min call
+
+Work out your own tax: NRI income tax calculator, new vs old regime, with your refund against TDS.
 
 ## New regime slabs for NRIs (2026-27)
 
@@ -8625,6 +8670,8 @@ Free tools: capital gains & NRI TDS calculator · residential status calculator
 
 New to NRI tax? Start with the complete NRI taxation guide.
 
+Work out your own tax: NRI income tax calculator, new vs old regime, with your refund against TDS.
+
 ## What we handle
 
 - Income tax returns for NRIs — rent, interest, capital gains and TDS refunds. See NRI income tax return.
@@ -10109,6 +10156,8 @@ Quick answers
 - TDS: Indian payers deduct tax at source on most NRI income, often more than the final tax — file a return to get the excess back.
 
 - Deemed resident: an Indian citizen with Indian income above ₹15 lakh who isn’t taxable in any other country can be treated as resident (RNOR) — check with the residential status calculator.
+
+Work out your own tax: NRI income tax calculator, new vs old regime, with your refund against TDS.
 
 ## Who counts as an NRI for tax
 
