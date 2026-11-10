@@ -74,6 +74,98 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/press-note-2-2026-land-border-fdi/
+------------------------------------------------------------------------
+FDI · Land-border investors · 2026
+
+# Press Note 2 (2026): investing in India with land-border-country owners
+
+Since 2020, any investment into India with an investor or beneficial owner in a country that shares a land border with India (most often China) has needed government approval. Press Note 2 (2026 Series) relaxed this for small, non-controlling stakes. For global funds with Chinese LPs, Asian holding companies and JV partners, the question is now: which side of the 10% line are you on?
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your ownership chain
+hello@durgeshchavda.com
+
+Key takeaways
+- Up to 10% non-controlling land-border beneficial ownership: automatic route, where the sector allows.
+- Above 10% or any control: government approval still needed.
+- Map the investor's ownership to individuals and keep the evidence for the bank.
+
+Quick answer: if the land-border-country beneficial ownership in the investor is 10% or less and non-controlling, the investment can go through the automatic route where the sector allows it, with extra reporting. More than 10%, or any control, still needs government approval.
+
+## What changed
+
+| Press Note 3 (2020) | Press Note 2 (2026) | 
+
+Who is caught | Investor, or beneficial owner of the investment, in a land-border country | Same countries; beneficial ownership measured against a 10% threshold | 
+
+Small, passive LBC ownership | Government approval needed, however small | Automatic route for non-controlling beneficial ownership up to 10%, subject to sector rules | 
+
+Above 10% or control | Government approval | Government approval (still) | 
+
+Reporting | Through the approval process | Investments with any LBC ownership are reported even when no approval is needed | 
+
+The Press Note was issued on 15 March 2026; commentators report the matching FEMA (Non-Debt Instruments) Rules amendment as effective from 1 May 2026. Some reports also mention a 60-day fast-track for approvals in certain manufacturing sectors. Check the current DPIIT and FEMA text for your case.
+
+The land-border countries are China, Pakistan, Bangladesh, Nepal, Bhutan, Myanmar and Afghanistan. Investors from Pakistan and Bangladesh face separate restrictions as well.
+
+## Who this affects in practice
+
+- Global and Asian funds with Chinese or Hong Kong-based limited partners.
+
+- Singapore, Hong Kong or Cayman holding companies whose shareholders trace back to China.
+
+- Foreign JV partners and acquirers with a Chinese strategic shareholder somewhere up the chain.
+
+- Indian startups raising from funds with any LBC money in them.
+
+## How to apply the 10% test
+
+- Map the ownership chain of the investor up to the individuals, including funds’ LPs where relevant.
+
+- Measure beneficial ownership held by LBC citizens or entities, using the beneficial-owner thresholds of the anti-money-laundering (PML) rules that the Press Note follows.
+
+- Check control: board seats, vetoes, affirmative votes or management rights for the LBC holder take the case out of the automatic route even below 10%.
+
+- Check the sector: the automatic route is only available where the sector allows it, within the cap.
+
+- Document it: the Indian company’s bank will ask for beneficial-ownership declarations when the investment is reported (FC-GPR or FC-TRS). Keep the ownership chart and evidence on file.
+
+## If you get it wrong
+
+- Taking LBC-linked money without a needed approval is a FEMA contravention. It can mean unwinding the investment, or compounding with RBI and a penalty. See FEMA compounding.
+
+- Later investors and acquirers will check this in diligence. A gap can delay or reprice a deal.
+
+Related: acquiring a company in India, joint ventures in India, India FDI updates 2026.
+
+## Sources
+
+- Saraf Partners: DPIIT issues Press Note No. 2 (2026 Series)
+- INAAC Advisors: FDI Press Note 2 (2026), investors with land-border ownership
+- Sansa Legal: Press Note 2 (2026), beneficial ownership tests
+- PwC India: DPIIT amends FDI policy on investments from land-border countries
+
+## Frequently asked questions
+What is Press Note 2 of 2026?
+A DPIIT amendment, issued on 15 March 2026, to the 2020 rule on investment from countries sharing a land border with India. Investors whose land-border-country beneficial ownership is non-controlling and up to 10% can use the automatic route where the sector allows it; larger or controlling stakes still need government approval.
+
+Can a fund with Chinese investors invest in India without approval?
+Under Press Note 2 (2026), yes if the Chinese or other land-border beneficial ownership in the investor is 10% or less and carries no control, and the sector is under the automatic route. The investment must still be reported, and the ownership chain documented.
+
+Which countries are covered by India's land-border FDI rule?
+China, Pakistan, Bangladesh, Nepal, Bhutan, Myanmar and Afghanistan.
+
+What happens if an Indian company takes land-border money without approval?
+It is a FEMA contravention. The company may have to unwind the investment or apply to RBI for compounding with a penalty, and the gap will surface in later due diligence.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/early-stage-vc-funds-india/
 ------------------------------------------------------------------------
 Startups · Fundraising · 2026
@@ -6029,6 +6121,7 @@ Feb 2026 | FDI | Press Note 1 (2026): 100% FDI in insurance under the automatic 
 - RBI’s final regulations on branch, liaison and project offices (draft October 2025).
 Doing a deal now? Partner due diligence · financial due diligence · doing business in India.
 Related: the US 1% remittance tax.
+Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 
 ## Frequently asked questions
 What changed for foreign investors in India in 2026?
@@ -6693,6 +6786,7 @@ Most JV disputes trace back to something knowable at the start: liabilities in t
 - DPIIT — FDI policy
 Most Indian partners are family-run: partnering with an Indian family business.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
+Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 
 ## Frequently asked questions
 Can a foreign company form a joint venture in India?
@@ -7383,6 +7477,7 @@ Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
 Suspect fraud after a deal? Forensic audit & fraud investigation.
 Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
+Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -9451,6 +9546,7 @@ Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
 Need a director in India? Resident director: the 182-day rule and your options.
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
 Hiring in India? Employee benefits a foreign employer must offer (2026).
+Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
@@ -9730,6 +9826,7 @@ See also: financial red flags.
 Coming change: draft Foreign Investment Rules 2026.
 Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
+Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
