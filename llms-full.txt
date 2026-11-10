@@ -74,6 +74,104 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/tax-on-jio-platforms-ipo-profit/
+------------------------------------------------------------------------
+IPO tax · Update 10 November 2026
+
+# Tax on your Jio Platforms IPO profit: worked examples
+
+Jio Platforms listed on 28 October 2026 at ₹1,358, a 21.36% premium to the ₹1,119 issue price. If you were allotted shares, here is what you owe on the profit, whether you sold on listing day, sold since, or are still holding.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Ask about your IPO tax
+hello@durgeshchavda.com
+
+Key takeaways
+- Sold within 12 months: 20% STCG plus cess; 1 lot at listing price = ₹2,868 profit, ~₹597 tax.
+- Not intraday income, and not covered by the ₹12 lakh rebate.
+- Hold past 26 October 2027: 12.5% on long-term gains above ₹1.25 lakh a year.
+
+Quick answer: sold within 12 months of allotment, your profit is a short-term capital gain taxed at 20% plus 4% cess. One lot (12 shares) sold at the ₹1,358 listing price makes ₹2,868 profit and about ₹597 tax. Hold for more than 12 months and the gain is long-term: 12.5% on gains above ₹1.25 lakh a year.
+
+## The numbers
+
+Detail | Jio Platforms IPO | 
+
+Issue price (upper band) | ₹1,119 per share | 
+
+Lot size | 12 shares (₹13,428 per lot) | 
+
+Listing date and price | 28 October 2026, ₹1,358 on NSE and BSE | 
+
+Listing gain | ₹239 per share, ₹2,868 per lot | 
+
+## Worked examples (resident individual)
+
+You | Profit | Tax | 
+
+Sold 1 lot at ₹1,358 on listing day | ₹2,868 | 20% = ₹574, plus cess = ₹597 | 
+
+Sold 14 lots (168 shares, the most a retail applicant could apply for within ₹2 lakh) at ₹1,358 | ₹40,152 | 20% = ₹8,030, plus cess = ₹8,352 | 
+
+Sold 1 lot later, at ₹1,450, within 12 months | ₹3,972 | 20% plus cess = ₹826 | 
+
+Holding 1 lot for more than 12 months, then selling | Any amount | Long-term: nil up to ₹1.25 lakh of total long-term equity gains in the year, 12.5% above that | 
+
+Figures ignore brokerage (which reduces the gain) and surcharge (only relevant at high incomes). STT paid on the sale is not deductible.
+
+## Rules that catch people out
+
+- Listing-day selling is not “intraday” or speculative income. The shares sat in your demat account from allotment, so the profit is a capital gain.
+
+- The 12 months run from allotment (26 October 2026), not from the date you applied.
+
+- The ₹12 lakh rebate does not cover this tax. Short-term gains taxed at the special 20% rate are outside the new-regime rebate. If your total income is below the basic exemption limit, a resident can use the unused limit against the gain.
+
+- Losses help. If you sold other shares at a loss in the same year, short-term losses can be set off against this gain.
+
+- Report it in the capital gains schedule of your return for tax year 2026-27 (due 31 July 2027 for most individuals). Your broker’s capital gains statement has the figures. Pay advance tax by the next instalment date to avoid interest.
+
+## If you are an NRI
+
+- NRIs could apply through an NRE or NRO account linked to an NRI demat account. See can NRIs apply for IPOs in India.
+
+- The broker deducts TDS on your gain at 20% (plus surcharge and cess) when you sell. NRIs cannot use the basic exemption limit against this gain.
+
+- If your country of residence has a tax treaty with India, check whether it lets you claim relief or a credit there. Gains on shares are usually taxable in India.
+
+- Money from an NRE-route sale can be repatriated freely; NRO proceeds fall within the US$1 million yearly limit with Forms 15CA/15CB.
+
+Work out your own figures with the IPO tax calculator, or read the full guide on tax on IPO profit in India.
+
+## Sources
+
+- 5paisa: Jio Platforms IPO shares list at ₹1,358 on NSE, 21.36% premium
+- HDFC Sky: Jio Platforms lists at ₹1,358 against ₹1,119 issue price
+- Chittorgarh: Jio Platforms IPO details (price band, lot size, dates)
+
+## Frequently asked questions
+How much tax do I pay on Jio Platforms IPO listing gains?
+If you sold within 12 months, 20% of the profit plus 4% cess. One lot of 12 shares sold at the ₹1,358 listing price against the ₹1,119 issue price makes ₹2,868 profit and about ₹597 tax.
+
+Is selling Jio Platforms shares on listing day intraday income?
+No. The shares were in your demat account from allotment, so the profit is a short-term capital gain taxed at 20%, not speculative business income.
+
+Is Jio IPO profit covered by the ₹12 lakh rebate?
+No. Tax on short-term gains at the special 20% rate is outside the new-regime rebate. A resident whose total income is below the basic exemption limit can use the unused limit against the gain.
+
+When does Jio Platforms IPO profit become long-term?
+After 12 months from allotment on 26 October 2026. Long-term gains on listed shares are tax-free up to ₹1.25 lakh a year in total and taxed at 12.5% above that.
+
+Do NRIs pay tax on Jio Platforms IPO gains?
+Yes. The broker deducts TDS at 20% plus surcharge and cess on short-term gains when an NRI sells, and the gain is reported in the NRI's Indian return.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/employee-benefits-india-foreign-employers/
 ------------------------------------------------------------------------
 Hiring in India · Labour Codes · 2026
@@ -3508,6 +3606,8 @@ hello@durgeshchavda.com
 Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to declare foreign accounts, RSUs and assets missed in your returns, from a flat ₹1 lakh. Check what you would pay or get it filed.
 
 Booked a gain this year? Get your capital gains and income tax return handled by a Chartered Accountant. Ask on WhatsApp (first 10 messages free) or book a 30-minute call for ₹499.Ask on WhatsAppBook a call
+
+Got Jio Platforms shares? Worked tax examples at the ₹1,358 listing price.
 
 ## How IPO gains are taxed (FY 2026-27)
 
@@ -10786,6 +10886,8 @@ Key takeaways
 - NRIs can apply in Indian IPOs via ASBA from an NRE or NRO account with an NRI demat account.
 - NRE keeps proceeds fully repatriable; NRO is limited to USD 1 million a year.
 - Jio Platforms' IPO closed on 23 October 2026; allotment is due on 26 October and listing on 28 October (tentative).
+
+Got Jio Platforms shares? Worked tax examples at the ₹1,358 listing price.
 
 ## How NRIs apply
 
