@@ -74,6 +74,97 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/foreign-investment-indian-banks-nbfcs/
+------------------------------------------------------------------------
+Deals · Financial services · 2026
+
+# Investing in an Indian bank or NBFC: limits, approvals and diligence
+
+Foreign capital is pouring into Indian finance: Blackstone agreed in November 2026 to take more than 15% of IIFL Finance, Fairfax raised its stake in IIFL Capital to 38%, and the government chose Fairfax to buy 60.7% of IDBI Bank for about US$5.5 billion. Lenders are the most regulated businesses in India to invest in. Here is what applies before you sign.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan the investment
+hello@durgeshchavda.com
+
+Key takeaways
+- Private banks: FDI cap 74%; RBI approval to reach 5%.
+- NBFCs: 100% automatic, but RBI approval for control, 26%+ or 30%+ board change.
+- Diligence: asset quality, provisioning, funding, RBI findings, related-party loans.
+
+Quick answer: foreign investment in private banks is capped at 74% (up to 49% automatic, above that with government approval), and anyone reaching 5% of a bank needs RBI’s prior approval. NBFCs can be 100% foreign-owned under the automatic route, but a change in control, 26% or more of the shares, or more than 30% of the directors needs RBI’s prior approval.
+
+## The rules side by side
+
+| Private sector bank | NBFC (RBI-regulated) | 
+
+FDI limit | 74%: up to 49% automatic, 49% to 74% government route | 100% automatic | 
+
+RBI approval | Prior approval to reach a “major shareholding” of 5% or more (2023 Master Direction); fresh approval to go back above 5% after falling below | Prior approval for a change in control, acquisition of 26% or more, or a change of more than 30% of directors (excluding independent directors) | 
+
+Holding caps | Limits on individual and non-promoter holdings; promoters capped at 26% after 15 years. RBI can allow more case by case | No general cap; fit-and-proper test for the acquirer | 
+
+Listed target | SEBI takeover code: acquiring 25% or more, or control, triggers an open offer | 
+
+Competition | CCI approval if asset, turnover or deal-value thresholds are crossed | 
+
+## How the approvals fit together
+
+- Structure the deal (primary issue, secondary purchase or both) and check the sector cap, including indirect foreign holding.
+
+- Apply to RBI through the target with the acquirer’s fit-and-proper information, source of funds and business plan. Expect detailed questions on the ultimate owners.
+
+- File with CCI where thresholds are crossed; prepare the open offer if the target is listed.
+
+- Close, then report the foreign investment (FC-GPR for a fresh issue, FC-TRS for a purchase).
+
+Investors with any Chinese or other land-border-country owners face an extra layer: see Press Note 2 (2026).
+
+## Due diligence on an Indian lender
+
+- Asset quality: gross and net NPAs, special-mention accounts, restructured and written-off loans, and how the book behaves when you re-age it yourself.
+
+- Provisioning and capital: whether provisions cover the real stress; capital adequacy before and after your money.
+
+- Funding and liquidity: borrowing concentration, asset-liability mismatches, reliance on short-term money.
+
+- Regulatory history: RBI inspection findings and penalties, compliance with directions on digital lending, co-lending, KYC and outsourcing.
+
+- Related parties: loans to promoters’ group companies, evergreening through connected borrowers.
+
+- Collections and conduct: recovery agents, customer complaints, mis-selling risk.
+
+- Technology and data: loan management systems, data localisation and cyber-security audits.
+
+Read red flags in Indian company financial statements and our due diligence service.
+
+## Sources
+
+- Business Standard: RBI prior approval needed for over 5% stake in banks
+- Chambers: new RBI directions on bank acquisitions in India
+- Reuters via TradingView: Blackstone to buy over 15% stake in IIFL Finance
+- CNBC: India to sell IDBI Bank stake to Fairfax for $5.5 billion
+- Business Standard: Fairfax India raises stake in IIFL Capital to 38%
+
+## Frequently asked questions
+Can a foreign company own an Indian bank?
+Foreign investment in a private sector bank is allowed up to 74%: up to 49% under the automatic route and up to 74% with government approval. Anyone reaching 5% or more of a bank also needs the RBI's prior approval, and RBI caps on individual holdings apply.
+
+Can an NBFC in India be 100% foreign-owned?
+Yes. NBFCs regulated by the RBI can take 100% foreign investment under the automatic route, subject to minimum capitalisation norms. A change in control, acquisition of 26% or more, or a change of more than 30% of directors needs the RBI's prior approval.
+
+When is RBI approval needed to buy shares in an Indian bank?
+Before reaching a major shareholding of 5% or more of the bank's paid-up capital or voting rights, under RBI's 2023 Master Direction on acquisition and holding of shares or voting rights in banking companies.
+
+What should due diligence on an Indian NBFC cover?
+Asset quality (NPAs, restructured and written-off loans), provisioning and capital, funding and liquidity, RBI inspection findings and penalties, compliance with digital lending, co-lending and KYC rules, related-party lending and collection practices.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/aerospace-defence-supplier-due-diligence-india/
 ------------------------------------------------------------------------
 Sourcing · Aerospace and defence · 2026
@@ -6228,6 +6319,7 @@ Feb 2026 | FDI | Press Note 1 (2026): 100% FDI in insurance under the automatic 
 Doing a deal now? Partner due diligence · financial due diligence · doing business in India.
 Related: the US 1% remittance tax.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
+Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 
 ## Frequently asked questions
 What changed for foreign investors in India in 2026?
@@ -7585,6 +7677,7 @@ Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
+Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -9934,6 +10027,7 @@ Coming change: draft Foreign Investment Rules 2026.
 Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
+Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
