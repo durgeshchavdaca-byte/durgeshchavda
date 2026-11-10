@@ -74,6 +74,123 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/employee-benefits-india-foreign-employers/
+------------------------------------------------------------------------
+Hiring in India · Labour Codes · 2026
+
+# Employee benefits in India: what a foreign employer must offer
+
+Hiring your first people in India, through a subsidiary, a branch or an employer of record? Indian law sets a floor of benefits that cannot be contracted out of, and the four Labour Codes that took effect on 21 November 2025 changed how several of them are calculated. Here is the floor, and what competitive employers add on top.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Set up India payroll
+hello@durgeshchavda.com
+
+Key takeaways
+- Mandatory: PF (12%), ESI (lower earners), gratuity, statutory bonus, maternity leave, state leave.
+- PF ceiling raised to ₹25,000 a month from 17 September 2026.
+- Labour Codes: 50% wage rule, gratuity for fixed-term staff after a year, final dues in 2 working days.
+
+Quick answer: the legal minimum is provident fund (12% employer contribution), ESI health insurance for lower earners, gratuity on leaving, a statutory bonus for lower earners, 26 weeks’ maternity leave, and paid leave under state law. To compete for talent, most foreign employers add group health insurance, term life cover and a performance bonus.
+
+## Mandatory benefits
+
+Benefit | Who it covers | Cost to the employer | 
+
+Provident fund (EPF) | Mandatory for employees with wages up to ₹25,000 a month (raised from ₹15,000 on 17 September 2026); optional above that. Applies to establishments with 20 or more employees | 12% of wages (part goes to the pension scheme, up to ₹2,083 a month); the employee also contributes 12% | 
+
+ESI (state health insurance) | Employees earning up to ₹21,000 a month, in covered establishments (generally 10 or more employees) | 3.25% of wages; employee 0.75% | 
+
+Gratuity | Employees leaving after 5 years; fixed-term employees after 1 year (new under the Labour Codes) | 15 days’ wages for each completed year, capped at ₹20 lakh. Usually funded through an insurer | 
+
+Statutory bonus | Employees earning up to ₹21,000 a month | 8.33% to 20% of wages a year, depending on profits | 
+
+Maternity benefit | Women employees | 26 weeks’ paid leave for the first two children; crèche facility where 50 or more are employed | 
+
+Paid leave and holidays | All employees | Set by the state Shops and Establishments Act and the Labour Codes; varies by state | 
+
+Professional tax, Labour Welfare Fund | Depends on the state | Small state levies withheld from salary and/or paid by the employer | 
+
+## What the Labour Codes changed
+
+- The 50% wage rule. “Wages” means basic pay, dearness allowance and retaining allowance. If excluded allowances are more than 50% of total pay, the excess is added back. Salary structures with a low basic and high allowances now cost more in PF and gratuity.
+
+- Gratuity for fixed-term staff after one year of service, worked out pro rata.
+
+- Full and final settlement within two working days of an employee leaving.
+
+- Appointment letters for every employee, and a single registration and return regime as states notify their rules. Central rules came in May 2026; states are notifying theirs on a rolling basis, so check the state where your team sits.
+
+- PF ceiling to ₹25,000 (notification S.O. 5109(E), 17 September 2026): more mid-level employees now fall under mandatory PF.
+
+## What good employers add
+
+- Group health insurance covering the employee’s spouse, children and often parents. Not mandatory, but expected by almost every professional hire.
+
+- Term life and personal accident cover.
+
+- Employer NPS contribution: tax-efficient for the employee, deductible up to 14% of salary under the new tax regime.
+
+- Annual performance bonus and, for senior roles, ESOPs or RSUs in the foreign parent. See parent-company ESOPs for Indian employees.
+
+- Meal cards, internet and home-office allowances, structured within the 50% rule.
+
+## Which route you hire through
+
+Route | Who runs payroll and benefits | Fits when | 
+
+Employer of record (EOR) | The EOR, as the legal employer | A few hires, testing the market | 
+
+Indian subsidiary | You, through your own PF, ESI and tax registrations | A growing team or a capability centre | 
+
+Contractors | Nobody: contractors get no statutory benefits | Genuinely independent, project-based work only. Misclassification and permanent-establishment risk if they work like employees | 
+
+See hiring in India without an entity and setting up a GCC in India.
+
+## Checklist before the first hire
+
+- Pick the route: EOR, subsidiary or branch.
+
+- Register for PF, ESI (if applicable), professional tax and the state Shops and Establishments Act.
+
+- Design the salary structure so “wages” are at least 50% of pay, and budget PF and gratuity on that base.
+
+- Buy group health and gratuity insurance.
+
+- Issue appointment letters and a leave policy that meets the state rules.
+
+- Set up monthly payroll, TDS on salary and quarterly TDS returns.
+
+## Sources
+
+- PIB: EPFO raises wage ceiling from Rs 15,000 to Rs 25,000
+- BDO India: implementation of the Labour Codes, effective 21 November 2025
+- Upstox: EPFO wage ceiling hiked to Rs 25,000, Gazette notification
+- Remunance: India Labour Codes 2026, employer impact and state rules
+
+## Frequently asked questions
+What benefits must a foreign company give employees in India?
+Provident fund (12% employer contribution, mandatory up to ₹25,000 monthly wages), ESI for employees earning up to ₹21,000 a month, gratuity on leaving, a statutory bonus for lower earners, 26 weeks' maternity leave and paid leave under state law. Group health insurance is not mandatory but is expected.
+
+Is PF mandatory for all employees in India?
+PF is mandatory for employees whose wages are up to ₹25,000 a month (the ceiling was raised from ₹15,000 on 17 September 2026) in establishments with 20 or more employees. Above the ceiling, the employer and employee can agree to contribute.
+
+Do fixed-term employees get gratuity in India?
+Yes. Under the Code on Social Security, in force since 21 November 2025, fixed-term employees qualify for gratuity after one year of service, on a pro-rata basis. Other employees need five years.
+
+Is health insurance mandatory for employees in India?
+Only ESI, the state scheme, is mandatory, and only for employees earning up to ₹21,000 a month in covered establishments. Private group health insurance is optional but almost universal for professional roles.
+
+What is the 50% wage rule under the Labour Codes?
+Wages for PF, gratuity and other benefits mean basic pay, dearness allowance and retaining allowance. If the allowances left out are more than 50% of total pay, the excess is added back to wages, which raises PF and gratuity costs.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/category-3-aif/
 ------------------------------------------------------------------------
 Funds · Investors · 2026
@@ -7295,6 +7412,7 @@ See also: manufacturing in Gujarat.
 Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
 Need a director in India? Resident director: the 182-day rule and your options.
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
+Hiring in India? Employee benefits a foreign employer must offer (2026).
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
@@ -9090,6 +9208,7 @@ Coming change: draft FEMA Foreign Investment Rules.
 Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
 Need a director in India? Resident director: the 182-day rule and your options.
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
+Hiring in India? Employee benefits a foreign employer must offer (2026).
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
@@ -9546,6 +9665,7 @@ Need a review of your current set-up? See India tax for foreign companies, or se
 - HSF Kramer — India's Labour Codes implemented
 - Treelife — permanent establishment risk in India
 Related: paying Indian freelancers.
+Hiring in India? Employee benefits a foreign employer must offer (2026).
 
 ## Frequently asked questions
 Can a US company hire an employee in India without an entity?
