@@ -74,6 +74,108 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/cbam-indian-steel-aluminium-suppliers/
+------------------------------------------------------------------------
+Sourcing · EU rules · Definitive since 1 January 2026
+
+# CBAM and Indian suppliers: what EU importers need from India
+
+The EU’s carbon border adjustment mechanism (CBAM) moved from reporting to paying on 1 January 2026. Importers of Indian steel, aluminium, cement and fertilisers will buy certificates for the emissions embedded in 2026 imports from February 2027. Whether you pay on your supplier’s real emissions or on the EU’s higher default values depends on the data you get from India now.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Get supplier data checked
+hello@durgeshchavda.com
+
+Key takeaways
+- Definitive CBAM since 1 Jan 2026; authorised declarant above 50 tonnes a year.
+- Certificates from 1 Feb 2027; first declaration for 2026 imports by 30 Sep 2027.
+- Get verified, installation-level emissions data from each Indian producer, or pay default values.
+
+Quick answer: above 50 tonnes a year of CBAM goods you must be an authorised CBAM declarant. For 2026 imports you file the first annual declaration and surrender certificates by 30 September 2027; certificate sales start on 1 February 2027. Get installation-level, verified emissions data from each Indian producer, or default values (usually more expensive) apply.
+
+## Key dates
+
+Date | What happens | 
+
+1 January 2026 | Definitive regime starts; authorised-declarant status needed above the 50-tonne annual threshold | 
+
+1 February 2027 | CBAM certificate sales begin, covering 2026 imports | 
+
+30 September 2027 | First annual CBAM declaration for 2026 imports, and surrender of certificates | 
+
+Covered goods: iron and steel, aluminium, cement, fertilisers, hydrogen and electricity, including many downstream steel and aluminium products such as screws, bolts and structures. The 50-tonne threshold is cumulative net mass per importer per year (it does not apply to hydrogen and electricity).
+
+## Why Indian supply matters
+
+- India is a major exporter of steel and aluminium to the EU, and much Indian production is carbon-intensive (coal-based blast furnaces and coal-based DRI).
+
+- There is no CBAM exemption for India under the India–EU trade deal; see the India–EU FTA guide.
+
+- Producers vary widely: an electric-arc furnace using scrap has a very different footprint from an integrated plant. Your CBAM cost per tonne will differ by supplier.
+
+## What you need from each Indian producer
+
+- Installation details: which plant made your goods, and its production route.
+
+- Embedded emissions (direct, and indirect where relevant) per tonne of each product, including precursors such as the steel used to make your parts.
+
+- Verification by an accredited verifier, with access to the installation.
+
+- Consistency: the data should match the products, quantities and plants on your invoices and shipping documents.
+
+## Checking an Indian supplier’s data
+
+Check | Why | 
+
+Is the named plant the one that actually produced your goods? | Traders and job-workers can blur the origin | 
+
+Does the reported route (EAF, BF-BOF, DRI) match the plant? | Route drives emissions; claims should match capacity and inputs | 
+
+Who supplies precursors, and are their emissions included? | Missing precursor data understates emissions | 
+
+Will the producer allow a verifier on site? | Unverified data may not be accepted | 
+
+Company checks: ownership, finances, litigation | A supplier who can’t support you through 2027 is a cost risk | 
+
+## What to do now
+
+- Confirm your authorised-declarant status and your 2026 volumes by product and supplier.
+
+- Send each Indian producer a data request now; prioritise the largest volumes and the most emissions-intensive routes.
+
+- Check a sample on the ground: plant, route, records and precursors.
+
+- Build CBAM cost into supplier pricing and contracts for 2027 onwards: data delivery, verification access and who bears default-value penalties.
+
+Related: EUDR and Indian suppliers, sourcing from India, vendor due diligence.
+
+## Sources
+
+- DEHSt (German Emissions Trading Authority): CBAM definitive regime from 2026
+- Kopik: CBAM 2026 deadlines, declarations and certificate dates
+- CBAMfix: CBAM deadlines 2026 and 2027
+- Carboneer: CBAM enters the definitive period
+
+## Frequently asked questions
+Does CBAM apply to steel imported from India?
+Yes. Iron and steel, aluminium, cement, fertilisers, hydrogen and electricity from India are covered, with no exemption under the India–EU trade deal. Since 1 January 2026, importers above 50 tonnes a year must be authorised CBAM declarants.
+
+When do EU importers pay CBAM on 2026 imports?
+Certificate sales start on 1 February 2027, and the first annual declaration for 2026 imports, with surrender of certificates, is due by 30 September 2027.
+
+What emissions data do EU importers need from Indian suppliers?
+Installation-level embedded emissions per tonne of each product, including precursors, ideally verified by an accredited verifier. Without it, EU default values apply, which are usually higher.
+
+What is the CBAM 50-tonne threshold?
+Importers bringing in 50 tonnes or less of CBAM goods in a year (by cumulative net mass, excluding hydrogen and electricity) are outside the obligations. Above that, authorised-declarant status is needed.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/eudr-sourcing-from-india/
 ------------------------------------------------------------------------
 Sourcing · EU rules · Applies 30 December 2026
@@ -164,6 +266,7 @@ Related: UFLPA and traceability from Indian suppliers, sourcing from India, Indi
 - EY: EUDR application postponed to 30 December 2026
 - Law firm briefing (hlc.com): Commission publishes simplification package ahead of December 2026
 - Mayer Brown: EUDR, what lies ahead in 2026
+Importing steel or aluminium? CBAM and Indian suppliers: the data you need.
 
 ## Frequently asked questions
 When does the EUDR apply?
@@ -7039,6 +7142,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 
 See also: setting up a plant in Gujarat.
 Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
+Importing steel or aluminium? CBAM and Indian suppliers: the data you need.
 
 ## Sources
 
