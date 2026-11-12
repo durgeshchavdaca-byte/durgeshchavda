@@ -11651,7 +11651,7 @@ Hiring guide
 
 An employer of record solves payroll in a week. It doesn’t solve permanent establishment risk. Here’s how foreign companies hire in India safely as they grow.
 
-By CA Durgesh Chavda·Last reviewed 14 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 12 November 2026·6 min read
 
 Review your PE risk
 hello@durgeshchavda.com
@@ -11660,6 +11660,19 @@ Key takeaways
 - Employer of record arrangements are lawful in India.
 - An EOR does not remove permanent-establishment risk if staff conclude contracts or work from premises at your disposal.
 - Most companies move to a cost-plus subsidiary once the team grows past about ten people.
+
+Quick answer: use an employer of record (EOR). The EOR’s Indian company is the legal employer and runs payroll, PF, ESI, gratuity and tax withholding, while you direct the work. It is the usual compliant route for a first hire or a small team.
+Route | When it fits | Watch out for | 
+
+Employer of record (EOR) | First hires, testing the market, quick start | Permanent establishment risk if the employee concludes contracts or runs your Indian business | 
+
+Independent contractor | Genuinely independent, project-based work | Misclassification: no PF, gratuity or leave, and tax and labour exposure if they work like employees | 
+
+Branch or liaison office | A limited, RBI-approved presence; a liaison office cannot earn income | Approval process and activity limits | 
+
+Your own subsidiary | A growing team or a capability centre | Set-up time and ongoing compliance; see setting up a GCC | 
+
+Whichever route you use, Indian law sets a floor of benefits: PF, ESI, gratuity, bonus and leave under the Labour Codes.
 
 ## Your three options
 
@@ -11707,6 +11720,9 @@ Related: paying Indian freelancers.
 Hiring in India? Employee benefits a foreign employer must offer (2026).
 
 ## Frequently asked questions
+How can a foreign company hire employees in India without an entity?
+Through an employer of record (EOR), whose Indian company is the legal employer and handles payroll, PF, ESI, gratuity and tax withholding while the foreign company directs the work. Genuine independent contractors, a branch or liaison office, or an Indian subsidiary are the alternatives.
+
 Can a US company hire an employee in India without an entity?
 Yes, through an employer of record or, for genuinely independent work, a contractor agreement. Both are lawful, but neither removes permanent establishment risk if Indian staff conclude contracts or the business operates from India.
 
