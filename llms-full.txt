@@ -74,6 +74,96 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/us-llc-without-form-fc-fix/
+------------------------------------------------------------------------
+FEMA · Overseas investment · 2026
+
+# Own a US LLC but never filed Form FC? Here is how to fix it
+
+Thousands of Indian freelancers, agencies and founders formed a US LLC online, often for Stripe or US clients, and never told their Indian bank. No capital was sent, so it didn’t feel like an investment. Under FEMA it usually is. The good news: this is fixable, and fixing it before someone asks is much cheaper than after.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Fix your LLC reporting
+hello@durgeshchavda.com
+
+Key takeaways
+- Owning a US LLC is ODI, even if only formation fees were paid by card.
+- File Form FC for a UIN, then missed APRs; late submission fee within the window, compounding beyond.
+- Sort the tax side too: Schedule FA, how LLC income is shown, transfer pricing.
+
+Quick answer: an Indian resident who owns a foreign LLC has made an overseas direct investment, even if only formation fees were paid by card. Report it on Form FC through your bank to get a UIN, file the missed APRs, and pay a late submission fee if the delay is within the window the rules allow; otherwise apply for compounding. Then line up the tax side: Schedule FA, how the LLC’s income is shown, and transfer pricing.
+
+## Why it counts as an overseas investment
+
+- Owning shares or membership interest in a foreign entity is overseas investment under FEMA, whatever the amount.
+
+- Paying formation or registered-agent fees personally can still be treated as funding the LLC.
+
+- Resident individuals can only invest in an operating foreign entity (not one doing financial services), so check the LLC’s activity too.
+
+- Full rules: FEMA and ODI rules when Indians own a US company.
+
+## The fix, step by step
+
+- Map the timeline: formation date, every payment to or for the LLC, bank account opening, and income received.
+
+- Form FC and UIN: file Form FC through your AD bank with the LLC documents and valuation; the bank reports it to RBI and you get a Unique Identification Number.
+
+- Late submission fee or compounding: delayed reports filed within the period the rules allow can be regularised with a late submission fee. Delays beyond that, or other contraventions, go through compounding, now handled by RBI regional offices for many ODI cases.
+
+- Missed APRs: file an Annual Performance Report for each year, due 31 December, based on the LLC’s financial statements.
+
+- The audit question: as the sole owner you control the LLC, so the APR generally needs audited financial statements even if US law does not require an audit. See APR and audit rules.
+
+Until reporting is regularised, your bank may refuse further remittances to the LLC.
+
+## The tax side (don’t skip it)
+
+- Schedule FA: the LLC interest and its US bank account belong in Schedule FA of every resident return. Missing it can cost ₹10 lakh per year under the Black Money Act once foreign assets cross ₹20 lakh. FAST-DS is open until 31 December 2026 for past omissions.
+
+- How the income is shown: a single-member LLC is ignored for US federal tax, but for Indian purposes it is usually treated as a separate foreign company. Showing the LLC’s receipts as your own turnover, or the reverse, needs to be thought through and kept consistent.
+
+- Transfer pricing: you and your LLC are associated enterprises. If you transact with it (services, fees, funds), those can be international transactions needing an arm’s-length price and a report in Form 3CEB (Form 48 from tax year 2026-27).
+
+- US filings: a foreign-owned single-member LLC files a pro forma Form 1120 with Form 5472 each year. Keep that consistent with your Indian filings.
+
+## Documents to gather
+
+- Articles of organisation, EIN letter, operating agreement
+
+- US bank statements since opening
+
+- Card or bank statements for formation and running costs paid from India
+
+- US filings (1120 and 5472), and your Indian returns for the same years
+
+- Any correspondence with your bank about the LLC
+
+## Sources
+
+- RBI: Master Direction, Overseas Investment
+- IRS: Form 5472 for foreign-owned single-member LLCs
+
+## Frequently asked questions
+Do I need Form FC if I formed a US LLC without sending money from India?
+Usually yes. Owning a foreign LLC is an overseas direct investment under FEMA even if only formation fees were paid by card. Form FC is filed through your AD bank to get a UIN, followed by Annual Performance Reports.
+
+Late submission fee or compounding for a US LLC set up without Form FC?
+Delayed reports filed within the period the overseas investment rules allow can usually be regularised with a late submission fee. Longer delays and other contraventions need compounding with the RBI. The answer depends on your exact dates, so map the timeline first.
+
+Does a single-member US LLC need an audit for the APR?
+Generally yes. Unaudited, certified statements are accepted only where the Indian investor has no control and the host country does not require an audit. As the sole member, you control the LLC, so audited statements are normally needed for the APR.
+
+Does transfer pricing apply between me and my US LLC?
+It can. An individual and the foreign entity they own are associated enterprises, so services, fees or funds between you can be international transactions requiring an arm's-length price and a Form 3CEB report (Form 48 from tax year 2026-27).
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/due-diligence-india-french-companies/
 ------------------------------------------------------------------------
 Due diligence in India
@@ -3204,6 +3294,8 @@ Key takeaways
 
 Have an old FEMA default? We work out whether a late fee is enough or compounding is needed, and prepare the application.Free 15-min callWhatsApp
 
+Already own a US LLC without Form FC? How to regularise it, step by step.
+
 ## What changed
 
 - RBI circular A.P. (DIR Series) No. 28/2026-27, dated 23 October 2026, delegates compounding of contraventions relating to overseas investment, borrowing and lending and guarantees to selected regional offices.
@@ -3473,6 +3565,8 @@ Key takeaways
 - Unaudited (certified) statements only if no control and no host-country audit requirement.
 
 APR due 31 December 2026. We prepare the subsidiary's financials and the APR, and coordinate the audit with a practising auditor.Free 15-min callWhatsAppEmail
+
+Already own a US LLC without Form FC? How to regularise it, step by step.
 
 ## Short answer
 
