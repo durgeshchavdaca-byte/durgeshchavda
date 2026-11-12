@@ -4263,7 +4263,7 @@ NRI tax · 2026-27
 
 NRIs pay Indian tax only on income earned or received in India, at the same slab rates as residents, with two big differences: no ₹12 lakh rebate, and TDS that is usually far higher than the tax actually due.
 
-By CA Durgesh Chavda·Last reviewed 3 November 2026·4 min read
+By CA Durgesh Chavda·Last reviewed 12 November 2026·4 min read
 
 Claim your NRI refund
 hello@durgeshchavda.com
@@ -4278,6 +4278,19 @@ Key takeaways
 Had TDS deducted on your NRO interest, rent or gains? Most NRIs are owed a refund. We file your Indian return and claim it.Ask on WhatsAppFree 15-min call
 
 Work out your own tax: NRI income tax calculator, new vs old regime, with your refund against TDS.
+Do NRIs get the ₹12 lakh rebate in FY 2026-27 (AY 2027-28)? No. The section 87A rebate (up to ₹60,000, which makes income up to ₹12 lakh tax-free under the new regime) is only for resident individuals. An NRI pays tax once taxable income crosses ₹4 lakh.
+Taxable income (new regime, FY 2026-27) | Rate | 
+
+Up to ₹4,00,000 | Nil | 
+₹4,00,001 to ₹8,00,000 | 5% | 
+₹8,00,001 to ₹12,00,000 | 10% | 
+
+₹12,00,001 to ₹16,00,000 | 15% | 
+₹16,00,001 to ₹20,00,000 | 20% | 
+₹20,00,001 to ₹24,00,000 | 25% | 
+Above ₹24,00,000 | 30% | 
+
+So an NRI with ₹12 lakh of Indian income pays about ₹62,400 (including 4% cess), where a resident pays nil. Work out yours.
 
 ## New regime slabs for NRIs (2026-27)
 
@@ -4336,6 +4349,9 @@ Broadly, you are a non-resident for a year if you are in India for less than 182
 - Consulate General of India, Dubai: CBDT clarification on tax residency of NRIs
 
 ## Frequently asked questions
+Do NRIs get the ₹12 lakh rebate in FY 2026-27 (AY 2027-28)?
+No. The section 87A rebate of up to ₹60,000, which makes income up to ₹12 lakh tax-free under the new regime, is only for resident individuals. NRIs pay tax once taxable income crosses ₹4 lakh; on ₹12 lakh an NRI pays about ₹62,400 including cess.
+
 What is the income tax slab for NRIs in 2026-27?
 Under the new regime: nil up to ₹4 lakh, 5% from ₹4 to ₹8 lakh, 10% from ₹8 to ₹12 lakh, 15% from ₹12 to ₹16 lakh, 20% from ₹16 to ₹20 lakh, 25% from ₹20 to ₹24 lakh and 30% above ₹24 lakh, plus 4% cess and surcharge on high incomes.
 
