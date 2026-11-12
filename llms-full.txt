@@ -12442,13 +12442,20 @@ Deadline 31 December 2026
 
 Foreign bank accounts, RSUs and ESOPs from a US or UK employer, a dormant account from student days — India’s tax department now sees them through global data exchange. FAST-DS is a one-time window to put them right at a known cost.
 
-By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 12 November 2026·5 min read
 
 Get your disclosure reviewed
 hello@durgeshchavda.com
 
 Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 Closes 31 December 2026. No declaration can be filed after that date. We handle the valuation and the filing end to end.WhatsApp usFree 15-min callHow we file
+
+Who should file FAST-DS 2026, and what does it cost?
+Who: anyone who was resident in India in the year a foreign asset was acquired or foreign income arose (including people who are NRIs now) and who, for that year, did not file a return, filed one but left the foreign asset or income out, or did not offer that foreign income to tax.
+
+Cost: a flat ₹1 lakh where the asset was bought from income already taxed in India or earned while non-resident and the only failure was not reporting it (assets up to ₹5 crore); or 60% of the undisclosed foreign income or asset (30% tax plus an equal amount, up to ₹1 crore). In return: immunity from Black Money Act penalties and prosecution for what is declared.
+
+Deadline: file Form 1 on the income-tax e-filing portal by 31 December 2026. Check your number.
 
 ## What FAST-DS is
 
@@ -12532,7 +12539,16 @@ Want it done for you? See our FAST-DS filing service.
 Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 
+## Official sources
+
+- Income Tax Department: FAST-DS 2026 FAQs (PDF)
+- Income-tax e-filing portal (Form 1)
+- CBDT Notification No. 114/2026 dated 14 August 2026 (FAST-DS Rules, 2026)
+
 ## Frequently asked questions
+Who should file FAST-DS 2026?
+People who were resident in India in the year a foreign asset was acquired or foreign income arose, including those who are NRIs now, and who did not file a return for that year, left the foreign asset or income out of it, or did not offer the foreign income to tax. Declarations close on 31 December 2026.
+
 What is FAST-DS 2026?
 The Foreign Assets of Small Taxpayers Disclosure Scheme, 2026: a one-time window, open from 16 August to 31 December 2026, to declare undisclosed foreign assets or income, or foreign assets left out of Schedule FA, at a fixed cost and with immunity under the Black Money Act.
 
