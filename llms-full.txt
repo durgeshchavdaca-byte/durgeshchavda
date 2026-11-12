@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-11. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-12. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,111 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/bring-foreign-brand-to-india/
+------------------------------------------------------------------------
+India entry · Brands and retail · 2026
+
+# Bringing your brand to India: franchise, licence, JV or your own stores
+
+Foreign brands enter India in four main ways: a master franchise, a licence, a joint venture, or their own subsidiary running stores. Each has different FDI rules, tax on the money you take out, and a different level of risk sitting with your Indian partner.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your India entry
+hello@durgeshchavda.com
+
+Key takeaways
+- Franchise or licence: no FDI approval; royalty taxed at 20% or the treaty rate.
+- Own stores: single-brand retail, 100% automatic; 30% India sourcing above 51% FDI.
+- The Indian partner is the biggest risk: check finances, promoters, track record, related parties.
+
+Quick answer: franchising and licensing need no FDI approval; you earn royalties, taxed in India at 20% (plus surcharge and cess) or the lower treaty rate. Owning stores yourself is single-brand retail: 100% FDI under the automatic route, but above 51% you must source 30% of goods from India. Whatever the route, the Indian partner is the biggest risk, so check them properly.
+
+## The four routes compared
+
+Route | Your investment | How you earn | Control | 
+
+Master franchise | None | Upfront fee and royalties | Through the franchise agreement and brand standards | 
+
+Licensing (brand or technology) | None | Royalties | Limited to the licence terms | 
+
+Joint venture | Equity in an Indian company | Dividends, plus royalties if licensed | Shared, set by the shareholders’ agreement | 
+
+Own subsidiary (single-brand retail) | Full | Retail profits | Full | 
+
+## FDI rules if you own the stores
+
+- Single-brand retail trading: up to 100% FDI under the automatic route, for products sold under one brand.
+
+- Local sourcing: above 51% FDI, at least 30% of the value of goods bought must come from India, measured as an average over the first five years from the first store, then every year.
+
+- Online first: you can sell online before opening physical stores, but are expected to open stores within two years.
+
+- Multi-brand retail is far more restricted: up to 51% with government approval and conditions.
+
+- Investors with Chinese or other land-border owners: see Press Note 2 (2026).
+
+## Tax on royalties and fees
+
+- Withholding tax: the Indian partner deducts tax on royalties and technical fees paid to you: 20% plus surcharge and cess under Indian law, or the lower treaty rate (often 10% to 15%) if you provide a tax residency certificate and the self-declaration in Form 41.
+
+- No RBI approval is needed to pay royalties; they are current-account payments, made through the partner’s bank with the usual tax forms.
+
+- GST: the Indian partner pays GST on imported royalties under reverse charge (18%) and can usually claim it back as input credit.
+
+- Permanent establishment risk: if your staff run the Indian business day to day, India may tax a share of your profits directly. Keep roles clear in the agreement.
+
+## Checking your Indian partner
+
+A franchisee or licensee in India carries your brand. Before signing, check:
+
+- Financial strength: filed accounts, borrowings and charges on assets; can they fund the store rollout they promise?
+
+- Promoters: background, other businesses, litigation and regulatory history.
+
+- Track record: other brands they run, and how those relationships ended.
+
+- Related parties: property, supply and service deals with the promoter group that can drain margins or royalties.
+
+- Real estate: lease terms and title for the planned locations.
+
+See partner due diligence in India and how to verify an Indian company.
+
+## Protect the brand first
+
+- Register your trademarks in India before talking to partners; India is part of the Madrid Protocol.
+
+- Put audit rights, sales reporting and royalty verification in the agreement.
+
+- Agree exit terms: what happens to stores, stock and the brand if the relationship ends.
+
+Related: appointing a distributor in India, joint ventures, taking profits out of India.
+
+## Sources
+
+- DPIIT (Consolidated FDI Policy, retail trading)
+- RBI: Master Direction, Foreign Investment in India
+- WIPO: Madrid System members (India)
+
+## Frequently asked questions
+Can a foreign brand open its own stores in India?
+Yes. Single-brand retail trading allows up to 100% FDI under the automatic route. Above 51% foreign ownership, at least 30% of the value of goods bought must be sourced from India, averaged over the first five years and then annually.
+
+Do foreign franchisors need RBI approval to receive royalties from India?
+No. Royalty and franchise fees are current-account payments that do not need RBI approval; the Indian partner pays through its bank after deducting withholding tax.
+
+What is the withholding tax on royalties paid by an Indian company to a foreign brand owner?
+20% plus surcharge and cess under Indian law, or the lower rate in the tax treaty with the brand owner's country if it provides a tax residency certificate and the required self-declaration.
+
+Franchise or own stores in India: which is better?
+Franchising needs no investment and gets you in faster, but your brand depends on the partner. Own stores give control but need capital and the 30% local sourcing rule above 51% FDI. Many brands start with a master franchise or JV and buy out later.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/cbam-indian-steel-aluminium-suppliers/
@@ -6891,6 +6996,7 @@ For Canadian companies: due diligence in India for Canadian companies.
 Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 UK group with India operations? Failure to prevent fraud: what it means for your India operations.
+Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -7314,6 +7420,7 @@ Most JV disputes trace back to something knowable at the start: liabilities in t
 Most Indian partners are family-run: partnering with an Indian family business.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
+Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 
 ## Frequently asked questions
 Can a foreign company form a joint venture in India?
@@ -8277,6 +8384,7 @@ Outside India? Book a free 15-minute call with Durgesh — quick answers inside.
 Need a director in India? Resident director: the 182-day rule and your options.
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
 Hiring in India? Employee benefits a foreign employer must offer (2026).
+Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
@@ -10076,6 +10184,7 @@ Need a director in India? Resident director: the 182-day rule and your options.
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
 Hiring in India? Employee benefits a foreign employer must offer (2026).
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
+Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 
 ## Frequently asked questions
 Can a foreign company own 100% of an Indian company?
