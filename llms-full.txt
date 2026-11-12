@@ -169,7 +169,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -302,7 +302,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -387,7 +387,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -475,7 +475,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -563,7 +563,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -651,7 +651,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -741,7 +741,7 @@ Short-term gain | Taxed at your slab rates |
 
 TDS | The buyer deducts TDS, normally on the whole sale price, unless you get a lower-deduction certificate first. Surcharge adds 10% above ₹50 lakh and 15% above ₹1 crore | 
 
-Lower TDS certificate | Apply online in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
+Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certificate (LDC) in Form 128 (formerly Form 13) before the sale, based on your actual gain | 
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
@@ -8054,6 +8054,20 @@ Key takeaways
 
 - US parent with Indian operations: India–US tax treaty and repatriation.
 
+## Who can do due diligence on an Indian company for a US company?
+
+Provider | Best for | Limits | 
+
+US Commercial Service (International Company Profile) | A basic background report on a prospective partner | Desk-based and standardised; no deep financial, tax or FEMA review | 
+
+Indian law firm | Contracts, litigation, licences, title, regulatory approvals | Usually not a financial or tax review; often paired with accountants | 
+
+Indian Chartered Accountant firm (us) | Financials, tax, FEMA, related parties, promoters, site visits, written English report | Legal opinions stay with your counsel | 
+
+Big Four | Large, multi-country transactions | Higher cost and longer timelines for small and mid-size deals; see Big 4 vs boutique | 
+
+Most US companies combine an accountant-led financial and background review with legal review from Indian counsel for larger deals.
+
 ## What we check for you in India
 
 - Identity, registrations and filed financial statements of the Indian partner — how it works.
@@ -8091,6 +8105,7 @@ As of October 2026 the first tranche was reported as finalised but not yet signe
 
 On this page
 
+- Who can do it
 - Why us
 - Your rules
 - The India side
