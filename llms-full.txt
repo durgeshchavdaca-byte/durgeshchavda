@@ -74,6 +74,86 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-us-stocks-vested-indmoney/
+------------------------------------------------------------------------
+FAST-DS · US stocks · Closes 31 December 2026
+
+# US stocks through an Indian app: do you need FAST-DS?
+
+Millions of Indians buy US shares through apps like Vested and INDmoney, or through a foreign broker, using the LRS. Most never showed the account in Schedule FA, and many never reported the dividends. FAST-DS is open until 31 December 2026. Not everyone needs it, and the route depends on two questions.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- Two questions: were dividends and gains taxed, and do foreign assets exceed ₹20 lakh?
+- Above ₹20 lakh with Schedule FA missed: the flat ₹1 lakh route usually beats a ₹10 lakh-a-year risk.
+- Untaxed dividends or gains need fixing too; FAST-DS closes 31 December 2026.
+
+Quick answer: ask two questions. 1. Were the dividends and sale gains taxed in India? If not, that income needs fixing. 2. Do your foreign assets (other than property) exceed ₹20 lakh? If yes, missing Schedule FA can cost ₹10 lakh per year, and FAST-DS’s flat ₹1 lakh route is usually worth it. Below ₹20 lakh and with income already taxed, you may only need to report correctly from now on.
+
+## The two things that can go wrong
+
+Problem | What it costs if found | FAST-DS route | 
+
+Account not shown in Schedule FA, but bought with taxed salary and all income reported | ₹10 lakh penalty per year under the Black Money Act, only if foreign assets other than property exceed ₹20 lakh | Flat ₹1 lakh (assets up to ₹5 crore) | 
+
+Dividends or sale gains never taxed in India | Tax plus penalty and interest on the hidden income | 60% of the undisclosed income (up to ₹1 crore) | 
+
+Many LRS investors have both: the account was funded with taxed salary, but a few years of dividends were never reported. How the routes combine depends on your amounts and years, so work it out before filing.
+
+## Three common cases
+
+- ₹8 lakh portfolio, dividends reported, Schedule FA missed: below the ₹20 lakh line, so the ₹10 lakh penalty does not apply. Report it correctly in this and future returns; FAST-DS may not be needed.
+
+- ₹35 lakh portfolio from salary, dividends reported, Schedule FA missed: above the line. The flat ₹1 lakh route gives immunity and is far cheaper than the risk of ₹10 lakh a year.
+
+- ₹35 lakh portfolio, dividends never reported: the unreported income needs fixing as well as the reporting; get the numbers worked out before 31 December.
+
+## The tax department already has data
+
+- Foreign tax authorities exchange account information with India every year, and tax collected at source (TCS) on larger LRS transfers shows up in your Form 26AS.
+
+- Since September 2026, many taxpayers have received emails flagging foreign assets: see the FAST-DS email.
+
+## What you need
+
+- Account opening date and statements for every year since
+
+- Your LRS remittance records (bank Form A2s or app statements) and TCS certificates
+
+- Dividend and sale reports from the app or broker (Form 1042-S if issued)
+
+- Your ITRs since the account was opened
+
+Check your number: FAST-DS calculator. Related: FAST-DS complete guide, investing in US stocks from India, RSUs and FAST-DS.
+
+## Sources
+
+- Income Tax Department: FAST-DS 2026 FAQs (PDF)
+- TaxGuru: received a FAST-DS email for foreign assets? Check AIS before 31 December 2026
+
+## Frequently asked questions
+Do I need FAST-DS for US stocks bought through Vested or INDmoney?
+Only if there is something to fix. If you missed Schedule FA and your foreign assets other than property exceed ₹20 lakh, the flat ₹1 lakh FAST-DS route is usually worth it. If dividends or gains were never taxed in India, that income needs fixing too. Below ₹20 lakh with all income taxed, correct reporting from now on may be enough.
+
+Is there a penalty for not reporting a small US stock portfolio in Schedule FA?
+The ₹10 lakh Black Money Act penalty for non-disclosure does not apply where the total value of foreign assets other than immovable property is ₹20 lakh or less. Unreported dividends or gains are still taxable.
+
+Are US stock dividends taxable in India?
+Yes. Dividends from US shares are taxable in India at your slab rate for residents, with credit for the US tax withheld under the India–US tax treaty, and they must be reported in your return along with the account in Schedule FA.
+
+What is the FAST-DS deadline?
+Declarations under FAST-DS 2026 can be made until 31 December 2026.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/us-llc-without-form-fc-fix/
 ------------------------------------------------------------------------
 FEMA · Overseas investment · 2026
@@ -2729,6 +2809,7 @@ Related: investing in US stocks from India, moved to Dubai: NRI checklist and FA
 - Income Tax Department: FAST-DS FAQs
 - Legal500 (S&A Law Offices): Union Budget 2026-27, direct tax
 Shares and mutual funds in India? Demat and mutual funds after becoming an NRI.
+Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 
 ## Frequently asked questions
 Can an NRI keep US stocks bought while resident in India?
@@ -2903,6 +2984,7 @@ Fees are fixed upfront after a short review of your holdings. Not sure if you ne
 
 Got the email about “overseas financial interests”? What the FAST-DS email means and what to do.
 Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
+Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 
 ## Frequently asked questions
 Can you file FAST-DS for me?
@@ -3100,6 +3182,7 @@ Since 1 October 2024 the ₹10 lakh Black Money Act penalty for leaving foreign 
 - TaxGuru: FAST-DS 2026 FAQs (valuation of bank accounts)
 - Business Today: relief from penalty for small foreign assets (₹20 lakh)
 - Income Tax Department: FAST-DS FAQs (13 August 2026)
+Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 
 ## Frequently asked questions
 How is a foreign bank account valued under FAST-DS?
@@ -11665,6 +11748,7 @@ For small, already-taxed holdings under ₹20 lakh, FAST-DS may not be necessary
 
 Want it done for you? See our FAST-DS filing service.
 Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
+Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 
 ## Frequently asked questions
 What is FAST-DS 2026?
