@@ -8766,17 +8766,52 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 36 questions answered
+# India for NRIs and foreigners: 47 questions answered
 
-The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to October 2026, with a link to the full guide.
+The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·9 min read
+By CA Durgesh Chavda·Last reviewed 12 November 2026·9 min read
 
 Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## For foreign companies: November 2026 updates
+
+### Can a fund with Chinese investors invest in India without government approval?
+Yes, if land-border-country beneficial ownership in the investor is 10% or less and carries no control, and the sector is on the automatic route (Press Note 2, 2026). Above 10% or with control, approval is still needed. Read more.
+
+### How much of an Indian bank or NBFC can a foreign investor own?
+Private banks: up to 74% foreign investment (above 49% with government approval), and RBI approval to reach 5%. NBFCs: up to 100% automatic, but RBI approval for control, 26% or more, or a change of over 30% of directors. Read more.
+
+### When does the EU deforestation regulation apply to imports from India?
+From 30 December 2026 for large and medium operators (30 June 2027 for micro and small, outside timber). Coffee, rubber, wood, soya, cocoa, palm and cattle products need plot-level geolocation. Read more.
+
+### When do EU importers pay CBAM on Indian steel?
+Certificates for 2026 imports go on sale on 1 February 2027, and the first annual declaration is due by 30 September 2027. Without verified supplier data, default values apply. Read more.
+
+### Does the UK failure to prevent fraud offence cover Indian agents and subsidiaries?
+It can. Since 1 September 2025, large organisations are liable for fraud by associated persons, including agents, subsidiaries and service providers in India, unless they had reasonable prevention procedures. Read more.
+
+### What benefits must a foreign employer give staff in India?
+PF at 12% (mandatory up to ₹25,000 a month in wages since 17 September 2026), ESI for lower earners, gratuity, statutory bonus, 26 weeks' maternity leave and state paid leave. Read more.
+
+### Can a foreign brand own its stores in India?
+Yes. Single-brand retail allows 100% FDI on the automatic route; above 51%, 30% of goods must be sourced from India. Franchising or licensing needs no FDI approval. Read more.
+
+### I own a US LLC but never filed Form FC. What now?
+File Form FC through your bank to get a UIN, pay a late submission fee if within the allowed window or apply for compounding, then file the missed APRs and fix Schedule FA. Read more.
+
+### How much tax does an NRI in Dubai pay on selling property in India?
+Indian tax only: 12.5% on long-term gains plus surcharge and cess. The UAE has no personal income tax. Get a lower TDS certificate (Form 128) so TDS isn't deducted on the full price. Read more.
+
+### Do UK residents pay tax on selling property in India?
+Yes: UK capital gains tax at 18% or 24% on the gain in pounds, after the £3,000 annual exempt amount, with credit for the Indian tax. Read more.
+
+### Do freelancers still need to file an EDF for foreign payments?
+Not separately. Since 1 October 2026, a resident individual's EDF is deemed filed once the bank has the payment details; businesses get the same up to ₹10 lakh per remittance. Read more.
 
 ## For NRIs: tax
 
@@ -8895,7 +8930,7 @@ Yes — CETA took effect on 15 July 2026, with a 5-year social-security exemptio
 Yes — since 20 October 2026. Read more.
 
 ### Has India signed a trade deal with the EU?
-Negotiations concluded on 27 January 2026; signature is pending, with entry into force expected later. Read more.
+Negotiations concluded on 27 January 2026; signing is expected in December 2026, with entry into force indicated for February–March 2027. Read more.
 
 ### Is the India–EFTA (Switzerland) agreement in force?
 Yes, since 1 October 2025. Read more.
