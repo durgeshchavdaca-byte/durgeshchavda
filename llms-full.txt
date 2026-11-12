@@ -74,6 +74,102 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/set-up-subsidiary-in-india-foreign-company/
+------------------------------------------------------------------------
+India entry · Step by step · 2026
+
+# Setting up a subsidiary in India: step by step, and how long it really takes
+
+Most foreign companies enter India through a wholly owned private limited company. Incorporation itself takes a few weeks; being able to trade, with a bank account, capital in and the foreign investment reported, usually takes 6 to 10 weeks. Here is the sequence, and where the delays come from.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·7 min read
+
+Plan your India entity
+hello@durgeshchavda.com
+
+Key takeaways
+- Private limited company: 2 shareholders, 2 directors, one resident in India.
+- SPICe+ incorporation in 1 to 3 weeks; fully operational in 6 to 10 weeks.
+- Allot shares within 60 days of funds; FC-GPR within 30 days of allotment; FLA by 15 July.
+
+Quick answer: form a private limited company with at least two shareholders (often the parent and an affiliate) and two directors, one of whom is resident in India. Check the sector is open to foreign investment, get the parent’s documents notarised and apostilled, incorporate through SPICe+, open the bank account, bring in the capital and file Form FC-GPR within 30 days of issuing shares. Allow 6 to 10 weeks end to end.
+
+## The steps
+
+Step | What happens | Typical time | 
+
+1. FDI check | Confirm the activity is under the automatic route and within the cap; investors with Chinese or other land-border owners check Press Note 2 | A few days | 
+
+2. Directors and shareholders | Two directors (one resident in India, i.e. in India for at least 182 days in the financial year) and two shareholders | Depends on finding the resident director; see options | 
+
+3. Documents | Parent’s certificate of incorporation, board resolution, directors’ ID and address proof, notarised and apostilled (or consularised) | 1 to 3 weeks abroad | 
+
+4. Digital signatures and name | Digital signature certificates for directors; name reserved through SPICe+ | Days | 
+
+5. Incorporation (SPICe+) | Online filing with the memorandum and articles; PAN and TAN come with the certificate of incorporation, and GST, PF and ESI registrations can be applied for in the same filing | 1 to 3 weeks after documents | 
+
+6. Bank account and capital | Open the bank account; the parent remits share capital through banking channels | 1 to 3 weeks (KYC) | 
+
+7. Issue shares and report | Allot shares within 60 days of receiving the money; file FC-GPR on the RBI FIRMS portal within 30 days of allotment | Within the deadlines | 
+
+8. Commencement | File the commencement-of-business declaration (INC-20A) within 180 days of incorporation | One filing | 
+
+There is no minimum capital requirement for a private company, but the capital should cover the first months of running costs.
+
+## After incorporation
+
+- Registrations: GST (if supplying taxable services or goods), state Shops and Establishments, professional tax, PF and ESI once you hire, and an import-export code if trading across borders.
+
+- Annual filings: audited accounts, ROC returns, income-tax return, transfer pricing report if dealing with the parent, and the RBI FLA return by 15 July each year.
+
+- Intercompany agreement: if the subsidiary serves the parent (a GCC), sign a services agreement with a cost-plus markup before invoicing starts. See setting up a GCC.
+
+- Hiring: statutory benefits under the Labour Codes.
+
+## Where the delays come from
+
+- Finding a resident director the parent trusts.
+
+- Apostille and courier time for the parent’s documents, and name or document mismatches between them.
+
+- Bank KYC on the foreign parent and its ultimate owners.
+
+- Sector approvals where the activity isn’t on the automatic route.
+
+## Alternatives to a subsidiary
+
+- LLP: foreign investment is allowed under the automatic route in sectors that are 100% automatic.
+
+- Branch or liaison office: RBI-approved presence with activity limits; a liaison office cannot earn income. See branch vs liaison office.
+
+- No entity yet: hire through an employer of record.
+
+- Not sure? Try the India entry structure chooser.
+
+## Sources
+
+- Ministry of Corporate Affairs: SPICe+ incorporation
+- RBI: Master Direction, Foreign Investment in India (FC-GPR, FLA)
+
+## Frequently asked questions
+How long does it take to set up a subsidiary in India?
+Incorporation through SPICe+ usually takes 1 to 3 weeks once documents are ready, but being fully operational, with a bank account, capital received and Form FC-GPR filed, typically takes 6 to 10 weeks, mostly because of apostille, bank KYC and finding a resident director.
+
+Does an Indian subsidiary need an Indian resident director?
+Yes. Every Indian company needs at least one director who stayed in India for at least 182 days in the financial year. A private company needs at least two directors and two shareholders.
+
+Is there a minimum capital to set up a company in India?
+No. Private companies have no minimum capital requirement, but foreign parents usually fund enough share capital to cover the first months of costs, and must report the investment in Form FC-GPR within 30 days of issuing shares.
+
+What filings follow foreign investment into a new Indian subsidiary?
+Shares must be allotted within 60 days of receiving the funds, Form FC-GPR is filed on the RBI FIRMS portal within 30 days of allotment, INC-20A within 180 days of incorporation, and the FLA return by 15 July each year.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/outsourced-accounting-for-australian-firms/
 ------------------------------------------------------------------------
 Outsourcing · Australia & New Zealand
@@ -5825,6 +5921,8 @@ Key takeaways
 - Nationality doesn't matter; the other directors can live abroad.
 - Limit authority, agree indemnity and keep filings current — 3 years of missed filings disqualifies directors for 5 years.
 
+Step by step: how a foreign company sets up a subsidiary in India, and how long it takes.
+
 ## The rule
 
 - Two directors minimum for a private limited company (Companies Act 2013, section 149(1)). A public company needs three.
@@ -9378,6 +9476,7 @@ Plan your India entry
 hello@durgeshchavda.com
 
 Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a free 15-min intro
+Step by step: how a foreign company sets up a subsidiary in India, and how long it takes.
 
 ## Your options for entering India
 
@@ -11185,6 +11284,8 @@ Key takeaways
 - Since Press Note 2 (2026 Series), land-border-country investors with non-controlling beneficial ownership of up to 10% can use the automatic route.
 - An Indian subsidiary can opt for a 22% base tax rate (about 25.17% all-in); a branch pays 35% plus surcharge and cess.
 
+Step by step: how a foreign company sets up a subsidiary in India, and how long it takes.
+
 ## Five ways to enter India
 
 Option | Can earn revenue? | Best for | 
@@ -11561,6 +11662,8 @@ Key takeaways
 - A liaison office needs 3 years of profits and USD 50,000 net worth; a branch 5 years and USD 100,000.
 - A liaison office cannot earn income; it is generally valid for 3 years.
 - From tax year 2026-27 the liaison office statement is Form 162 (formerly Form 49C).
+
+Step by step: how a foreign company sets up a subsidiary in India, and how long it takes.
 
 ## What is a liaison office in India?
 
