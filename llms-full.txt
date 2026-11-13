@@ -74,6 +74,85 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/csr-amendment-rules-2026/
+------------------------------------------------------------------------
+Company law · CSR · 2026
+
+# CSR Amendment Rules 2026: the Social Stock Exchange route, explained
+
+The Companies (Corporate Social Responsibility Policy) Amendment Rules, 2026, notified on 27 May 2026, add a new way to spend CSR money: subscribing to zero coupon zero principal (ZCZP) instruments issued by non-profits listed on a Social Stock Exchange. Here is what changed, the limits, and who has to spend CSR at all, including Indian subsidiaries of foreign groups.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your CSR position
+hello@durgeshchavda.com
+
+Key takeaways
+- New Rule 4A (27 May 2026): CSR via Social Stock Exchange ZCZP instruments.
+- Capped at 10% of total CSR spend in a year.
+- CSR applies at ₹500 cr net worth, ₹1,000 cr turnover or ₹5 cr net profit; the ₹10 cr Bill hasn't passed.
+
+Quick answer: a company can now meet part of its CSR obligation by subscribing to ZCZP instruments issued by non-profits registered on a Social Stock Exchange, up to 10% of its total CSR spend in a year (new Rule 4A, notified 27 May 2026). Everything else about CSR, including who must spend 2% of profits, stays the same.
+
+## What changed
+
+Point | Rule | 
+
+Notification | Companies (CSR Policy) Amendment Rules, 2026, G.S.R. 415(E), 27 May 2026 | 
+
+New route | CSR through zero coupon zero principal instruments issued by not-for-profit organisations registered on the Social Stock Exchange segment of a recognised stock exchange (Rule 4A) | 
+
+Limit | No more than 10% of the company’s total CSR expenditure in the financial year | 
+
+Schedule VII | Subscribing to these instruments is recognised as a CSR activity | 
+
+Impact assessment | Commentaries note an exemption for spend through this route; projects are expected to finish within three financial years | 
+
+## Who has to spend CSR
+
+- Any company (including an Indian subsidiary of a foreign company) with, in the previous year, net worth of ₹500 crore or more, turnover of ₹1,000 crore or more, or net profit of ₹5 crore or more.
+
+- It must spend at least 2% of its average net profits of the three preceding years on CSR, through a board-approved policy, and report it.
+
+- Unspent amounts go to a specified fund or an unspent CSR account, depending on whether they relate to ongoing projects.
+
+- Proposed change: the Corporate Laws (Amendment) Bill, 2026 would raise the net-profit trigger to ₹10 crore. It has not been passed; see where the Bill stands.
+
+## What it means for subsidiaries of foreign groups
+
+- Many Indian subsidiaries, including capability centres earning a cost-plus margin, cross the ₹5 crore net-profit trigger without noticing. Check every year.
+
+- The ZCZP route gives a listed, regulated channel for up to 10% of the spend, which some global groups find easier to document for their own ESG reporting.
+
+- CSR spend is not deductible for Indian income tax, so plan it in the subsidiary’s budget and transfer pricing.
+
+- Help with the rest of the compliance calendar: accounting and compliance for Indian subsidiaries.
+
+## Sources
+
+- SCC Online: Companies CSR Policy Amendment Rules, 2026
+- Mehta & Mehta: MCA update on the CSR Policy Amendment Rules, 2026
+- Ministry of Corporate Affairs
+
+## Frequently asked questions
+What are the CSR Amendment Rules 2026?
+The Companies (Corporate Social Responsibility Policy) Amendment Rules, 2026, notified on 27 May 2026, let companies spend part of their CSR obligation by subscribing to zero coupon zero principal instruments issued by non-profits registered on a Social Stock Exchange, up to 10% of their total CSR spend in a year.
+
+Does CSR apply to Indian subsidiaries of foreign companies?
+Yes. Any company in India, including a subsidiary of a foreign company, must spend 2% of its average net profits on CSR if in the previous year it had net worth of ₹500 crore or more, turnover of ₹1,000 crore or more, or net profit of ₹5 crore or more.
+
+What is a ZCZP instrument for CSR?
+A zero coupon zero principal instrument is issued by a non-profit registered on a Social Stock Exchange to raise funds for social projects; investors get no interest and no repayment. Companies can now count subscriptions towards CSR, within a 10% cap.
+
+Has the CSR threshold changed to ₹10 crore?
+Not yet. The Corporate Laws (Amendment) Bill, 2026 proposes raising the net-profit trigger from ₹5 crore to ₹10 crore, but it has not been passed.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/hr-due-diligence-checklist-india/
 ------------------------------------------------------------------------
 Due diligence · People · 2026
@@ -9837,6 +9916,7 @@ See also: forensic audit & fraud investigation in India.
 Guide: 12 warning signs of fraud in your Indian subsidiary.
 Need a director in India? Resident director: the 182-day rule and your options.
 Indian parent of a foreign company? APR and audit rules.
+CSR update: CSR Amendment Rules 2026, the Social Stock Exchange (ZCZP) route.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
