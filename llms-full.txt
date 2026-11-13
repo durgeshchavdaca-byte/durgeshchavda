@@ -12348,6 +12348,8 @@ Key takeaways
 - A TRC, Form 41 and a no-PE declaration let an Indian payer apply your treaty rate instead of 20%.
 - If tax was withheld at a lower treaty rate, a foreign company usually still has to file an Indian return.
 
+Quick answer: Form 41 is the self-declaration a non-resident (for example a foreign company or vendor) gives under the Income-tax Act, 2025 to claim tax-treaty rates on payments from India. It replaced Form 10F. Your Indian customer will usually ask for three things: Form 41, your tax residency certificate (TRC) from your home country, and a no-PE declaration on your letterhead. A free sample no-PE format is below.
+
 ## What is Form 41 in India?
 
 Form 41 is the form a non-resident files on India’s income-tax portal to claim tax-treaty benefits. It replaced Form 10F from 1 April 2026 under the Income-tax Rules, 2026, and gives the details a tax residency certificate may not contain — status, nationality, tax identification number, period and address. Indian payers ask for it, with a TRC and often a no-PE declaration, before applying a treaty withholding rate to payments abroad.
