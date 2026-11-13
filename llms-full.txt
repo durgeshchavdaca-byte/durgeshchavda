@@ -2189,6 +2189,18 @@ See hiring in India without an entity and setting up a GCC in India.
 
 - Set up monthly payroll, TDS on salary and quarterly TDS returns.
 
+## Can a foreign company buy group medical cover (GMC) for Indian staff without an Indian entity?
+
+Usually not directly. Indian group health policies are issued to an Indian policyholder, normally the employer. Without an Indian entity, the common routes are:
+
+- Through your employer of record: the EOR adds your employees to its group medical policy, or buys one for your team. This is the simplest option.
+
+- A global or international health plan arranged through an international broker, if your insurer can cover employees resident in India. Check that it works with Indian hospitals for cashless treatment.
+
+- Reimbursing individual policies the employees buy themselves, which is administratively simple but less valuable to employees and may be taxable for them.
+
+Once you set up an Indian subsidiary, it can buy a standard Indian group policy directly. Insurance rules change, so confirm the structure with a licensed broker.
+
 ## Sources
 
 - PIB: EPFO raises wage ceiling from Rs 15,000 to Rs 25,000
@@ -2211,6 +2223,9 @@ Only ESI, the state scheme, is mandatory, and only for employees earning up to �
 
 What is the 50% wage rule under the Labour Codes?
 Wages for PF, gratuity and other benefits mean basic pay, dearness allowance and retaining allowance. If the allowances left out are more than 50% of total pay, the excess is added back to wages, which raises PF and gratuity costs.
+
+Can a foreign company buy group medical cover in India without an Indian entity?
+Usually not directly, because Indian group health policies are issued to an Indian policyholder. The common routes are the employer of record's group policy, a global health plan arranged through an international broker, or reimbursing individual policies. An Indian subsidiary can buy a group policy itself.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -11828,6 +11843,18 @@ Yes. India has no specific EOR law; it operates as a staffing arrangement, now w
 
 Need a review of your current set-up? See India tax for foreign companies, or set up properly with company setup in India.
 
+## Can a foreign company buy group medical cover (GMC) for Indian staff without an Indian entity?
+
+Usually not directly. Indian group health policies are issued to an Indian policyholder, normally the employer. Without an Indian entity, the common routes are:
+
+- Through your employer of record: the EOR adds your employees to its group medical policy, or buys one for your team. This is the simplest option.
+
+- A global or international health plan arranged through an international broker, if your insurer can cover employees resident in India. Check that it works with Indian hospitals for cashless treatment.
+
+- Reimbursing individual policies the employees buy themselves, which is administratively simple but less valuable to employees and may be taxable for them.
+
+Once you set up an Indian subsidiary, it can buy a standard Indian group policy directly. Insurance rules change, so confirm the structure with a licensed broker.
+
 ## Sources
 
 - HSF Kramer — India's Labour Codes implemented
@@ -11847,6 +11874,9 @@ It can. An EOR handles employment, but if the workers habitually conclude contra
 
 When should a foreign company set up a subsidiary instead of using an EOR?
 Usually once the team passes roughly ten people, includes sales or leadership roles, or is planned for the long term. A subsidiary with a cost-plus arrangement reduces PE risk and is often cheaper at scale.
+
+Can a foreign company buy group medical cover in India without an Indian entity?
+Usually not directly, because Indian group health policies are issued to an Indian policyholder. The common routes are the employer of record's group policy, a global health plan arranged through an international broker, or reimbursing individual policies. An Indian subsidiary can buy a group policy itself.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
