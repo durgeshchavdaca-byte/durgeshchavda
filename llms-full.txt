@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-12. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-13. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -269,7 +269,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -293,7 +293,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Other countries: UAE · UK · USA · Canada · Australia · Singapore. Handled end to end: NRI property sale service.
@@ -314,7 +314,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -339,7 +339,7 @@ hello@durgeshchavda.com
 
 - At the sale: guide the buyer on deducting and depositing TDS correctly, and check the TDS certificate.
 
-- Moving the money: Forms 15CA and 15CB, bank coordination, and the US$1 million NRO route or the foreign-exchange route.
+- Moving the money: Form 145 and the CA certificate in Form 146 (formerly 15CA and 15CB), bank coordination, and the US$1 million NRO route or the foreign-exchange route.
 
 - After the sale: your Indian return to claim back excess TDS, and a gain summary your adviser abroad can use for the foreign tax credit.
 
@@ -351,7 +351,7 @@ hello@durgeshchavda.com
 
 ## Frequently asked questions
 Can an NRI sell property in India without being in India?
-Yes. The sale can be executed through a registered power of attorney, and the tax steps (lower TDS certificate, Forms 15CA/15CB, the return) can all be handled remotely.
+Yes. The sale can be executed through a registered power of attorney, and the tax steps (lower TDS certificate, Forms 145 and 146, the return) can all be handled remotely.
 
 How long does a lower TDS certificate take for an NRI property sale?
 Usually a few weeks after a complete online application in Form 128, so apply well before the sale date.
@@ -402,7 +402,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -424,7 +424,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · USA · Canada · Australia.
@@ -445,7 +445,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -487,7 +487,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -511,7 +511,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · USA · Canada · Singapore.
@@ -533,7 +533,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -575,7 +575,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -599,7 +599,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · USA · Australia · Singapore.
@@ -621,7 +621,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -663,7 +663,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -687,7 +687,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · Canada · Australia · Singapore.
@@ -709,7 +709,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -751,7 +751,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -777,7 +777,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · USA · Canada · Australia · Singapore.
@@ -799,7 +799,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -841,7 +841,7 @@ Lower TDS certificate | Apply online (TRACES) for a Lower/Nil Deduction Certific
 
 Exemptions | Reinvest in a house in India (capped at ₹10 crore) or in specified bonds within 6 months (up to ₹50 lakh, 5-year lock-in) | 
 
-Getting money out | From your NRO account, up to US$1 million a financial year with Forms 15CA and 15CB. If you bought with foreign exchange, that amount can go back for up to two homes | 
+Getting money out | From your NRO account, up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If you bought with foreign exchange, that amount can go back for up to two homes | 
 
 Refund | File an Indian return to get back TDS that was more than your actual tax | 
 
@@ -865,7 +865,7 @@ Mechanics in detail: TDS on sale of property by NRI, the Form 128 certificate an
 
 - At the sale: make sure the buyer deposits the TDS correctly and gives you the TDS certificate.
 
-- Move the money: Forms 15CA/15CB and your bank for the transfer abroad.
+- Move the money: Form 145, the CA certificate in Form 146, and your bank for the transfer abroad.
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UK · USA · Canada · Australia · Singapore.
@@ -886,7 +886,7 @@ How much TDS does a buyer deduct when an NRI sells property in India?
 For long-term property (held over 24 months), 12.5% plus surcharge (10% above ₹50 lakh, 15% above ₹1 crore) and 4% cess, normally on the whole sale price unless the NRI has a lower-deduction certificate.
 
 How much money can an NRI send abroad after selling property in India?
-Up to US$1 million per financial year from the NRO account, with Forms 15CA and 15CB. If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
+Up to US$1 million per financial year from the NRO account, with Form 145 and usually a CA certificate in Form 146 (formerly 15CA and 15CB). If the property was bought with foreign exchange, that amount can be repatriated for up to two residential properties.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -2710,6 +2710,16 @@ hello@durgeshchavda.com
 Tell us what you are moving. We reply with the route, the paperwork and the tax, before you commit.WhatsApp usFree 15-min callTransfer checker
 
 Selling from abroad? What you pay in India and at home: UAE · UK · USA · Canada · Australia · Singapore. Or let us handle it: NRI property sale service.
+Quick answer: how much can an NRI send abroad from India?
+Where the money is | Limit | What you need | 
+
+NRE account or FCNR(B) deposit | No limit; fully repatriable | Bank’s remittance request | 
+
+NRO account (rent, pension, savings, property sale proceeds, inheritance) | US$1 million per financial year (April to March), across all NRO accounts | Proof of source, Indian tax paid, Form 145 (formerly 15CA) and usually a CA certificate in Form 146 (formerly 15CB) | 
+
+Property bought with foreign exchange | Sale proceeds up to the foreign exchange paid, for up to two homes | Purchase and payment records | 
+
+Tax comes first: the bank will want to see that Indian tax on the money has been paid or deducted. Selling property? See NRI property sale help.
 
 ## Who we help
 
@@ -2751,6 +2761,9 @@ Parents sending you money? Gift from parents in India: limits and tax.
 Inherited assets in India? How to transfer an inheritance abroad.
 
 ## Frequently asked questions
+How much money can an NRI send abroad from India per year?
+From an NRO account, up to US$1 million per financial year (April to March) across all NRO accounts, with Form 145 and usually a CA certificate in Form 146 after Indian tax. NRE and FCNR(B) balances can be sent abroad without a limit.
+
 How much money can an NRI send from India abroad?
 Up to USD 1 million per financial year from NRO balances, property sale proceeds and inheritance, after Indian tax, with Form 145 and usually a CA certificate in Form 146. NRE and FCNR balances can be sent without limit.
 
