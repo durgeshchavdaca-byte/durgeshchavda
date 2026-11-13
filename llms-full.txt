@@ -9507,6 +9507,8 @@ JV partner or distributor | Is this company what it says it is? | Company verifi
 
 Lender or procurement team | Can this supplier perform and pay? | Verification + filed financials + GST filing record | 
 
+Our output is a written due diligence report (sometimes called a due diligence dossier) in English, with findings, red flags and supporting evidence. See a sample report structure.
+
 ## What we check
 
 - Financial: quality of earnings, revenue recognition, cash vs book profit, working capital, related-party transactions, debt and off-balance-sheet items, and how the Indian accounts map to your GAAP.
