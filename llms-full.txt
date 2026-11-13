@@ -74,6 +74,98 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/hr-due-diligence-checklist-india/
+------------------------------------------------------------------------
+Due diligence · People · 2026
+
+# HR due diligence in India: the checklist acquirers use
+
+In Indian deals, people issues hide real money: unpaid provident fund with interest and damages, unfunded gratuity, misclassified contract workers, and the new Labour Codes that changed how wages are counted. This checklist covers what to ask for and what to test.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Scope your due diligence
+hello@durgeshchavda.com
+
+Key takeaways
+- Test PF/ESI history, gratuity funding and the Labour Code 50% wage rule.
+- Check contract labour, registrations, POSH and open disputes.
+- Price in arrears, escrow and indemnities; plan retention of key people.
+
+Quick answer: test six things: headcount and contracts, PF and ESI payments (arrears carry interest and damages), the gratuity liability and whether it is funded, compliance with the Labour Codes (in force since 21 November 2025), contract labour and misclassification, and key people and retention.
+
+## The checklist
+
+Area | Ask for | What to test | 
+
+Headcount | Employee census: roles, grades, pay, joining dates, locations; appointment letters | Does payroll match the census and the accounts? | 
+
+Provident fund and ESI | Monthly challans and returns for 3 years; any notices or inspections | Wages used for PF match the Labour Code definition (the 50% rule); no arrears, which attract interest and damages | 
+
+Gratuity | Actuarial valuation; insurer or trust funding | Liability recognised in the accounts; fixed-term staff now qualify after one year | 
+
+Bonus, leave, final settlements | Bonus workings, leave balances, pending full-and-final settlements | Leave encashment liability; settlements paid within two working days of exit | 
+
+Contract labour | Contractor agreements, licences, contractors’ PF/ESI proof | Principal-employer liability if contractors don’t pay; core work done by “contractors” who are really employees | 
+
+Registrations | Shops and Establishments or factory licences, professional tax, labour welfare fund | Every location registered and returns filed | 
+
+Workplace policies | POSH policy, Internal Committee details, annual reports; standing orders if applicable | An Internal Committee is required where there are 10 or more employees | 
+
+Disputes | Labour cases, union agreements, inspection reports | Open claims, back-wages exposure, union history | 
+
+Key people | Contracts of top managers, ESOPs, bonuses tied to the deal | Retention risk; change-of-control payouts; post-employment non-competes are generally unenforceable in India | 
+
+Data and privacy | How employee data is held and shared | Readiness for the Digital Personal Data Protection Act as it is phased in | 
+
+## Red flags
+
+- Low basic pay with large allowances, keeping PF and gratuity artificially low.
+
+- Large numbers of long-serving “consultants” or contract workers doing core jobs.
+
+- No actuarial valuation, or gratuity not provided for in the accounts.
+
+- Gaps in PF/ESI payments, or payments made in round sums without returns.
+
+- Promoter relatives on payroll without clear roles.
+
+## Using the findings in the deal
+
+- Quantify arrears and unfunded liabilities, and adjust the price or hold back part of it in escrow.
+
+- Ask for specific indemnities for pre-closing labour liabilities.
+
+- Plan retention for key people before signing.
+
+- Workforce changes after the deal: lay-offs, retrenchment or closure in establishments with 300 or more workers need prior government permission.
+
+Related: full due diligence checklist, employee benefits under the Labour Codes, acquiring a company in India, buying out a JV partner.
+
+## Sources
+
+- BDO India: implementation of the Labour Codes (21 November 2025)
+- Ministry of Labour and Employment
+
+## Frequently asked questions
+What should HR due diligence cover in an Indian acquisition?
+Headcount and contracts, PF and ESI payment history, the gratuity liability and its funding, compliance with the Labour Codes in force since 21 November 2025, contract labour and misclassification, registrations, POSH compliance, disputes, and key people and retention.
+
+Why is provident fund important in Indian due diligence?
+Unpaid or underpaid PF attracts interest and damages, and under the Labour Codes PF is calculated on wages that must be at least 50% of total pay. Low-basic salary structures can mean a hidden liability.
+
+Are non-compete clauses enforceable in India?
+Post-employment non-compete clauses are generally unenforceable in India because agreements in restraint of trade are void under the Contract Act. Confidentiality and non-solicitation protections, and restrictions during employment, are treated differently.
+
+Is government permission needed for lay-offs in India after an acquisition?
+For lay-offs, retrenchment or closure in industrial establishments with 300 or more workers, prior government permission is required under the Industrial Relations Code.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/outsourced-accounting-for-singapore-uae-firms/
 ------------------------------------------------------------------------
 Outsourcing · Singapore & UAE
@@ -2271,6 +2363,7 @@ Once you set up an Indian subsidiary, it can buy a standard Indian group policy 
 - BDO India: implementation of the Labour Codes, effective 21 November 2025
 - Upstox: EPFO wage ceiling hiked to Rs 25,000, Gazette notification
 - Remunance: India Labour Codes 2026, employer impact and state rules
+People side of the deal: HR due diligence checklist for India.
 
 ## Frequently asked questions
 What benefits must a foreign company give employees in India?
@@ -9372,6 +9465,7 @@ Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, ta
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
+People side of the deal: HR due diligence checklist for India.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 
 ## Frequently asked questions
@@ -11645,6 +11739,7 @@ Want it run for you? Due diligence in India — financial, tax and FEMA, with SP
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 See also: 13 financial red flags.
 See also: how much it costs.
+People side of the deal: HR due diligence checklist for India.
 
 ## Frequently asked questions
 What documents are needed for due diligence of an Indian company?
@@ -11730,6 +11825,7 @@ Selling or raising from abroad? Vendor (sell-side) due diligence in India.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
+People side of the deal: HR due diligence checklist for India.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
