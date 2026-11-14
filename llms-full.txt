@@ -3062,6 +3062,7 @@ Related: how all AIF categories are taxed, AIF categories explained and setting 
 - TDSMAN: TDS on income from investment fund, section 393 (old 194LBB)
 - Legal500: SEBI amends the AIF Regulations (accredited investors, large value funds)
 - SEBI board paper: proposals for accredited investors (Sep 2025)
+Tax questions? Quick answers on AIF tax: pass-through, TDS, surcharge.
 
 ## Frequently asked questions
 What is the minimum investment in a Category III AIF?
