@@ -74,6 +74,119 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/licensing-technology-brand-to-indian-company/
+------------------------------------------------------------------------
+Licensing · Tax · FEMA · 2026
+
+# Licensing to an Indian partner: how your royalty is taxed and paid
+
+Licensing your technology, brand or software to an Indian company is one of the lightest ways to enter India: no entity, no investment. The questions are how much tax India keeps from each royalty payment, what paperwork cuts that rate, and what your Indian partner must do to pay you.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your licence
+hello@durgeshchavda.com
+
+Key takeaways
+- Indian licensee withholds 20% or the treaty rate (often 10%) on your royalty.
+- Give a TRC, Form 41 and a no-PE declaration to get the treaty rate.
+- No RBI approval or caps; the licensee pays 18% GST under reverse charge.
+
+Quick answer: your Indian licensee can pay royalties abroad without RBI approval or caps. It must withhold Indian tax first: 20% plus surcharge and cess under domestic law, or the lower treaty rate (often 10%, or 10–15% for the US, UK and Canada) if you give a tax residency certificate and Form 41. The licensee separately pays 18% GST under reverse charge; that is its cost, not a deduction from your royalty.
+
+## Withholding rates by country
+
+Licensor resident in | Treaty rate on royalties | Notes | 
+
+United States | 10% / 15% | 10% for equipment rentals and related services; 15% for other royalties | 
+
+United Kingdom | 10% / 15% | Same split as the US | 
+
+Canada | 10% / 15% | Same split as the US | 
+
+Singapore | 10% | Limitation of benefits rules apply | 
+
+UAE | 10% | TRC from the UAE Ministry of Finance | 
+
+Germany | 10% | | 
+
+Netherlands | 10% | | 
+
+Japan | 10% | | 
+
+No treaty, or no documents | 20% + surcharge + cess | Domestic rate for royalties and fees for technical services | 
+
+Treaty rates are applied on the gross royalty, without surcharge or cess. Always check the current treaty text and protocol for your country; see our India–US treaty guide.
+
+## Documents your Indian licensee will ask for
+
+- Tax residency certificate (TRC) from your home tax authority, for the financial year.
+
+- Form 41 (the self-declaration that replaced Form 10F). See our Form 41 guide with a no-PE format.
+
+- No-PE declaration confirming you have no permanent establishment in India.
+
+- PAN, if you have one. Without a PAN, higher withholding can apply unless you give your tax ID, address and TRC.
+
+- The licensee then files Form 145 / Form 146 (formerly 15CA/15CB, with a CA certificate where required) with its bank before remitting.
+
+## What counts as royalty
+
+- Patents, know-how, designs, processes, trademarks and brand use.
+
+- Technical services that come with the licence can be taxed as royalty or fees for technical services.
+
+- Software: in Engineering Analysis (2 March 2021) India’s Supreme Court held that payments for end-user software licences, without the right to copy or modify the code, are not royalty under tax treaties. Distribution and SaaS arrangements need a case-by-case review.
+
+## What your Indian partner handles
+
+Area | What applies | 
+
+FEMA | Royalty, technical know-how and trademark payments are current account transactions: no RBI approval and no percentage cap. Payment goes through the licensee’s bank with the agreement and invoices. | 
+
+GST | The licensee pays 18% GST under reverse charge on the imported service and can usually claim it back as input credit. | 
+
+Stamp duty | The licence agreement is stamped under the law of the Indian state where it is executed or brought in. | 
+
+Transfer pricing | If the licensee is your subsidiary or otherwise related, the royalty must be at arm’s length and reported in its transfer pricing report. See transfer pricing. | 
+
+## Protect the licence before you sign
+
+- Register your trademark in India first; Indian trademark rights depend heavily on registration and use.
+
+- Check the licensee: ownership, financials, litigation and whether it can actually pay. See company verification.
+
+- Audit rights on sales figures, minimum royalties and termination for non-payment.
+
+- Gross-up clause: state whether royalties are net of Indian tax; most licensors agree a gross figure and claim a foreign tax credit at home.
+
+Related: appointing a distributor in India, contract manufacturing in India, India tax for foreign companies.
+
+## Sources
+
+- Income Tax Department: tax treaties (DTAA)
+- RBI: Master Direction on liberalised current account transactions
+- Supreme Court: Engineering Analysis Centre of Excellence v CIT (2021)
+
+## Frequently asked questions
+How much tax does India withhold on royalties paid to a foreign company?
+Under domestic law, 20% plus surcharge and cess. If the licensor gives a tax residency certificate and Form 41, the lower treaty rate applies, often 10%, or 10% to 15% for the US, UK and Canada.
+
+Does an Indian company need RBI approval to pay royalties abroad?
+No. Royalty, technical know-how and trademark payments are current account transactions and can be remitted without RBI approval or a percentage cap, through the company's bank with the agreement and invoices.
+
+Who pays GST on royalties paid by an Indian company to a foreign licensor?
+The Indian licensee pays 18% GST under the reverse charge mechanism on the imported service. It is not deducted from the foreign licensor's royalty, and the licensee can usually claim input tax credit.
+
+Are software licence fees royalty in India?
+Not always. In Engineering Analysis (2021) the Supreme Court held that end-user software licence fees, where the buyer gets no right to copy or modify the code, are not royalty under tax treaties. Other software arrangements need a case-by-case review.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/deferred-consideration-escrow-earn-out-india/
 ------------------------------------------------------------------------
 Acquisitions · FEMA · 2026
@@ -10140,6 +10253,7 @@ Selling online services to Indian consumers or unregistered businesses? You like
 Related: tax notices and representation · paying Indian freelancers.
 Paying a parent in Japan? India–Japan withholding tax and the 10% treaty rate.
 Selling software to India? when Indian buyers deduct TDS.
+Licensing instead of selling? How royalties from India are taxed and paid.
 
 ## Frequently asked questions
 Why is my Indian customer deducting tax from my invoice?
@@ -12540,6 +12654,7 @@ We can prepare this pack for you — India tax for foreign companies.
 
 - Income Tax Department — Form 41 FAQs
 - Income Tax Department — Form 41 note
+Licensing instead of selling? How royalties from India are taxed and paid.
 
 ## Frequently asked questions
 Is Form 41 the same as Form 10F?
