@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-take-over-parents-business-india/
+------------------------------------------------------------------------
+NRI · Family business · FEMA · 2026
+
+# An NRI taking over a parent’s business: four ways to do it
+
+A common question from NRIs: a parent has run a sole proprietorship in India for years, wants to step back, and the child abroad wants to take it over, often along with the parent’s savings. The first thing to know is that a proprietorship can’t simply be handed over as an entity. Here are the four routes that work, and what each one means for exchange control, GST and tax.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan the takeover
+hello@durgeshchavda.com
+
+Key takeaways
+- A proprietorship can't be handed over as an entity; assets must move.
+- NRI as proprietor: non-repatriation only. Company or LLP: profits can go abroad.
+- Cash gift to NRO is tax-free for the child; keep a gift deed.
+
+Quick answer: a sole proprietorship is not a separate legal entity; it is the parent. So the business assets have to move either to the NRI personally (as the new proprietor, allowed only on a non-repatriation basis and not in agriculture, plantation, real estate or print media) or into a company or LLP that the NRI owns. A company or LLP is usually better if the NRI wants limited liability and the ability to send profits abroad. Cash can be gifted to the NRI’s NRO account; a gift from a parent is not taxed in the child’s hands.
+
+## The four routes compared
+
+Route | How it works | Good for | Watch-outs | 
+
+1. NRI becomes the proprietor | Parent closes the proprietorship; the NRI starts their own and receives or buys the business assets | Small businesses the NRI can run locally | Non-repatriation only; sector exclusions; unlimited personal liability; new GST registration and bank account | 
+
+2. New private limited company owned by the NRI | NRI incorporates a company (FDI under the automatic route where the sector allows); the company buys the business as a going concern | Growing businesses; profits to be repatriated | Parent pays capital gains on the sale; FC-GPR reporting; FEMA pricing; at least one director resident in India | 
+
+3. LLP owned by the NRI | Same as route 2, using an LLP (automatic route only in 100% automatic sectors without FDI-linked conditions) | Lighter compliance than a company | A resident designated partner is needed; check the sector | 
+
+4. Convert the proprietorship into a company, then pass shares | Parent vests the business in a new company for shares, then transfers shares to the child over time | Avoiding tax on the business transfer itself | Tax-neutral only if the parent keeps 50%+ of the voting power for 5 years; a gift of shares from a resident to a non-resident needs prior RBI approval, with value limits | 
+
+## Typical steps for route 2 (company owned by the NRI)
+
+- Check the sector: FDI route and any cap, and whether the business has licences that must be re-issued.
+
+- Value the business (going concern) and agree the price with the parent.
+
+- Incorporate the company; the NRI subscribes for shares from abroad or from an NRE/FCNR account; report the inflow in Form FC-GPR.
+
+- Sign a business transfer agreement: assets, stock, contracts, employees and liabilities move to the company.
+
+- GST: the transfer of a going concern is exempt; the company takes its own GST registration, and unused input tax credit moves across through Form ITC-02.
+
+- Close the parent’s proprietorship registrations once customers, suppliers and bank arrangements have moved.
+
+## Moving the parent’s cash and mutual funds
+
+Asset | How it moves | Tax | 
+
+Cash | Gift to the NRI’s NRO account (rupee gift to a relative within the LRS limit of USD 250,000 a year). From NRO, up to USD 1 million a financial year can be sent abroad with Forms 145/146. | No tax for the child on a gift from a parent; keep a gift deed | 
+
+Mutual funds | Many funds don’t allow units to be transferred between holders. Usually the parent redeems and gifts the cash, or the units pass by transmission later. | Parent pays capital gains on redemption; the child’s own fund holdings need NRI KYC and FATCA updates | 
+
+Business assets | By gift (route 1) or sale to the NRI’s company (routes 2 and 3) | A gift isn’t taxed as a capital gain for the parent; a sale is | 
+
+More on gifts: gifts from parents in India to an NRI child and transferring an inheritance abroad.
+
+## Questions to settle first
+
+- Who will run the business day to day in India?
+
+- Will profits stay in India, or be sent abroad? (This usually decides between route 1 and routes 2 to 4.)
+
+- Are there loans, GST dues or disputes in the proprietorship?
+
+- Is the NRI an Indian citizen or an OCI, and how many days a year do they spend in India? That decides their residential status.
+
+Related: LLP vs private limited company, NRI taxation guide, NRI money transfer service.
+
+## Sources
+
+- RBI: Master Direction on Foreign Investment in India (NRI investment, non-repatriation)
+- RBI: Liberalised Remittance Scheme FAQs
+- CBIC: GST law (CGST Act, section 18)
+
+## Frequently asked questions
+Can an NRI take over a sole proprietorship in India?
+A proprietorship can't be transferred as an entity because it is the owner personally. An NRI can start their own proprietorship and take over the business assets, but only on a non-repatriation basis and not in agriculture, plantation, real estate business or print media. Many NRIs instead set up a company or LLP that buys the business.
+
+Is a gift from a parent in India taxable for an NRI child?
+No. Gifts from relatives, including parents, are not taxable in the recipient's hands. The parent can credit a rupee gift to the NRI's NRO account within the LRS limit, and the NRI can send up to USD 1 million a financial year abroad from NRO with Forms 145 and 146.
+
+Can a proprietorship be converted into a company tax-free?
+Yes, if all the business assets and liabilities move to the company, the proprietor receives only shares, and the proprietor keeps at least 50% of the voting power for five years. Transferring those shares to a child sooner can lose the exemption.
+
+Does GST apply when a business is transferred to a family member's company?
+The transfer of a business as a going concern is exempt from GST. The new owner needs its own GST registration, and unused input tax credit can be transferred through Form ITC-02.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/geo-services/
 ------------------------------------------------------------------------
 GEO · AI search
@@ -3345,6 +3440,7 @@ Related: TCS on foreign remittances, the TCS calculator and the transfer checker
 - RBI: FAQs on the Liberalised Remittance Scheme
 - IRS: About Form 3520
 - GOV.UK: Tax on foreign income
+Family business in India? How an NRI can take over a parent’s business.
 
 ## Frequently asked questions
 How much money can parents in India send to their child abroad?
@@ -11536,6 +11632,7 @@ Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 New NRI in the UAE? start with this checklist.
 Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
 Moving money abroad? NRI money transfer help and the free transfer checker.
+Family business in India? How an NRI can take over a parent’s business.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
 
@@ -13124,6 +13221,7 @@ Living in the UK? NRIs in the UK: Indian tax and UK tax.
 Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
 Shares and mutual funds in India? Demat and mutual funds after becoming an NRI.
+Family business in India? How an NRI can take over a parent’s business.
 
 ## Frequently asked questions
 Do NRIs have to pay tax in India?
