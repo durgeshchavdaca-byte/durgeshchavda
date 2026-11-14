@@ -74,6 +74,112 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/deferred-consideration-escrow-earn-out-india/
+------------------------------------------------------------------------
+Acquisitions · FEMA · 2026
+
+# Holdbacks, escrow and earn-outs: FEMA’s 25% and 18-month rule
+
+Foreign buyers of Indian companies usually want to hold back part of the price until warranties are tested or targets are met. Indian exchange control allows this, but only within fixed limits. Here is what the rule says, how earn-outs fit, and how deals are structured around it.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Structure your deal
+hello@durgeshchavda.com
+
+Key takeaways
+- Up to 25% of the price can be deferred, escrowed or indemnified.
+- 18 months from the agreement (deferral, escrow) or from full payment (indemnity).
+- Earn-outs count toward the 25%; the final price must meet pricing guidelines.
+
+Quick answer: when shares move between an Indian resident and a non-resident, up to 25% of the total price can be (1) paid later, within 18 months of the transfer agreement, (2) kept in an escrow for up to 18 months from the transfer agreement, or (3) indemnified by the seller for up to 18 months after the full price is paid. The final price paid must still meet India’s pricing guidelines. Earn-outs are generally treated as deferred price, so they must fit inside the same 25% and 18-month limits.
+
+## The rule in one table
+
+Mechanism | Limit on amount | Time limit | Clock starts | 
+
+Deferred payment by the buyer | Up to 25% of total consideration, across all three | 18 months | Date of the transfer agreement | 
+
+Escrow between buyer and seller | 18 months | Date of the transfer agreement | 
+
+Indemnity by the seller | 18 months | Date the full consideration is paid | 
+
+Source: Rule 9(6) of the Foreign Exchange Management (Non-Debt Instruments) Rules, 2019. The draft Foreign Investment Rules, 2026 would replace these rules, but until they are notified, Rule 9(6) is the rule that applies.
+
+## When it applies
+
+- A foreign company or individual buys shares of an Indian company from Indian residents (the common case).
+
+- A foreign investor sells Indian shares to Indian residents, for example on exit or when buying out a JV partner in reverse.
+
+- It covers transfers of existing shares. Fresh issue of shares by the company is different: the full subscription money must come in before shares are issued within 60 days.
+
+## Earn-outs
+
+An earn-out pays part of the price later if the business hits targets. Under FEMA this is deferred consideration, so in practice:
+
+- The earn-out plus any other holdback or escrow should not exceed 25% of the total price, and should be settled within 18 months of the transfer agreement.
+
+- The total price, including the earn-out actually paid, must stay within the pricing guidelines: when a non-resident buys from a resident, not below fair value; when a non-resident sells to a resident, not above it. Get a valuation that supports the maximum earn-out.
+
+- Longer or larger earn-outs are usually restructured: a staged acquisition (buy 51% now, the rest later at a formula price that meets the pricing rules), management bonuses paid through payroll instead of price, or approval where needed.
+
+## Worked example
+
+Item | USD | 
+
+Total price for 100% of an Indian company | 10,000,000 | 
+
+Paid at closing | 7,500,000 | 
+
+Escrow for warranty claims, released at month 12 | 1,000,000 | 
+
+Earn-out on FY revenue target, paid by month 18 | 1,500,000 | 
+
+Total deferred or held back (25% cap) | 2,500,000 | 
+
+This fits: 25% of the price, settled within 18 months. Raising the earn-out to USD 2,000,000 would take the deferred share to 30% and break the limit, unless the closing payment rises to match.
+
+## Practical points
+
+- Write it in the share purchase agreement. The deferral, escrow or indemnity terms belong in the transfer agreement itself.
+
+- Escrow agent. Use an Indian authorised dealer bank as escrow agent; agree release triggers and what happens to interest.
+
+- Reporting. The transfer is reported in Form FC-TRS through the AD bank. Confirm with the bank how deferred tranches will be reported before signing.
+
+- Tax withholding. When the seller is a non-resident, the buyer withholds Indian tax on the capital gain. When the seller is resident and the buyer foreign, check the seller’s capital gains position and any withholding on purchase. Agree who bears tax on deferred amounts, and how contingent amounts are treated, with your tax adviser.
+
+- Price adjustments. Working-capital or net-debt adjustments after closing are common; settle them within the same 18-month window and keep the final price within the pricing guidelines.
+
+- Diligence first. A holdback is only as good as the diligence behind it. Use due diligence findings to size the escrow and the specific indemnities.
+
+Related: acquiring a company in India, joint ventures in India, HR due diligence.
+
+## Sources
+
+- RBI: Master Direction on Foreign Investment in India
+- RBI: FEMA notifications
+
+## Frequently asked questions
+Can a foreign buyer pay part of the price for Indian shares later?
+Yes. Under Rule 9(6) of the FEMA Non-Debt Instruments Rules, up to 25% of the total consideration can be paid on a deferred basis within 18 months of the transfer agreement, kept in escrow for up to 18 months, or indemnified by the seller for up to 18 months after full payment. The final price must meet the pricing guidelines.
+
+Are earn-outs allowed when a foreign company buys an Indian company?
+Generally yes, as deferred consideration, but the earn-out plus any other deferred amount should stay within 25% of the total price and be settled within 18 months, and the total price paid must comply with the pricing guidelines. Larger or longer earn-outs are usually restructured as staged acquisitions.
+
+Is the 25% limit separate for escrow and deferred payment?
+No. Rule 9(6) lets an amount of up to 25% of the total consideration be deferred, put in escrow or indemnified, so the three mechanisms share one 25% limit.
+
+When does the 18-month period start?
+For deferred payment and escrow, from the date of the transfer agreement. For an indemnity by the seller, from the date the full consideration has been paid.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/csr-amendment-rules-2026/
 ------------------------------------------------------------------------
 Company law · CSR · 2026
@@ -2666,6 +2772,7 @@ Related: setting up a joint venture in India, acquiring a company in India, FC-T
 
 - RBI: Master Direction, Foreign Investment in India
 - Aviva: agreement to purchase the remaining 26% stake in its India joint venture
+Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
 
 ## Frequently asked questions
 Can a foreign company buy out its Indian joint venture partner?
@@ -8841,6 +8948,7 @@ Most Indian partners are family-run: partnering with an Indian family business.
 Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, tax and diligence.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
+Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
 
 ## Frequently asked questions
 Can a foreign company form a joint venture in India?
@@ -11938,6 +12046,7 @@ Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, ta
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 People side of the deal: HR due diligence checklist for India.
+Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
