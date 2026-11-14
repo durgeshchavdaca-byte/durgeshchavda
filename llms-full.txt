@@ -74,6 +74,107 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/foreign-investor-stake-indian-listed-company/
+------------------------------------------------------------------------
+Listed companies · SEBI · FEMA · 2026
+
+# Buying into an Indian listed company: the 10% and 25% lines
+
+Foreign groups are taking strategic stakes in Indian listed companies through preferential allotments, block deals and promoter buy-outs. Two numbers decide most of the structure: 10%, where portfolio investment becomes FDI, and 25%, where SEBI requires an open offer to all shareholders.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your stake
+hello@durgeshchavda.com
+
+Key takeaways
+- Below 10% is FPI; 10% or more is FDI.
+- 25% or control triggers an open offer for at least 26% more.
+- Disclose at 5%; check land-border and CCI approvals.
+
+Quick answer: below 10% a foreign investor usually buys as a foreign portfolio investor (FPI); at 10% or more the holding is treated as FDI. Reaching 25% of voting rights, or acquiring control, triggers a mandatory open offer under SEBI’s Takeover Regulations for at least 26% more shares. Disclosures start at 5%. Investors from countries sharing a land border with India need government approval, and large deals may need CCI approval.
+
+## The thresholds that matter
+
+Holding | What happens | Rule | 
+
+5% | Disclose to the company and stock exchanges within 2 working days; then every change of 2% or more | SEBI SAST Reg 29 | 
+
+Below 10% | Usually held as an FPI (or, since June 2026, by foreign individuals directly) | FEMA NDI Rules | 
+
+10% or more | Treated as FDI: an FPI crossing 10% must sell down within 5 trading days or reclassify the holding as FDI | FEMA NDI Rules, SEBI FPI Regulations | 
+
+25% | Mandatory open offer to public shareholders for at least 26% of the shares | SAST Reg 3(1), Reg 7 | 
+
+25% to 75% | Buying more than 5% in a financial year triggers another open offer (creeping acquisition) | SAST Reg 3(2) | 
+
+Control at any level | Acquiring control, for example board or management rights, triggers an open offer | SAST Reg 4 | 
+
+Above 75% | Minimum public shareholding breached: sell down within the time allowed, or delist | Securities Contracts (Regulation) Rules | 
+
+## Ways to buy in
+
+Route | How it works | Watch for | 
+
+Preferential allotment | The company issues new shares to you with shareholder approval | Floor price is the higher of the 90- and 10-trading-day volume-weighted average (for frequently traded shares); lock-in on the shares; FC-GPR reporting | 
+
+Buy from promoters (share purchase agreement) | Negotiated purchase, often with control | Open offer price must be at least the negotiated price and other SEBI benchmarks; FC-TRS reporting | 
+
+Block or bulk deal on the exchange | Market purchase of a large block | Disclosure thresholds; FPI vs FDI classification | 
+
+Combination | Preferential allotment plus SPA plus open offer | Sequencing so the open offer is triggered once, and funded | 
+
+## How an open offer works
+
+- Size: at least 26% of the company’s total shares, so a buyer at 25% may end up at 51% or more if shareholders tender.
+
+- Price: the highest of several benchmarks, including the negotiated price, the buyerthe highest price paid by the buyer in the previous 52 weeks, and the 60-trading-dayrsquo;s average price over the previous 52 weeks, the highest price it paid in the previous 26 weeks, and the 60-trading-day volume-weighted average market price.
+
+- Escrow: the buyer deposits a percentage of the offer size in escrow before the offer opens.
+
+- Timeline: public announcement, detailed public statement, letter of offer, tendering period and payment, usually over two to three months.
+
+- Public shareholding: if the offer pushes the buyer above 75%, plan how to restore public shareholding.
+
+## Approvals and checks
+
+- Sector caps and routes: some sectors have FDI caps or need government approval. See FDI updates for 2026.
+
+- Land-border countries: investors from, or ultimately owned in, countries sharing a land border with India need government approval. See Press Note 2 of 2026.
+
+- Competition Commission: combinations above the asset and turnover thresholds, or with deal value over Rs 2,000 crore where the target has substantial business in India, need CCI approval before closing.
+
+- Due diligence: listed companies publish a lot, but related-party dealings, contingent liabilities, pledges of promoter shares and group-company exposure still need checking. See our due diligence checklist.
+
+- Insider trading rules: information received during diligence can be unpublished price-sensitive information; use proper confidentiality and cleansing.
+
+Related: how foreigners invest in the Indian stock market, acquiring a company in India, deferred payment and earn-outs.
+
+## Sources
+
+- SEBI: Substantial Acquisition of Shares and Takeovers Regulations, 2011
+- SEBI: Issue of Capital and Disclosure Requirements Regulations, 2018
+- RBI: Master Direction on Foreign Investment in India
+
+## Frequently asked questions
+When does a foreign investor need to make an open offer in India?
+When it acquires 25% or more of the voting rights of an Indian listed company, acquires control, or, if it already holds 25% or more, buys more than 5% in a financial year. The open offer must be for at least 26% of the company's shares.
+
+Can a foreign company hold more than 10% of an Indian listed company as an FPI?
+No. An FPI's holding must stay below 10% of the company's paid-up capital. If it crosses 10%, it must sell down within five trading days or have the holding reclassified as FDI.
+
+How is the price set for a preferential allotment to a foreign investor?
+For frequently traded shares, the floor price is the higher of the 90-trading-day and 10-trading-day volume-weighted average prices under SEBI's ICDR Regulations. FEMA pricing rules also apply, and the shares are locked in for a period.
+
+Does a foreign stake in an Indian listed company need government approval?
+Not usually, if the sector is under the automatic route and within the cap. Investors from countries that share a land border with India need government approval, and large deals may also need Competition Commission approval.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/eu-supply-chain-due-diligence-indian-suppliers/
 ------------------------------------------------------------------------
 Supply chain · Europe · 2026
@@ -8475,6 +8576,7 @@ Doing a deal now? Partner due diligence · financial due diligence · doing busi
 Related: the US 1% remittance tax.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
+Buying into a listed company? FPI vs FDI, the 25% open offer and preferential allotments.
 
 ## Frequently asked questions
 What changed for foreign investors in India in 2026?
@@ -12263,6 +12365,7 @@ Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% 
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 People side of the deal: HR due diligence checklist for India.
 Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
+Buying into a listed company? FPI vs FDI, the 25% open offer and preferential allotments.
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
@@ -13570,6 +13673,7 @@ Indirect exposure — India ETFs and ADRs listed abroad — needs no Indian regi
 - Taxscan — FEMA NDI rules opened to all individuals resident outside India
 - SEBI — SWAGAT-FI circular (Jan 2026)
 Related: the reverse: Indians investing in US stocks · tax on IPO gains.
+Buying into a listed company? FPI vs FDI, the 25% open offer and preferential allotments.
 
 ## Frequently asked questions
 Can a foreigner invest in the Indian stock market?
