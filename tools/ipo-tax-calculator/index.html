@@ -92,6 +92,14 @@
    "mainEntity": [
     {
      "@type": "Question",
+     "name": "How much tax do I pay on ₹1 lakh IPO profit?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "If you sell within 12 months of allotment, the profit is a short-term capital gain taxed at 20% plus 4% cess, so ₹20,800 on ₹1 lakh (before any surcharge). If you sell after 12 months, long-term gains up to ₹1.25 lakh a year are exempt and the rest is taxed at 12.5% plus cess."
+     }
+    },
+    {
+     "@type": "Question",
      "name": "How much tax do I pay on IPO profit in India?",
      "acceptedAnswer": {
       "@type": "Answer",
@@ -207,7 +215,12 @@ x='<h3>Tax on your IPO gain</h3><div class="big">'+r(tot)+'</div><div class="row
 x+='<p class="note">'+(res==='n'?'NRIs: the broker deducts this tax at source when you sell. If it is more than your final tax (for example, after setting off losses), file an Indian return to claim a refund.':(h==='st'?'Residents whose total income, including this gain, is below the basic exemption limit can reduce the taxable gain by the unused limit. The section 87A rebate does not apply to this gain.':'Pay advance tax on the gain in the quarter you sell, to avoid interest.'))+' Figures are estimates under the rates for FY 2026-27.</p>';
 o.innerHTML=x}
 ['ip_buy','ip_sell','ip_qty','ip_exp','ip_hold','ip_res','ip_sc','ip_olt'].forEach(function(i){$(i).addEventListener('input',calc);$(i).addEventListener('change',calc)});calc()})();
-</script><div class="callout blue"><strong>Got Jio Platforms shares?</strong> <a href="/insights/tax-on-jio-platforms-ipo-profit/">Worked tax examples at the ₹1,358 listing price</a>.</div><h2 id="rules">How IPO gains are taxed (FY 2026-27)</h2>
+</script><div class="callout blue"><strong>Got Jio Platforms shares?</strong> <a href="/insights/tax-on-jio-platforms-ipo-profit/">Worked tax examples at the ₹1,358 listing price</a>.</div><div class="callout"><strong>Worked examples (FY 2026-27):</strong><div class="tbl-wrap"><table class="tbl"><tr><th>IPO profit</th><th>Sold</th><th>Tax rate</th><th>Tax payable</th></tr>
+<tr><td>₹50,000</td><td>On listing day</td><td>20% + 4% cess</td><td>₹10,400</td></tr>
+<tr><td>₹1,00,000</td><td>Within 12 months</td><td>20% + 4% cess</td><td>₹20,800</td></tr>
+<tr><td>₹1,00,000</td><td>After 12 months</td><td>12.5% above ₹1.25 lakh</td><td>₹0 (within the ₹1.25 lakh exemption)</td></tr>
+<tr><td>₹3,00,000</td><td>After 12 months</td><td>12.5% on ₹1.75 lakh + 4% cess</td><td>₹22,750</td></tr></table></div>
+Assumes no surcharge and no other long-term gains using the ₹1.25 lakh exemption. Residents whose total income is below the basic exemption limit can set short-term gains against it. Try the <a href="/tools/ipo-tax-calculator/">IPO tax calculator</a>.</div><h2 id="rules">How IPO gains are taxed (FY 2026-27)</h2>
 <div class="tbl-wrap"><table class="tbl"><tr><th>When you sell</th><th>Tax</th><th>Notes</th></tr>
 <tr><td>Within 12 months of allotment (including listing day)</td><td><strong>20%</strong> short-term capital gains</td><td>Plus surcharge (capped at 15%) and 4% cess. Selling on listing day is a delivery sale, not intraday.</td></tr>
 <tr><td>After 12 months</td><td><strong>12.5%</strong> on long-term gains above ₹1.25 lakh a year</td><td>The ₹1.25 lakh exemption is shared across all listed shares and equity funds.</td></tr></table></div>
@@ -215,7 +228,7 @@ o.innerHTML=x}
 <li><strong>Losses:</strong> a short-term loss can be set off against short- or long-term gains; a long-term loss only against long-term gains. Carry forward up to 8 years if you file on time.</li>
 <li><strong>NRIs:</strong> the broker deducts tax at source on the gain. File an Indian return to claim back any excess. See <a href="/insights/can-nri-apply-for-ipo-in-india/">NRIs in IPOs</a>.</li></ul>
 <p>Worked examples and the full rules: <a href="/insights/tax-on-ipo-listing-gains-india/">tax on IPO listing gains in India</a>.</p><p class="related-line">Trading on Diwali? <a href="/insights/muhurat-trading-2026-tax/">Muhurat trading 2026: date, time and tax</a>.</p>
-<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How much tax do I pay on IPO profit in India?</summary><div class="a">If you sell within 12 months of allotment, the gain is short-term and taxed at 20% plus 4% cess (and surcharge if your income is above ₹50 lakh). After 12 months, gains above ₹1.25 lakh a year are taxed at 12.5% plus cess.</div></details><details><summary>Is IPO listing gain taxable if I sell on listing day?</summary><div class="a">Yes. Shares allotted in an IPO and sold on listing day are a delivery sale, so the gain is a short-term capital gain taxed at 20% plus cess, not speculative income.</div></details><details><summary>How much tax on Jio Platforms listing gains?</summary><div class="a">Jio Platforms listed at ₹1,358 against a ₹1,119 issue price. On a 12-share lot sold at the listing price, the gain is ₹2,868 and the tax is about ₹597 (20% plus 4% cess, before any surcharge).</div></details><details><summary>Do NRIs pay tax on IPO gains in India?</summary><div class="a">Yes, at the same rates. The broker deducts the tax at source when the shares are sold; NRIs can file an Indian return to claim back any excess.</div></details></div>
+<h2 id="faq">Frequently asked questions</h2><div class="faq"><details><summary>How much tax do I pay on ₹1 lakh IPO profit?</summary><div class="a">If you sell within 12 months of allotment, the profit is a short-term capital gain taxed at 20% plus 4% cess, so ₹20,800 on ₹1 lakh (before any surcharge). If you sell after 12 months, long-term gains up to ₹1.25 lakh a year are exempt and the rest is taxed at 12.5% plus cess.</div></details><details><summary>How much tax do I pay on IPO profit in India?</summary><div class="a">If you sell within 12 months of allotment, the gain is short-term and taxed at 20% plus 4% cess (and surcharge if your income is above ₹50 lakh). After 12 months, gains above ₹1.25 lakh a year are taxed at 12.5% plus cess.</div></details><details><summary>Is IPO listing gain taxable if I sell on listing day?</summary><div class="a">Yes. Shares allotted in an IPO and sold on listing day are a delivery sale, so the gain is a short-term capital gain taxed at 20% plus cess, not speculative income.</div></details><details><summary>How much tax on Jio Platforms listing gains?</summary><div class="a">Jio Platforms listed at ₹1,358 against a ₹1,119 issue price. On a 12-share lot sold at the listing price, the gain is ₹2,868 and the tax is about ₹597 (20% plus 4% cess, before any surcharge).</div></details><details><summary>Do NRIs pay tax on IPO gains in India?</summary><div class="a">Yes, at the same rates. The broker deducts the tax at source when the shares are sold; NRIs can file an Indian return to claim back any excess.</div></details></div>
 
   </article>
   

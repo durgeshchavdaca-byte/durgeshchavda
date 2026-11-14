@@ -74,6 +74,86 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/geo-services/
+------------------------------------------------------------------------
+GEO · AI search
+
+# GEO services: be the source AI tools recommend
+
+Generative engine optimization (GEO) is the work of making your firm the source that ChatGPT, Perplexity, Gemini and Copilot cite or recommend when a buyer asks for help. It builds on SEO and AEO, and it is measured differently: by how often you are named on a fixed list of buyer prompts.
+
+Book a GEO call
+hello@durgeshchavda.com
+
+Proof, not promises: we use the same method on our own site. In four weeks (6 October to 2 November 2026) weekly Google impressions rose from 1.95k to 16.3k, and the site reached 46k impressions in 28 days. Perplexity cites it first for “how do we get profit out of an India subsidiary”. Read the case study.
+
+## SEO, AEO and GEO compared
+
+| SEO | AEO | GEO | 
+
+Goal | Rank and get the click in Google and Bing | Have your answer lifted into snippets and AI Overviews | Be cited or recommended inside ChatGPT, Perplexity, Gemini and Copilot answers | 
+
+Measured by | Impressions, clicks, position (Search Console) | Snippet and AI Overview appearances, click-through rate | Citation share on a locked list of buyer prompts | 
+
+Main levers | Technical health, content, links | Answer-first pages, structured data, FAQs | Entity consistency, third-party mentions, llms.txt, sourced and dated pages | 
+
+## How we do it
+
+01
+### Prompt list
+We agree 25 to 100 real buyer prompts with you and record who AI tools name today.
+
+02
+### Fix the basics
+AI crawler access, llms.txt, schema, and one consistent description of your firm everywhere.
+
+03
+### Answer-first pages
+Pages that answer each prompt directly, with tables, sources and dates.
+
+04
+### Off-site mentions
+Directories, PR pitches and expert articles, because AI tools trust what others say about you.
+
+05
+### Track monthly
+Every prompt re-checked in each AI tool, with screenshots and a short report.
+
+## How it is measured
+
+- A fixed list of prompts, checked monthly in ChatGPT, Perplexity, Gemini and Google AI Overviews, in clean sessions.
+
+- A citation counts when your site is linked as a source or your firm is named in the answer.
+
+- We report citation share across all checks, because single AI answers vary from session to session.
+
+- Fees can include a bonus linked to citation gains above the starting baseline.
+
+Related: AEO services, AEO audit, what is AEO, free AEO readiness checker.
+
+## Frequently asked questions
+What is GEO (generative engine optimization)?
+GEO is the work of making your business the source that generative AI tools such as ChatGPT, Perplexity, Gemini and Copilot cite or recommend when people ask questions in your field. It covers entity consistency, answer-first content, structured data, AI crawler access and third-party mentions.
+
+How is GEO different from SEO and AEO?
+SEO aims to rank and win clicks in search results. AEO aims to have your answer used in snippets and Google AI Overviews. GEO aims to have AI assistants name or cite you inside their answers, and is measured by citation share on a fixed list of buyer prompts.
+
+How long does GEO take to show results?
+Basic fixes such as crawler access and consistent business information can show up within weeks, as AI tools refresh their sources. Citation gains from new content and third-party mentions usually build over three to six months.
+
+How do you measure GEO results?
+We agree a locked list of buyer prompts, check each one monthly in ChatGPT, Perplexity, Gemini and Google AI Overviews, and report the share of checks where your firm is cited or named, against the starting baseline.
+
+On this page
+
+- What GEO is
+- How we do it
+- How it is measured
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/foreign-investor-stake-indian-listed-company/
 ------------------------------------------------------------------------
 Listed companies · SEBI · FEMA · 2026
@@ -6279,6 +6359,17 @@ Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to d
 Booked a gain this year? Get your capital gains and income tax return handled by a Chartered Accountant. Ask on WhatsApp (first 10 messages free) or book a 30-minute call for ₹499.Ask on WhatsAppBook a call
 
 Got Jio Platforms shares? Worked tax examples at the ₹1,358 listing price.
+Worked examples (FY 2026-27):IPO profit | Sold | Tax rate | Tax payable | 
+
+₹50,000 | On listing day | 20% + 4% cess | ₹10,400 | 
+
+₹1,00,000 | Within 12 months | 20% + 4% cess | ₹20,800 | 
+
+₹1,00,000 | After 12 months | 12.5% above ₹1.25 lakh | ₹0 (within the ₹1.25 lakh exemption) | 
+
+₹3,00,000 | After 12 months | 12.5% on ₹1.75 lakh + 4% cess | ₹22,750 | 
+
+Assumes no surcharge and no other long-term gains using the ₹1.25 lakh exemption. Residents whose total income is below the basic exemption limit can set short-term gains against it. Try the IPO tax calculator.
 
 ## How IPO gains are taxed (FY 2026-27)
 
@@ -6298,6 +6389,9 @@ Worked examples and the full rules: tax on IPO listing gains in India.
 Trading on Diwali? Muhurat trading 2026: date, time and tax.
 
 ## Frequently asked questions
+How much tax do I pay on ₹1 lakh IPO profit?
+If you sell within 12 months of allotment, the profit is a short-term capital gain taxed at 20% plus 4% cess, so ₹20,800 on ₹1 lakh (before any surcharge). If you sell after 12 months, long-term gains up to ₹1.25 lakh a year are exempt and the rest is taxed at 12.5% plus cess.
+
 How much tax do I pay on IPO profit in India?
 If you sell within 12 months of allotment, the gain is short-term and taxed at 20% plus 4% cess (and surcharge if your income is above ₹50 lakh). After 12 months, gains above ₹1.25 lakh a year are taxed at 12.5% plus cess.
 
@@ -9297,6 +9391,7 @@ Book an AEO call
 hello@durgeshchavda.com
 
 Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a free 15-min intro
+Proof, not promises: we use the same method on our own site. In four weeks (6 October to 2 November 2026) weekly Google impressions rose from 1.95k to 16.3k, and the site reached 46k impressions in 28 days. Perplexity cites it first for “how do we get profit out of an India subsidiary”. Read the case study.
 
 ## What AEO is
 Answer engine optimization (AEO) is the work of making your business the source AI assistants quote, cite or recommend when people ask questions in your field. Read the full explainer: What is AEO?
