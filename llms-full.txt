@@ -9820,6 +9820,8 @@ Key takeaways
 - It builds on SEO: crawlable, clear, specific, current and consistent content wins.
 - Measure it by testing your buyers' questions across assistants every month.
 
+Two meanings of AEO: in marketing, AEO means answer engine optimization (this guide). In customs and trade, AEO means Authorised Economic Operator, a trusted-trader status that gives faster customs clearance; in India it is run by CBIC. If you source from or export to India, both may matter to you.
+
 ## AEO in one paragraph
 
 Answer engine optimization (AEO) is the practice of making your content and your business the source that AI assistants and AI search features quote, cite or recommend. It targets ChatGPT, Gemini, Claude, Perplexity, Copilot, Grok, Google’s AI Overviews and AI Mode, and voice assistants.
@@ -9895,6 +9897,9 @@ New research: AI Visibility Index 2026 — how 96 B2B websites score for AI read
 Related: AEO for accounting & CPA firms · AEO for fintech · AEO for SaaS.
 
 ## Frequently asked questions
+What does AEO stand for?
+In digital marketing, AEO stands for answer engine optimization: structuring content so AI assistants and answer engines such as ChatGPT, Gemini, Perplexity and Google AI Overviews can find, trust and quote it. In customs and international trade, AEO stands for Authorised Economic Operator, a trusted-trader certification that speeds up customs clearance.
+
 What is AEO in marketing?
 Answer engine optimization — optimising content and business information so AI assistants and AI search features (ChatGPT, Gemini, Perplexity, Copilot, Google AI Overviews) quote, cite or recommend you when people ask questions.
 
