@@ -74,6 +74,95 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/close-indian-subsidiary-foreign-company/
+------------------------------------------------------------------------
+Exit · Companies Act · FEMA · 2026
+
+# Exiting India: three ways to close or sell an Indian subsidiary
+
+Plans change: a market entry stalls, a JV partner exits, or a group restructures. Closing an Indian private company takes longer than closing a US or UK entity, and the money only leaves India once the paperwork is right. Here are the three routes, when each fits, and the steps for getting funds back to the parent.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your exit
+hello@durgeshchavda.com
+
+Key takeaways
+- Strike-off (STK-2) for dormant, clean companies.
+- Voluntary liquidation (IBC section 59) for solvent companies with assets.
+- Clear tax, GST, staff and FEMA filings before repatriating funds.
+
+Quick answer: a foreign parent can (1) strike off the company by filing Form STK-2 if it has had no business for two financial years and has no liabilities, (2) put a solvent company into voluntary liquidation under section 59 of the Insolvency and Bankruptcy Code, with a liquidator and an NCLT dissolution order, or (3) sell the shares to an Indian or foreign buyer. Before any route: clear tax, GST, employee and creditor dues. Remaining funds are repatriated through the company’s bank under FEMA.
+
+## The three routes
+
+Route | When it fits | How it works | Watch-outs | 
+
+Strike-off (Form STK-2) | Dormant company: no business for the two preceding financial years, or never started; no assets or liabilities left | Board and shareholder approval, indemnity bond, statement of accounts, filed with the Centre for Processing Accelerated Corporate Exit (C-PACE); fee ₹10,000 | Only for clean, inactive companies; directors stay liable for past defaults; any bank balance must be cleared first | 
+
+Voluntary liquidation (IBC section 59) | Solvent company with assets, contracts or staff to wind up | Directors declare solvency, shareholders pass a special resolution, an insolvency professional is appointed liquidator, realises assets, pays creditors, distributes the surplus, and the NCLT orders dissolution | Takes longer and costs more; creditors must be paid in full; the liquidator’s fees and process time | 
+
+Share sale | The business has value to someone else (a JV partner, a competitor, management) | Sell the shares; the company continues under new owners | Sale to an Indian resident must be at or below fair value and reported in Form FC-TRS; buyer withholds tax on the parent’s capital gain | 
+
+## Before you close: the clean-up list
+
+- Tax: file pending income-tax returns, close open assessments and notices, and settle TDS filings.
+
+- GST: file final returns and cancel the GST registration.
+
+- Employees: full and final settlements, gratuity, leave encashment, and closing PF and ESI accounts.
+
+- Contracts and leases: terminate office leases, vendor and customer contracts; collect receivables.
+
+- FEMA: bring overdue filings up to date (FC-GPR, FC-TRS, the annual FLA return), with late fees if needed.
+
+- Intercompany balances: settle or waive loans and payables with the parent, considering the tax effect of any waiver.
+
+- Records: keep books and records for the period the law requires after closure.
+
+## Getting the money out
+
+Money | How it goes back | 
+
+Surplus on liquidation | Remitted to the foreign shareholder through the authorised dealer bank, with the liquidator’s and auditor’s documents and the tax position confirmed | 
+
+Sale proceeds | Paid by the buyer to the foreign seller after tax withholding; FC-TRS filed | 
+
+Loans from the parent | Repaid under the original loan terms before closure | 
+
+Dividends before closure | Paid out of profits with withholding tax at treaty rates; see repatriating profits from India | 
+
+## Branch and liaison offices
+
+A branch, liaison or project office is closed through the authorised dealer bank that approved it: file pending annual activity certificates and tax returns, settle liabilities, and submit the closure documents so the bank can permit the remittance of the remaining funds. See liaison and branch offices.
+
+Related: buying out a JV partner, Indian subsidiary compliance, FEMA and RBI filings.
+
+## Sources
+
+- Companies Act, 2013, section 248 (MCA)
+- Insolvency and Bankruptcy Board of India: voluntary liquidation
+- RBI: Master Direction on Foreign Investment in India
+
+## Frequently asked questions
+How can a foreign company close its Indian subsidiary?
+By striking off the company with Form STK-2 if it has had no business for two financial years and has no liabilities, by voluntary liquidation under section 59 of the Insolvency and Bankruptcy Code if it is solvent but has assets or obligations to wind up, or by selling the shares to a buyer.
+
+What is Form STK-2?
+Form STK-2 is the application to the Registrar of Companies to strike a company's name off the register under section 248(2) of the Companies Act, 2013. It is filed with a fee of Rs 10,000 and processed by the Centre for Processing Accelerated Corporate Exit (C-PACE).
+
+Can the foreign parent repatriate money when an Indian subsidiary is wound up?
+Yes. The surplus after paying all creditors and taxes can be remitted to the foreign shareholder through the authorised dealer bank, with supporting documents such as the liquidator's report, an auditor's certificate and confirmation of the tax position.
+
+Do we need to clear FEMA filings before closing an Indian company?
+Yes. Overdue FC-GPR, FC-TRS and annual FLA filings should be completed, with late submission fees where needed, because the bank will review the investment history before allowing the final remittance.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/permanent-establishment-risk-india/
 ------------------------------------------------------------------------
 Tax · Foreign companies · 2026
@@ -3360,6 +3449,7 @@ Related: setting up a joint venture in India, acquiring a company in India, FC-T
 - RBI: Master Direction, Foreign Investment in India
 - Aviva: agreement to purchase the remaining 26% stake in its India joint venture
 Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
+Leaving India? How to close or exit an Indian subsidiary.
 
 ## Frequently asked questions
 Can a foreign company buy out its Indian joint venture partner?
@@ -10665,6 +10755,7 @@ Guide: 12 warning signs of fraud in your Indian subsidiary.
 Need a director in India? Resident director: the 182-day rule and your options.
 Indian parent of a foreign company? APR and audit rules.
 CSR update: CSR Amendment Rules 2026, the Social Stock Exchange (ZCZP) route.
+Leaving India? How to close or exit an Indian subsidiary.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
@@ -12757,6 +12848,7 @@ Most foreign companies that plan to sell in India choose a subsidiary — it’s
 - RBI Master Direction — branch, liaison and project offices
 - Income Tax Department — Form 162 FAQs
 - Vinod Kothari — RBI draft branch/office regulations (Oct 2025)
+Leaving India? How to close or exit an Indian subsidiary.
 
 ## Frequently asked questions
 What is the difference between a liaison office and a branch office in India?
@@ -12958,6 +13050,7 @@ We handle this for foreign parents — see Indian subsidiary compliance. US pare
 - Income-tax Act, 2025 — section 207 (Taxsutra)
 - Income Tax Department — Form 41 note
 - Vinod Kothari — buyback taxation (Feb 2026)
+Leaving India? How to close or exit an Indian subsidiary.
 
 ## Frequently asked questions
 How much tax is withheld on dividends paid to a foreign parent from India?
