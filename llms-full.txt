@@ -74,6 +74,97 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/management-fees-foreign-parent-indian-subsidiary/
+------------------------------------------------------------------------
+Tax · Transfer pricing · 2026
+
+# Charging your Indian subsidiary: management fees that survive scrutiny
+
+Group companies often recharge their Indian subsidiary for management, IT, HR, finance or brand support. It is a legitimate way to share costs and move money to the parent, but Indian tax officers test these charges closely. Here is how they are taxed, what documents protect the deduction, and where companies get caught.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Review your group charges
+hello@durgeshchavda.com
+
+Key takeaways
+- Withhold 20% or the treaty rate; US/UK/Singapore: make-available test.
+- Document benefit, cost base and mark-up for transfer pricing.
+- Pay 18% GST under reverse charge; credit usually available.
+
+Quick answer: the Indian subsidiary can pay group service fees abroad without RBI approval. It must withhold tax first: 20% plus surcharge and cess for fees for technical services, or the treaty rate. Under the US, UK and Singapore treaties, many routine services are not taxable in India at all unless they “make available” know-how to the subsidiary. The subsidiary also pays 18% GST under reverse charge (usually recoverable), and must prove under transfer pricing that it actually received a benefit at an arm’s-length price.
+
+## How the payment is taxed
+
+Layer | What applies | Who handles it | 
+
+Withholding tax | 20% + surcharge + cess under domestic law for technical or managerial services; lower treaty rate with a TRC and Form 41; nil if the treaty treats the fee as business profits and the parent has no PE in India | Indian subsidiary withholds and files Form 145 / 146 | 
+
+Deduction for the subsidiary | Allowed if the service is real, used for the business, priced at arm’s length, and tax was withheld; disallowed if tax wasn’t withheld | Indian subsidiary | 
+
+Transfer pricing | The charge must pass the benefit test and be at arm’s length; reported in the transfer pricing report | Both, with the parent supplying evidence | 
+
+GST | 18% under reverse charge on services imported from the parent; between related parties, a supply can arise even without consideration; input credit is usually available | Indian subsidiary | 
+
+FEMA | Current account transaction; paid through the bank with the agreement and invoices; no cap | Indian subsidiary’s bank | 
+
+## The “make available” test
+
+Under India’s treaties with the US, UK and Singapore (among others), a fee for technical or consultancy services is taxable in India only if the service makes available technical knowledge, skill, know-how or processes, so that the Indian company can apply it on its own in future. Routine support, such as running group payroll systems, regional management oversight or shared accounting, often doesn’t meet that test. Then the fee is business profits of the parent and is taxed in India only if the parent has a permanent establishment here. Treaties without this clause (many European and Asian treaties) tax such fees at the treaty rate, commonly 10%.
+
+## Passing the benefit test
+
+Keep | Why | 
+
+A written intra-group service agreement | Defines the services, the cost base and the mark-up before the year starts | 
+
+Evidence the services happened | Emails, reports, meeting notes, timesheets and deliverables, by service | 
+
+The allocation key and its logic | Headcount, revenue or usage, applied consistently across group companies | 
+
+A benefit analysis | Why an independent company would pay for this, and that it isn’t a duplicate of work done in India | 
+
+Arm’s-length support | A cost-plus mark-up benchmarked to comparable service providers | 
+
+## Where companies get caught
+
+- Shareholder activities charged as services: group board meetings, investor relations or the parent’s own reporting benefit the parent, not the subsidiary.
+
+- Duplicate services that the Indian team already performs.
+
+- Round-sum charges, such as a fixed percentage of sales, with no cost base or evidence.
+
+- No tax withheld because the parent “is not taxable in India”: the deduction is then disallowed unless the treaty position is documented.
+
+- GST missed on related-party services, which creates interest and penalties even though the credit would have been available.
+
+Related: repatriating profits from India, royalties for technology and brand, India–US transfer pricing, Indian subsidiary compliance.
+
+## Sources
+
+- Income Tax Department: tax treaties (DTAA)
+- CBIC: GST valuation rules and reverse charge
+- OECD Transfer Pricing Guidelines, Chapter VII (intra-group services)
+
+## Frequently asked questions
+Can an Indian subsidiary pay management fees to its foreign parent?
+Yes. Payments for genuine services are current account transactions and can be remitted through the bank without RBI approval or a cap, after withholding Indian tax and filing Forms 145 and 146 where required.
+
+What is the TDS rate on management fees paid to a foreign company?
+Under domestic law, fees for technical or managerial services paid to a non-resident are taxed at 20% plus surcharge and cess. A lower treaty rate applies with a tax residency certificate and Form 41, and under treaties with a make-available clause, routine services may not be taxable in India at all.
+
+What does make available mean in a tax treaty?
+It means the service transfers technical knowledge, skill, know-how or processes so the recipient can apply them independently in future. Under the India-US, India-UK and India-Singapore treaties, technical fees are taxable in India only if this test is met.
+
+Is GST payable on services from a foreign parent to its Indian subsidiary?
+Yes. The Indian subsidiary pays 18% GST under the reverse charge mechanism on imported services, and between related parties a supply can arise even without consideration. The subsidiary can usually claim input tax credit.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/close-indian-subsidiary-foreign-company/
 ------------------------------------------------------------------------
 Exit · Companies Act · FEMA · 2026
@@ -241,6 +332,7 @@ Related: India tax for foreign companies, licensing to an Indian company, joint 
 
 - Income Tax Department: tax treaties (DTAA)
 - CBDT: Significant Economic Presence thresholds (Rule 11UD, 2021)
+Recharging group costs? Management fees from an Indian subsidiary to its parent.
 
 ## Frequently asked questions
 When does a foreign company have a permanent establishment in India?
@@ -10761,6 +10853,7 @@ Need a director in India? Resident director: the 182-day rule and your options.
 Indian parent of a foreign company? APR and audit rules.
 CSR update: CSR Amendment Rules 2026, the Social Stock Exchange (ZCZP) route.
 Leaving India? How to close or exit an Indian subsidiary.
+Recharging group costs? Management fees from an Indian subsidiary to its parent.
 
 ## Frequently asked questions
 What are the annual compliances for an Indian subsidiary of a foreign company?
@@ -13056,6 +13149,7 @@ We handle this for foreign parents — see Indian subsidiary compliance. US pare
 - Income Tax Department — Form 41 note
 - Vinod Kothari — buyback taxation (Feb 2026)
 Leaving India? How to close or exit an Indian subsidiary.
+Recharging group costs? Management fees from an Indian subsidiary to its parent.
 
 ## Frequently asked questions
 How much tax is withheld on dividends paid to a foreign parent from India?
