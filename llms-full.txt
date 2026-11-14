@@ -74,6 +74,104 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/eu-supply-chain-due-diligence-indian-suppliers/
+------------------------------------------------------------------------
+Supply chain · Europe · 2026
+
+# Europe’s supply-chain laws and your Indian suppliers
+
+European companies buying from India now face three sets of rules on human rights and environmental risks in their supply chains: the EU’s due diligence directive (CSDDD), Germany’s Supply Chain Act (LkSG) and the EU ban on products made with forced labour. The first was cut back sharply in 2026, but the other two still bite, and buyers are already asking Indian suppliers for evidence.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your Indian suppliers
+hello@durgeshchavda.com
+
+Key takeaways
+- CSDDD: >5,000 staff and >EUR 1.5bn turnover, from 26 July 2029.
+- LkSG: 1,000+ staff in Germany, in force; annual report being dropped.
+- EU forced labour ban: every product, from 14 December 2027.
+
+Quick answer: the CSDDD now applies only to EU companies or groups with more than 5,000 employees and over €1.5 billion turnover, from 26 July 2029 (Directive (EU) 2026/470). Germany’s LkSG already applies to companies with 1,000+ employees in Germany; it is being amended to drop the annual report, but the due diligence duties stay. The EU Forced Labour Regulation applies to all products on the EU market from 14 December 2027, whatever the company’s size. For Indian suppliers, the practical result is the same: expect questionnaires, codes of conduct, audits and evidence requests.
+
+## The three laws at a glance
+
+Law | Who is covered | From when | What it means for Indian suppliers | 
+
+EU CSDDD (as amended by Omnibus I) | EU companies or groups with >5,000 employees and >€1.5bn net worldwide turnover; some non-EU groups with large EU turnover | 26 July 2029 (national laws by 26 July 2028) | Risk-based checks on direct and indirect suppliers; contract clauses; corrective action plans | 
+
+Germany’s LkSG | Companies with 1,000+ employees in Germany | In force (since 2023; 1,000 threshold since 2024) | Supplier risk analysis, code of conduct, preventive measures and complaints channels; reporting to BAFA being removed | 
+
+EU Forced Labour Regulation (EU) 2024/3015 | Any company placing products on, or exporting from, the EU market | 14 December 2027 | Products made wholly or partly with forced labour can be banned and withdrawn; buyers need traceability | 
+
+Related rules on specific products: EU deforestation regulation, CBAM for steel and aluminium, and for US buyers, UFLPA traceability.
+
+## What European buyers ask Indian suppliers for
+
+- Signed supplier code of conduct and contract clauses on labour, health and safety, and environment.
+
+- Self-assessment questionnaire covering child labour, forced labour, wages and working hours, freedom of association, discrimination and environmental permits.
+
+- Evidence: factory licences, pollution control board consents, PF and ESI registrations, wage registers, and fire and building safety certificates.
+
+- Sub-supplier map: who supplies your inputs, down to raw material where risk is high (cotton, mica, leather, stone, seafood, metals).
+
+- Grievance channel that workers can actually use, and records of complaints handled.
+
+- Third-party social audits (for example SMETA or SA8000) and corrective action plans.
+
+## How we check an Indian supplier on the ground
+
+Check | What we look at | 
+
+Legal existence and ownership | MCA records, GST registration, directors, beneficial owners, related parties | 
+
+Labour compliance | PF and ESI payment history, contract labour licences, wage levels against state minimum wages, Labour Code compliance | 
+
+Permits | Factory licence, consent to operate from the state pollution control board, fire NOC | 
+
+Site visit | Working conditions, dormitories, age records, passport or ID retention, overtime records | 
+
+Sub-suppliers | Who supplies the inputs, and whether those units are registered and visible | 
+
+Reputation | Litigation, regulator actions, media and NGO reports | 
+
+## Practical tips
+
+- Out of CSDDD scope? Still check. Your large customers may be in scope and will push the requirements down to you, and the forced labour ban applies to every company.
+
+- Prioritise by risk. Focus effort on high-risk sectors and on suppliers you can’t see beyond.
+
+- Help suppliers fix issues. Both the CSDDD and the LkSG prefer corrective action plans to cutting suppliers off.
+
+- Keep evidence. Documented checks are what protect you if a regulator or customer asks.
+
+## Sources
+
+- Directive (EU) 2026/470 (Omnibus I), Official Journal
+- Covington: CSDDD/CSRD Omnibus published in the Official Journal (Feb 2026)
+- DIHK: changes to the German Supply Chain Act
+- European Commission: Forced Labour Regulation
+
+## Frequently asked questions
+Does the EU CSDDD still apply after the 2026 Omnibus?
+Yes, but to far fewer companies. Directive (EU) 2026/470 limits it to EU companies or groups with more than 5,000 employees and over EUR 1.5 billion net worldwide turnover, with compliance from 26 July 2029 and national laws due by 26 July 2028.
+
+Does Germany's LkSG apply to Indian suppliers?
+Not directly. It applies to companies with 1,000 or more employees in Germany, which must assess and address human rights and environmental risks among their suppliers, so Indian suppliers to those companies receive questionnaires, codes of conduct and audit requests.
+
+When does the EU forced labour ban apply?
+The EU Forced Labour Regulation (EU) 2024/3015 applies from 14 December 2027. It covers all products placed on or exported from the EU market, whatever the company's size.
+
+What documents should an Indian supplier prepare for European buyers?
+A signed supplier code of conduct, a self-assessment questionnaire, factory and pollution control licences, PF and ESI registrations, wage records, safety certificates, a sub-supplier map, a working grievance channel and any social audit reports.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/licensing-technology-brand-to-indian-company/
 ------------------------------------------------------------------------
 Licensing · Tax · FEMA · 2026
@@ -1901,6 +1999,7 @@ Related: UFLPA and traceability from Indian suppliers, sourcing from India, Indi
 - Law firm briefing (hlc.com): Commission publishes simplification package ahead of December 2026
 - Mayer Brown: EUDR, what lies ahead in 2026
 Importing steel or aluminium? CBAM and Indian suppliers: the data you need.
+Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
 
 ## Frequently asked questions
 When does the EUDR apply?
@@ -6993,6 +7092,7 @@ We run vendor due diligence for Indian companies preparing for a foreign buyer o
 - Ministry of Corporate Affairs
 Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
 Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
+Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
 
 ## Frequently asked questions
 What is vendor due diligence?
@@ -7443,6 +7543,7 @@ We visit Indian suppliers, collect and test the traceability documents against I
 - U.S. Customs and Border Protection — Uyghur Forced Labor Prevention Act
 - U.S. Department of Homeland Security — UFLPA Entity List
 Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
+Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
 
 ## Frequently asked questions
 Does the UFLPA apply to goods made in India?
@@ -9878,6 +9979,7 @@ Start small: an India Company Check on one Indian company — USD 249, report in
 See also: pricing.
 US importers: UFLPA traceability checklist for Indian suppliers.
 Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
+Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
