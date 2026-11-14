@@ -74,6 +74,104 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/permanent-establishment-risk-india/
+------------------------------------------------------------------------
+Tax · Foreign companies · 2026
+
+# Permanent establishment in India: when your presence becomes taxable
+
+Foreign companies working with Indian partners rarely plan to be taxed in India. But staff visiting for long projects, a local agent who signs deals, or an office used by your team can create a permanent establishment (PE), and then India taxes the profits linked to it. Here is how PE arises under India’s tax treaties, and how to keep the risk under control.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Review your PE risk
+hello@durgeshchavda.com
+
+Key takeaways
+- Fixed place, dependent agent, service (90 days) and project PEs.
+- PE profits taxed at 35% plus surcharge and cess.
+- Keep contracts signed abroad and track people-days in India.
+
+Quick answer: a foreign company has a PE in India if it has a fixed place of business here, a dependent agent who habitually concludes contracts for it, employees providing services in India beyond a treaty time limit (90 days in a 12-month period under the US, UK and Singapore treaties), or a construction or installation project beyond the treaty period. Profits linked to the PE are taxed in India at 35% plus surcharge and cess. Without a treaty, India’s wider domestic test, including Significant Economic Presence, applies.
+
+## The main types of PE
+
+Type | What creates it | Typical trigger | 
+
+Fixed place PE | An office, branch, factory, workshop or other place at your disposal through which business is carried on | A desk or office your staff use regularly; a liaison office that goes beyond liaison work | 
+
+Dependent agent PE | A person in India who habitually concludes contracts, or plays the principal role in concluding them, on your behalf | A “distributor” or sales agent who negotiates and signs in your name | 
+
+Service PE | Your employees or personnel furnishing services in India beyond the treaty limit | Engineers or consultants in India for more than 90 days in 12 months (US, UK, Singapore treaties) | 
+
+Construction or installation PE | A building site, construction, installation or assembly project lasting beyond the treaty period | A long installation or commissioning job at a customer’s plant | 
+
+Significant Economic Presence (domestic law) | Payments from India above ₹2 crore a year, or systematic interaction with 3 lakh or more users in India | Applies only where there is no treaty, or the treaty allows it | 
+
+## Common situations with Indian partners
+
+Arrangement | PE risk | How to manage it | 
+
+Indian distributor buying and reselling in its own name | Low | Keep it a buy-sell model; the distributor sets its own prices and bears its own risk. See appointing a distributor. | 
+
+Commission agent who negotiates and signs for you | High | Contracts concluded and signed outside India; agent limited to marketing and support | 
+
+Staff seconded to an Indian JV or subsidiary | Medium | A proper secondment agreement, the Indian company directing the work and bearing the cost, and transfer pricing support | 
+
+Engineers installing equipment for an Indian customer | Medium to high | Track days per project and per 12 months against the treaty limit; price the services separately | 
+
+Employees working remotely from India | Medium | Limit their authority to conclude contracts; review long stays case by case | 
+
+Indian subsidiary doing work for the parent | Low if priced at arm’s length | A clear service agreement and transfer pricing; a subsidiary is not a PE by itself | 
+
+## If you do have a PE
+
+- Profits attributable to the PE are taxed in India at 35% plus surcharge and cess; the foreign company files an Indian return and may need transfer pricing documentation.
+
+- Payments to you from Indian customers may face higher withholding.
+
+- Back years can be reopened, with interest and penalties.
+
+- Your home country usually gives a foreign tax credit, but the cost of compliance and disputes is real.
+
+## PE risk checklist
+
+- List everyone who works in or travels to India for you, with days per year.
+
+- Check who negotiates and signs contracts with Indian customers, and where.
+
+- Review agent, distributor, secondment and service agreements against what actually happens.
+
+- Check your treaty’s PE article: service PE days, project periods, agent rules.
+
+- Give Indian payers a TRC, Form 41 and a no-PE declaration, but only if it is true.
+
+Related: India tax for foreign companies, licensing to an Indian company, joint ventures in India.
+
+## Sources
+
+- Income Tax Department: tax treaties (DTAA)
+- CBDT: Significant Economic Presence thresholds (Rule 11UD, 2021)
+
+## Frequently asked questions
+When does a foreign company have a permanent establishment in India?
+Under India's tax treaties, typically when it has a fixed place of business in India, a dependent agent who habitually concludes contracts for it, employees providing services in India beyond the treaty time limit, or a construction or installation project beyond the treaty period.
+
+What is the tax rate on a foreign company's PE in India?
+Profits attributable to a permanent establishment are taxed at 35% plus surcharge and health and education cess for a foreign company.
+
+What is a service PE under the India-US treaty?
+Under the India-US treaty, a foreign enterprise furnishing services in India through employees or other personnel for more than 90 days in any 12-month period can have a service PE. Shorter periods can apply where services are provided to a related enterprise.
+
+Does an Indian distributor create a PE for a foreign company?
+Usually not, if the distributor buys and resells in its own name and at its own risk. The risk rises if the distributor or agent habitually negotiates and concludes contracts on the foreign company's behalf.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-take-over-parents-business-india/
 ------------------------------------------------------------------------
 NRI · Family business · FEMA · 2026
@@ -9456,6 +9554,7 @@ Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, ta
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
+People or agents in India? Check your permanent establishment (PE) risk.
 
 ## Frequently asked questions
 Can a foreign company form a joint venture in India?
@@ -10650,6 +10749,7 @@ Related: tax notices and representation · paying Indian freelancers.
 Paying a parent in Japan? India–Japan withholding tax and the 10% treaty rate.
 Selling software to India? when Indian buyers deduct TDS.
 Licensing instead of selling? How royalties from India are taxed and paid.
+People or agents in India? Check your permanent establishment (PE) risk.
 
 ## Frequently asked questions
 Why is my Indian customer deducting tax from my invoice?
@@ -13053,6 +13153,7 @@ We can prepare this pack for you — India tax for foreign companies.
 - Income Tax Department — Form 41 FAQs
 - Income Tax Department — Form 41 note
 Licensing instead of selling? How royalties from India are taxed and paid.
+People or agents in India? Check your permanent establishment (PE) risk.
 
 ## Frequently asked questions
 Is Form 41 the same as Form 10F?
