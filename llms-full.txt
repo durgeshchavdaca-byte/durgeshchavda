@@ -3681,6 +3681,22 @@ Professional tax, Labour Welfare Fund | Depends on the state | Small state levie
 
 - PF ceiling to ₹25,000 (notification S.O. 5109(E), 17 September 2026): more mid-level employees now fall under mandatory PF.
 
+## Hiring from the US, Singapore, the UK or the UAE
+
+The mandatory benefits are the same whatever country the parent company is in. What changes is what your employees expect and how group plans translate to India:
+
+Parent company in | What to plan for in India | 
+
+United States (including Delaware companies) | 401(k) and US health plans don’t cover Indian staff; set up Indian PF, group health insurance and gratuity instead. RSUs or options from the US parent are taxed in India as perquisites when they vest or are exercised, and staff must report foreign shares in Schedule FA. | 
+
+Singapore | CPF doesn’t apply to staff employed in India. Offer PF, group medical cover (often family floater), term life and a clear bonus policy. Singapore holding structures often grant parent equity; plan the India tax and reporting. | 
+
+United Kingdom | UK pensions and private medical cover don’t extend to Indian employees; match the intent with PF, NPS (optional), group health and life cover. | 
+
+UAE | No income tax in the UAE, but Indian employees are taxed in India on their salary; set up TDS on salary and statutory benefits locally. | 
+
+Without an Indian entity, these benefits are usually delivered through an employer of record; with a subsidiary, through your own payroll. For a team build-out, see GCC setup services.
+
 ## What good employers add
 
 - Group health insurance covering the employee’s spouse, children and often parents. Not mandatory, but expected by almost every professional hire.
@@ -3740,6 +3756,15 @@ Once you set up an Indian subsidiary, it can buy a standard Indian group policy 
 People side of the deal: HR due diligence checklist for India.
 
 ## Frequently asked questions
+What benefits should a Singapore company offer employees in India?
+The same statutory benefits as any employer in India: provident fund, ESI for lower earners, gratuity, statutory bonus where it applies, maternity leave and paid leave under state law. Singapore's CPF does not cover staff employed in India, so most Singapore companies add group medical insurance, term life cover and a performance bonus to compete for talent.
+
+How does a US company set up employee benefits for its India subsidiary?
+The Indian subsidiary registers for provident fund and ESI, sets up gratuity (often funded through an insurer), buys group health and life insurance, and runs payroll with TDS. US plans such as 401(k) don't apply, and RSUs from the US parent are taxed in India as perquisites.
+
+Can a Delaware company provide benefits to employees in India without an Indian entity?
+Not directly through Indian statutory schemes, which need an Indian employer. Most Delaware companies use an employer of record in India, which employs the staff and provides PF, ESI, gratuity and insurance, until they set up their own subsidiary.
+
 What benefits must a foreign company give employees in India?
 Provident fund (12% employer contribution, mandatory up to ₹25,000 monthly wages), ESI for employees earning up to ₹21,000 a month, gratuity on leaving, a statutory bonus for lower earners, 26 weeks' maternity leave and paid leave under state law. Group health insurance is not mandatory but is expected.
 
