@@ -3804,6 +3804,8 @@ TDS on payouts | The 10% TDS on investment-fund income applies to Category I and
 
 Separately, SEBI’s 2025 amendments created “Accredited Investors only” schemes, and cut the minimum ticket for large value funds for accredited investors from ₹70 crore to ₹25 crore. These follow their own rules.
 
+Launching a Category III strategy? AIF registration and fund tax support →
+
 ## How Category III is taxed
 
 - No pass-through. The pass-through regime (section 224 of the Income-tax Act, 2025, earlier section 115UB) covers only Category I and II funds. A Category III trust is taxed through its trustee as a representative assessee.
@@ -12554,6 +12556,9 @@ Durgesh has sat on the other side of the table: as Finance Head of Stimuler he l
 Investing in a hedge-style fund? Category III AIF: minimum investment, tax and who can invest.
 
 ## Frequently asked questions
+Who provides AIF registration services in India?
+Fund managers typically work with a chartered accountant or fund adviser for structuring, tax and fund accounting, a merchant banker to file the placement memorandum, and legal counsel for the trust deed and documents. Our team handles structuring, the SEBI application, tax, and post-registration accounting and compliance, coordinating the merchant banker and lawyers.
+
 How do I start a venture capital fund in India?
 Choose between a SEBI-registered Category I AIF (venture capital sub-category) in rupees or a GIFT City venture capital scheme in dollars; set up the sponsor, manager and fund vehicle; register with SEBI or IFSCA; file the placement memorandum; and declare first close within 12 months.
 
