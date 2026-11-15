@@ -74,6 +74,120 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/investor-pitch-deck-checklist-india/
+------------------------------------------------------------------------
+Fundraising · Founders · 2026
+
+# Your investor deck: 12 slides and the numbers behind them
+
+Investors spend a few minutes on a first read of a pitch deck. They want a clear story, real numbers and an ask that makes sense. This checklist covers the slides Indian angels, VCs and family offices expect, how to make the numbers hold up in diligence, and what has to happen legally once an investor says yes.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Get your deck reviewed
+hello@durgeshchavda.com
+
+Key takeaways
+- About 12 slides, from problem to the ask.
+- Deck, model and books must agree before diligence.
+- After yes: valuation report, PAS-3, and FC-GPR for foreign investors.
+
+Quick answer: a strong deck has about 12 slides: problem, solution, why now, market, product, traction, business model, competition, go-to-market, team, financials and the ask (amount, use of funds, runway and milestones). Every number on the slides must match your financial model and your books, because investors check both in due diligence. After a term sheet, Indian law needs a valuation report, a private placement process and, for foreign investors, a FEMA filing.
+
+## The 12 slides
+
+# | Slide | What investors look for | 
+
+1 | Problem | A specific, costly problem for a clearly defined customer | 
+
+2 | Solution | What you do, in one sentence, and why it’s better | 
+
+3 | Why now | The change (regulation, technology, behaviour) that makes this possible today | 
+
+4 | Market | A bottom-up market size: number of customers × what they pay, not just a big top-down number | 
+
+5 | Product | Screenshots or a short demo; what is built and what is planned | 
+
+6 | Traction | Revenue, growth rate, customers, retention, pipeline, with dates | 
+
+7 | Business model | How you make money; unit economics: CAC, contribution margin, payback | 
+
+8 | Competition | Honest comparison and your real edge | 
+
+9 | Go-to-market | Channels that already work, and their cost | 
+
+10 | Team | Why this team wins; key hires planned | 
+
+11 | Financials | 3 to 5 year summary: revenue, gross margin, burn, headcount, tied to the model | 
+
+12 | The ask | Amount, instrument, use of funds, runway in months, milestones to the next round | 
+
+## Make the numbers hold up
+
+- One source of truth: deck, model and accounts must agree. Mismatches are the fastest way to lose trust in diligence.
+
+- Revenue definitions: separate booked, billed and collected revenue; show recurring revenue on its own.
+
+- Cohorts: show retention by monthly or quarterly cohort, not just a total.
+
+- Burn and runway: net monthly burn and months of runway, before and after the round.
+
+- Cap table: fully diluted, including ESOP pool, SAFEs or convertible notes. Try the dilution calculator.
+
+- Valuation logic: know how you justify the pre-money. See the startup valuation calculator.
+
+## Common mistakes
+
+- A top-down market size (“1% of a $50 billion market”) with no customer maths.
+
+- Hockey-stick projections with no link to hiring, spend or past growth.
+
+- No clear ask, or an ask that doesn’t match the milestones.
+
+- Thirty slides of text instead of twelve slides of evidence.
+
+- Hiding competitors, or claiming there are none.
+
+## After an investor says yes
+
+Step | What it involves | 
+
+Term sheet | Valuation, instrument (equity or CCPS), board seat, liquidation preference, anti-dilution, ESOP pool. See the term sheet guide. | 
+
+Due diligence | Financial, tax, legal and secretarial records; clean books matter here | 
+
+Valuation report | Needed for a preferential allotment under the Companies Act; FEMA pricing applies if the investor is foreign. The angel tax was abolished from AY 2025-26, but valuations are still required. | 
+
+Allotment | Shareholder approval, offer letter (PAS-4), private placement record (PAS-5), return of allotment (PAS-3) within 15 days | 
+
+Foreign investor | Report the investment in Form FC-GPR within 30 days of allotment | 
+
+Related: startup funding guide, angel investors in India, early-stage VC funds in India, valuation services.
+
+## Sources
+
+- Ministry of Corporate Affairs: private placement (Companies Act, section 42)
+- RBI: Master Direction on Foreign Investment in India
+
+## Frequently asked questions
+What slides should an investor pitch deck have?
+About 12: problem, solution, why now, market size, product, traction, business model, competition, go-to-market, team, financial summary and the ask, covering the amount, instrument, use of funds, runway and milestones.
+
+How long should a startup pitch deck be?
+Around 10 to 15 slides for the version you send. Keep detailed financials, cohorts and product material in an appendix or data room for investors who ask.
+
+Do Indian startups still need a valuation report after the angel tax was abolished?
+Yes. The angel tax under section 56(2)(viib) was abolished from AY 2025-26, but a registered valuer's report is still needed for a preferential allotment under the Companies Act, and FEMA pricing rules apply when the investor is foreign.
+
+What filings follow an equity round in India?
+Shareholder approval, a private placement offer letter (PAS-4) and record (PAS-5), the return of allotment (PAS-3) within 15 days, and Form FC-GPR within 30 days if a foreign investor subscribed.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/management-fees-foreign-parent-indian-subsidiary/
 ------------------------------------------------------------------------
 Tax · Transfer pricing · 2026
