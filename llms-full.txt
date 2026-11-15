@@ -74,6 +74,102 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/terminate-distributor-agreement-india/
+------------------------------------------------------------------------
+Distribution · Foreign brands · 2026
+
+# Ending or switching your Indian distributor without losing the market
+
+Sales have stalled, payments are late, or you have found a better partner or are opening your own subsidiary. Ending an Indian distribution or agency arrangement is usually simpler than in Europe, but the real traps are practical: licences and product registrations in the distributor’s name, stock in the channel, money owed and customers who follow the old partner. Here is how to plan the exit.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your distributor exit
+hello@durgeshchavda.com
+
+Key takeaways
+- No statutory goodwill indemnity for Indian distributors; the contract decides.
+- Post-termination non-competes are generally void (s.27).
+- Move licences, trademarks and receivables before you serve notice.
+
+Quick answer: India has no statutory goodwill or termination indemnity for distributors, so your contract decides. Follow its notice and termination clauses; if it is silent, give reasonable notice. A terminated distributor can usually claim damages, not an order forcing you to continue. For agents appointed for a fixed period, the Indian Contract Act requires compensation if you end the agency early without sufficient cause. Post-termination non-competes are generally void in India. Before you send notice, secure product registrations and licences held in the distributor’s name, your trademarks, stock and receivables.
+
+## What the law says
+
+Issue | Position in India | 
+
+Goodwill or termination indemnity | None by statute for distributors (unlike EU commercial agent rules); only what the contract provides | 
+
+Notice | As per the contract; if silent, reasonable notice, often judged by the length of the relationship and the investment made | 
+
+Can the distributor force you to continue? | Generally no. Contracts that are terminable by nature are not specifically enforced (Specific Relief Act, s.14), so the remedy is damages | 
+
+Agents appointed for a fixed period | Revoking without sufficient cause requires compensation, and reasonable notice is expected (Indian Contract Act, ss.205 and 206) | 
+
+Non-compete after termination | Generally void as a restraint of trade (Indian Contract Act, s.27); restrictions during the term are usually upheld | 
+
+Exclusivity and pricing controls | Exclusive distribution, refusal to deal and resale price maintenance can breach the Competition Act if they harm competition | 
+
+Switching your Indian distributor? Get an exit plan that protects your licences, stock and receivables, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## The practical traps
+
+Trap | Why it matters | What to do before notice | 
+
+Product registrations in the distributor’s name | BIS registration through an Authorised Indian Representative, CDSCO import licences through an Indian authorised agent, FSSAI and plastic EPR registrations can block imports by a new partner | List every licence, start the change to a new representative or your own entity, and plan for the time it takes | 
+
+Trademarks and online assets | Distributors sometimes register your brand, domain or marketplace storefront locally | Search the Indian trademark register; recover domains, social handles and marketplace brand registry | 
+
+Stock in the channel | Unsold stock and dealers’ stock can be dumped at low prices | Agree a buyback or sell-off period; for returns, GST credit notes need the right paperwork | 
+
+Money owed to you | Leverage drops after termination | Reconcile accounts and get a written acknowledgment of the balance first. See recovering dues | 
+
+Customers and service | Warranty and after-sales obligations continue | Name who services existing customers and tell key accounts directly | 
+
+Staff and data | Distributor staff who know your customers may move to a competitor | Use confidentiality clauses and return-of-data obligations; a post-term non-compete will not hold | 
+
+## A step-by-step exit plan
+
+- Read the contract: term, notice, termination for cause, post-term obligations, governing law and arbitration.
+
+- Audit what the distributor holds: licences, registrations, trademarks, domains, stock, receivables, customer list.
+
+- Line up the replacement: a new distributor (checked first, see partner due diligence), an employer of record, or your own Indian subsidiary.
+
+- Reconcile accounts and agree the balance in writing.
+
+- Serve notice in line with the contract, with a transition plan for stock, customers and service.
+
+- Collect what is owed and close out GST and withholding positions.
+
+Related: appointing a distributor in India, PE risk with Indian agents, joint ventures in India.
+
+## Sources
+
+- Indian Contract Act, 1872 (sections 27, 205, 206)
+- Specific Relief Act, 1963, section 14 (as amended in 2018)
+- Competition Act, 2002, section 3(4)
+- BIS Compulsory Registration Scheme: Authorised Indian Representative
+
+## Frequently asked questions
+Do you have to pay compensation to terminate a distributor in India?
+There is no statutory goodwill or termination indemnity for distributors in India, so compensation depends on the contract. If you terminate without the notice the contract requires, or without reasonable notice where it is silent, the distributor can claim damages.
+
+Can an Indian distributor stop you from appointing a new one?
+Generally not. Contracts that are terminable by nature are not specifically enforced under the Specific Relief Act, so the usual remedy is damages rather than an order to continue the relationship. Exclusivity clauses during the notice period must still be respected.
+
+Is a post-termination non-compete enforceable in India?
+Generally no. Section 27 of the Indian Contract Act makes agreements in restraint of trade void, so a distributor usually cannot be stopped from selling competing products after the contract ends. Confidentiality obligations remain enforceable.
+
+What should a foreign brand do before terminating an Indian distributor?
+Check the contract's notice and termination clauses, move product registrations and licences held in the distributor's name, secure trademarks and online accounts, agree the outstanding balance in writing and plan for stock and customers.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/sending-foreign-employees-to-india-tax/
 ------------------------------------------------------------------------
 Tax · Foreign employers · 2026
@@ -247,6 +343,7 @@ Arbitral award from a New York Convention country notified by India | Apply to a
 ## What we do for you in India
 
 We act as your team on the ground: buyer checks and asset searches, a site visit to confirm the business is operating, a formal demand, settlement talks with the buyer, and working with Indian lawyers when a mediation, IBC notice, arbitration or suit is needed. We also handle the payment side when money is received, so it reaches you cleanly. Related: paying Indian suppliers safely, appointing a distributor in India, partner due diligence.
+Unhappy with your current partner? How to end or switch an Indian distributor.
 
 ## Sources
 
@@ -956,6 +1053,7 @@ Indian subsidiary doing work for the parent | Low if priced at arm’s length | 
 
 Related: India tax for foreign companies, licensing to an Indian company, joint ventures in India.
 Sending your own people to India? Tax, provident fund and secondment rules.
+Unhappy with your current partner? How to end or switch an Indian distributor.
 
 ## Sources
 
@@ -9966,6 +10064,7 @@ In India, the people behind a company matter as much as the company. With your m
 - Optional: a call with your legal, compliance or investment committee.
 
 Already owed money? How to recover dues from an Indian customer.
+Unhappy with your current partner? How to end or switch an Indian distributor.
 
 ## How we work with you abroad
 
