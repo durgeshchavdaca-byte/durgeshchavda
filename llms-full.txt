@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/gcc-setup-services-india/
+------------------------------------------------------------------------
+GCC · Mid-market · 2026
+
+# Your India capability centre, set up and run properly from day one
+
+Global capability centres are no longer just for large multinationals. Mid-sized and private-equity-backed companies now set up teams of 10 to 200 people in India for engineering, finance, analytics and support. The hard part isn’t hiring; it’s getting the entity, tax and compliance right so the centre doesn’t create problems for the parent. That is what we do.
+
+Plan your India team
+hello@durgeshchavda.com
+
+Quick answer: most mid-sized companies start with an employer of record for the first hires, then set up a private limited subsidiary in 6 to 10 weeks. The subsidiary invoices the parent on a cost-plus basis supported by transfer pricing, exports its services GST-free under a LUT, and needs monthly payroll, tax and FEMA compliance. We handle all of it, so your team can focus on hiring and the work.
+
+## Ways to start
+
+Model | Best for | Trade-off | 
+
+Employer of record (EOR) | First 1 to 10 hires, testing the market | Fast, but a monthly fee per employee and less control; watch PE risk | 
+
+Own subsidiary (private limited) | A permanent team of 10+ | Full control and lower cost at scale; needs compliance | 
+
+Build-operate-transfer | Companies that want a partner to run it first | Higher fees; plan the transfer terms carefully | 
+
+Subsidiary in SEZ, STPI or GIFT City | Specific tax or infrastructure needs | Location limits and extra reporting | 
+
+More detail: how to set up a GCC in India and EOR vs subsidiary.
+
+## What we handle
+
+Stage | Our work | 
+
+Set-up | Entity choice, incorporation, PAN/TAN, GST, bank account, FC-GPR for the parent’s investment | 
+
+People | Payroll, PF, ESI, gratuity and Labour Code compliance; employee benefits that work in India | 
+
+Intercompany | Service agreement, cost-plus model and transfer pricing documentation; group charges | 
+
+Tax and GST | LUT for zero-rated exports, GST refund claims, TDS, advance tax, annual returns | 
+
+Finance | Monthly accounts in your group format, reporting to the parent, audit, and a virtual CFO as you grow | 
+
+Risk | Permanent establishment review for the parent; see PE risk | 
+
+## Timeline
+
+01
+### Weeks 1-2
+Structure, city and entity decision; documents from the parent.
+
+02
+### Weeks 2-6
+Incorporation, PAN/TAN, bank account; EOR covers early hires if needed.
+
+03
+### Weeks 6-10
+GST and LUT, payroll live, intercompany agreement and first invoices.
+
+04
+### Ongoing
+Monthly compliance, refunds, reporting and annual audit.
+
+## Tax points that matter
+
+- Transfer pricing: the Indian entity must earn an arm’s-length margin on its costs; India’s safe harbour rules can give certainty for eligible IT and IT-enabled services.
+
+- GST: services to the parent abroad are usually zero-rated exports under a LUT; unused input credit can be refunded, but claims need care.
+
+- PE risk: parent staff directing work from India or signing contracts here can create a taxable presence for the parent.
+
+- Repatriation: profits go back through service fees, dividends or buybacks, each taxed differently; see repatriating profits.
+
+## Frequently asked questions
+How long does it take to set up a GCC in India?
+Incorporating a private limited subsidiary usually takes 6 to 10 weeks including PAN, TAN, bank account and GST registration. Many companies use an employer of record for the first hires while the entity is set up.
+
+Should a mid-sized company use an EOR or its own subsidiary in India?
+An EOR suits the first few hires and market testing. A subsidiary is usually cheaper and gives more control once the team reaches about 10 people or is permanent, but it needs payroll, tax, transfer pricing and FEMA compliance.
+
+How is an Indian GCC taxed?
+The Indian subsidiary is taxed on the arm's-length margin it earns, typically on a cost-plus basis supported by transfer pricing documentation. Its services to the parent are usually zero-rated for GST under a LUT.
+
+Can a GCC in India create tax risk for the parent?
+Yes, if parent employees in India direct the work or conclude contracts there, the parent may have a permanent establishment in India. A clear service agreement and operating model reduce that risk.
+
+On this page
+
+- Ways to start
+- What we handle
+- Timeline
+- Tax points that matter
+- FAQ
+
+Ask Durgesh
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/belated-itr-filing-service/
 ------------------------------------------------------------------------
 Deadline · 31 December 2026
@@ -6541,6 +6636,8 @@ hello@durgeshchavda.com
 
 Busy season coming? Start with a pilot on a few client files and see the quality before you commit.Book a 15-min callEmail us
 
+Planning for the 2027 tax season? Onboarding an offshore team takes three to four weeks for access, security and training. Firms that start in November or December have trained staff ready for January returns. Talk to us this month →
+
 ## What we prepare for US CPA firms
 
 Work | What we prepare | What stays with you | 
@@ -11036,6 +11133,8 @@ Project office | A specific contract in India | Limited to executing that projec
 
 RBI issued draft regulations in October 2025 to simplify how foreign companies open branch and liaison offices; until they are finalised, the existing regulations apply.
 
+Want it done for you? GCC setup services for mid-sized companies →
+
 ## Tax at a glance
 
 - India’s Income-tax Act, 2025 replaced the 1961 Act from 1 April 2026.
@@ -11376,6 +11475,8 @@ Discuss a pilot
 hello@durgeshchavda.com
 
 Busy season coming? Start with a pilot on a few client files and see the quality before you commit.Book a 15-min callEmail us
+
+Planning for the 2027 tax season? Onboarding an offshore team takes three to four weeks for access, security and training. Firms that start in November or December have trained staff ready for January returns. Talk to us this month →
 
 ## What we prepare for US CPA firms
 
@@ -13343,6 +13444,8 @@ Who employs them? | Nobody — a service contract | The EOR, which bills you | Y
 Main risk | Misclassification; PE | PE; EOR seen as a sham if you control everything | Compliance workload | 
 
 Usually fits | Genuinely independent specialists | First hires, market testing | Teams of roughly 10+, or long-term plans | 
+
+Want it done for you? GCC setup services for mid-sized companies →
 
 ## Is an employer of record legal in India?
 
