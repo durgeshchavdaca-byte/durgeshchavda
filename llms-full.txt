@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-15. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-16. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,111 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/indian-customer-not-paying-recover-dues/
+------------------------------------------------------------------------
+Cross-border · Foreign sellers · 2026
+
+# Indian customer not paying? How a foreign company recovers its money
+
+You shipped goods or delivered services, the invoice is overdue, and your Indian customer, distributor or partner has gone quiet. From abroad it is hard to know whether they are short of cash, disputing the bill or simply ignoring you. Here are your real options in India, what each costs in time, and the first steps to take this week.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Recover your dues in India
+hello@durgeshchavda.com
+
+Key takeaways
+- Check the buyer, collect the paper trail and send a formal demand first.
+- IBC route needs an undisputed debt of Rs 1 crore or more.
+- UK, Singapore and UAE judgments execute directly; US judgments need a fresh suit.
+
+Quick answer: start with a check on the buyer (are they solvent, are they still trading, do they have assets) and a formal demand. Then choose the route: negotiated settlement or mediation; an insolvency demand under the IBC if the undisputed debt is ₹1 crore or more; arbitration if your contract has a clause; or a commercial suit in India. A judgment from the UK, Singapore or UAE can be executed in India directly; a US judgment cannot and needs a fresh suit. You generally have 3 years from the due date to sue, and a written acknowledgment of the debt restarts that clock.
+
+## First steps this week
+
+- Collect the paper trail: contract or purchase orders, invoices, shipping documents or bills of lading, delivery proof, emails confirming receipt or promising payment.
+
+- Check the buyer: company status on the MCA register, recent financial filings, charges registered by lenders, GST registration status, pending cases and insolvency proceedings. A buyer already in insolvency changes everything. See how to verify an Indian company.
+
+- Get a written acknowledgment: an email from the buyer accepting the amount owed is valuable evidence and restarts the limitation period.
+
+- Send a formal demand with a clear amount, due date and next step. Many disputes settle at this stage once the buyer sees you are organised and present in India.
+
+- Stop further shipments on credit until there is a payment plan.
+
+Indian customer owes you money? Get your fastest realistic route to payment in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Your options compared
+
+Route | When it fits | Typical time | Watch out for | 
+
+Negotiated settlement or payment plan | Buyer is trading and accepts the debt | Weeks | Get the plan in writing with post-dated payments or security | 
+
+Pre-institution mediation (Commercial Courts Act, s.12A) | Commercial dispute of ₹3 lakh or more where you plan to sue | About 3 to 5 months | Mandatory before a commercial suit unless you need urgent interim relief | 
+
+Insolvency demand (IBC, s.8 and s.9) | Undisputed debt of ₹1 crore or more owed by a company or LLP | Demand notice gives 10 days; admission takes months | Fails if there is a genuine dispute that existed before the notice. It is a pressure tool, not a debt-collection court, and the business may go into insolvency | 
+
+Arbitration | Your contract has an arbitration clause | Often 1 to 2 years | Foreign-seated awards (for example Singapore or London) are enforced in India under the New York Convention rules | 
+
+Commercial suit in India | No arbitration clause, or the buyer disputes the debt | Can take years | Consider summary suit procedure for clear written debts | 
+
+Cheque bounce complaint (NI Act, s.138) | Buyer gave you a cheque that was dishonoured | Notice within 30 days of dishonour; buyer has 15 days to pay | Strict deadlines; strong leverage because it is a criminal offence | 
+
+## Already have a judgment or award abroad?
+
+What you hold | How it works in India | 
+
+Court judgment from a reciprocating territory (for example UK, Singapore, UAE) | Can be executed in an Indian district court as if it were an Indian decree (CPC s.44A) | 
+
+Court judgment from the US or another non-reciprocating country | Not directly executable. File a fresh suit in India based on the judgment, usually within 3 years of it | 
+
+Arbitral award from a New York Convention country notified by India | Apply to an Indian High Court to enforce it; once enforceable, it is executed like a decree | 
+
+## Protecting the next shipment
+
+- Use advance payment, a letter of credit or a bank guarantee for new or weak buyers.
+
+- Put an arbitration clause (seat, rules, language) and an interest clause in every contract.
+
+- Run a company check before giving credit, and repeat it each year for big accounts.
+
+- Ask for security (post-dated cheques, a parent or promoter guarantee) when credit limits grow.
+
+- Consider trade credit insurance in your home market for India receivables.
+
+## What we do for you in India
+
+We act as your team on the ground: buyer checks and asset searches, a site visit to confirm the business is operating, a formal demand, settlement talks with the buyer, and working with Indian lawyers when a mediation, IBC notice, arbitration or suit is needed. We also handle the payment side when money is received, so it reaches you cleanly. Related: paying Indian suppliers safely, appointing a distributor in India, partner due diligence.
+
+## Sources
+
+- Insolvency and Bankruptcy Code, 2016 and MCA notification raising the default threshold to Rs 1 crore (24 March 2020)
+- Commercial Courts Act, 2015 (section 12A pre-institution mediation)
+- Code of Civil Procedure, 1908, section 44A (reciprocating territories)
+- Limitation Act, 1963 (Schedule; section 18 acknowledgment)
+
+## Frequently asked questions
+How can a foreign company recover money from an Indian company?
+Start with a check on the buyer and a formal demand. If that fails, the options are a negotiated settlement or pre-institution mediation, an insolvency demand under the IBC if the undisputed debt is Rs 1 crore or more, arbitration if the contract has an arbitration clause, or a commercial suit in an Indian court.
+
+Can a foreign company file insolvency against an Indian company?
+Yes. A foreign supplier can act as an operational creditor under the Insolvency and Bankruptcy Code. It must send a demand notice, the debt in default must be at least Rs 1 crore, and the application fails if there was a genuine dispute before the notice.
+
+Is a US court judgment enforceable in India?
+Not directly. The US is not a notified reciprocating territory under section 44A of the Code of Civil Procedure, so the creditor must file a fresh suit in India based on the US judgment. Judgments from reciprocating territories such as the UK, Singapore and the UAE can be executed directly.
+
+How long do I have to sue an Indian customer for an unpaid invoice?
+Generally 3 years from the date payment was due under the Limitation Act. A written acknowledgment of the debt signed by the buyer before the period ends starts a fresh 3-year period.
+
+Is mediation mandatory before suing in India?
+For commercial disputes of Rs 3 lakh or more, pre-institution mediation under section 12A of the Commercial Courts Act is mandatory unless the claimant seeks urgent interim relief.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/gcc-setup-services-india/
@@ -9588,6 +9693,8 @@ Red flags | A plain conclusion: proceed, proceed with conditions, or stop |
 
 From Ahmedabad, Mumbai, Bengaluru or Rajkot (other locations by arrangement): premises, activity, capacity and dated photographs. See supplier verification.
 
+Already owed money? How to recover dues from an Indian customer.
+
 ## When you need more
 
 For JVs, investments, large contracts or anti-bribery files, step up to partner due diligence or financial due diligence. See what a full report looks like: sample report.
@@ -9756,6 +9863,8 @@ In India, the people behind a company matter as much as the company. With your m
 - For deals: suggested conditions, warranties and protections for your agreement.
 
 - Optional: a call with your legal, compliance or investment committee.
+
+Already owed money? How to recover dues from an Indian customer.
 
 ## How we work with you abroad
 
@@ -13147,6 +13256,7 @@ For about ₹100 per company (₹50 for an LLP), MCA’s “View Public Document
 ## When to go deeper
 
 For larger contracts, distributorships, JVs or investments, a CA can read the filed accounts properly, reconcile them with GST returns, check tax demands and court records, and interview management. That’s what due diligence in India covers — remotely, in English.
+Already owed money? How to recover dues from an Indian customer.
 
 ## Sources
 
