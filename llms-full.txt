@@ -74,6 +74,104 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/sending-foreign-employees-to-india-tax/
+------------------------------------------------------------------------
+Tax · Foreign employers · 2026
+
+# Sending your people to India: tax, provident fund and secondment rules
+
+Setting up a JV, commissioning a plant, training an Indian distributor or running your new subsidiary usually means sending your own people to India. Their salary can become taxable in India, your company can be drawn into Indian tax, and India’s provident fund can apply to their full salary. Here is what applies for short trips, longer assignments and secondments, under the Income-tax Act, 2025 that took effect on 1 April 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your India assignments
+hello@durgeshchavda.com
+
+Key takeaways
+- Short-stay exemption: foreign employer, 90 days or less, not charged to India.
+- Treaty relief generally under 183 days; secondments usually taxed in India.
+- Provident fund on full salary unless a certificate of coverage applies.
+
+Quick answer: salary for work done in India is taxable in India, wherever it is paid. It is exempt only if a relief applies: the short-stay exemption (foreign citizen, foreign employer with no business in India, 90 days or less in the tax year) or the treaty rule (generally under 183 days, employer not resident in India, cost not borne by an Indian presence). Staff on longer assignments or secondments to an Indian company are usually taxed in India, the arrangement can attract GST and permanent establishment risk, and India’s provident fund applies to the full salary unless the employee holds a certificate of coverage from a country with a social security agreement.
+
+## Which rule applies to your trip
+
+Situation | Indian income tax | Main conditions | 
+
+Short business trip (meetings, audits, negotiations) | Often exempt | Foreign citizen; employer a foreign enterprise not doing business in India; total stay 90 days or less in the tax year; salary not charged to an Indian company | 
+
+Project or training visit of a few months | Exempt under most treaties if conditions met | Generally under 183 days (period wording differs by treaty); employer not resident in India; salary not borne by an Indian branch or PE. Keep a residency certificate (TRC) from home | 
+
+Assignment of 183 days or more, or salary cross-charged to India | Taxable in India | Tax at Indian slab rates (up to 30% plus surcharge and cess); monthly withholding by the Indian entity if it pays or bears the salary; foreign tax credit at home | 
+
+Long-term move (182 days or more in India in a year) | Resident; often “not ordinarily resident” in the first years | As RNOR, foreign income is generally not taxed in India; once ordinarily resident, worldwide income is taxed. See residential status | 
+
+Sending staff to India for a project or secondment? Get the tax, PF and GST position for your plan in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Secondment to an Indian subsidiary or JV: the three risks
+
+- Salary tax: the employee is taxed in India on the India-work salary, even if it is paid abroad. The Indian company withholds tax if it bears the cost.
+
+- GST: when the Indian company reimburses the foreign parent for seconded staff, tax authorities may treat it as an import of manpower services. The Supreme Court took this view for service tax in Northern Operating Systems (2022), and GST under reverse charge can follow.
+
+- PE and withholding: if the seconded staff really work for the foreign parent, or the parent keeps control, the parent may have a permanent establishment in India, and the cross-charge may face withholding as fees for services.
+
+How to manage it: a written secondment agreement, the Indian company directing the work and bearing the cost, Indian payroll or a shadow payroll, and transfer pricing support for any cross-charge.
+
+## Provident fund for foreign employees (“international workers”)
+
+Point | Rule | 
+
+Who is covered | Foreign passport holders working for an Indian establishment covered by provident fund law, including seconded staff on Indian payroll | 
+
+Contribution base | Full salary from the first rupee, with no ₹15,000 wage ceiling (unlike Indian employees). Carried into the EPF Scheme, 2026 from 1 July 2026 | 
+
+How to stay out | A certificate of coverage from the home social security authority, where India has a social security agreement with that country, makes the employee an excluded employee for the covered period | 
+
+Court position | The Karnataka High Court struck the international worker rules down in 2024; the Delhi High Court upheld them in November 2025. Until the Supreme Court settles it, most employers continue full-salary compliance | 
+
+## Before your people travel
+
+- List each traveller with planned days in India per tax year (April to March) and per treaty period.
+
+- Decide who employs and pays them, and whether any cost will be charged to an Indian company.
+
+- Get the right visa: work in India needs an employment visa; a business visa does not allow employment.
+
+- Apply for a certificate of coverage at home if a social security agreement applies.
+
+- For secondments: agreement, payroll or shadow payroll, GST position and transfer pricing.
+
+- Keep travel records, the TRC and Indian tax filings for each assignee.
+
+Related: hiring in India without an entity, employee benefits in India, management fees from an Indian subsidiary.
+
+## Sources
+
+- Income Tax Department: Income-tax Act, 2025, Schedule IV (exempt income of non-residents)
+- EPFO: International Workers brochure
+- Lakshmikumaran & Sridharan: EPF Scheme 2026 and international workers (Sept 2026)
+- Income Tax Department: tax treaties (DTAA)
+
+## Frequently asked questions
+Is a foreign employee's salary taxable in India for a short business trip?
+Salary for work done in India is taxable in India unless a relief applies. A foreign citizen is exempt under the short-stay rule if the employer is a foreign enterprise not doing business in India, the stay is 90 days or less in the tax year and the salary is not charged to an Indian company. Tax treaties usually extend relief to stays under 183 days if the employer is not resident in India and the cost is not borne by an Indian presence.
+
+Do foreign employees in India have to contribute to provident fund?
+Yes, foreign passport holders working for a covered Indian establishment are international workers and contribute on their full salary, with no wage ceiling. They are excluded if they hold a certificate of coverage from a country that has a social security agreement with India.
+
+Does seconding staff to an Indian subsidiary attract GST?
+It can. When the Indian company reimburses the foreign parent for seconded employees, tax authorities may treat it as an import of manpower services, following the Supreme Court's 2022 Northern Operating Systems ruling on service tax, which can bring GST under reverse charge.
+
+When does an expatriate become tax resident in India?
+Generally on spending 182 days or more in India in a tax year. Many expatriates are resident but not ordinarily resident in their first years, so their foreign income is generally not taxed in India; once ordinarily resident, worldwide income is taxed.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/indian-customer-not-paying-recover-dues/
 ------------------------------------------------------------------------
 Cross-border · Foreign sellers · 2026
@@ -666,6 +764,7 @@ Arm’s-length support | A cost-plus mark-up benchmarked to comparable service p
 - GST missed on related-party services, which creates interest and penalties even though the credit would have been available.
 
 Related: repatriating profits from India, royalties for technology and brand, India–US transfer pricing, Indian subsidiary compliance.
+Sending your own people to India? Tax, provident fund and secondment rules.
 
 ## Sources
 
@@ -856,6 +955,7 @@ Indian subsidiary doing work for the parent | Low if priced at arm’s length | 
 - Give Indian payers a TRC, Form 41 and a no-PE declaration, but only if it is true.
 
 Related: India tax for foreign companies, licensing to an Indian company, joint ventures in India.
+Sending your own people to India? Tax, provident fund and secondment rules.
 
 ## Sources
 
@@ -3866,6 +3966,7 @@ Usually not directly. Indian group health policies are issued to an Indian polic
 - Reimbursing individual policies the employees buy themselves, which is administratively simple but less valuable to employees and may be taxable for them.
 
 Once you set up an Indian subsidiary, it can buy a standard Indian group policy directly. Insurance rules change, so confirm the structure with a licensed broker.
+Sending your own people to India? Tax, provident fund and secondment rules.
 
 ## Sources
 
@@ -10327,6 +10428,7 @@ Talking to an Indian JV partner? Get the structure, approvals and red flags to c
 ## Diligence on your partner — before the term sheet
 
 Most JV disputes trace back to something knowable at the start: liabilities in the partner’s existing business, related-party dealings, unreported foreign investment or promoters with a history. Use the partner due-diligence checklist, or have us run it: due diligence on an Indian business partner.
+Sending your own people to India? Tax, provident fund and secondment rules.
 
 ## Sources
 
@@ -13660,6 +13762,7 @@ Usually not directly. Indian group health policies are issued to an Indian polic
 - Reimbursing individual policies the employees buy themselves, which is administratively simple but less valuable to employees and may be taxable for them.
 
 Once you set up an Indian subsidiary, it can buy a standard Indian group policy directly. Insurance rules change, so confirm the structure with a licensed broker.
+Sending your own people to India? Tax, provident fund and secondment rules.
 
 ## Sources
 
