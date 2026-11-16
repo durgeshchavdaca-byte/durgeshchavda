@@ -74,6 +74,112 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/is-this-indian-supplier-legit-red-flags/
+------------------------------------------------------------------------
+Sourcing · Foreign buyers · 2026
+
+# Is this Indian supplier legit? Red flags and the checks you can run today
+
+Most Indian exporters are genuine, but buyers from abroad do get caught by fake companies, borrowed identities, traders posing as factories, and emails that swap the bank account at the last minute. Before you send an advance, run these checks. Most take minutes and use free public registers.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your supplier
+hello@durgeshchavda.com
+
+Key takeaways
+- Same legal name on GST, IEC, company register and bank account.
+- Never act on emailed bank-detail changes without a call.
+- Small first order or letter of credit; site visit for big orders.
+
+Quick answer: check that the exact legal name appears and matches across the supplier’s GST registration (active, returns filed), Import Export Code (IEC), and the company register (MCA) or Udyam registration, and that the bank account is in the same name. Insist on a live video walk-through of the facility, pay a small first order or use a letter of credit, and never act on emailed changes to bank details without calling a number you already had. For larger orders, get an independent site visit before paying.
+
+## 12 red flags
+
+# | Red flag | Why it matters | 
+
+1 | Name on the invoice differs from the GST, IEC or company record | Borrowed or cloned identity | 
+
+2 | Bank account in a personal name or a different company | Money may not be traceable or recoverable | 
+
+3 | Bank details change by email just before payment | Classic email-compromise payment fraud | 
+
+4 | GST registration cancelled, suspended or recently created | Not a trading business, or a short-lived one | 
+
+5 | No IEC, or IEC in another name | An Indian exporter needs an IEC to export | 
+
+6 | Refuses a live video tour or a visit | May be a trader or may not exist | 
+
+7 | Prices far below market | Bait for advances, or poor quality | 
+
+8 | Pressure for 100% advance, or fees for samples, certificates or “registration” | Advance-fee pattern | 
+
+9 | Free email address only, new website, stock photos | Little real footprint | 
+
+10 | Certificates that cannot be verified with the issuer | Forged ISO, quality or test reports | 
+
+11 | Address is a residence or shared office for a “factory” | Trader posing as manufacturer | 
+
+12 | Cases, insolvency or lender charges against the company | Financial stress before you place a big order | 
+
+Unsure about an Indian supplier? Send us the name and get our view on the risks in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Free checks you can do yourself
+
+Register | What to check | 
+
+GST portal: Search Taxpayer (by GSTIN) | Legal and trade name, status (active), registration date, principal place of business, return filing history | 
+
+DGFT: IEC details | That the IEC exists, is active and is in the same name and PAN as the GST record | 
+
+MCA: company or LLP master data | Status (active, not struck off), incorporation date, directors, registered office, charges by lenders | 
+
+Udyam registration (small businesses) | Name, type of activity (manufacturing or services) and address | 
+
+Certificate issuers | Verify ISO and test certificates on the certification body’s own site | 
+
+The GSTIN itself contains the supplier’s PAN (characters 3 to 12), so the same PAN should appear on the IEC. See also how to verify an Indian company and paying Indian suppliers safely.
+
+## Paying safely
+
+- Start with a small trial order; scale up after delivery.
+
+- For larger orders use a letter of credit, or pay the balance against shipping documents.
+
+- Pay only to an account in the supplier’s legal name, confirmed on its letterhead and by phone.
+
+- Use pre-shipment inspection for quality, and an arbitration clause in the contract.
+
+## When to get someone on the ground
+
+For a first order above what you can afford to lose, a long-term supply agreement, a JV or an exclusive distribution deal, desk checks are not enough. An independent visit confirms the facility exists and operates, the capacity is real, the people you deal with are who they say they are, and there is no litigation or financial stress. See supplier verification in India.
+
+## Sources
+
+- GST portal: Search Taxpayer
+- DGFT: IEC profile
+- MCA: company and LLP master data
+- Udyam registration portal
+
+## Frequently asked questions
+How do I check if an Indian supplier is genuine?
+Check that the same legal name appears on its GST registration (active, with returns filed), its Import Export Code and the company register or Udyam registration, and that the bank account is in that name. Ask for a live video tour, start with a small order and, for large orders, arrange an independent site visit.
+
+How can I verify an Indian company's GST number?
+Use Search Taxpayer on the GST portal with the GSTIN. It shows the legal and trade name, registration status, date, principal place of business and return filing history. Characters 3 to 12 of the GSTIN are the business's PAN.
+
+Does an Indian exporter need an IEC?
+Yes. An Importer Exporter Code issued by the DGFT is needed to export goods from India, and it should be in the same name and PAN as the supplier's GST registration.
+
+What should I do if my Indian supplier emails new bank details?
+Do not pay. Call the supplier on a phone number you already had, not one in the email, and confirm the change in writing on letterhead. Last-minute bank changes are a common payment fraud.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/terminate-distributor-agreement-india/
 ------------------------------------------------------------------------
 Distribution · Foreign brands · 2026
@@ -8449,6 +8555,7 @@ The buyer’s view of the same exercise: due diligence checklist · financial re
 ## How we help
 
 We run vendor due diligence for Indian companies preparing for a foreign buyer or investor, fix what can be fixed — FEMA regularisation, GST reconciliations, overdue filings — and help build the data room and answer the buyer’s questions. See fundraising and deal support and FEMA & RBI compliance.
+Quick check first: 12 red flags of a fake or risky Indian supplier.
 
 ## Sources
 
@@ -11379,6 +11486,8 @@ Talk it through first — free. Book a 15-minute intro call with Durgesh to scop
 
 From our offices in Ahmedabad and Rajkot we cover Gujarat’s manufacturing belts — engineering, auto components, castings, ceramics, pharmaceuticals, chemicals and textiles — and from Mumbai and Bengaluru the western and southern hubs. Other locations are covered by arrangement.
 
+Quick check first: 12 red flags of a fake or risky Indian supplier.
+
 ## The report
 
 A written report in English: what we checked, what we found, red flags and a plain-English conclusion. For bigger relationships — distribution, joint ventures, acquisitions — see due diligence in India.
@@ -13490,6 +13599,7 @@ For about ₹100 per company (₹50 for an LLP), MCA’s “View Public Document
 
 For larger contracts, distributorships, JVs or investments, a CA can read the filed accounts properly, reconcile them with GST returns, check tax demands and court records, and interview management. That’s what due diligence in India covers — remotely, in English.
 Already owed money? How to recover dues from an Indian customer.
+Quick check first: 12 red flags of a fake or risky Indian supplier.
 
 ## Sources
 
