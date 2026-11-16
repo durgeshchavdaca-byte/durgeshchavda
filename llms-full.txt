@@ -74,6 +74,97 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nro-to-nre-transfer/
+------------------------------------------------------------------------
+NRI · Money transfer · 2026
+
+# NRO to NRE transfer: how much, which forms, and what the bank needs
+
+Money in an NRO account is not freely repatriable. To move it to your NRE account (or abroad) you need to show it is tax-paid, file a form with the tax department and, above a threshold, get a CA certificate. Here is how it works in 2026, after Forms 15CA and 15CB were renamed Forms 145 and 146.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
+
+Move your NRO money
+hello@durgeshchavda.com
+
+Key takeaways
+- Up to USD 1 million a year from NRO, after tax.
+- Form 145 always; Form 146 CA certificate above Rs 5 lakh a year.
+- Limit is per person per financial year, across all banks.
+
+Quick answer: you can move up to USD 1 million per financial year (April to March) from NRO to NRE or abroad, once tax on the money has been paid. You file Form 145 (formerly 15CA) online. For amounts above ₹5 lakh in a financial year, a chartered accountant’s certificate in Form 146 (formerly 15CB) is generally needed too; below that, Form 145 alone is usually enough, though some banks still ask for the certificate. Current income such as rent, interest, dividends and pension can be repatriated after tax.
+
+## What you can move
+
+Money in NRO from | Can it go to NRE or abroad? | Watch out for | 
+
+Rent, interest, dividends, pension (current income) | Yes, after tax | TDS should already have been deducted; proof of tax needed | 
+
+Sale of property or shares | Yes, within USD 1 million a year | Capital gains tax paid; sale deed and TDS certificate | 
+
+Inheritance, gift from a relative, return of your own money (for example a chit fund or loan repaid to you) | Yes, within USD 1 million a year | Documents showing the source; generally not taxable if it is your own capital coming back | 
+
+Savings from when you were resident | Yes, within USD 1 million a year | Show that the income was taxed when earned | 
+
+Moving money from NRO to NRE or abroad? Get the forms, documents and tax position for your case in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Forms 145 and 146: which you need
+
+Situation | Form 145 (formerly 15CA) | Form 146 (formerly 15CB) CA certificate | 
+
+Total in the financial year up to ₹5 lakh | Yes (short part) | Usually not, though some banks ask for it | 
+
+Above ₹5 lakh | Yes | Yes, unless you have a tax officer’s certificate for the payment | 
+
+Amount not taxable at all (for example your own capital returned) | Yes, declaring it not taxable | Often asked for by banks to confirm the nature of the funds | 
+
+## Step by step
+
+- Collect proof of source: sale deed, rent agreement, interest certificates, gift deed, will or succession papers, or records of the chit fund or loan.
+
+- Check the tax: TDS certificates or tax paid; file your Indian return if the income needed one.
+
+- CA certificate (Form 146) if above ₹5 lakh, or if your bank insists.
+
+- File Form 145 on the income tax portal and note the acknowledgement number.
+
+- Submit to your bank: its transfer request form, Forms 145 and 146, PAN and the source documents.
+
+## Common mistakes
+
+- Splitting one large amount into many transfers below ₹5 lakh. Banks look at the total for the year.
+
+- Leaving the NRO money taxable but unreported. Interest on NRO is taxable in India, unlike NRE interest.
+
+- Assuming the limit is per account. It is per person, per financial year, across all banks.
+
+Related: NRI repatriation from an NRO account, NRE vs NRO vs FCNR, our NRI money transfer service.
+
+## Sources
+
+- RBI: Master Direction, Deposits and Accounts (NRO repatriation)
+- Income Tax Department: Forms 145 and 146 (formerly 15CA/15CB)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Can I transfer money from NRO to NRE account?
+Yes. An NRI can transfer up to USD 1 million per financial year from NRO to NRE or abroad, once tax on the money has been paid. Form 145 is filed online and, for amounts above Rs 5 lakh in a year, a CA certificate in Form 146 is generally needed.
+
+Is Form 15CB needed for NRO to NRE transfer below 5 lakh?
+Generally not. For remittances up to Rs 5 lakh in a financial year, the short part of Form 145 (formerly 15CA) is usually enough without a CA certificate (Form 146, formerly 15CB), though some banks still ask for one.
+
+What is the limit for NRO to NRE transfer?
+USD 1 million per financial year (April to March), per person, across all banks, for NRO balances such as sale proceeds, inheritance and savings, subject to tax. Current income such as rent and interest is repatriable after tax.
+
+Is money returned from a chit fund taxable for an NRI?
+The return of your own contributions is capital and is generally not taxable. Any extra amount received, such as a dividend or discount from the chit, can be taxable income and should be reported.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/demat-shares-foreign-shareholder-indian-company/
 ------------------------------------------------------------------------
 Company law · Foreign shareholders · 2026
@@ -4946,6 +5037,7 @@ Tax comes first: the bank will want to see that Indian tax on the money has been
 
 - NRIs sending money home: NRE vs NRO, buying property, investing, gifts to family.
 
+Moving NRO money to NRE? NRO to NRE transfer: limit, Forms 145/146 and documents.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## What we do
