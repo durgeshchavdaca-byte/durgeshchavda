@@ -74,6 +74,92 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/demat-shares-foreign-shareholder-indian-company/
+------------------------------------------------------------------------
+Company law · Foreign shareholders · 2026
+
+# Foreign shareholder in an Indian private company? Your shares now need to be in demat form
+
+Since 30 June 2025, most Indian private companies must issue shares only in electronic (demat) form, and a shareholder who wants to transfer shares or subscribe to new ones must first convert existing physical shares. Every Indian subsidiary of a foreign company is covered. For a foreign parent or JV partner, that means a demat account in India before your next capital infusion, share transfer or exit.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your shares demat-ready
+hello@durgeshchavda.com
+
+Key takeaways
+- Rule 9B: private companies (not small) demat-only since 30 June 2025.
+- Subsidiaries are never small companies, so foreign groups are covered.
+- Demat your holding before the next capital infusion or transfer.
+
+Quick answer: under Rule 9B of the Companies (Prospectus and Allotment of Securities) Rules, every private company other than a small company had to move to demat by 30 June 2025. A company that is a subsidiary or holding company is never a “small company”, so every Indian subsidiary of a foreign group is covered, with no exemption for wholly owned subsidiaries. The company must have an ISIN, new shares can only be issued in demat form, physical transfers cannot be registered, and a shareholder must dematerialise existing shares before transferring or subscribing. A foreign shareholder therefore needs a demat account with an Indian depository participant.
+
+## What it blocks if your shares are still physical
+
+Transaction | Effect | 
+
+Capital infusion (rights issue, private placement) into your Indian subsidiary | New shares can be allotted only in demat form, and you must first dematerialise your existing holding | 
+
+Selling or transferring shares (exit, JV restructuring, intra-group transfer) | The company cannot register a physical transfer; both holdings must be in demat. The FEMA side still needs Form FC-TRS | 
+
+Bonus or conversion of CCPS or CCDs | Issued only in demat form | 
+
+Buying into an Indian private company | The seller and the company must have demat shares and an ISIN before closing; add it to your due diligence list | 
+
+Foreign parent with physical shares in India? Get your demat steps and timeline before your next capital infusion, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## How a foreign company opens a demat account in India
+
+- Choose a depository participant (DP): a bank or broker registered with NSDL or CDSL that onboards foreign entities.
+
+- Get a PAN for the foreign company if it does not have one (it usually needs one anyway for Indian tax).
+
+- KYC documents: certificate of incorporation, constitutional documents, board resolution authorising the account and signatories, proof of address, and identity documents of the signatories and beneficial owners, usually notarised and apostilled.
+
+- Account type: the DP sets up the account for a foreign direct investor (FDI holding), distinct from portfolio investment accounts.
+
+- Dematerialise: the Indian company (with its registrar, RTA) confirms the ISIN; you submit the physical share certificates through the DP for conversion.
+
+Expect a few weeks end to end, mainly for apostilled documents. Start before you need to infuse capital or sign a share transfer.
+
+## What the Indian company must do
+
+- Appoint a registrar and transfer agent (RTA) and obtain an ISIN for each class of securities.
+
+- Ensure promoters, directors and key managerial personnel hold their securities in demat before any new offer.
+
+- File the half-yearly reconciliation of share capital audit report (Form PAS-6) where applicable.
+
+- Pay depository fees and keep the register of members in line with depository records.
+
+Related: Indian subsidiary compliance, FC-GPR for new share issues, closing an Indian subsidiary, cap tables in India.
+
+## Sources
+
+- MCA: Companies (Prospectus and Allotment of Securities) Second Amendment Rules, 2023 (Rule 9B)
+- JSA Prism: deadline extended to 30 June 2025 (Feb 2025)
+- Vinod Kothari: FAQs on demat by private companies
+- Companies Act, 2013, section 2(85) (small company)
+
+## Frequently asked questions
+Do foreign shareholders of an Indian private company need a demat account?
+Usually yes. Since 30 June 2025, private companies other than small companies must issue securities only in demat form, and a holder must dematerialise existing shares before transferring them or subscribing to new ones. A foreign shareholder needs a demat account with an Indian depository participant.
+
+Is an Indian wholly owned subsidiary of a foreign company exempt from demat rules?
+No. A subsidiary or holding company cannot be a small company under the Companies Act, and Rule 9B has no exemption for wholly owned subsidiaries, so the Indian subsidiary and its foreign parent's holding are covered.
+
+Can a foreign parent invest more in its Indian subsidiary if its shares are physical?
+Not until it converts them. New shares can only be allotted in demat form, and the subscriber must first dematerialise its existing holding under Rule 9B.
+
+What documents does a foreign company need to open a demat account in India?
+Typically a PAN, certificate of incorporation, constitutional documents, a board resolution, proof of address and identity documents of signatories and beneficial owners, usually notarised and apostilled. Requirements vary by depository participant.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/is-this-indian-supplier-legit-red-flags/
 ------------------------------------------------------------------------
 Sourcing · Foreign buyers · 2026
@@ -1057,6 +1143,7 @@ Dividends before closure | Paid out of profits with withholding tax at treaty ra
 A branch, liaison or project office is closed through the authorised dealer bank that approved it: file pending annual activity certificates and tax returns, settle liabilities, and submit the closure documents so the bank can permit the remittance of the remaining funds. See liaison and branch offices.
 
 Related: buying out a JV partner, Indian subsidiary compliance, FEMA and RBI filings.
+Foreign shareholder? Your Indian shares now need to be in demat form.
 
 ## Sources
 
@@ -11796,6 +11883,8 @@ Plus the resident-director requirement: at least one director who stays in India
 
 Dividends, service fees, royalties and interest each carry Indian withholding tax, reduced by your country’s tax treaty with the right paperwork. From 1 April 2026, buybacks are taxed as capital gains in the shareholder’s hands. Full guide: repatriating profits from India.
 
+Foreign shareholder? Your Indian shares now need to be in demat form.
+
 ## How we work with clients abroad
 
 - Fully remote: engagement letter and NDA by e-signature, data through your virtual data room or a shared drive, calls on your time zone (US mornings, Europe and Gulf afternoons, Japan and Singapore mornings IST).
@@ -13802,6 +13891,7 @@ FC-TRS on RBI’s FIRMS portal within 60 days of the transfer or receipt / remit
 ## Before all of this: diligence
 
 Most post-deal surprises in India are unreported FDI, GST mismatches and tax demands — see the due diligence checklist and our due diligence service.
+Foreign shareholder? Your Indian shares now need to be in demat form.
 
 ## Sources
 
