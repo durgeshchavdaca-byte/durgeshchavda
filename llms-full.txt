@@ -10897,17 +10897,49 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 47 questions answered
+# India for NRIs and foreigners: 57 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
-By CA Durgesh Chavda·Last reviewed 12 November 2026·9 min read
+By CA Durgesh Chavda·Last reviewed 16 November 2026·9 min read
 
 Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## For foreign companies working with Indian partners: mid-November 2026
+
+### How can a foreign company recover an unpaid invoice from an Indian customer?
+Check the buyer, get the debt acknowledged in writing and send a formal demand. Then: settlement or mediation (mandatory before a commercial suit of Rs 3 lakh or more), an IBC demand if the undisputed debt is Rs 1 crore or more, arbitration if the contract has a clause, or a suit. You generally have 3 years from the due date. Read more.
+
+### Can a US court judgment be enforced in India?
+Not directly. The US is not a reciprocating territory under section 44A of the Code of Civil Procedure, so a fresh suit on the judgment is needed. UK, Singapore and UAE judgments can be executed directly. Read more.
+
+### Is a foreign employee's salary taxable in India on a short trip?
+Exempt if the employee is a foreign citizen, the employer is a foreign enterprise not doing business in India, the stay is 90 days or less in the tax year and the salary is not charged to an Indian company. Treaties usually extend relief to stays under 183 days. Read more.
+
+### Do foreign employees in India pay provident fund on their full salary?
+Yes, as international workers they contribute on full salary with no wage ceiling, unless they hold a certificate of coverage from a country with a social security agreement with India. Read more.
+
+### Do you have to compensate an Indian distributor when you terminate?
+There is no statutory goodwill indemnity for distributors in India; the contract decides. Without the contractual or reasonable notice, the distributor can claim damages, but usually cannot force the relationship to continue. Read more.
+
+### When does a foreign company have a permanent establishment in India?
+Typically with a fixed place of business, a dependent agent who habitually concludes contracts, staff providing services beyond the treaty limit (90 days in 12 months under the US, UK and Singapore treaties), or a long project. PE profits are taxed at 35% plus surcharge and cess. Read more.
+
+### What withholding tax applies to royalties paid by an Indian company?
+20% plus surcharge and cess under Indian law, or the lower treaty rate (often 10% or 15%) with a TRC and Form 41. There is no RBI cap on royalty; GST of 18% applies under reverse charge for the Indian payer. Read more.
+
+### Can part of the price for Indian shares be paid later as an earn-out?
+Yes. Up to 25% of the total consideration can be deferred, escrowed or paid as an indemnity for up to 18 months from the agreement date under the FEMA non-debt instrument rules. Read more.
+
+### How does a foreign company close its Indian subsidiary?
+A company with no business and no liabilities can apply for strike-off (Form STK-2); otherwise use voluntary liquidation under the IBC, or sell the shares (Form FC-TRS). Clear tax, GST and FEMA filings and repatriate funds first. Read more.
+
+### What triggers an open offer when a foreigner buys into an Indian listed company?
+Acquiring 25% or more of voting rights, or control, triggers a mandatory open offer for at least 26% more under SEBI takeover rules. Holders of 25% or more can add up to 5% a year without an offer. Read more.
 
 ## For foreign companies: November 2026 updates
 
