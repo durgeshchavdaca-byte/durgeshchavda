@@ -90,7 +90,7 @@ hello@durgeshchavda.com
 Key takeaways
 - OTP SMS to India need a DLT-registered Indian principal entity.
 - Options: own entity, Indian partner with brand authorisation, provider route, non-SMS OTP.
-- Structure the partner route principal to principal to keep export GST benefits.
+- Partner route can be zero-rated for GST; the 2026 intermediary rule change helps.
 
 Quick answer: commercial SMS to Indian numbers, including OTPs, must come from a principal entity registered on DLT, using an approved sender header (generally six characters tied to the entity’s brand) and registered message templates. Registration needs Indian business documents, so a foreign company usually needs one of four routes: its own Indian entity, an Indian partner or contractor registering as principal entity with a brand authorisation, an SMS provider’s pre-approved OTP route, or non-SMS OTPs (WhatsApp, email, authenticator apps). Entity approval typically takes about a week and header approval a few days more.
 
@@ -122,7 +122,7 @@ Foreign app with Indian users and OTPs failing? Get the right DLT route and tax 
 
 - Export of services: the Indian business invoicing your foreign company can zero-rate the service under an LUT if the export conditions are met, and claim a refund of the 18% GST it pays on SMS purchases.
 
-- Intermediary risk: if the arrangement looks like the Indian business merely arranging SMS on your behalf, GST at 18% can apply in India. A principal-to-principal contract, where it buys in its own name, prices the whole service and carries the risk, is the safer structure.
+- The 2026 intermediary change: from 30 March 2026 the Finance Act 2026 removed the special place-of-supply rule for intermediary services (IGST section 13(8)(b)). Even an arranging-type service now follows the recipient’s location, so it can be zero-rated if the other export conditions are met. A clear principal-to-principal contract still helps with documentation and refund claims. See GST on export of services.
 
 - Payments: advance payments for exports are allowed; receipts come through the Indian bank with an e-FIRC.
 
@@ -148,7 +148,7 @@ How long does DLT registration take?
 Entity registration typically takes about 3 to 7 days and header registration 1 to 3 days after that, with templates approved separately. Getting the Indian entity's GST registration first can add one to two weeks.
 
 Is GST payable when an Indian contractor provides an OTP SMS service to a foreign company?
-It can be zero-rated as an export of services under an LUT if the conditions are met, and the contractor can claim a refund of GST paid on SMS purchases. If the service is treated as intermediary services, GST at 18% applies in India, so the contract should be principal to principal.
+It can be zero-rated as an export of services under an LUT if the export conditions are met, and the contractor can claim a refund of GST paid on SMS purchases. Since 30 March 2026 the special place-of-supply rule for intermediary services no longer applies, so the recipient's location outside India decides the place of supply.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
