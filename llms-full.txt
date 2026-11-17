@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-16. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-17. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,88 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/dlt-registration-foreign-company-otp-sms-india/
+------------------------------------------------------------------------
+Market entry · Foreign apps · 2026
+
+# Sending OTP SMS to Indian users from abroad? How DLT works for foreign companies
+
+If your app has users in India, your login OTPs must pass India’s DLT (distributed ledger) system, or telecom operators block or filter them. DLT registration expects an Indian business behind the messages, which is where foreign companies get stuck. Here are your realistic options, what each involves, and the tax and FEMA side that most guides skip.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your OTPs delivered in India
+hello@durgeshchavda.com
+
+Key takeaways
+- OTP SMS to India need a DLT-registered Indian principal entity.
+- Options: own entity, Indian partner with brand authorisation, provider route, non-SMS OTP.
+- Structure the partner route principal to principal to keep export GST benefits.
+
+Quick answer: commercial SMS to Indian numbers, including OTPs, must come from a principal entity registered on DLT, using an approved sender header (generally six characters tied to the entity’s brand) and registered message templates. Registration needs Indian business documents, so a foreign company usually needs one of four routes: its own Indian entity, an Indian partner or contractor registering as principal entity with a brand authorisation, an SMS provider’s pre-approved OTP route, or non-SMS OTPs (WhatsApp, email, authenticator apps). Entity approval typically takes about a week and header approval a few days more.
+
+## Your four options
+
+Option | How it works | Good for | Watch out for | 
+
+1. Your own Indian entity | An Indian subsidiary registers on DLT under its name and your brand | Companies with real India revenue or a team, long-term | Set-up and annual compliance, FDI filings, a resident director, transfer pricing | 
+
+2. Indian partner or contractor as principal entity | An Indian business registers on DLT, buys SMS in its own name and sells you a complete OTP service | Apps without an Indian entity that want their own header quickly | Brand authorisation from you, a principal-to-principal contract, and GST and FEMA structured correctly | 
+
+3. SMS provider’s pre-approved OTP route | Some providers send OTPs through templates and headers already registered in their own name | Testing or low volumes | Your brand is not the sender; terms, cost and deliverability vary by provider | 
+
+4. Non-SMS OTPs | WhatsApp authentication messages, email, voice OTP or authenticator apps | Reducing dependence on SMS | User reach (not every user can be reached this way), and separate WhatsApp business verification | 
+
+Foreign app with Indian users and OTPs failing? Get the right DLT route and tax structure for your case in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## DLT steps once you have an Indian principal entity
+
+- Entity registration on an operator’s DLT portal with PAN, GST or other business registration and authorised signatory details (with verification).
+
+- Header registration: a sender ID, generally six characters, that matches the entity’s name or brand. If the brand belongs to your foreign company, upload a brand authorisation or trademark document.
+
+- Template registration: each OTP message format, with variables, approved in advance.
+
+- Link to your SMS provider (the telemarketer chain), then send only through registered headers and templates.
+
+## The tax and FEMA side (option 2)
+
+- Export of services: the Indian business invoicing your foreign company can zero-rate the service under an LUT if the export conditions are met, and claim a refund of the 18% GST it pays on SMS purchases.
+
+- Intermediary risk: if the arrangement looks like the Indian business merely arranging SMS on your behalf, GST at 18% can apply in India. A principal-to-principal contract, where it buys in its own name, prices the whole service and carries the risk, is the safer structure.
+
+- Payments: advance payments for exports are allowed; receipts come through the Indian bank with an e-FIRC.
+
+- Your own exposure: an independent contractor providing a service to you does not normally create a permanent establishment, but avoid giving them authority to conclude contracts in your name.
+
+Related: GST for foreign SaaS selling to Indian users, setting up an Indian subsidiary, GST on export of services and LUT.
+
+## Sources
+
+- TRAI: Telecom Commercial Communications Customer Preference Regulations, 2018
+- Exotel: DLT registration steps and timelines
+- Infobip: DLT registration (headers and KYC)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Can a foreign company register on DLT in India?
+Generally not directly, because DLT principal entity registration asks for Indian business documents such as PAN and GST or company registration. Foreign companies usually register through their own Indian entity, an Indian partner acting as principal entity with brand authorisation, or an SMS provider's pre-approved OTP route.
+
+Do OTP SMS need DLT registration in India?
+Yes. All commercial SMS to Indian numbers, including OTPs and transactional messages, must go through a registered principal entity, an approved sender header and registered templates, or operators block or filter them.
+
+How long does DLT registration take?
+Entity registration typically takes about 3 to 7 days and header registration 1 to 3 days after that, with templates approved separately. Getting the Indian entity's GST registration first can add one to two weeks.
+
+Is GST payable when an Indian contractor provides an OTP SMS service to a foreign company?
+It can be zero-rated as an export of services under an LUT if the conditions are met, and the contractor can claim a refund of GST paid on SMS purchases. If the service is treated as intermediary services, GST at 18% applies in India, so the contract should be principal to principal.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nro-to-nre-transfer/
@@ -2292,6 +2374,7 @@ Step | What happens | Typical time |
 There is no minimum capital requirement for a private company, but the capital should cover the first months of running costs.
 
 Planning an Indian subsidiary? Get the structure, timeline and cost for your case in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Sending OTP SMS to Indian users? DLT registration for foreign companies.
 
 ## After incorporation
 
@@ -14756,6 +14839,7 @@ Key takeaways
 
 - Since 1 October 2023 the old “essentially automated, minimal human intervention” test was removed, and a non-taxable online recipient now means any unregistered person in India — including unregistered businesses, not just consumers.
 
+Sending OTP SMS to Indian users? DLT registration for foreign companies.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## Sales to consumers and unregistered businesses
