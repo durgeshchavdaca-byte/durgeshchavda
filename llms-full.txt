@@ -12224,7 +12224,7 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 67 questions answered
+# India for NRIs and foreigners: 74 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
@@ -12234,7 +12234,31 @@ Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## New rules foreign companies are asking about (18 November 2026)
+
+### Does India's DPDP Act apply to a foreign company with no Indian entity?
+Yes, if it processes digital personal data outside India in connection with offering goods or services to people in India (section 3(b) of the DPDP Act, 2023). The main obligations under the DPDP Rules, 2025 apply from 13 May 2027. Read more.
+
+### Does the DPDP Act apply when we outsource work on non-Indian customer data to an Indian vendor?
+Mostly no. Section 17(1)(d) exempts processing of personal data of people outside India by an India-based vendor under a contract with a foreign company from most of the Act, but reasonable security safeguards still apply. Read more.
+
+### Does a foreign brand need EPR registration to sell in India?
+If its products or packaging fall under the plastic packaging, e-waste, battery or tyre EPR rules, an India-based producer, importer or brand owner must register with CPCB before import or sale, usually the Indian subsidiary or the importer. Read more.
+
+### Should my Indian distributor hold our EPR registration?
+It can, as importer, but then your ability to keep selling depends on that partner. If it does, the distribution agreement should cover EPR returns, certificates, data access and handover if you switch distributors. Read more.
+
+### Can India tax my UK company if I run it from India?
+Only if its place of effective management is in India (section 6(10) of the Income-tax Act, 2025). CBDT guidance does not apply this test to foreign companies with turnover of Rs 50 crore or less, but running the business from India can still create a permanent establishment. Read more.
+
+### Can I keep my foreign company shares after moving back to India?
+Yes. Section 6(4) of FEMA lets a resident keep foreign assets acquired while non-resident, and income from them. New investment into the company after becoming resident follows the Overseas Investment Rules, 2022. Read more.
+
+### Has the India-EU free trade agreement been signed?
+Not yet, as of 18 November 2026. Negotiations concluded on 27 January 2026 and on 11 September 2026 the European Commission asked the EU Council to approve signing and conclusion. Signing is targeted for the end of 2026, with entry into force expected in 2027. Read more.
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## What foreign companies ask Indian advisers most (November 2026)
 
@@ -12267,7 +12291,6 @@ Yes. Under the BIS Foreign Manufacturers Certification Scheme, the foreign manuf
 
 ### Can a foreign company run an online gaming business in India?
 Online money games are banned under the Promotion and Regulation of Online Gaming Act, 2025 and its Rules in force since 1 May 2026, and foreign investment in gambling and betting is prohibited. E-sports, social games and game studios remain open. Read more.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## For foreign companies working with Indian partners: mid-November 2026
 
