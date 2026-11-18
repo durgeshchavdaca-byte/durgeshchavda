@@ -1129,12 +1129,12 @@ Deadline · 31 December 2026
 
 # Missed the ITR deadline? You can still file until 31 December 2026
 
-If you didn’t file your income-tax return for FY 2025-26 (AY 2026-27), or filed one with a mistake, you can still file a belated or revised return until 31 December 2026. After that the only route is an updated return, with additional tax and no refunds. We prepare and file it for NRIs and residents, in India or abroad.
+If you didn’t file your income-tax return for FY 2025-26 (AY 2026-27), or filed one with a mistake, you can still file a belated return until 31 December 2026, and revise a filed return until 31 March 2027 (with a fee after 31 December). After that the only route is an updated return, with additional tax and no refunds. We prepare and file it for NRIs and residents, in India or abroad.
 
 File before 31 December
 hello@durgeshchavda.com
 
-Quick answer: the last date for a belated or revised return for FY 2025-26 is 31 December 2026. A belated return carries a late fee of ₹5,000 (₹1,000 if total income is up to ₹5 lakh) plus interest on any unpaid tax. It is still the only way to claim a refund for the year. After 31 December, you can only file an updated return (ITR-U), which adds 25% to 70% extra tax and cannot claim a refund.
+Quick answer: the last date for a belated return for FY 2025-26 is 31 December 2026. A revised return can be filed without a fee until 31 December 2026, and until 31 March 2027 with a fee (a Budget 2026 change). A belated return carries a late fee of ₹5,000 (₹1,000 if total income is up to ₹5 lakh) plus interest on any unpaid tax. It is still the only way to claim a refund for the year. After 31 December, you can only file an updated return (ITR-U), which adds 25% to 70% extra tax and cannot claim a refund.
 
 ## Who needs this
 
@@ -1292,17 +1292,17 @@ Check your deadlines
 hello@durgeshchavda.com
 
 Key takeaways
-- Belated/revised ITR for FY 2025-26: 31 December 2026.
+- Belated ITR for FY 2025-26: 31 December 2026 (revised: 31 March 2027 with a fee).
 - FAST-DS closes and APRs are due the same day.
 - GSTR-9 for turnover above Rs 2 crore.
 
-Quick answer: by 31 December 2026: (1) file any belated or revised ITR for FY 2025-26; (2) make any FAST-DS 2026 declaration of undisclosed foreign assets; (3) file the APR for each overseas subsidiary or LLC; (4) file the GSTR-9 annual return for FY 2025-26 if turnover exceeded ₹2 crore.
+Quick answer: by 31 December 2026: (1) file any belated ITR for FY 2025-26, or revise a filed return without a fee (revisions with a fee remain possible until 31 March 2027); (2) make any FAST-DS 2026 declaration of undisclosed foreign assets; (3) file the APR for each overseas subsidiary or LLC; (4) file the GSTR-9 annual return for FY 2025-26 if turnover exceeded ₹2 crore.
 
 ## The four deadlines
 
 Deadline | Who it affects | If you miss it | Get it done | 
 
-Belated / revised ITR (FY 2025-26) | Anyone who didn’t file, or filed with errors; NRIs owed TDS refunds | Only an updated return remains: 25% to 70% extra tax, no refunds | Belated ITR filing | 
+Belated / revised ITR (FY 2025-26) | Anyone who didn’t file, or filed with errors; NRIs owed TDS refunds | Belated: only an updated return remains (25% to 70% extra tax, no refunds). Revised: still possible until 31 March 2027 with a fee | Belated ITR filing | 
 
 FAST-DS 2026 | Residents with undisclosed foreign assets or income (bank accounts, US shares, RSUs) | The scheme closes; exposure under the Black Money Act remains | FAST-DS filing | 
 
@@ -1333,7 +1333,7 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 
 ## Frequently asked questions
 What tax deadlines fall on 31 December 2026 in India?
-The last date for belated and revised income-tax returns for FY 2025-26, the closing date of the FAST-DS 2026 foreign asset disclosure scheme, the due date for Annual Performance Reports on overseas investments, and the GSTR-9 annual GST return for FY 2025-26.
+The last date for belated income-tax returns (and fee-free revised returns) for FY 2025-26, the closing date of the FAST-DS 2026 foreign asset disclosure scheme, the due date for Annual Performance Reports on overseas investments, and the GSTR-9 annual GST return for FY 2025-26.
 
 Who has to file GSTR-9 for FY 2025-26?
 GST-registered taxpayers with aggregate turnover above Rs 2 crore must file GSTR-9 by 31 December 2026, and those above Rs 5 crore must also file the GSTR-9C reconciliation statement.
