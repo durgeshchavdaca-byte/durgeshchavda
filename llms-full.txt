@@ -74,6 +74,107 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/running-foreign-company-from-india-tax-fema/
+------------------------------------------------------------------------
+Cross-border tax · Founders · Nov 2026
+
+# Moved to India, kept your company abroad? What changes for you and for the company
+
+Founders, consultants and returning NRIs often move to India while their UK limited company, US LLC or corporation keeps trading. That is allowed, but it raises four questions at once: are you now taxed on your worldwide income, can India tax the company itself, does the company now have a taxable presence in India, and what does FEMA say about holding and funding a foreign company while you live here.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your cross-border set-up
+hello@durgeshchavda.com
+
+Key takeaways
+- Resident and ordinarily resident: worldwide income taxed in India, with credit.
+- POEM can make the company Indian resident; not applied up to Rs 50 crore.
+- FEMA s.6(4) protects shares bought while non-resident; new money is ODI.
+
+Quick answer: once you become resident and ordinarily resident in India, your worldwide income, including salary and dividends from your foreign company, is taxable in India, with treaty credit for foreign tax. The company becomes Indian tax resident only if its place of effective management (POEM) is in India; under CBDT guidance this test is not applied to foreign companies with turnover of ₹50 crore or less. Smaller companies can still have a permanent establishment in India if you run the business from here. Under FEMA you may keep foreign shares you acquired while non-resident, but new money into the company follows the overseas investment rules.
+
+## Step 1: your own residency
+
+Status | When it applies (simplified) | What India taxes | 
+
+Non-resident | In India less than 182 days, and the 60-day test does not catch you | Indian income only | 
+
+Resident but not ordinarily resident (RNOR) | Resident, but non-resident in 9 of the previous 10 years, or in India 729 days or less in the previous 7 years; common for the first two or three years after returning | Indian income, plus income from a business controlled from India | 
+
+Resident and ordinarily resident | Resident, and neither RNOR test applies | Worldwide income, with credit for foreign tax under the treaty | 
+
+The RNOR point matters: even in your RNOR years, profits you draw from a foreign business you run from India can be taxed here. See residential status and RNOR.
+
+Living in India, company abroad? Check your residency, POEM and FEMA position in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Step 2: can India tax the company itself? (POEM)
+
+A foreign company is resident in India in a tax year if its place of effective management is in India, meaning the place where key management and commercial decisions for the business as a whole are, in substance, made (section 6(10) of the Income-tax Act, 2025, carried over from the 1961 Act). If it is, India can tax the company’s global profits.
+
+- Turnover of ₹50 crore or less: the CBDT’s POEM guidance says the test is not applied to these companies. Most owner-managed companies fall here.
+
+- Above ₹50 crore: where board meetings happen, who decides and where they sit all matter. Hold board meetings and take key decisions outside India, with directors who genuinely decide there.
+
+- Dual residence: a UK company stays UK resident by incorporation. If both countries treat it as resident, the tax treaty’s tie-breaker rule decides.
+
+## Step 3: permanent establishment, even for small companies
+
+Below the POEM threshold, the bigger practical risk is a permanent establishment (PE). If you run the company from a home office in India, sign contracts here or serve Indian customers from here, India may tax the profits linked to that PE. The usual fixes:
+
+- Keep contracting, pricing and invoicing with the foreign company, and document where decisions are made.
+
+- Or set up an Indian subsidiary or LLP for the India-based work and pay it at arm’s length, so India taxes a clear, defensible slice.
+
+- Pay yourself properly: salary or fees for work done in India are taxable in India in any case.
+
+More: permanent establishment risk in India.
+
+## Step 4: FEMA on your foreign company
+
+Situation | FEMA position | 
+
+Shares bought while you were non-resident | You can keep holding them after becoming resident (section 6(4) of FEMA), along with income from them | 
+
+Putting new money in, or taking new shares, after becoming resident | Treated as overseas investment under the Overseas Investment Rules, 2022: routed through your bank under LRS, with reporting | 
+
+Company formed abroad by you while resident, without filings | Needs regularisation; see US LLC without Form FC | 
+
+## Step 5: what you must report
+
+- Foreign assets schedule in your Indian return once you are resident and ordinarily resident: shares in your company, foreign bank accounts and signing authority. Missing it can lead to Black Money Act penalties.
+
+- Foreign tax credit claims with the prescribed form, so UK or US tax paid is credited in India.
+
+- Past years not disclosed? The FAST-DS window closes on 31 December 2026; see FAST-DS for returning NRIs.
+
+We map your residency year by year, check POEM and PE exposure, handle FEMA filings and returns in India, and work with your UK or US accountant so both sides match. Related: UK and Indian tax, returning from the US.
+
+## Sources
+
+- PwC Worldwide Tax Summaries: India, corporate residence (POEM)
+- Income Tax Department: residential status
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Can I run my UK limited company while living in India?
+Yes. You can live in India and remain a director and shareholder of a UK company. Once you are resident and ordinarily resident, your worldwide income is taxable in India with treaty credit for UK tax. The company itself becomes Indian resident only if its place of effective management is in India, and it may have a permanent establishment in India if you run the business from here.
+
+Does the POEM rule apply to small foreign companies?
+Under CBDT guidance, the place of effective management test is not applied to a foreign company whose turnover or gross receipts in the year are Rs 50 crore or less. Such companies can still face permanent establishment risk if the business is run from India.
+
+Can a resident Indian keep shares in a foreign company bought while living abroad?
+Yes. Section 6(4) of FEMA allows a person resident in India to hold foreign assets, including shares, acquired while they were resident outside India, and income from them. New investment after becoming resident follows the Overseas Investment Rules, 2022.
+
+How is a returning NRI's foreign company income taxed in the RNOR years?
+An RNOR is taxed on Indian income and on income from a business controlled from India, even if it accrues abroad. So profits from a foreign company you actively run from India can be taxable in India even in your RNOR years.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/epr-registration-foreign-brands-importers-india/
 ------------------------------------------------------------------------
 Market entry · Foreign brands · Nov 2026
@@ -1965,6 +2066,7 @@ Short term, document the employee’s role (no authority to sign, no client-faci
 Related: India tax for foreign companies, licensing to an Indian company, joint ventures in India.
 Sending your own people to India? Tax, provident fund and secondment rules.
 Unhappy with your current partner? How to end or switch an Indian distributor.
+Living in India but running a company abroad? Residency, POEM, PE and FEMA explained.
 
 ## Sources
 
@@ -3845,6 +3947,7 @@ Until reporting is regularised, your bank may refuse further remittances to the 
 - US filings (1120 and 5472), and your Indian returns for the same years
 
 - Any correspondence with your bank about the LLC
+Living in India but running a company abroad? Residency, POEM, PE and FEMA explained.
 
 ## Sources
 
@@ -9334,6 +9437,7 @@ India uses day counts (182 days, or 60 days plus 365 days over four years, with 
 ## How we help
 
 We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales and repatriation — and work with your UK accountant so both returns agree. See NRI tax services and India advisory for clients in the UK.
+Living in India but running a company abroad? Residency, POEM, PE and FEMA explained.
 
 ## Sources
 
