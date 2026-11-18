@@ -74,6 +74,93 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/bank-account-foreign-owned-company-india/
+------------------------------------------------------------------------
+India entry · Foreign companies · Nov 2026
+
+# Indian subsidiary incorporated? Opening its bank account and bringing in the capital
+
+Once your Indian company is incorporated, the bank account is the step that most often stalls. Banks run full KYC on the company, its foreign shareholders and its directors, and the first money from abroad starts two FEMA clocks. Here is the order that works, the documents banks ask for, and the deadlines you cannot miss.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your Indian company funded
+hello@durgeshchavda.com
+
+Key takeaways
+- Open a current account with an AD Category-I bank after incorporation.
+- Issue shares within 60 days of receiving the money; refund otherwise.
+- File FC-GPR on FIRMS within 30 days of issuing the shares.
+
+Quick answer: open a current account in the Indian company’s name with an authorised dealer (AD Category-I) bank, after incorporation. Banks need the company’s incorporation documents and PAN, a board resolution, and KYC of directors, signatories and every beneficial owner holding over 10%, which includes the foreign parent. The parent then remits the share capital through banking channels. The company must issue shares within 60 days of receiving the money (or refund it within the next 15 days) and file Form FC-GPR within 30 days of issuing them.
+
+## The order that works
+
+- Incorporate the company with the subscriber shares shown in the memorandum. No account can be opened, and no capital received, before this.
+
+- Choose the bank: an AD Category-I bank that handles foreign investment regularly. A bank where your group already banks abroad can speed up the parent’s KYC.
+
+- Open the current account with the documents below.
+
+- Remit the share capital from the parent’s own bank account abroad, quoting the purpose as investment in shares.
+
+- Get the inward remittance certificate and KYC report from the Indian bank, based on confirmation from the remitting bank.
+
+- Issue the shares within 60 days of receiving the money, and file FC-GPR on the RBI’s FIRMS portal within 30 days of issue, with a valuation certificate and the company secretary’s declaration.
+
+Setting up your Indian company? Get the bank account, capital and FC-GPR sequence right in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Documents banks usually ask for
+
+For | Documents | 
+
+The Indian company | Certificate of incorporation, memorandum and articles, company PAN, board resolution opening the account and naming signatories, registered office proof; often GST registration or other business proof | 
+
+Foreign shareholder (parent) | Incorporation certificate, constitutional documents, shareholding chart up to the ultimate owners, board resolution for the investment; usually notarised and apostilled or consularised | 
+
+Beneficial owners over 10% | Identity and address proof of each natural person who ultimately owns or controls more than 10% | 
+
+Directors and signatories | Passport (foreign nationals), proof of address, photograph; Indian residents give PAN and Aadhaar; in-person or video KYC as the bank requires | 
+
+## Where it usually goes wrong
+
+- Money sent before the account or company exists: it bounces back or sits unallocated.
+
+- Remittance from a third party instead of the shareholder itself: the bank cannot match it to the investor.
+
+- The 60-day window missed: shares not issued in time means refunding the money and a FEMA contravention.
+
+- FC-GPR filed late: late submission fees apply, and repeated delays lead to compounding.
+
+- No resident signatory: many banks want at least one authorised signatory available in India. Your resident director often fills this role.
+
+We handle the sequence end to end: choosing the bank, preparing and apostille checklists, remittance instructions, share issue and FC-GPR. Related: setting up a subsidiary, FC-GPR filing guide, resident director.
+
+## Sources
+
+- RBI: Master Direction on Foreign Investment in India (reporting, FC-GPR)
+- RBI: FIRMS portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Can a foreign company open a bank account for its Indian subsidiary before incorporation?
+No. The account is opened in the Indian company's own name, so it has to be incorporated first. The share capital is remitted after the account is open.
+
+How long does an Indian company have to issue shares after receiving foreign investment?
+Under the FEMA non-debt instruments rules, the shares must be issued within 60 days of receiving the money. If they are not, the amount must be refunded within the next 15 days.
+
+When is Form FC-GPR due?
+Within 30 days of issuing the shares to the foreign investor, filed on the RBI's FIRMS portal through the company's authorised dealer bank, with a valuation certificate and the company secretary's declaration.
+
+Do foreign directors need to visit India to open the company's bank account?
+Not always. Many banks accept video KYC or documents notarised and apostilled abroad, but most want at least one authorised signatory who is available in India, often the resident director.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/running-foreign-company-from-india-tax-fema/
 ------------------------------------------------------------------------
 Cross-border tax · Founders · Nov 2026
@@ -3026,6 +3113,7 @@ Sending OTP SMS to Indian users? DLT registration for foreign companies.
 - No entity yet: hire through an employer of record.
 
 - Not sure? Try the India entry structure chooser.
+Next step after incorporation: opening the bank account and bringing in the capital.
 
 ## Sources
 
@@ -9176,6 +9264,7 @@ A director is not a name on a form. Under section 166 they owe duties of good fa
 
 Not sure how to structure it? Book a 15-minute call or compare entity types with the structure chooser.
 Asked to provide a “nominee” director? Read why that is risky, and the 2025 online gaming law for foreign groups.
+Next step after incorporation: opening the bank account and bringing in the capital.
 
 ## Sources
 
@@ -12988,6 +13077,7 @@ Need a director in India? Resident director: the 182-day rule and your options.
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
 Hiring in India? Employee benefits a foreign employer must offer (2026).
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
+Next step after incorporation: opening the bank account and bringing in the capital.
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
