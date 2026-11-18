@@ -74,6 +74,81 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-us-trade-deal-2026-status/
+------------------------------------------------------------------------
+Trade deals · US buyers · 18 Nov 2026
+
+# Sourcing from India for the US? Where the trade deal stands, and what to do meanwhile
+
+US importers keep asking the same question: when will the India–US trade deal be done, and what will it change for goods made in India? Here is the position on 18 November 2026, without the speculation, and the steps worth taking now so you are ready either way.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
+
+Check your Indian suppliers
+hello@durgeshchavda.com
+
+Key takeaways
+- Not signed as of 18 Nov 2026; February 2026 framework, talks in final stages.
+- Confirm today's duty for your HTS code; add a tariff-change clause.
+- Origin, transshipment and forced-labour checks matter either way.
+
+Quick answer: as of 18 November 2026 the India–US trade agreement has not been signed. A US–India joint statement in February 2026 set out a framework for an interim agreement, and negotiators met in New Delhi on 2–3 November on customs and trade facilitation. On 14 November India’s External Affairs Minister said most issues had been resolved. US tariff rates and their legal basis changed during 2026, so confirm the current duty on your product with your customs broker before pricing any order.
+
+## How we got here
+
+When | What happened | 
+
+February 2026 | US–India joint statement sets out a framework for an interim trade agreement, including lower US tariffs on Indian goods and Indian market access commitments | 
+
+Mid-2026 | US tariff measures and their legal basis change; negotiations slow, then resume | 
+
+2–3 November 2026 | US delegation in New Delhi for talks on customs procedures and trade facilitation for the first phase | 
+
+14 November 2026 | India’s External Affairs Minister says the bulk of issues are sorted and a deal could be sealed soon | 
+
+Buying from India for the US? Check your suppliers and origin documents before the next order.Book a 15-min call · ₹499 (about USD 6)
+
+## What US buyers should do now
+
+- Price on today’s duty, not the expected one. Get the current rate for your HTS code from your customs broker and build a tariff-change clause into supply contracts.
+
+- Get origin right. Duty depends on where goods are made, and US Customs looks at whether the Indian process substantially transforms imported inputs. Ask suppliers for a bill of materials and process flow.
+
+- Stay clear of transshipment. Goods routed through India to avoid duties on another country can trigger a US Customs evasion investigation under the Enforce and Protect Act. Visit the factory, check capacity and match it to the volumes offered.
+
+- Check forced-labour exposure. Cotton, polysilicon, aluminium and other inputs may need traceability under the Uyghur Forced Labor Prevention Act.
+
+- Diligence the supplier itself. Same legal name on GST, Import Export Code and company records, bank account in that name, real factory, clean litigation and tax record.
+
+## If the deal is signed
+
+Expect rules of origin, certificates and supplier declarations to matter more, because preferential rates usually require proof that goods qualify. Suppliers with clean records and documented processes will be able to give that proof. Others will not. Checking now saves a scramble later.
+
+We run supplier checks and site visits across India for US buyers, and coordinate with your customs broker on origin documents. Related: supplier verification, UFLPA and Indian suppliers, supplier red flags.
+
+## Sources
+
+- White House: United States–India Joint Statement (February 2026)
+- Swarajya: Jaishankar says India–US trade agreement could be sealed soon (14 Nov 2026)
+- US CBP: Enforce and Protect Act (EAPA)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Has the India–US trade deal been signed?
+Not as of 18 November 2026. A US–India joint statement in February 2026 set out a framework for an interim agreement, talks continued in New Delhi in early November, and India's External Affairs Minister said on 14 November that most issues had been resolved.
+
+What US tariff applies to goods from India now?
+US tariff measures and their legal basis changed several times during 2026, so the rate depends on the product and the date of entry. Confirm the current duty for your HTS code with a licensed customs broker before pricing orders.
+
+What should US companies check before sourcing from India?
+That the supplier is genuine (matching GST, IEC and company records, bank account in its own name), that it really manufactures the goods at the volumes offered, how origin is documented, and whether any inputs carry forced-labour risk under the UFLPA.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/bank-account-foreign-owned-company-india/
 ------------------------------------------------------------------------
 India entry · Foreign companies · Nov 2026
@@ -10259,6 +10334,7 @@ The EU Forced Labour Regulation will apply from 14 December 2027 and works diffe
 ## How we help
 
 We visit Indian suppliers, collect and test the traceability documents against Indian import, GST and company records, and give you an English report you can keep on file for CBP. We are Chartered Accountants, not customs lawyers — your trade counsel decides what to submit to CBP. See due diligence for US companies.
+US trade update: where the India–US trade deal stands, and what buyers should do meanwhile.
 
 ## Sources
 
@@ -11591,6 +11667,7 @@ US importers: UFLPA traceability checklist for Indian suppliers.
 For Canadian companies: due diligence in India for Canadian companies.
 Accounting firm? See outsourced tax prep for US CPA firms, support for UK practices and bookkeeping for US and UK businesses.
 Sourcing medical devices? How to check an Indian supplier’s CDSCO licence.
+US trade update: where the India–US trade deal stands, and what buyers should do meanwhile.
 
 ## Sources
 
@@ -12862,6 +12939,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 From our offices in Ahmedabad and Rajkot we cover Gujarat’s manufacturing belts — engineering, auto components, castings, ceramics, pharmaceuticals, chemicals and textiles — and from Mumbai and Bengaluru the western and southern hubs. Other locations are covered by arrangement.
 
 Quick check first: 12 red flags of a fake or risky Indian supplier.
+US trade update: where the India–US trade deal stands, and what buyers should do meanwhile.
 
 ## The report
 
