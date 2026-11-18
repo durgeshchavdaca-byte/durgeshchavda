@@ -15732,7 +15732,7 @@ NRI taxation
 
 Everything a non-resident Indian needs to know about Indian tax in one place — what’s taxed, at what rate, why TDS usually over-deducts, how treaties help, and how to get money back out.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·11 min read
+By CA Durgesh Chavda·Last reviewed 18 November 2026·11 min read
 
 Talk to a CA about NRI tax
 hello@durgeshchavda.com
@@ -15755,6 +15755,11 @@ Quick answers
 
 Work out your own tax: NRI income tax calculator, new vs old regime, with your refund against TDS.
 Selling from abroad? What you pay in India and at home: UAE · UK · USA · Canada · Australia · Singapore. Or let us handle it: NRI property sale service.
+NRI tax in India, in one minute:
+- What is taxed: only income earned or received in India, such as rent, interest on NRO deposits, capital gains on Indian shares, funds and property, and Indian salary.
+- Slabs for 2026-27 (new regime): nil up to ₹4 lakh, then 5%, 10%, 15%, 20% and 25% in ₹4 lakh steps, and 30% above ₹24 lakh. NRIs do not get the rebate that makes income up to ₹12 lakh tax-free for residents.
+- Capital gains: listed shares and equity funds 20% short-term and 12.5% long-term above ₹1.25 lakh; property 12.5% long-term. The buyer or broker deducts TDS at these rates plus surcharge and cess.
+- Return: file if your Indian income is above ₹4 lakh, or to claim back excess TDS. A lower-TDS certificate or a treaty claim with a tax residency certificate and Form 41 can cut tax deducted.
 
 ## Who counts as an NRI for tax
 
