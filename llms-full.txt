@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-17. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-18. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,201 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/merchanting-trade-amazon-us-from-india/
+------------------------------------------------------------------------
+FEMA · Cross-border e-commerce · 2026
+
+# Buying from China, selling on Amazon US, living in India: merchanting trade rules for 2026
+
+A growing number of Indian residents source products on Alibaba, ship them straight to an Amazon warehouse in the US and sell on Amazon.com. The goods never touch India, but the money does, and that makes it a merchanting trade under India’s foreign exchange rules. Here is how to set it up correctly under the new FEMA export and import regulations that took effect on 1 October 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Set up your merchanting trade
+hello@durgeshchavda.com
+
+Key takeaways
+- Alibaba to Amazon US from India is merchanting trade (FEMA 2026, Reg 16).
+- Run it as a business with IEC and a current account, not via LRS.
+- No GST on goods that never enter India; profit is business income.
+
+Quick answer: buying goods in one foreign country and selling them in another without the goods entering India is merchanting trade, covered by Regulation 16 of the FEMA (Export and Import of Goods and Services) Regulations, 2026. Run it as a business, not from a personal account: in practice banks expect an Importer Exporter Code (IEC) and a current account, and a sole proprietorship is the simplest structure. The purchase and sale legs must generally be completed within six months of each other (your bank can extend this for genuine delays). There is no GST on goods that move from one place outside India to another, and the profit is business income in India.
+
+## Why this is merchanting trade, not export or LRS
+
+Route | What it is | Fits this model? | 
+
+Export from India | Goods leave India for a foreign buyer | No: the goods never enter India | 
+
+Liberalised Remittance Scheme (LRS) | Personal remittances by resident individuals, up to USD 250,000 a year | No: LRS is for personal purposes and cannot fund a trading business | 
+
+Merchanting trade | An Indian resident buys from a foreign seller and sells to a foreign buyer; the goods move abroad only | Yes: China (seller) to the US (buyers via Amazon) | 
+
+Selling on Amazon US with goods sourced abroad? Get your merchanting set-up, bank and tax position right in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Setting it up
+
+- Business entity: a sole proprietorship in your name is the simplest; a private limited company makes sense later, at scale or with investors.
+
+- IEC: apply online on the DGFT portal using your PAN.
+
+- Current account with an authorised dealer (AD) bank that handles merchanting trade; tell the bank upfront what you are doing.
+
+- Amazon Global Selling account in the business name, with the US tax form for non-US sellers (W-8BEN or W-8BEN-E).
+
+- Receiving payouts: into the business account directly or through a payout service that provides an inward remittance advice; an EEFC account lets the business keep foreign currency for the next purchase.
+
+- Paying the supplier from the business account through the bank, not a personal card, once the set-up is done.
+
+## The FEMA 2026 conditions
+
+Condition | What it means | 
+
+Foreign Trade Policy | The goods must be ones India permits for trade; restricted or prohibited items need extra checks | 
+
+Six-month window | The gap between paying the supplier and receiving the sale proceeds (or the other way round) should not exceed six months; the AD bank may extend it on reasons | 
+
+Direct parties | Payments go to the overseas seller and receipts come from the overseas buyer or marketplace; third-party routing needs the bank’s approval | 
+
+Documents to the bank | Supplier invoice, shipping documents (China to US), Amazon inbound shipment and settlement reports, so the bank can match both legs | 
+
+Amazon pays out over time as units sell, so plan order sizes so that most of each batch sells within the window, and keep the bank informed.
+
+## GST and income tax
+
+- GST: goods that move from a place outside India to another place outside India without entering India are not a supply under GST (Schedule III of the CGST Act), so these sales carry no Indian GST. Register for GST only if you also have taxable supplies in India.
+
+- Income tax: the profit is business income of the resident owner, taxed at slab rates; small businesses can use the presumptive scheme (6% of digitally received turnover) if they qualify. Deduct product cost, freight, Amazon fees and ads.
+
+- US side: Amazon collects US sales tax as the marketplace facilitator; a non-US seller without a US presence generally files no US income tax return, but keep the W-8 form current.
+
+## Records to keep for every batch
+
+- Alibaba order and supplier invoice; payment advice from the bank.
+
+- Bill of lading or airway bill from China to the US, and Amazon inbound shipment ID.
+
+- Amazon settlement reports and inward remittance advices for each payout.
+
+- A batch reconciliation: units bought, sold, returned, and the dates of each money leg.
+
+Related: checking a supplier before you pay, GST on exports, moving money abroad.
+
+## Sources
+
+- RBI: FEMA (Export and Import of Goods and Services) Regulations, 2026 (FEMA 23(R)/2026-RB)
+- Winvesta: merchanting trade under FEMA 2026, the six-month rule (Aug 2026)
+- TaxGuru: RBI's new FEMA Export and Import Regulations, 2026
+- CGST Act, 2017, Schedule III
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Is selling Chinese goods on Amazon US from India merchanting trade?
+Yes. When an Indian resident buys goods from a foreign seller and sells them to foreign buyers without the goods entering India, it is merchanting trade under Regulation 16 of the FEMA (Export and Import of Goods and Services) Regulations, 2026.
+
+Can an individual do merchanting trade in India?
+It should be run as a business. In practice banks expect an Importer Exporter Code and a current account, so a sole proprietorship in the individual's name is the simplest structure. The Liberalised Remittance Scheme cannot be used to fund a trading business.
+
+What is the time limit for merchanting trade under FEMA 2026?
+The period between the outward remittance to the supplier and the inward remittance from the buyer, or the other way round, should generally not exceed six months. The authorised dealer bank can extend it for genuine reasons.
+
+Is GST payable on merchanting trade?
+No. Goods that move from one place outside India to another without entering India are not a supply under Schedule III of the CGST Act, so no Indian GST applies to those sales.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/foreign-gaming-company-india-2026/
+------------------------------------------------------------------------
+Gaming · Foreign companies · 2026
+
+# Foreign gaming companies in India: what you can and cannot set up after the 2025 law
+
+International gaming groups still approach Indian advisers for company set-up, bank accounts and directors. Since August 2025 the answer depends entirely on what kind of game you offer. Here is the line India’s Promotion and Regulation of Online Gaming Act, 2025 draws, what foreign groups can build in India, and what any reputable adviser will refuse to do.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
+
+Check your gaming business model
+hello@durgeshchavda.com
+
+Key takeaways
+- Online money games are banned in India since August 2025.
+- E-sports, social games and game studios remain open to foreign groups.
+- Resident directors must have a real role; avoid nominee arrangements.
+
+Quick answer: the Promotion and Regulation of Online Gaming Act, 2025 (assent 22 August 2025) bans online money games in India, whether based on skill or chance, including offshore platforms accessible from India. Offering, advertising or processing payments for them can lead to imprisonment of up to three years and fines of up to INR 1 crore, and banks must block such transactions. Separately, foreign investment in gambling and betting is prohibited. Foreign groups can still set up in India for e-sports, online social and casual games without stakes, game development studios and technology services.
+
+## Where the line is
+
+Activity | Position in India | 
+
+Real-money games (fantasy with cash entry, poker, rummy, casino, betting) offered to users in India | Prohibited under the 2025 Act; no FDI in gambling or betting | 
+
+Advertising or promoting real-money games, including by influencers | Prohibited | 
+
+Banks or payment intermediaries processing payments for them | Prohibited; banks actively monitor and block | 
+
+E-sports (competitive games, tournaments) | Permitted and promoted under the Act | 
+
+Online social, casual and educational games with no money stakes | Permitted | 
+
+Game development studio, art, QA, live-ops for non-money games | Permitted; 100% FDI possible under the automatic route for software and IT services | 
+
+If a group builds or operates any money-gaming product for other countries from India, take a specific legal opinion first: the Act also reaches platforms accessible in India and anyone facilitating them.
+
+Gaming group looking at India? Get a clear view of what your model can legally do here, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Setting up a permitted gaming business
+
+- Entity: an Indian private limited subsidiary (or LLP) with a clear business object limited to permitted gaming, development or technology services.
+
+- FDI reporting: FC-GPR within 30 days of share allotment; land-border-country investors need government approval.
+
+- Directors: at least one director resident in India (182 days or more in the year) with a real role. Directors carry personal liability, so a “nominee” who only lends a name is a serious risk for everyone involved.
+
+- Banking: expect enhanced due diligence on any gaming-related account; a clean, documented business model is essential.
+
+- Tax: transfer pricing for services to the parent, GST on Indian revenue and withholding on cross-border payments.
+
+## What a reputable adviser will not do
+
+- Incorporate or open bank accounts for an online money-gaming or betting business aimed at India.
+
+- Provide “nominee” or dummy directors who take no part in the business.
+
+- Route payments to disguise their purpose.
+
+Related: resident director requirement, setting up a subsidiary, India entry services.
+
+## Sources
+
+- PIB: Promotion and Regulation of Online Gaming Act, 2025
+- Taxmann: ban on online money games in India
+- DPIIT: Consolidated FDI Policy (prohibited sectors)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Is online gaming legal in India for foreign companies?
+Online money games, whether skill or chance, are banned under the Promotion and Regulation of Online Gaming Act, 2025, and foreign investment in gambling and betting is prohibited. E-sports, online social and casual games without money stakes, and game development or technology services are permitted.
+
+What is the penalty for offering online money games in India?
+Offering or facilitating online money games can lead to imprisonment of up to three years and a fine of up to INR 1 crore under the 2025 Act, and banks and payment intermediaries must not process such transactions.
+
+Can a foreign gaming company get a nominee director in India?
+Every Indian company needs at least one director resident in India, but directors carry personal legal liability. A nominee who only lends a name, especially for a business that may breach the online gaming law, is a serious risk, and reputable advisers do not provide one.
+
+Can a foreign company open a game development studio in India?
+Yes. A studio building non-money games, art, QA or live-ops can be set up as an Indian subsidiary with up to 100% foreign investment under the automatic route, with FDI reporting, a resident director and transfer pricing for services to the parent.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/dlt-registration-foreign-company-otp-sms-india/
@@ -8546,6 +8741,7 @@ A director is not a name on a form. Under section 166 they owe duties of good fa
 - A foreign director who comes to India to work for the company needs an employment visa; a business visa generally covers board meetings and short visits.
 
 Not sure how to structure it? Book a 15-minute call or compare entity types with the structure chooser.
+Asked to provide a “nominee” director? Read why that is risky, and the 2025 online gaming law for foreign groups.
 
 ## Sources
 
