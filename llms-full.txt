@@ -74,6 +74,85 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/bis-authorised-indian-representative-foreign-manufacturers/
+------------------------------------------------------------------------
+Market entry · Foreign manufacturers · 2026
+
+# Selling BIS-certified products in India? Your Authorised Indian Representative, explained
+
+Many products, from electronics and toys to steel, chemicals and machinery, can only be sold in India with Bureau of Indian Standards (BIS) certification. Foreign manufacturers applying for it must nominate an Authorised Indian Representative (AIR), an India-resident person who stands behind the licence. Here is what the role means and how to set it up without creating a weak link.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
+
+Set up your India representative
+hello@durgeshchavda.com
+
+Key takeaways
+- BIS FMCS needs an India-resident Authorised Indian Representative (Form VI).
+- One AIR per foreign manufacturer; the licence must never be unrepresented.
+- Prefer your own Indian entity; otherwise use a written AIR agreement.
+
+Quick answer: under the BIS Foreign Manufacturers Certification Scheme (FMCS), a foreign manufacturer must nominate an Authorised Indian Representative (AIR) who is resident in India, on Form VI of Scheme I. The AIR’s name appears on the licence, the AIR represents only one foreign manufacturer under BIS schemes, and the licence must never be left without an AIR. Pick someone you control and trust, such as a senior person in your Indian subsidiary or branch, and put the role in a written agreement.
+
+## What the AIR does
+
+- Acts as the point of contact between BIS and the foreign manufacturer, including on the online portal.
+
+- Receives notices, coordinates inspections, sample testing and renewals.
+
+- Carries accountability in India for the licence, so BIS can act through the AIR if products fail to conform.
+
+Foreign manufacturer applying for BIS? Get your AIR, importer and compliance set-up planned in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Who can be your AIR
+
+Option | Works well when | Watch out for | 
+
+Senior employee of your Indian subsidiary or branch | You already have, or plan, an Indian entity | Replace the AIR immediately if the person leaves; the licence cannot be unrepresented | 
+
+Your Indian importer or distributor (or a person there) | You sell through one main importer | Your licence becomes dependent on that partner; switching distributors gets harder | 
+
+An independent individual or firm acting as AIR | No Indian presence yet | The AIR can represent only one manufacturer under BIS schemes; check their standing and put duties, fees and exit in writing | 
+
+## Setting it up properly
+
+- Check the product scheme: FMCS (ISI mark) or the Compulsory Registration Scheme for electronics and IT products; both expect an India-resident representative.
+
+- Choose and check the AIR: identity, residence, background and, for a firm, its company records.
+
+- Sign an AIR agreement: scope, information flow, response times, confidentiality, fees, indemnities and how the role is handed over.
+
+- Plan for continuity: name a successor and know the process to change the AIR quickly.
+
+- Line up the rest of your India compliance: the importer of record, labelling and, for electronics, batteries and plastic packaging, extended producer responsibility (EPR) registrations.
+
+Related: licences held by your distributor, setting up an Indian subsidiary, partner due diligence.
+
+## Sources
+
+- BIS: Nomination of Authorized Indian Representative (FMCS)
+- BIS: FMCS frequently asked questions
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Does a foreign manufacturer need an Indian representative for BIS certification?
+Yes. Under the BIS Foreign Manufacturers Certification Scheme the foreign manufacturer must nominate an Authorised Indian Representative, resident in India, on Form VI of Scheme I, and keep one in place for as long as the licence runs.
+
+Can one person be the Authorised Indian Representative for several foreign manufacturers?
+No. According to BIS, an AIR represents only one foreign manufacturer under the BIS conformity assessment schemes.
+
+Who should a foreign company choose as its BIS AIR?
+Ideally a senior person in its own Indian subsidiary or branch. If it has no Indian presence, it can use its importer or an independent representative, with a written agreement covering duties, confidentiality, fees and handover.
+
+What happens if the BIS Authorised Indian Representative leaves?
+The manufacturer must make sure the licence is never unrepresented, so a replacement AIR has to be nominated and recorded with BIS promptly.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/merchanting-trade-amazon-us-from-india/
 ------------------------------------------------------------------------
 FEMA · Cross-border e-commerce · 2026
@@ -199,7 +278,7 @@ Key takeaways
 - E-sports, social games and game studios remain open to foreign groups.
 - Resident directors must have a real role; avoid nominee arrangements.
 
-Quick answer: the Promotion and Regulation of Online Gaming Act, 2025 (assent 22 August 2025) bans online money games in India, whether based on skill or chance, including offshore platforms accessible from India. Offering, advertising or processing payments for them can lead to imprisonment of up to three years and fines of up to INR 1 crore, and banks must block such transactions. Separately, foreign investment in gambling and betting is prohibited. Foreign groups can still set up in India for e-sports, online social and casual games without stakes, game development studios and technology services.
+Quick answer: the Promotion and Regulation of Online Gaming Act, 2025 and its Rules, in force since 1 May 2026, ban online money games in India, whether based on skill or chance, including offshore platforms accessible from India. Offering, advertising or processing payments for them can lead to imprisonment of up to three years and fines of up to INR 1 crore, and banks must block such transactions. Separately, foreign investment in gambling and betting is prohibited. Foreign groups can still set up in India for e-sports, online social and casual games without stakes, game development studios and technology services.
 
 ## Where the line is
 
@@ -218,6 +297,8 @@ Online social, casual and educational games with no money stakes | Permitted |
 Game development studio, art, QA, live-ops for non-money games | Permitted; 100% FDI possible under the automatic route for software and IT services | 
 
 If a group builds or operates any money-gaming product for other countries from India, take a specific legal opinion first: the Act also reaches platforms accessible in India and anyone facilitating them.
+
+The Rules also set up the Online Gaming Authority of India under MeitY to classify and register games and to enforce the law, including against offshore platforms.
 
 Gaming group looking at India? Get a clear view of what your model can legally do here, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
 
@@ -245,6 +326,7 @@ Related: resident director requirement, setting up a subsidiary, India entry ser
 
 ## Sources
 
+- News on AIR: Online Gaming Rules, 2026 in force from 1 May 2026
 - PIB: Promotion and Regulation of Online Gaming Act, 2025
 - Taxmann: ban on online money games in India
 - DPIIT: Consolidated FDI Policy (prohibited sectors)
@@ -705,6 +787,7 @@ Staff and data | Distributor staff who know your customers may move to a competi
 - Collect what is owed and close out GST and withholding positions.
 
 Related: appointing a distributor in India, PE risk with Indian agents, joint ventures in India.
+Need BIS certification? Choosing your Authorised Indian Representative.
 
 ## Sources
 
@@ -741,7 +824,7 @@ Tax · Foreign employers · 2026
 
 Setting up a JV, commissioning a plant, training an Indian distributor or running your new subsidiary usually means sending your own people to India. Their salary can become taxable in India, your company can be drawn into Indian tax, and India’s provident fund can apply to their full salary. Here is what applies for short trips, longer assignments and secondments, under the Income-tax Act, 2025 that took effect on 1 April 2026.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 18 November 2026·6 min read
 
 Plan your India assignments
 hello@durgeshchavda.com
@@ -788,6 +871,8 @@ Contribution base | Full salary from the first rupee, with no ₹15,000 wage cei
 How to stay out | A certificate of coverage from the home social security authority, where India has a social security agreement with that country, makes the employee an excluded employee for the covered period | 
 
 Court position | The Karnataka High Court struck the international worker rules down in 2024; the Delhi High Court upheld them in November 2025. Until the Supreme Court settles it, most employers continue full-salary compliance | 
+
+UK staff (new from 15 July 2026): the India–UK Double Contributions Convention, in force with the trade agreement, lets employees posted between the two countries stay in their home social security system for up to 60 months, with a certificate of coverage (from EPFO for Indian staff in the UK, or HMRC form CA9107 for UK staff in India). Staff already on assignment on 15 July 2026 follow transitional rules, so check each case.
 
 ## Before your people travel
 
@@ -1575,7 +1660,7 @@ Tax · Foreign companies · 2026
 
 Foreign companies working with Indian partners rarely plan to be taxed in India. But staff visiting for long projects, a local agent who signs deals, or an office used by your team can create a permanent establishment (PE), and then India taxes the profits linked to it. Here is how PE arises under India’s tax treaties, and how to keep the risk under control.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 18 November 2026·6 min read
 
 Review your PE risk
 hello@durgeshchavda.com
@@ -1618,6 +1703,18 @@ Engineers installing equipment for an Indian customer | Medium to high | Track d
 Employees working remotely from India | Medium | Limit their authority to conclude contracts; review long stays case by case | 
 
 Indian subsidiary doing work for the parent | Low if priced at arm’s length | A clear service agreement and transfer pricing; a subsidiary is not a PE by itself | 
+
+## Remote employees and H-1B staff working from India
+
+A growing number of foreign employers have staff working from India: remote hires, or H-1B employees who returned to India and kept working for the US employer. The risks:
+
+- PE: if the employee negotiates or concludes contracts, manages the business or works from a fixed place at the employer’s disposal, a permanent establishment can arise. Pure back-office or engineering work done from home carries lower risk, but long, open-ended arrangements need review.
+
+- Salary tax: salary for work done in India is taxable in India once the employee is resident; the employee pays advance tax if no Indian employer withholds.
+
+- Labour and social security: a foreign employer with no Indian entity cannot easily run Indian payroll; an employer of record or an Indian subsidiary is the usual fix.
+
+Short term, document the employee’s role (no authority to sign, no client-facing selling in India). Longer term, move them to an employer of record or an Indian subsidiary.
 
 ## If you do have a PE
 
@@ -1664,6 +1761,9 @@ Under the India-US treaty, a foreign enterprise furnishing services in India thr
 
 Does an Indian distributor create a PE for a foreign company?
 Usually not, if the distributor buys and resells in its own name and at its own risk. The risk rises if the distributor or agent habitually negotiates and concludes contracts on the foreign company's behalf.
+
+Does an H-1B employee working from India create a PE for the US employer?
+It can if the employee negotiates or concludes contracts, manages the business or uses a fixed place at the employer's disposal. Technical work done from home carries lower risk, but long arrangements should move to an employer of record or an Indian subsidiary, and the employee's salary is taxable in India once resident.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -11791,17 +11891,50 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 57 questions answered
+# India for NRIs and foreigners: 67 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
-By CA Durgesh Chavda·Last reviewed 16 November 2026·9 min read
+By CA Durgesh Chavda·Last reviewed 18 November 2026·9 min read
 
 Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## What foreign companies ask Indian advisers most (November 2026)
+
+### How can a US company set up a wholly owned subsidiary in India, and how long does it take?
+Incorporate a private limited company through SPICe+ with at least two directors (one resident in India), open a bank account, bring in capital and file Form FC-GPR within 30 days of allotting shares. With documents ready, incorporation usually takes two to four weeks. Read more.
+
+### Do I need an Indian resident director to register a company in India as a foreigner?
+Yes. Every Indian company needs at least one director who stayed in India for 182 days or more in the year. The director carries legal responsibility, so choose someone with a real role rather than a name-only nominee. Read more.
+
+### Does a remote employee in India create a permanent establishment for my foreign company?
+It can if the employee concludes or negotiates contracts, manages the business or works from a fixed place at the company's disposal. Purely technical or back-office work carries lower risk; long arrangements are usually moved to an employer of record or an Indian subsidiary. Read more.
+
+### My Indian client is deducting 20% tax from my invoice. How do I get the treaty rate?
+Give the Indian payer a tax residency certificate from your country and Form 41 (which replaced Form 10F from April 2026), and confirm you have no permanent establishment in India. The payer can then apply the lower treaty rate. Read more.
+
+### Do I need to register for GST in India if I sell SaaS to Indian consumers from abroad?
+Yes. Foreign providers of online digital services to Indian consumers must register under the simplified OIDAR scheme with no threshold, and file monthly returns. Sales to GST-registered Indian businesses are taxed under reverse charge by the buyer. Read more.
+
+### How do I verify that an Indian supplier is genuine before paying an advance?
+Check that the same legal name appears on its GST registration, Import Export Code and company record, that the bank account is in that name, and ask for a live video tour. For larger orders, get an independent site visit. Read more.
+
+### What annual compliance does a foreign-owned company in India need?
+Statutory audit, annual ROC filings, income tax return, the FLA return to the RBI, transfer pricing documentation and the accountant's report on international transactions (Form 48, formerly Form 3CEB), GST returns and TDS filings. Read more.
+
+### Do UK employees posted to India still pay UK National Insurance?
+Since 15 July 2026, under the India-UK Double Contributions Convention, posted employees can stay in the UK system for up to 60 months with an HMRC certificate of coverage, and are then exempt from Indian provident fund for that period. Read more.
+
+### Do foreign manufacturers need an Indian representative for BIS certification?
+Yes. Under the BIS Foreign Manufacturers Certification Scheme, the foreign manufacturer must nominate an Authorised Indian Representative who is resident in India, and keep one in place for as long as the licence runs. Read more.
+
+### Can a foreign company run an online gaming business in India?
+Online money games are banned under the Promotion and Regulation of Online Gaming Act, 2025 and its Rules in force since 1 May 2026, and foreign investment in gambling and betting is prohibited. E-sports, social games and game studios remain open. Read more.
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## For foreign companies working with Indian partners: mid-November 2026
 
@@ -11834,7 +11967,6 @@ A company with no business and no liabilities can apply for strike-off (Form STK
 
 ### What triggers an open offer when a foreigner buys into an Indian listed company?
 Acquiring 25% or more of voting rights, or control, triggers a mandatory open offer for at least 26% more under SEBI takeover rules. Holders of 25% or more can add up to 5% a year without an offer. Read more.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## For foreign companies: November 2026 updates
 
