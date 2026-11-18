@@ -74,6 +74,129 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/dpdp-act-foreign-companies-india/
+------------------------------------------------------------------------
+Data protection · Foreign companies · Nov 2026
+
+# Indian customers, Indian vendors? India’s data protection law, explained for foreign companies
+
+India's Digital Personal Data Protection Act, 2023 (DPDP Act) and the DPDP Rules, 2025 are being switched on in stages. The consent-manager framework became operative on 13 November 2026 and the main obligations for businesses apply from 13 May 2027. If you sell to people in India, run an app used in India, or send data to an Indian outsourcing partner, here is what matters and what to do in the next six months.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Plan your India data set-up
+hello@durgeshchavda.com
+
+Key takeaways
+- DPDP applies to foreign firms offering goods or services to people in India.
+- Main obligations start 13 May 2027; breach detail report within 72 hours.
+- Outsourced processing of non-Indian data is mostly exempt (s.17(1)(d)).
+
+Quick answer: the DPDP Act applies to a foreign company if it processes personal data outside India in connection with offering goods or services to people in India (section 3). The DPDP Rules were notified on 13 November 2025; the consent-manager rule started on 13 November 2026; notice, consent, security, breach reporting, children’s data and data-subject rights apply from 13 May 2027. Penalties run up to ₹250 crore per breach. If you only send non-Indian customer data to an Indian vendor under contract, most of the Act does not apply to that processing, but security duties still do.
+
+## What is in force and when
+
+Date | What starts | What it means for you | 
+
+13 Nov 2025 | Rules 1, 2 and 17 to 21: definitions and the Data Protection Board of India | The regulator exists; no business obligations yet | 
+
+13 Nov 2026 | Rule 4: registration and duties of consent managers | Platforms that let Indian users give and withdraw consent through a registered consent manager can start planning for it | 
+
+13 May 2027 | Rules 3, 5 to 16, 22 and 23, plus the core of the Act | Full obligations: notices, consent, security, breach reporting, children, retention, rights, penalties | 
+
+Foreign company with Indian users or vendors? Map what DPDP means for you in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Does it apply to your company?
+
+Your situation | Covered? | 
+
+You sell online to customers in India, or your app or SaaS has Indian users | Yes, even with no Indian entity (section 3(b)) | 
+
+You have an Indian subsidiary, branch or GCC that handles Indian customers’ or employees’ data | Yes, the Indian entity is a data fiduciary for that data | 
+
+You outsource work on your non-Indian customers’ data to an Indian vendor under contract | Mostly no: section 17(1)(d) exempts that processing from most of the Act, but the vendor must still keep reasonable security safeguards and the cross-border rules apply | 
+
+You only hold data of Indian business contacts for B2B dealings | Usually yes if it is digital personal data linked to offering goods or services in India; keep it proportionate | 
+
+## Your main duties from 13 May 2027
+
+- Notice and consent: a clear, stand-alone notice listing the personal data, the purpose and what it enables; consent must be free, specific, informed and by clear affirmative action, and withdrawing it must be as easy as giving it.
+
+- Security safeguards: encryption or similar measures, access control, monitoring, and keeping logs and related data for at least one year.
+
+- Breach reporting: tell affected users and the Data Protection Board without delay, and send the Board a detailed report within 72 hours. CERT-In’s separate six-hour reporting rule for cyber incidents still applies.
+
+- Children: verifiable parental consent before processing data of anyone under 18, with limited exemptions.
+
+- Processors: you stay responsible for what your vendors do; use a written contract.
+
+- Rights and grievances: users can access, correct and erase data and nominate someone; publish how, and answer within the set time.
+
+- Erasure for large platforms: e-commerce and social media platforms with over 2 crore Indian users and online gaming platforms with over 50 lakh must erase data after three years of inactivity, with 48 hours’ notice.
+
+- Significant Data Fiduciaries (if the government notifies you): an India-based Data Protection Officer, an independent data auditor, and an annual impact assessment and audit.
+
+## Can data leave India?
+
+Yes. Transfers outside India are allowed unless the government restricts a country by notification, and the Rules let it set conditions by order. Significant Data Fiduciaries may have to keep government-specified categories of data in India. Sector rules (RBI payment data, insurance, telecom) can be stricter, so check them separately.
+
+## Penalties
+
+Failure | Maximum penalty | 
+
+Reasonable security safeguards not taken | ₹250 crore | 
+
+Breach not notified to the Board and users | ₹200 crore | 
+
+Children’s data obligations breached | ₹200 crore | 
+
+Significant Data Fiduciary obligations breached | ₹150 crore | 
+
+## A 6-step plan for the next six months
+
+- Map Indian data: which products, apps, entities and vendors touch personal data of people in India.
+
+- Decide who is the fiduciary: the foreign parent, the Indian subsidiary, or both, and document it.
+
+- Fix notices and consent flows for Indian users, including withdrawal and children.
+
+- Paper your vendors: data processing clauses with Indian and foreign processors, security standards and breach timelines.
+
+- Build the breach playbook: who decides, who notifies the Board, CERT-In and users, and the 72-hour report.
+
+- Check your Indian partners: before sharing data, diligence the vendor’s security, ownership and track record.
+
+We coordinate the India side: entity structure, vendor and partner checks, and contracts reviewed with our legal team. Related: vendor due diligence in India, DLT for foreign apps sending OTP SMS, setting up an Indian subsidiary.
+
+## Sources
+
+- MeitY: Digital Personal Data Protection framework (Act and Rules)
+- AZB & Partners: India's DPDP framework comes into effect (19 Nov 2025)
+- Taxmann: DPDP Act and Rules 2025, timeline and obligations
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Does India's DPDP Act apply to foreign companies?
+Yes, if the foreign company processes digital personal data outside India in connection with offering goods or services to people in India (section 3(b) of the DPDP Act, 2023). An Indian entity is not needed for the Act to apply.
+
+When do the DPDP Rules come into force?
+The DPDP Rules, 2025 were notified on 13 November 2025. The Data Protection Board provisions applied immediately, the consent-manager rule from 13 November 2026, and the main business obligations from 13 May 2027.
+
+Does the DPDP Act apply when a foreign company outsources work to India?
+If an Indian vendor processes personal data of people outside India under a contract with a foreign company, section 17(1)(d) exempts that processing from most of the Act. The vendor must still take reasonable security safeguards, and the cross-border transfer rules still apply.
+
+How fast must a data breach be reported under the DPDP Rules?
+The data fiduciary must inform affected users and the Data Protection Board without delay, and send the Board a detailed report within 72 hours of becoming aware of the breach. CERT-In's separate six-hour cyber incident reporting rule also applies.
+
+What is the maximum penalty under the DPDP Act?
+Up to Rs 250 crore for failing to take reasonable security safeguards. Failing to report a breach or breaching children's data obligations can cost up to Rs 200 crore each.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/bis-authorised-indian-representative-foreign-manufacturers/
 ------------------------------------------------------------------------
 Market entry · Foreign manufacturers · 2026
@@ -406,6 +529,7 @@ Foreign app with Indian users and OTPs failing? Get the right DLT route and tax 
 - Your own exposure: an independent contractor providing a service to you does not normally create a permanent establishment, but avoid giving them authority to conclude contracts in your name.
 
 Related: GST for foreign SaaS selling to Indian users, setting up an Indian subsidiary, GST on export of services and LUT.
+Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
 
 ## Sources
 
@@ -7648,6 +7772,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - They cannot name who will work on your files.
 
 Want to put these questions to us? See outsourced accounting for CPA firms or for UK practices, and book a 15-minute call.
+Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
 
 ## Sources
 
@@ -7919,6 +8044,8 @@ A fixed monthly fee or a per-return fee agreed upfront, with turnaround times se
 - Time zones. India is 10 hours 30 minutes ahead of New York in winter (9 hours 30 minutes in summer), so work sent at the end of your day can be ready the next morning.
 
 - Cost. Usually well below the cost of a local hire, quoted once we have seen your volumes. No long lock-in.
+
+Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
 
 ## Data and confidentiality
 
@@ -9365,6 +9492,7 @@ The buyer’s view of the same exercise: due diligence checklist · financial re
 
 We run vendor due diligence for Indian companies preparing for a foreign buyer or investor, fix what can be fixed — FEMA regularisation, GST reconciliations, overdue filings — and help build the data room and answer the buyer’s questions. See fundraising and deal support and FEMA & RBI compliance.
 Quick check first: 12 red flags of a fake or risky Indian supplier.
+Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
 
 ## Sources
 
@@ -12990,6 +13118,8 @@ A fixed monthly fee or a per-return fee agreed upfront, with turnaround times se
 - Time zones. India is 10 hours 30 minutes ahead of New York in winter (9 hours 30 minutes in summer), so work sent at the end of your day can be ready the next morning.
 
 - Cost. Usually well below the cost of a local hire, quoted once we have seen your volumes. No long lock-in.
+
+Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
 
 ## Data and confidentiality
 
