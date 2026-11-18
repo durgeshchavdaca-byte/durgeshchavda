@@ -74,6 +74,104 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/epr-registration-foreign-brands-importers-india/
+------------------------------------------------------------------------
+Market entry · Foreign brands · Nov 2026
+
+# Bringing your products to India? EPR registration, and who should hold it
+
+India makes producers, importers and brand owners responsible for collecting and recycling the plastic packaging, electronics, batteries and tyres they put on the market. This is Extended Producer Responsibility (EPR), run by the Central Pollution Control Board (CPCB) through online portals. For a foreign brand, the practical question is not only whether EPR applies, but which Indian entity holds the registration, because that entity controls your ability to keep selling.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Plan your India product compliance
+hello@durgeshchavda.com
+
+Key takeaways
+- Plastic packaging, e-waste, batteries and tyres each have CPCB EPR rules.
+- An India-based producer, importer or brand owner must register before sale.
+- Whoever holds EPR controls your market access; decide it before signing.
+
+Quick answer: if your products, or their packaging, are sold in India, someone in India must be registered with CPCB as a producer, importer or brand owner under the relevant EPR rules, before the goods are imported or sold. The main regimes cover plastic packaging, e-waste, batteries and tyres, each with its own CPCB portal, annual returns and EPR certificates. A foreign company usually meets this through its Indian subsidiary or its importer. If the importer holds it, your market access depends on that partner, so decide this before you sign the distribution agreement.
+
+## The four EPR regimes that catch most foreign brands
+
+What you sell | Rules | CPCB portal | 
+
+Anything in plastic packaging (FMCG, cosmetics, food, consumer goods) | Plastic Waste Management Rules, 2016, as amended | eprplastic.cpcb.gov.in | 
+
+Electrical and electronic equipment | E-Waste (Management) Rules, 2022 | CPCB e-waste EPR portal | 
+
+Batteries, including those inside devices and vehicles | Battery Waste Management Rules, 2022 | eprbattery.cpcb.gov.in | 
+
+Tyres | EPR for waste tyres (from 2022) | CPCB tyre EPR portal | 
+
+One product can trigger several regimes: a power bank in a plastic blister pack touches e-waste, batteries and plastic packaging.
+
+Bringing your products to India? Sort out EPR, BIS and who holds your licences in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Who registers when the brand is foreign
+
+Set-up | Who usually holds EPR | Risk to manage | 
+
+Your own Indian subsidiary imports and sells | The subsidiary, as importer and brand owner | Lowest risk; you control registration, returns and certificates | 
+
+An Indian distributor imports in its own name | The distributor, as importer | Switching distributors can stall sales until the new importer is registered; agree cooperation and handover in the contract | 
+
+You sell cross-border through marketplaces or an importer of record | The Indian importer of record | Check the registration covers your product categories and volumes before the first shipment | 
+
+## How it works in practice
+
+- Classify products and packaging against each regime and category.
+
+- Choose the registering entity and register on each relevant CPCB portal before import or sale.
+
+- Set annual targets: obligations are based on quantities placed on the Indian market.
+
+- Meet targets with EPR certificates bought through the portal from registered recyclers or processors.
+
+- File returns on each portal. For batteries, CPCB has extended the annual return for FY 2025-26 to 30 November 2026.
+
+- Get labelling right: plastic packaging rules amended in 2025 require product information through a barcode, QR code or similar from 1 July 2025; battery and e-waste rules have their own marking rules.
+
+## What goes wrong without it
+
+- Shipments held at customs while registration proof is sought.
+
+- Environmental compensation levied by CPCB, and registration suspended or cancelled.
+
+- Products withdrawn from sale, and large retailers or marketplaces refusing to list you.
+
+- A distributor who holds your registration gains leverage in any dispute.
+
+We set up the India side: entity choice, partner checks on your importer or distributor, contracts that cover EPR and other licences, and coordination of registrations with specialist consultants. Related: BIS Authorised Indian Representative, bringing a foreign brand to India, switching your Indian distributor.
+
+## Sources
+
+- CPCB: Centralized EPR portal for plastic packaging
+- CPCB: EPR portal for battery waste management (FY 2025-26 return extension)
+- India Briefing: Extended Producer Responsibility in India, notes for foreign manufacturers
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Does a foreign brand need EPR registration to sell in India?
+If its products or their packaging are sold in India and fall under the plastic packaging, e-waste, battery or tyre EPR rules, an India-based producer, importer or brand owner must be registered with CPCB before import or sale. A foreign brand usually meets this through its Indian subsidiary or importer.
+
+Can my Indian distributor hold the EPR registration?
+Yes, an Indian importer can register as the importer. But your ability to keep selling then depends on that partner, so the distribution agreement should cover EPR returns, certificates, data access and handover if you switch distributors.
+
+When is the EPR annual return for batteries due for FY 2025-26?
+The CPCB battery EPR portal states that the last date for filing the annual return for FY 2025-26 has been extended to 30 November 2026.
+
+How are EPR targets met in India?
+Registered producers, importers and brand owners meet their annual targets largely by buying EPR certificates through the CPCB portal from registered recyclers or processors, and then file returns on the portal.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/dpdp-act-foreign-companies-india/
 ------------------------------------------------------------------------
 Data protection · Foreign companies · Nov 2026
@@ -250,6 +348,7 @@ An independent individual or firm acting as AIR | No Indian presence yet | The A
 - Line up the rest of your India compliance: the importer of record, labelling and, for electronics, batteries and plastic packaging, extended producer responsibility (EPR) registrations.
 
 Related: licences held by your distributor, setting up an Indian subsidiary, partner due diligence.
+Plastic packaging, electronics, batteries or tyres? EPR registration for foreign brands, and who should hold it.
 
 ## Sources
 
@@ -912,6 +1011,7 @@ Staff and data | Distributor staff who know your customers may move to a competi
 
 Related: appointing a distributor in India, PE risk with Indian agents, joint ventures in India.
 Need BIS certification? Choosing your Authorised Indian Representative.
+Plastic packaging, electronics, batteries or tyres? EPR registration for foreign brands, and who should hold it.
 
 ## Sources
 
@@ -3940,6 +4040,7 @@ See partner due diligence in India and how to verify an Indian company.
 - Agree exit terms: what happens to stores, stock and the brand if the relationship ends.
 
 Related: appointing a distributor in India, joint ventures, taking profits out of India.
+Plastic packaging, electronics, batteries or tyres? EPR registration for foreign brands, and who should hold it.
 
 ## Sources
 
