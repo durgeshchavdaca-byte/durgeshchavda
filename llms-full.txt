@@ -74,6 +74,95 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/gst-30-november-2026-itc-deadline-gstr-9/
+------------------------------------------------------------------------
+Deadline · GST · Nov 2026
+
+# Missed input tax credit for 2025-26? Claim it by 30 November
+
+Every year, GST-registered businesses lose input tax credit simply because they find the missing invoices after the cut-off. For the year April 2025 to March 2026, the cut-off is 30 November 2026. The same date is the last chance to correct errors in GSTR-1 and GSTR-3B and to report credit notes for that year. After that, the GSTR-9 annual return is due on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your GST before 30 November
+hello@durgeshchavda.com
+
+Key takeaways
+- 30 November 2026: last date for FY 2025-26 input tax credit and corrections.
+- Filing GSTR-9 early closes the window on that date.
+- GSTR-9 and 9C are due 31 December 2026.
+
+Quick answer: for FY 2025-26, 30 November 2026 is the last date to (1) claim any input tax credit not yet taken, (2) amend GSTR-1 and correct GSTR-3B, and (3) declare credit notes. If you file the GSTR-9 annual return earlier, the window closes on that date instead. The GSTR-9 annual return (optional up to ₹2 crore turnover) and GSTR-9C reconciliation (above ₹5 crore) are due 31 December 2026.
+
+## The two dates
+
+Date | What closes | Law | 
+
+30 November 2026 | Claim of FY 2025-26 input tax credit not yet availed | Section 16(4), CGST Act | 
+
+30 November 2026 | Amendments to FY 2025-26 invoices in GSTR-1 and corrections in GSTR-3B | Sections 37(3) and 39(9) | 
+
+30 November 2026 | Credit notes for FY 2025-26 supplies (to reduce output tax) | Section 34(2) | 
+
+31 December 2026 | GSTR-9 annual return and GSTR-9C reconciliation for FY 2025-26 | Section 44 and the CGST Rules | 
+
+“Whichever is earlier” matters: if you file GSTR-9 before 30 November, the credit and amendment window for the year closes when you file.
+
+Missing input tax credit for 2025-26? Get your GSTR-2B gaps and fixes checked in 15 minutes, before 30 November.Book a 15-min call
+
+## Checklist for the next 10 days
+
+- Reconcile your purchase register with GSTR-2B for April 2025 to March 2026, and list invoices where credit was never taken.
+
+- Chase suppliers who have not uploaded invoices; credit can be taken only when the invoice appears in your GSTR-2B.
+
+- Claim the missed credit in the GSTR-3B for October 2026 (due 20 November). The credit must be claimed in a return filed by 30 November 2026. Quarterly (QRMP) filers have usually filed their last return before the cut-off, so check your position now.
+
+- Fix outward supply errors: wrong GSTIN, wrong place of supply, B2B shown as B2C. Your customers lose credit if you do not.
+
+- Issue credit notes for discounts, returns and price revisions relating to FY 2025-26.
+
+- Reverse ineligible credit (blocked items, unpaid suppliers beyond 180 days, exempt use) to avoid interest later.
+
+## For foreign-owned companies and exporters
+
+- Indian subsidiaries often miss credit on head-office cross charges and imported services under reverse charge. Check that reverse-charge tax was paid and the credit taken.
+
+- Exporters claiming refunds of unutilised credit should ensure the credit is in the books by 30 November; refunds themselves have a separate two-year limit.
+
+- Annual return: GSTR-9 and 9C figures must agree with the audited accounts that your parent company will see.
+
+Related: November–December 2026 calendar, 31 December deadlines, 57th GST Council decisions.
+
+## Sources
+
+- CAclubindia: GSTR-9 due date for FY 2025-26
+- Taxscan: GST portal enables GSTR-9/9C for FY 2025-26
+- CBIC: CGST Act, 2017
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the last date to claim input tax credit for FY 2025-26?
+30 November 2026, or the date of filing the GSTR-9 annual return for FY 2025-26 if that is earlier, under section 16(4) of the CGST Act.
+
+What is the last date to amend GSTR-1 for FY 2025-26?
+30 November 2026, or the date of filing the annual return if earlier. The same limit applies to correcting GSTR-3B and declaring credit notes for FY 2025-26 supplies.
+
+When is GSTR-9 due for FY 2025-26?
+31 December 2026. GSTR-9 is optional for businesses with aggregate turnover up to Rs 2 crore, and GSTR-9C applies above Rs 5 crore.
+
+What if I find a missing invoice after 30 November 2026?
+The input tax credit on a FY 2025-26 invoice cannot be taken after 30 November 2026, so the tax becomes a cost. Reconcile with GSTR-2B and chase suppliers before the deadline.
+
+Does filing GSTR-9 early affect the ITC deadline?
+Yes. The ITC and amendment window closes on 30 November or on the date the annual return is filed, whichever is earlier.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/itr-due-date-21-november-2026-audit-cases/
 ------------------------------------------------------------------------
 Deadline · Income tax · Nov 2026
@@ -3031,6 +3120,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
 Check your deadlines
 hello@durgeshchavda.com
 
+GST deadline: 30 November 2026, last date for FY 2025-26 input tax credit.
 Key takeaways
 - Belated ITR for FY 2025-26: 31 December 2026 (revised: 31 March 2027 with a fee).
 - FAST-DS closes and APRs are due the same day.
@@ -12427,6 +12517,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
 Get your filings done
 hello@durgeshchavda.com
 
+GST deadline: 30 November 2026, last date for FY 2025-26 input tax credit.
 Due this week: audit ITR on 21 November 2026, last-day checklist.
 Key takeaways
 - Form 3CEB is due 31 Oct; ITR for audit cases 21 Nov; transfer-pricing cases 30 Nov.
