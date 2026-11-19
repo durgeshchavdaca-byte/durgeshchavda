@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/form-3ceaa-master-file-due-date-2026/
+------------------------------------------------------------------------
+Transfer pricing · Foreign groups · Nov 2026
+
+# Part of a foreign group? Form 3CEAA is due 30 November
+
+Every Indian company that belongs to an international group has a transfer-pricing filing that many groups forget because it is separate from the transfer-pricing audit report: the master file in Form 3CEAA. For FY 2025-26 it is due on 30 November 2026, the same day as the income tax return for transfer-pricing cases. Part A applies to every group entity in India, however small.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+File your master file on time
+hello@durgeshchavda.com
+
+Key takeaways
+- Form 3CEAA for FY 2025-26 is due 30 November 2026.
+- Part A: every Indian entity of a foreign group, no threshold.
+- Part B: group revenue above Rs 500 crore and transactions above Rs 50 crore.
+
+Quick answer: for FY 2025-26, Form 3CEAA is due by 30 November 2026 for companies with transfer-pricing reports (Form 3CEB). Part A must be filed by every constituent entity of an international group in India, with no threshold. Part B (the full master file) applies only where the group’s consolidated revenue exceeds ₹500 crore and the Indian entity’s international transactions exceed ₹50 crore (or ₹10 crore for intangible property). Not filing can attract a penalty of ₹5 lakh.
+
+## Who files what
+
+Situation | What to file | 
+
+Indian subsidiary, branch or project office of any foreign group | Part A: basic details of the group and the Indian entity | 
+
+Group consolidated revenue above ₹500 crore and international transactions above ₹50 crore (or intangibles above ₹10 crore) | Part A and Part B: group structure, business, intangibles, financing, financial and tax positions | 
+
+Several Indian entities in the same group | One can file for all, after a designation in Form 3CEAB filed at least 30 days earlier | 
+
+Indian parent of a group with foreign subsidiaries | Part A at least; Part B if the thresholds are met | 
+
+Indian entity of a foreign group? Check Form 3CEAA, the transfer-pricing return and your 30 November filings in 15 minutes.Book a 15-min call
+
+## Dates to keep in mind
+
+- Form 3CEB (transfer-pricing audit report): was due 31 October 2026.
+
+- Form 3CEAA (master file): due on the return due date, which is 30 November 2026 for transfer-pricing cases. If the Indian entity has no Form 3CEB, its return was due 21 November, so file Part A by then to be safe.
+
+- Income tax return for transfer-pricing cases: 30 November 2026.
+
+- Country-by-country report (Form 3CEAD): applies only to large groups and has its own dates.
+
+- From tax year 2026-27, these forms are renumbered under the Income-tax Act, 2025. The FY 2025-26 filing still uses Form 3CEAA.
+
+## What you need for Part A
+
+- Name, address and PAN or tax ID of the ultimate parent and the alternate reporting entity, if any.
+
+- List of all constituent entities of the group in India, with addresses and PANs.
+
+- The group’s accounting year and the consolidated revenue for that year, to test the ₹500 crore threshold.
+
+- Digital signature of the person authorised to sign for the Indian entity.
+
+## Common mistakes
+
+- Thinking a small subsidiary is exempt: Part A has no threshold.
+
+- Using the Indian entity’s turnover instead of the group’s consolidated revenue for the Part B test.
+
+- Waiting for head office to send group data in the last week; the Indian filing needs only basic group details for Part A.
+
+Related: Form 3CEB and transfer-pricing cases, management fees from a foreign parent, audit ITR due 21 November.
+
+## Sources
+
+- Treelife: master file and CbCR in India, thresholds and forms
+- MBG Corp: transfer pricing filing deadlines India 2026
+- Filingbase: Form 3CEAA due date 30 November 2026
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
+
+## Frequently asked questions
+What is the due date for Form 3CEAA for FY 2025-26?
+30 November 2026 for entities with transfer-pricing reports, as Form 3CEAA is due on the income tax return due date under section 139(1). No extension had been announced.
+
+Who has to file Part A of Form 3CEAA?
+Every constituent entity of an international group in India, including small subsidiaries, branches and project offices, regardless of the value of transactions.
+
+When is Part B of Form 3CEAA required?
+When the international group's consolidated revenue for the accounting year exceeds Rs 500 crore and the Indian entity's international transactions exceed Rs 50 crore, or its transactions in intangible property exceed Rs 10 crore.
+
+What is the penalty for not filing Form 3CEAA?
+A penalty of Rs 5 lakh can apply for failure to furnish the master file information.
+
+Can one Indian entity file Form 3CEAA for the whole group?
+Yes, if the group designates it by filing Form 3CEAB at least 30 days before the due date of Form 3CEAA.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/income-tax-intimation-143-1-demand-what-to-do/
 ------------------------------------------------------------------------
 Income tax · Notices · Nov 2026
@@ -403,6 +498,7 @@ Regime choice | Business owners who miss Form 10-IEA by the due date stay in the
 Last chance | Belated return by 31 December 2026. After that, only an updated return, with 25% to 70% extra tax and no refunds | 
 
 Related: November–December 2026 calendar, Form 3CEB and transfer-pricing cases, 31 December deadlines.
+Part of a foreign group? Form 3CEAA master file due 30 November 2026.
 
 ## Sources
 
@@ -3544,6 +3640,7 @@ Arm’s-length support | A cost-plus mark-up benchmarked to comparable service p
 
 Related: repatriating profits from India, royalties for technology and brand, India–US transfer pricing, Indian subsidiary compliance.
 Sending your own people to India? Tax, provident fund and secondment rules.
+Part of a foreign group? Form 3CEAA master file due 30 November 2026.
 
 ## Sources
 
@@ -12743,6 +12840,7 @@ Date | What’s due | Who |
 
 Earlier dates: October–November 2026 calendar · ITR details: ITR due dates 2026.
 Pensioner abroad? Life certificate due 30 November 2026.
+Part of a foreign group? Form 3CEAA master file due 30 November 2026.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Sources
