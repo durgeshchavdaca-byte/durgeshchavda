@@ -74,6 +74,114 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/shareholding-thresholds-india-jv-stake/
+------------------------------------------------------------------------
+Joint ventures · Company law · Nov 2026
+
+# Taking a stake in an Indian company? The percentage decides your rights
+
+Foreign companies entering India through a joint venture or a part acquisition usually negotiate hard on price and much less on the percentage. But under Indian company law the exact stake decides whether you can block a decision, run the company, keep its tax losses or later buy out the minority. A 49% partner and a 51% partner have very different positions, and so do 74% and 75%.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your stake before you sign
+hello@durgeshchavda.com
+
+Key takeaways
+- More than 25% blocks special resolutions; 75% passes them alone.
+- More than 50% gives control and makes the company a subsidiary.
+- In private companies, losing 51% continuity can wipe out tax losses.
+
+Quick answer: in an Indian company, more than 25% lets you block special resolutions (such as changing the articles or approving some mergers), more than 50% gives control of ordinary decisions and makes the company your subsidiary, 75% or more lets you pass special resolutions on your own, and 90% or more opens a route to buy out the remaining shareholders. In a private company, a change of more than 49% in voting power can also wipe out carried-forward tax losses. Agreed rights in the shareholders’ agreement and articles can change the picture, so the percentage and the documents have to be read together.
+
+## What each stake gives you
+
+Stake (voting) | What it means in an Indian company | 
+
+10% | Right to apply to the National Company Law Tribunal for relief against oppression and mismanagement (section 244 of the Companies Act, 2013) | 
+
+20% | Significant influence: the company becomes your associate under company law (section 2(6)) and usually under accounting standards (Ind AS 28), so it is equity-accounted in your group results | 
+
+More than 25% | You can block special resolutions, which need votes in favour of at least three times the votes against (section 114). This is the classic “negative control” stake | 
+
+25% (listed company) | Acquiring 25% or more of voting rights in a listed company triggers a mandatory open offer under SEBI’s takeover regulations; above 25%, creeping acquisitions are limited to 5% a year | 
+
+More than 50% | You control ordinary resolutions (board appointments, accounts, dividends) and the company becomes your subsidiary (section 2(87)) | 
+
+51% continuity | In a closely held company, carried-forward business losses survive only if shareholders holding at least 51% of voting power at the end of the loss year still hold it (section 79 of the 1961 Act, carried into the Income-tax Act, 2025) | 
+
+75% or more | You can pass special resolutions alone: alter the articles, change the name, reduce capital (with Tribunal approval), approve some related-party and restructuring steps | 
+
+90% or more | As holder of 90% or more of the equity, you can start the minority buy-out process under section 236, at a price set by a registered valuer | 
+
+Negotiating a stake in an Indian company? Check what your percentage and documents give you in 15 minutes.Book a 15-min call
+
+## Common joint venture splits
+
+Split | What usually happens in practice | 
+
+51 : 49 | The 51% partner controls the board and consolidates the company; the 49% partner relies on reserved matters in the shareholders’ agreement and has the 25%+ veto on special resolutions | 
+
+50 : 50 | Neither side controls; deadlock clauses (escalation, buy-sell, put and call options) carry the weight | 
+
+74 : 26 | The 74% partner runs the business but cannot pass special resolutions without the 26% partner, which is why 26% is a common minority stake | 
+
+76 : 24 or more | The majority partner can pass special resolutions alone; the minority depends almost entirely on contract rights | 
+
+## FEMA steps that come with the stake
+
+- Route and cap: check that your sector allows the stake you want under the automatic route, and whether government approval is needed, for example for investors from countries sharing a land border with India.
+
+- Pricing: a non-resident buying shares from a resident cannot pay less than fair value under an internationally accepted pricing method, certified by a chartered accountant, SEBI-registered merchant banker or cost accountant.
+
+- Reporting: new shares are reported in form FC-GPR within 30 days of allotment, and share purchases in form FC-TRS within 60 days.
+
+- Future changes: moving later from 49% to 51%, or to 100%, is a fresh transfer that needs pricing, reporting and possibly approvals again. Agree the method in the shareholders’ agreement now.
+
+## Before you sign: what to check
+
+- Fully diluted shareholding: count options, warrants, convertible instruments and pending allotments, not just today’s shares.
+
+- Articles of association: your reserved matters and exit rights must be in the articles, not only in the shareholders’ agreement, to bind the company.
+
+- Tax losses: if the company has carried-forward losses, check whether your entry breaks the 51% continuity test.
+
+- Group consolidation and reporting: crossing 20% or 50% changes how you report the investment at home.
+
+- Diligence on the partner: ownership, related-party dealings and regulatory history matter more than the percentage if the relationship breaks down.
+
+Related: joint venture in India: full guide, buying out your Indian JV partner, term sheet guide.
+
+## Sources
+
+- India Code: Companies Act, 2013
+- SEBI: Substantial Acquisition of Shares and Takeovers Regulations, 2011
+- DPIIT: Consolidated FDI Policy
+- Stock Titan: Perma-Pipe completes 51% India JV acquisition (19 Nov 2026)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
+
+## Frequently asked questions
+What stake gives a foreign partner a veto in an Indian company?
+More than 25% of voting rights lets you block special resolutions, because a special resolution needs votes in favour of at least three times the votes against. Specific vetoes on other decisions come from reserved matters in the shareholders' agreement and articles.
+
+Is 51% enough to control an Indian company?
+It gives control of ordinary resolutions, including board appointments and approval of accounts, and makes the company a subsidiary. It is not enough to pass special resolutions alone, which in practice needs 75% or more of the votes cast.
+
+Why is 26% a common minority stake in Indian joint ventures?
+Because more than 25% is enough to block special resolutions, such as changes to the articles of association, giving the minority partner negative control even without board control.
+
+Can a 90% shareholder buy out the minority in India?
+Yes. Under section 236 of the Companies Act, 2013, a holder of 90% or more of the equity can notify its intention to buy the remaining shares, at a price based on a registered valuer's report.
+
+Does a change in shareholding affect tax losses in India?
+Yes, for closely held companies. Carried-forward business losses can be set off only if shareholders holding at least 51% of the voting power at the end of the loss year continue to hold it in the year of set-off, subject to limited exceptions.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fast-ds-email-but-nri/
 ------------------------------------------------------------------------
 FAST-DS · NRIs · Nov 2026
@@ -6361,6 +6469,7 @@ You may have sat on the board for years, but the Indian partner usually ran oper
 - Update the board, the registers and the MCA filings; replace the partner’s guarantees.
 
 Related: setting up a joint venture in India, acquiring a company in India, FC-TRS filing guide and due diligence on Indian partners.
+How much do you need? 26%, 51%, 75%, 90%: what your stake gives you.
 
 ## Sources
 
@@ -12828,6 +12937,7 @@ Talking to an Indian JV partner? Get the structure, approvals and red flags to c
 
 Most JV disputes trace back to something knowable at the start: liabilities in the partner’s existing business, related-party dealings, unreported foreign investment or promoters with a history. Use the partner due-diligence checklist, or have us run it: due diligence on an Indian business partner.
 Sending your own people to India? Tax, provident fund and secondment rules.
+How much do you need? 26%, 51%, 75%, 90%: what your stake gives you.
 
 ## Sources
 
@@ -16187,6 +16297,7 @@ FC-TRS on RBI’s FIRMS portal within 60 days of the transfer or receipt / remit
 Most post-deal surprises in India are unreported FDI, GST mismatches and tax demands — see the due diligence checklist and our due diligence service.
 Foreign shareholder? Your Indian shares now need to be in demat form.
 Deal guides: quality of earnings review and share purchase vs business transfer.
+How much do you need? 26%, 51%, 75%, 90%: what your stake gives you.
 
 ## Sources
 
