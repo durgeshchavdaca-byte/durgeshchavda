@@ -12804,17 +12804,41 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 74 questions answered
+# India for NRIs and foreigners: 81 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
-By CA Durgesh Chavda·Last reviewed 18 November 2026·9 min read
+By CA Durgesh Chavda·Last reviewed 19 November 2026·9 min read
 
 Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## Deals, entry and set-up: foreign companies ask (19 November 2026)
+
+### Can a foreign company use a virtual office as its registered office in India?
+For correspondence, yes, but a mail-only virtual office often fails GST physical verification and bank checks. A serviced office or co-working desk with a written agreement and utility bill in the company's name is safer. Read more.
+
+### What is a quality of earnings review for an Indian company?
+A buy-side financial review that restates EBITDA to a normalised, recurring level, sets a normal working capital level and lists debt-like items. In Indian targets the biggest adjustments usually come from related-party transactions, GST and TDS gaps and pending tax demands. Read more.
+
+### Should a foreign buyer buy shares or the business of an Indian company?
+Buying shares is simplest and keeps licences in place, but the buyer inherits all past liabilities. Buying the business (a slump sale) leaves most liabilities behind but needs an Indian buyer entity and moves licences, contracts and staff across. A merger needs a tribunal-approved scheme. Read more.
+
+### How do foreign companies research the Indian market?
+By combining import-export and industry data, competitors' financial statements filed with the Ministry of Corporate Affairs, store, price and distributor checks, and a map of licences and city-level costs. A focused study takes four to eight weeks. Read more.
+
+### What do foreign companies hire Indian consultants for?
+Market research, choosing and setting up an entity, a compliant place of business, bank accounts and capital, due diligence on partners, suppliers and targets, deal structuring, joint ventures, licensing, and ongoing tax and compliance. Read more.
+
+### How long does an Indian company have to issue shares after receiving foreign investment?
+Within 60 days of receiving the money, or the amount must be refunded within the next 15 days. Form FC-GPR is then due within 30 days of issuing the shares. Read more.
+
+### Has the India-US trade deal been signed?
+Not as of 18 November 2026. A February 2026 joint statement set out a framework for an interim agreement and talks continued in New Delhi in early November. US buyers should confirm the current duty on their product with a customs broker. Read more.
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## New rules foreign companies are asking about (18 November 2026)
 
@@ -12838,7 +12862,6 @@ Yes. Section 6(4) of FEMA lets a resident keep foreign assets acquired while non
 
 ### Has the India-EU free trade agreement been signed?
 Not yet, as of 18 November 2026. Negotiations concluded on 27 January 2026 and on 11 September 2026 the European Commission asked the EU Council to approve signing and conclusion. Signing is targeted for the end of 2026, with entry into force expected in 2027. Read more.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## What foreign companies ask Indian advisers most (November 2026)
 
