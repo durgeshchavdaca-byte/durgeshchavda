@@ -1523,7 +1523,7 @@ NRI · Money transfer · 2026
 
 Money in an NRO account is not freely repatriable. To move it to your NRE account (or abroad) you need to show it is tax-paid, file a form with the tax department and, above a threshold, get a CA certificate. Here is how it works in 2026, after Forms 15CA and 15CB were renamed Forms 145 and 146.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
+By CA Durgesh Chavda·Last reviewed 19 November 2026·4 min read
 
 Move your NRO money
 hello@durgeshchavda.com
@@ -1571,6 +1571,16 @@ Amount not taxable at all (for example your own capital returned) | Yes, declari
 
 - Submit to your bank: its transfer request form, Forms 145 and 146, PAN and the source documents.
 
+## When you need a CA for an NRO to NRE transfer
+For small amounts, your bank and Form 145 are often enough. You need a chartered accountant when:
+
+- the amount crosses ₹5 lakh in the financial year, so the bank asks for a certificate in Form 146;
+- the money comes from a property sale, inheritance or gift, and the bank wants proof that tax was paid;
+- tax was deducted at a high rate and you want the excess back through your return;
+- you plan several transfers and want to stay within the USD 1 million yearly limit.
+We prepare Form 146, check the tax position and give your bank everything it needs in one go.
+Moving money from NRO to NRE or abroad? Get Form 146 and the paperwork right in one 15-minute call.Book a 15-min call · ₹499 (about USD 6)
+
 ## Common mistakes
 
 - Splitting one large amount into many transfers below ₹5 lakh. Banks look at the total for the year.
@@ -1599,6 +1609,15 @@ USD 1 million per financial year (April to March), per person, across all banks,
 
 Is money returned from a chit fund taxable for an NRI?
 The return of your own contributions is capital and is generally not taxable. Any extra amount received, such as a dividend or discount from the chit, can be taxable income and should be reported.
+
+How long does an NRO to NRE transfer take?
+Usually one to three working days once the bank has Form 145, Form 146 where needed and supporting documents. Delays mostly come from missing proof of the source of funds.
+
+Can I transfer from NRO to NRE online?
+Many banks let you start the transfer in net banking and upload Form 145 and the CA certificate, while some still ask for a signed request at the branch. Check your bank's process before you start.
+
+Is an NRO to NRE transfer taxable?
+The transfer itself is not taxed. What matters is that tax on the money in the NRO account, such as interest, rent or capital gains, has been paid or deducted, which is why banks ask for Form 145 and, above Rs 5 lakh, a CA certificate in Form 146.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
