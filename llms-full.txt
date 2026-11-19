@@ -74,6 +74,88 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/round-tripping-fema-odi-fdi-two-layer-rule/
+------------------------------------------------------------------------
+FEMA · Overseas investment · Nov 2026
+
+# Your overseas subsidiary owns an Indian company? Check the two-layer rule
+
+Indian groups often end up with a structure where money invested abroad comes back into India: an Indian parent owns a foreign holding company, which owns another foreign company, which owns an Indian company. Since August 2022 such ODI-to-FDI structures are allowed, but only within a strict layer limit. Breaching it, even later when a new step-down entity is added, is a FEMA contravention.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your structure
+hello@durgeshchavda.com
+
+Key takeaways
+- ODI-to-FDI structures are allowed, but not beyond two layers of subsidiaries.
+- The test applies at investment and at any time afterwards.
+- A breach is fixed by restructuring and, if needed, RBI compounding.
+
+Quick answer: under Rule 19(3) of the Foreign Exchange Management (Overseas Investment) Rules, 2022, a person resident in India cannot make a financial commitment in a foreign entity that has invested, or later invests, into India if the result is a structure with more than two layers of subsidiaries. The test applies at the time of investment and at any time afterwards, so adding a step-down entity later can create a breach. Banks and certain NBFCs are exempt.
+
+## Allowed or not: examples
+
+Structure | Layers of subsidiaries | Position | 
+
+Indian Co → Foreign Co A → Indian Co B | 2 | Generally within the limit | 
+
+Indian Co → Foreign Co A → Foreign Co B → Indian Co C | 3 | Exceeds the limit: needs review and likely regularisation | 
+
+A two-layer structure where Foreign Co A later sets up a new step-down entity that invests in India | Becomes 3 | Breach arises when the new layer is added | 
+
+Minority stake without control in the foreign entity | Unclear | Commentators differ on whether it counts as a subsidiary; get advice | 
+
+Overseas subsidiary invested back into India? Check your structure against the two-layer rule in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Other checks in a round-trip structure
+
+- FDI side: the Indian company receiving money from the foreign entity must follow FDI rules, including pricing, sector caps and reporting such as FC-GPR or FC-TRS.
+
+- ODI side: the Indian parent reports step-down subsidiaries in its Annual Performance Report and keeps the overseas investment within its limits.
+
+- Companies Act layers: a separate limit on layers of subsidiaries under company law has its own exemptions; meeting it does not mean the FEMA test is met.
+
+- Tax: where the foreign companies are managed from India or have no real substance, tax residence and anti-avoidance rules can come into play.
+
+## If your structure breaches the rule
+
+- Map the full chain with dates of each investment, to see when the limit was crossed.
+
+- Choose the fix: collapse a layer (move the Indian company up the chain or merge the intermediate entity), or restructure ownership.
+
+- Regularise: late reporting can often be fixed with a late submission fee; a substantive contravention may need compounding with the RBI.
+
+- Update filings: APRs, FDI reports and board records, so the next year starts clean.
+
+Related: FEMA ODI rules for a US company, APR for an overseas subsidiary, FEMA compounding.
+
+## Sources
+
+- SCC Online: changes in India's overseas investment framework and round tripping
+- Khaitan & Co: overhaul of the Overseas Direct Investment regime (Aug 2022)
+- RBI: Master Direction on Overseas Investment
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Is round tripping allowed under FEMA?
+Yes, within limits. Since the Overseas Investment Rules, 2022, an Indian entity's overseas subsidiary may invest back into India, but the structure must not exceed two layers of subsidiaries, at the time of investment or at any time afterwards. Banks and certain NBFCs are exempt.
+
+What is the two-layer rule under the Overseas Investment Rules?
+Rule 19(3) bars a person resident in India from making a financial commitment in a foreign entity that has invested or invests into India if the result is a structure with more than two layers of subsidiaries.
+
+Does adding a new step-down subsidiary later matter?
+Yes. The rule applies at any time after the investment too, so a structure that was within two layers can breach the rule when a further layer that invests in India is added.
+
+How is a breach of the two-layer rule fixed?
+Usually by restructuring to remove a layer and regularising the contravention, which may need compounding with the RBI, and then updating the APR and FDI filings.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/durgesh-chavda-alternatives/
 ------------------------------------------------------------------------
 About · Choosing an adviser · Nov 2026
@@ -8452,6 +8534,7 @@ Indian groups with subsidiaries in several countries, say Singapore, the UAE, th
 - File all APRs together through the AD bank before 31 December, and keep the audited statements on file for the next year’s filing.
 A holding company with no operations is still a controlled foreign entity, so its APR also needs audited statements even if it is exempt from audit in its own country.
 APR due 31 December? Map audits and filings for all your overseas subsidiaries in one 15-minute call.Book a 15-min call · ₹499 (about USD 6)
+Overseas subsidiary investing back into India? The two-layer rule for round tripping.
 
 ## Sources
 
