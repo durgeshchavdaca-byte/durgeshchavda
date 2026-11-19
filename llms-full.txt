@@ -74,6 +74,93 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-email-but-nri/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Nov 2026
+
+# Got the FAST-DS email but lived abroad? You may not need to declare anything
+
+The income tax department has emailed thousands of people about foreign accounts reported to India under information-exchange agreements. Many of them actually lived abroad in those years, but their returns were filed as residents, sometimes by a self-filed online form or a default setting. If that is you, the answer is usually not FAST-DS. It is proving your non-resident status and correcting the returns.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- Schedule FA and FAST-DS are for residents; NRI years usually need nothing declared.
+- Check status year by year; one year can differ from the rest.
+- Revised return for FY 2025-26 until 31 Mar 2027; older years need other routes.
+
+Quick answer: the foreign assets schedule (Schedule FA) and FAST-DS are for people who were resident and ordinarily resident in India in that year. If you were a non-resident, you generally had nothing to declare. Check your status year by year from passport stamps, reply to the advisory on the compliance portal with evidence, and correct the returns: a revised return for FY 2025-26 (until 31 March 2027, with a fee after 31 December 2026), and for older years usually a condonation request, because an updated return (ITR-U) cannot reduce tax or increase a refund.
+
+## Step 1: check your status for each year
+
+Test (Indian citizen) | You are resident if | 
+
+Basic test | You were in India 182 days or more in the financial year | 
+
+Second test | 60 days or more in the year and 365 days or more in the previous four years. For a citizen living abroad who visits India, 60 becomes 182, or 120 if Indian income (other than foreign income) exceeds ₹15 lakh | 
+
+Deemed residency | Indian income above ₹15 lakh and not liable to tax in any other country: treated as resident but not ordinarily resident | 
+
+Use our residential status calculator for each year, and keep passport scans and any foreign tax residency certificates ready. One year in the middle can come out differently from the rest, so do not assume a single answer for all years.
+
+Got the FAST-DS email but lived abroad? Share your travel dates and get a year-by-year answer in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+
+## Step 2: respond to the advisory
+
+- Log in to the compliance portal and open the FAST-DS / foreign asset information.
+
+- For each year flagged, explain that you were non-resident, with travel dates and documents such as passport stamps, residence permits and foreign tax residency certificates.
+
+- Do not file a FAST-DS declaration for years in which you were non-resident; it is meant for residents with undisclosed foreign assets or income.
+
+## Step 3: correct the returns
+
+Year | Route | 
+
+FY 2025-26 | Revised return showing non-resident status, until 31 March 2027 (late fee after 31 December 2026) | 
+
+Earlier years | An updated return (ITR-U) cannot reduce tax or increase a refund, so where the change lowers tax the usual route is a condonation of delay request with reasons and evidence, or a response in proceedings if a notice arrives | 
+
+Going forward | File as non-resident; Indian salary or income received in India can still be taxable in India, so check the treaty with your country | 
+
+## Be careful about
+
+- Income received in India: even as a non-resident, income received in India, such as salary paid into an Indian account, can be taxable in India.
+
+- Years you really were resident: if any year comes out resident and ordinarily resident, the foreign account had to be reported for that year, and FAST-DS may be the cheapest fix before 31 December 2026.
+
+- Bank and FEMA status: if you live abroad, your bank accounts should be on NRI status too.
+
+Related: got the FAST-DS email?, FAST-DS for NRIs abroad, residential status and RNOR.
+
+## Sources
+
+- Income Tax Department: Schedule FA guidance
+- Income Tax Department: residential status
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+
+## Frequently asked questions
+Do NRIs need to file FAST-DS?
+Generally no for years in which they were non-resident, because the foreign assets schedule and FAST-DS apply to people who were resident and ordinarily resident in India. Check your status for each year separately.
+
+I filed my return as a resident by mistake but lived abroad. What should I do?
+Confirm your status year by year, reply to the advisory with evidence, and correct the returns: a revised return for FY 2025-26 until 31 March 2027, and for earlier years usually a condonation of delay request, since an updated return cannot reduce tax or increase a refund.
+
+Can I file an updated return (ITR-U) to change my status to NRI?
+Only if it does not reduce tax or increase a refund. Where moving to non-resident status lowers tax, ITR-U is not available and a condonation request or a response in proceedings is the usual route.
+
+Is salary from an Indian employer taxable if I am an NRI?
+It can be, if it is received in India or relates to work done in India. The position depends on where the work is done and on the tax treaty with your country of residence.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/round-tripping-fema-odi-fdi-two-layer-rule/
 ------------------------------------------------------------------------
 FEMA · Overseas investment · Nov 2026
@@ -6770,6 +6857,7 @@ Work it out with the free FAST-DS calculator.
 ## Got the department’s email?
 
 Many NRIs received the “overseas financial interests” email too. It is an advisory, not a notice. See what the FAST-DS email means.
+Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## Sources
 
@@ -7353,6 +7441,7 @@ Work out your number with the free FAST-DS calculator, and read the full FAST-DS
 ## Who is getting it
 
 Reported cases include employees with RSUs from a foreign employer, people with accounts from their student years abroad, returning NRIs who still hold foreign accounts, and small US share investors. People who report every year have also received it, for example where one year or one brokerage account was left out. See FAST-DS for RSUs and ESOPs and FAST-DS for returning NRIs.
+Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## Sources
 
@@ -7745,6 +7834,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Purchase documents for property and policy documents for insurance or pensions.
 
 - Your travel dates for the relevant years, to confirm residential status.
+
+Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## Timeline
 
@@ -17216,6 +17307,7 @@ For small, already-taxed holdings under ₹20 lakh, FAST-DS may not be necessary
 Want it done for you? See our FAST-DS filing service.
 Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
+Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## Official sources
 
