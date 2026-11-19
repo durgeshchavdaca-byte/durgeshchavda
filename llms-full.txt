@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-19. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-20. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,93 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-tax-checklist-december-2026/
+------------------------------------------------------------------------
+NRIs · Checklist · Nov 2026
+
+# NRIs: 10 things to finish before 31 December 2026
+
+For NRIs, the last six weeks of the year carry more deadlines than any other time: the last date for a belated income tax return, the end of the FAST-DS window for anyone who was resident, pension life certificates and, for many, a home-country tax deadline right after. Here is one list in the order it should be done.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Finish your NRI checklist
+hello@durgeshchavda.com
+
+Key takeaways
+- Belated ITR and fee-free revision: 31 December 2026.
+- Claim excess TDS; check FAST-DS only for years you were resident.
+- Apply for Form 128 before selling property; count your days in India.
+
+Quick answer: before 31 December 2026, NRIs should (1) file any missing income tax return for FY 2025-26 and claim TDS refunds, (2) revise a wrong return without a fee, (3) check FAST-DS if they were resident in any year with foreign assets, (4) put bank accounts on NRO/NRE status, and (5) plan property sales and residency days for the current year. Pensioners must also submit the life certificate by 30 November.
+
+## The 10 steps
+
+# | What to do | Deadline | 
+
+1 | File the FY 2025-26 return if you have Indian income or TDS to recover (rent, interest, capital gains, property sale) | Belated return: 31 Dec 2026 | 
+
+2 | Revise a wrong return without a fee: wrong residential status, missed income, wrong deductions | 31 Dec 2026 (with a fee until 31 Mar 2027) | 
+
+3 | Claim excess TDS: banks and property buyers often deduct more than the real tax; only a return gets it back | With the return | 
+
+4 | FAST-DS check: if you were resident in any past year and did not report foreign accounts, shares or RSUs | Scheme closes 31 Dec 2026 | 
+
+5 | Got a FAST-DS email but lived abroad? Prove non-resident status year by year instead of declaring | Before replying | 
+
+6 | Bank status: resident savings accounts should be converted to NRO; keep repatriable money in NRE or FCNR | As soon as you are NRI | 
+
+7 | Pension life certificate through an Indian mission, notary, bank or Jeevan Pramaan | 30 Nov 2026 | 
+
+8 | Selling property next year? Apply for a lower TDS certificate (Form 128) before the sale, not after | Before the sale agreement | 
+
+9 | Count your days in India for FY 2026-27: 182 days, or 120 days if Indian income exceeds ₹15 lakh, can make you resident | Plan before 31 Mar 2027 | 
+
+10 | Home-country filing: report Indian income abroad and claim credit for Indian tax (for example UK self assessment by 31 January 2027) | Varies by country | 
+
+NRI with India deadlines this year? Go through your 10-point checklist with Durgesh in 15 minutes, in your time zone.Book a 15-min call
+
+## Mistakes we see every December
+
+- Filed as a resident by mistake through a default setting, which brings the foreign assets schedule and FAST-DS emails into play.
+
+- Not filing because “TDS was already deducted”, and losing a refund or the right to carry forward a capital loss.
+
+- Interest on NRO deposits taxed at the full rate when a tax treaty would give a lower rate with a tax residency certificate.
+
+- Sending money from the US in cash and paying the 1% US remittance tax that bank-account transfers avoid.
+
+Related: 31 December 2026 deadlines, FAST-DS email but you were an NRI, TDS on property sale by NRIs, US 1% remittance tax.
+
+## Sources
+
+- Income Tax Department: NRI tax guidance
+- Income Tax Department: FAST-DS FAQs
+- RBI: FAQs on accounts of non-residents
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the last date for NRIs to file the income tax return for FY 2025-26?
+31 December 2026 for a belated return. A filed return can be revised without a fee until 31 December 2026, and with a fee until 31 March 2027.
+
+Do NRIs need to file an ITR if TDS has already been deducted?
+Not always, but filing is the only way to get back excess TDS, and it is needed to carry forward capital losses. Many NRIs have refunds because banks and property buyers deduct at high rates.
+
+Does FAST-DS apply to NRIs?
+Only for years in which the person was resident and ordinarily resident in India and had unreported foreign assets or income. For years spent abroad as a non-resident, nothing needs to be declared. FAST-DS closes on 31 December 2026.
+
+How can an NRI reduce TDS on a property sale?
+By applying for a lower or nil TDS certificate in Form 128 (formerly Form 13) on TRACES before the sale, showing the actual capital gains and tax.
+
+How many days can an NRI stay in India without becoming resident?
+Generally fewer than 182 days in the financial year. For Indian citizens visiting India whose Indian income exceeds Rs 15 lakh, the threshold can be 120 days when combined with 365 days in the previous four years.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/gst-30-november-2026-itc-deadline-gstr-9/
@@ -356,6 +443,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
 Sort your pension and tax
 hello@durgeshchavda.com
 
+Year-end list: NRI tax checklist before 31 December 2026.
 Key takeaways
 - Life certificate due 30 November 2026; pension can stop from December.
 - Abroad: Indian mission, notary, magistrate or bank officer, or Jeevan Pramaan.
@@ -3120,6 +3208,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
 Check your deadlines
 hello@durgeshchavda.com
 
+Year-end list: NRI tax checklist before 31 December 2026.
 GST deadline: 30 November 2026, last date for FY 2025-26 input tax credit.
 Key takeaways
 - Belated ITR for FY 2025-26: 31 December 2026 (revised: 31 March 2027 with a fee).
@@ -7372,6 +7461,7 @@ By CA Durgesh Chavda·Last reviewed 6 November 2026·5 min read
 Check your FAST-DS position
 hello@durgeshchavda.com
 
+Year-end list: NRI tax checklist before 31 December 2026.
 Key takeaways
 - NRIs today can still need FAST-DS for years they were resident in India.
 - Common cases: accounts or RSUs before moving, the year of the move, student accounts.
@@ -9239,6 +9329,7 @@ By CA Durgesh Chavda·Last reviewed 3 November 2026·6 min read
 Get your move sorted
 hello@durgeshchavda.com
 
+Year-end list: NRI tax checklist before 31 December 2026.
 Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to declare foreign accounts, RSUs and assets missed in your returns, from a flat ₹1 lakh. Check what you would pay or get it filed.
 
 Key takeaways
@@ -15730,6 +15821,7 @@ Selling a flat, moving money out, claiming a TDS refund or working out whether y
 Ask about your NRI tax
 hello@durgeshchavda.com
 
+Year-end list: NRI tax checklist before 31 December 2026.
 Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to declare foreign accounts, RSUs and assets missed in your returns, from a flat ₹1 lakh. Check what you would pay or get it filed.
 
 Quick answers
@@ -17341,6 +17433,7 @@ By CA Durgesh Chavda·Last reviewed 18 November 2026·11 min read
 Talk to a CA about NRI tax
 hello@durgeshchavda.com
 
+Year-end list: NRI tax checklist before 31 December 2026.
 Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to declare foreign accounts, RSUs and assets missed in your returns, from a flat ₹1 lakh. Check what you would pay or get it filed.
 
 Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund example).
