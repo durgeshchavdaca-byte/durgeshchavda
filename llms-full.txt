@@ -13116,7 +13116,7 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 81 questions answered
+# India for NRIs and foreigners: 85 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
@@ -13126,7 +13126,22 @@ Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+Overseas subsidiaries 4Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## Overseas subsidiaries: APR and structure questions (19 November 2026)
+
+### Does a wholly owned overseas subsidiary need audited accounts for the APR?
+Yes. The APR must be based on audited financial statements. Unaudited accounts certified by the Indian entity's statutory auditor or a chartered accountant are allowed only where the Indian investor does not have control and the host country does not require an audit. Read more.
+
+### When is the APR due?
+By 31 December every year. Where the foreign entity's accounting year ends on 31 December, the APR is due by 31 December of the following year. Read more.
+
+### What is the late fee for a delayed APR?
+Rs 7,500 per return under RBI's late submission fee matrix (A.P. (DIR Series) Circular No. 16, 30 September 2022), available up to three years from the due date. Read more.
+
+### Can an Indian company's overseas subsidiary invest back into India?
+Yes, but the structure must not have more than two layers of subsidiaries, at the time of investment or afterwards, under Rule 19(3) of the Overseas Investment Rules, 2022. Banks and certain NBFCs are exempt. Read more.
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## Deals, entry and set-up: foreign companies ask (19 November 2026)
 
@@ -13150,7 +13165,6 @@ Within 60 days of receiving the money, or the amount must be refunded within the
 
 ### Has the India-US trade deal been signed?
 Not as of 18 November 2026. A February 2026 joint statement set out a framework for an interim agreement and talks continued in New Delhi in early November. US buyers should confirm the current duty on their product with a customs broker. Read more.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## New rules foreign companies are asking about (18 November 2026)
 
