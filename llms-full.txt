@@ -74,6 +74,101 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fdi-inventory-ecommerce-exports-press-note-3-2026/
+------------------------------------------------------------------------
+FDI · E-commerce · Sourcing · Nov 2026
+
+# Foreign-funded and selling Indian goods abroad? You can now hold inventory
+
+Until 2026, an Indian e-commerce company with foreign investment could only run a marketplace: it could not own the goods it sold. Press Note 3 (2026 Series) changes that for one purpose only, exports. A foreign-funded e-commerce entity in India can now buy and hold inventory of goods made in India and sell them to customers abroad. For global marketplaces, D2C brands and foreign buyers sourcing from India, this opens a simpler structure, as long as the domestic and export businesses are kept apart.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Plan your export structure
+hello@durgeshchavda.com
+
+Key takeaways
+- Press Note 3 (2026): inventory model allowed exclusively for exports of Indian-made goods.
+- Domestic inventory B2C with FDI remains prohibited.
+- Keep export stock separate and follow FTP and FEMA export rules.
+
+Quick answer: under DPIIT Press Note 3 (2026 Series) dated 23 July 2026, an e-commerce entity with foreign investment may run an inventory-based model exclusively for exporting goods manufactured or produced in India, following the Foreign Trade Policy, the Handbook of Procedures and FEMA export rules. The change took effect in September 2026 after the FEMA notification. Owning inventory to sell to customers inside India is still not allowed with foreign investment.
+
+## Allowed and not allowed
+
+Model | Position with FDI | 
+
+Marketplace connecting Indian sellers and buyers | Allowed, as before, subject to the marketplace conditions | 
+
+Owning inventory of Indian-made goods and selling to customers abroad | Now allowed, exclusively for exports | 
+
+Owning inventory and selling to customers in India | Still prohibited | 
+
+Owning inventory of imported goods for re-export | Not covered: the goods must be manufactured or produced in India | 
+
+Selling Indian-made goods abroad with foreign funding? Check whether the export inventory model fits your structure in 15 minutes.Book a 15-min call
+
+## Who this helps
+
+- Global marketplaces and retailers that want an Indian entity to buy from Indian manufacturers and ship to their customers abroad.
+
+- Foreign-funded D2C brands making products in India for sale overseas, which can now hold stock in the Indian company.
+
+- Foreign buyers that source from many small Indian suppliers and want one Indian entity to aggregate, check quality and export.
+
+## How to set it up properly
+
+- Keep export inventory separate from any marketplace or domestic activity: separate stock records, warehouses or bins, and accounts.
+
+- Prove Indian origin: buy from Indian manufacturers or producers and keep purchase invoices, supplier registrations and origin records for every product.
+
+- Follow export rules: an Import Export Code, shipping bills or postal/courier export documents, and realisation of export proceeds within the time allowed under FEMA.
+
+- GST: exports are zero-rated. File a letter of undertaking to export without paying IGST and claim refunds of input tax credit.
+
+- Report the FDI in the usual way (form FC-GPR or FC-TRS) and make sure the company’s stated business matches the export model.
+
+- Check supplier risk: foreign buyers increasingly need proof that Indian suppliers follow labour and environmental rules, particularly for the EU and US.
+
+## Points to watch
+
+- Read the FEMA (Non-Debt Instruments) Rules text as amended, not just the press note, before structuring.
+
+- Sales to Indian customers from the same entity, even small ones, can breach the conditions.
+
+- Returns, rejects and unsold export stock need a plan, because they cannot simply be sold in India.
+
+Related: sourcing from India, GST and the letter of undertaking, India FDI updates 2026.
+
+## Sources
+
+- EY: DPIIT permits foreign investment in export-oriented inventory-based e-commerce (Sep 2026)
+- MAS LLP: what Press Note 3 of 2026 means for businesses
+- DPIIT: Press Note 3 (2026 Series)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
+
+## Frequently asked questions
+Can a foreign-funded e-commerce company hold inventory in India?
+Only for exports. Under Press Note 3 (2026 Series) of 23 July 2026, an e-commerce entity with foreign investment may run an inventory-based model exclusively for exporting goods manufactured or produced in India.
+
+Is FDI allowed in inventory-based e-commerce for domestic sales in India?
+No. Owning inventory to sell to customers in India remains prohibited for e-commerce entities with foreign investment; the 2026 change covers exports only.
+
+When did the e-commerce export FDI change take effect?
+In September 2026, after the FEMA notification giving effect to Press Note 3 (2026 Series). One commentary dates it to 3 September 2026, the date of publication in the Official Gazette.
+
+Can the export inventory include imported goods?
+No. The permission is for goods manufactured or produced in India. Imported goods held for re-export are not covered.
+
+What rules apply to the exports under this model?
+The Foreign Trade Policy 2023, the Handbook of Procedures and FEMA's export regulations, including export documentation and realisation of export proceeds.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/form-3ceaa-master-file-due-date-2026/
 ------------------------------------------------------------------------
 Transfer pricing · Foreign groups · Nov 2026
@@ -12957,6 +13052,7 @@ May 2026 | FDI | Press Note 2 (2026) operational: land-border beneficial ownersh
 Feb 2026 | FDI | Press Note 1 (2026): 100% FDI in insurance under the automatic route. Our guide · source | 
 27 Jan 2026 | Trade | India–EU FTA negotiations concluded; signature targeted for December 2026. Our guide · source | 
 
+New in 2026: FDI in inventory e-commerce for exports (Press Note 3).
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Pending — not law yet
@@ -14671,6 +14767,7 @@ From our offices in Ahmedabad and Rajkot we cover Gujarat’s manufacturing belt
 
 Quick check first: 12 red flags of a fake or risky Indian supplier.
 US trade update: where the India–US trade deal stands, and what buyers should do meanwhile.
+New in 2026: FDI in inventory e-commerce for exports (Press Note 3).
 
 ## The report
 
@@ -14890,6 +14987,7 @@ Hiring in India? Employee benefits a foreign employer must offer (2026).
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 Next step after incorporation: opening the bank account and bringing in the capital.
 Where to start: the twelve things foreign companies ask Indian advisers for.
+New in 2026: FDI in inventory e-commerce for exports (Press Note 3).
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
