@@ -14057,7 +14057,7 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 85 questions answered
+# India for NRIs and foreigners: 93 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
@@ -14067,7 +14067,34 @@ Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-Overseas subsidiaries 4Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+Deadlines Nov 2026 8Overseas subsidiaries 4Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## Deadlines and notices: late November 2026 (20 November 2026)
+
+### What is the ITR due date for companies and audit cases for AY 2026-27?
+21 November 2026, after the CBDT extension from 31 October. Transfer-pricing cases were not extended and file by 30 November 2026. Read more.
+
+### What is the last date to claim GST input tax credit for FY 2025-26?
+30 November 2026, or the date the GSTR-9 annual return is filed if earlier. The same date applies to correcting GSTR-1 and GSTR-3B and declaring credit notes for that year. Read more.
+
+### How can an NRI pensioner submit the life certificate from abroad?
+By 30 November 2026, through Jeevan Pramaan face authentication, or with a certificate signed by an Indian embassy or consulate, a notary, a magistrate or a bank officer, sent to the pension-paying bank. Read more.
+
+### Does an Indian subsidiary of a foreign group have to file Form 3CEAA?
+Yes. Part A of the master file is required from every constituent entity of an international group, by 30 November 2026 for FY 2025-26. Part B applies only above the Rs 500 crore group revenue and Rs 50 crore transaction thresholds. Read more.
+
+### How many days do I have to respond to a 143(1)(a) proposed adjustment?
+30 days. A defective return notice under section 139(9) must be cured within 15 days, or the return is treated as invalid. Read more.
+
+### Why are taxpayers getting notices on refund claims in November 2026?
+The income tax department has flagged 11,458 high-risk refund claims worth about Rs 966 crore, mostly false allowances and deductions. A wrong claim for FY 2025-26 can be fixed with a revised return, fee-free until 31 December 2026. Read more.
+
+### When does an acquisition in India need CCI approval?
+When the parties or group cross the section 5 asset or turnover thresholds and the target is not covered by the de minimis exemption, or when the deal value exceeds Rs 2,000 crore and the target has substantial business operations in India. Read more.
+
+### What stake gives a foreign partner a veto in an Indian company?
+More than 25% of voting rights, because special resolutions need at least three times as many votes in favour as against. 75% lets a shareholder pass special resolutions alone. Read more.
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Overseas subsidiaries: APR and structure questions (19 November 2026)
 
@@ -14082,7 +14109,6 @@ Rs 7,500 per return under RBI's late submission fee matrix (A.P. (DIR Series) Ci
 
 ### Can an Indian company's overseas subsidiary invest back into India?
 Yes, but the structure must not have more than two layers of subsidiaries, at the time of investment or afterwards, under Rule 19(3) of the Overseas Investment Rules, 2022. Banks and certain NBFCs are exempt. Read more.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Deals, entry and set-up: foreign companies ask (19 November 2026)
 
