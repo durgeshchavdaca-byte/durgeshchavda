@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-18. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-19. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -74,6 +74,412 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/place-of-business-india-foreign-company/
+------------------------------------------------------------------------
+India entry · Foreign companies · Nov 2026
+
+# Need an address in India? Registered office, virtual office or co-working, explained
+
+Every Indian company needs a registered office, GST needs a principal place of business, and a foreign company that sets up its own office in India has its own filings. Pick the wrong kind of address and GST registration stalls, banks refuse the account, or the foreign parent ends up with a taxable presence in India. Here is how to choose.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Set up your India address right
+hello@durgeshchavda.com
+
+Key takeaways
+- Co-working or serviced office with an agreement usually passes GST and bank checks.
+- A foreign company's own branch or liaison office needs FC-1 within 30 days.
+- Let the Indian subsidiary hold the lease to limit permanent establishment risk.
+
+Quick answer: an Indian subsidiary must have a registered office that can receive official mail. A co-working desk or serviced office with a written agreement and utility bill usually works for company law, GST and banks. A bare mailing address often fails GST physical verification. A foreign company opening its own branch or liaison office needs the route under FEMA and must file Form FC-1 with the Registrar within 30 days. Office space used directly by the foreign parent can create a permanent establishment, so in most cases let the Indian subsidiary hold the lease.
+
+## Your options compared
+
+Option | Works for | Watch out for | 
+
+Serviced office or co-working desk with a licence agreement | New subsidiaries, small teams, GST and bank accounts | Agreement must be in the company’s name with a no-objection letter and a recent utility bill | 
+
+Virtual office (mail handling only) | Correspondence address only | GST officers may visit and reject the registration if nobody works there | 
+
+Leased office | Teams of 10+, GCCs, warehouses | Lease registration and stamp duty, state shops and establishments registration, fit-out timelines | 
+
+A director’s or partner’s premises | Very early stage | Needs owner consent; mixing with a distributor’s premises blurs control and confidentiality | 
+
+Planning an office in India? Get the right entity and address in 15 minutes.Book a 15-min call · USD 25
+
+## The rules that apply
+
+- Company law: a company must keep a registered office able to receive communications, and give its address at incorporation or file it with the Registrar.
+
+- GST: the principal place of business needs proof of possession (rent or licence agreement, or consent letter) and a utility bill, and may be physically verified.
+
+- Branch or liaison office of the foreign company: set up through an authorised dealer bank under FEMA rules, then registered with the Registrar in Form FC-1 within 30 days, with annual filings after that.
+
+- Shops and establishments: a state registration once you have staff working from the premises.
+
+- Tax: a fixed place at the foreign company’s disposal, where its own staff carry on its business, can be a permanent establishment and pull profits into Indian tax.
+
+Related: setting up a subsidiary, liaison and branch offices, permanent establishment risk.
+
+## What we cover in a 15-minute call
+Every situation is different, so the fastest way to a clear plan is a short call. In 15 minutes we will:
+
+- Check whether your entity should be a subsidiary, LLP, branch or liaison office
+- Pick an address type that will pass GST and bank checks in your city
+- Flag permanent establishment risk for your parent company
+- Map the registrations you need before your first hire or invoice
+You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+
+## Sources
+
+- Ministry of Corporate Affairs: Companies Act, 2013
+- CBIC: Goods and Services Tax
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
+
+## Frequently asked questions
+Can a foreign company use a virtual office as its registered office in India?
+It can be used for correspondence, but a mail-only virtual office often fails GST physical verification and some banks' checks. A serviced office or co-working desk with a written agreement and utility bill in the company's name is safer.
+
+Does a foreign company need to register its office in India?
+If the foreign company itself opens a branch, liaison or project office, it needs the route under FEMA through an authorised dealer bank and must file Form FC-1 with the Registrar within 30 days. An Indian subsidiary registers its own office at incorporation.
+
+Can an office in India create a permanent establishment for the foreign parent?
+Yes, if the office is at the foreign company's disposal and its own staff carry on its business from there. Having the Indian subsidiary hold the lease and run its own business reduces this risk.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/quality-of-earnings-financial-due-diligence-india/
+------------------------------------------------------------------------
+M&A · Buy-side · Nov 2026
+
+# Buying into an Indian company? What its earnings really are
+
+Reported profit in an Indian private company is rarely the number you should pay a multiple on. Promoter-related payments, unreconciled GST, cash sales, unpaid statutory dues and thin provisioning are common. A quality of earnings (QoE) review turns the audited accounts into a number you can price, and a list of items for the share purchase agreement.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Price the deal on real numbers
+hello@durgeshchavda.com
+
+Key takeaways
+- QoE turns reported profit into normalised, recurring EBITDA.
+- In India, GST, TDS, related parties and tax demands drive the biggest adjustments.
+- Findings feed the purchase agreement: indemnities, escrow and the working capital peg.
+
+Quick answer: a QoE review restates the target’s EBITDA to a normalised, recurring figure, sets a normal level of working capital, and lists debt-like items to deduct from the price. In Indian targets the biggest swings usually come from related-party transactions, GST and TDS reconciliations, statutory dues and contingent tax demands. Allow two to four weeks once the data room is open.
+
+## Adjustments we see most often in Indian targets
+
+Area | What to check | Effect on price | 
+
+Related parties | Rent, salaries, commissions or purchases with promoter entities at non-market terms | EBITDA up or down to market rates | 
+
+GST | Sales in books vs GSTR-1 vs GSTR-3B; input credit vs GSTR-2B; notices | Exposure, indemnity or escrow | 
+
+TDS and payroll | Short deduction, late deposits, PF and ESI on all wage components | Debt-like items | 
+
+Payments to MSME suppliers | Dues to micro and small suppliers paid late are disallowed for tax | Tax exposure and working capital | 
+
+Revenue quality | Customer concentration, year-end loading, cash sales, credit notes after year end | Normalised revenue and EBITDA | 
+
+Provisions | Gratuity and leave on an actuarial basis, warranties, doubtful debts | Debt-like items | 
+
+Tax demands | Income tax and GST assessments, appeals, show-cause notices | Specific indemnity or escrow | 
+
+Working capital | Seasonality, ageing of receivables and inventory, advances from customers | Normalised peg for closing adjustments | 
+
+Evaluating an Indian target? Scope the financial review in 15 minutes.Book a 15-min call · USD 25
+
+## What you get
+
+- A bridge from reported to adjusted EBITDA, item by item
+- Net debt and debt-like items for the equity value bridge
+- A normalised working capital peg
+- A list of findings for the share purchase agreement: conditions, warranties, specific indemnities and escrow
+
+Related: acquiring a company in India, due diligence checklist, red flags in Indian financial statements.
+
+## What we cover in a 15-minute call
+Every situation is different, so the fastest way to a clear plan is a short call. In 15 minutes we will:
+
+- Look at the target, the deal size and your timeline
+- Decide whether you need a full QoE, a focused review or a red-flag report
+- Flag the Indian-specific risks most relevant to the sector
+- Agree a data-room request list and a fixed-fee scope
+You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+
+## Sources
+
+- Institute of Chartered Accountants of India (ICAI)
+- GST portal: returns (GSTR-1, GSTR-3B, GSTR-2B)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
+
+## Frequently asked questions
+What is a quality of earnings review?
+A buy-side financial review that restates a target's EBITDA to a normalised, recurring level, sets a normal working capital level and identifies debt-like items, so the buyer can price the deal and protect itself in the purchase agreement.
+
+How long does a quality of earnings review take in India?
+Usually two to four weeks after the data room opens, depending on the size of the company and how quickly management answers questions.
+
+What issues come up most in Indian targets?
+Related-party transactions, gaps between books and GST returns, unpaid or late TDS, PF and ESI, late payments to micro and small suppliers, under-provided gratuity and pending tax demands.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/share-purchase-vs-business-transfer-india/
+------------------------------------------------------------------------
+M&A · Deal structure · Nov 2026
+
+# Acquiring an Indian business? Buy the shares, the business, or merge
+
+Foreign buyers can acquire an Indian business in three main ways. Each moves different risks to you and is taxed and documented differently. Choosing the structure early saves months, because it decides which approvals, valuations and filings you need.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Choose the right deal structure
+hello@durgeshchavda.com
+
+Key takeaways
+- Share purchase: simplest, but you inherit all past liabilities.
+- Business transfer: cleaner, but needs an Indian buyer entity and moves licences and staff.
+- Merger: tribunal scheme, longest timeline.
+
+Quick answer: a share purchase is simplest and keeps licences and contracts in place, but you inherit every past liability, so due diligence and indemnities matter most. A business transfer (slump sale) lets you pick the business and leave liabilities behind, but you need an Indian company to buy it, and licences, contracts and employees must move across. A merger needs a tribunal-approved scheme and takes longest. For share purchases from Indian residents, FEMA pricing rules apply and the transfer is reported in Form FC-TRS.
+
+## The three routes compared
+
+| Share purchase | Business transfer (slump sale) | Merger | 
+
+Who buys | Foreign buyer or its Indian subsidiary | An Indian company (usually your subsidiary) | Your Indian company merges with the target | 
+
+Liabilities | All stay with the company you buy | Largely left with the seller, except those that follow the business by law | Move to the merged company | 
+
+FEMA | Price not below fair value when buying from residents; FC-TRS filing; sector caps and approvals | Funding of the Indian buyer reported as FDI | Shares issued to foreign holders reported as FDI | 
+
+Seller’s tax | Capital gains on shares | Capital gains on the whole undertaking under the slump sale rules, with a fair value floor | Usually tax-neutral if conditions are met | 
+
+GST and stamp duty | No GST; stamp duty on share transfer | Transfer of a going concern is GST-exempt; stamp duty on the transfer deed and assets | Stamp duty under state law on the court order | 
+
+Employees, licences, contracts | Stay as they are; check change-of-control clauses | Must be transferred, re-issued or novated | Move with the scheme | 
+
+Typical timing | 6–12 weeks | 8–16 weeks | 6–12 months | 
+
+Acquiring in India? Pick the right structure in 15 minutes.Book a 15-min call · USD 25
+
+## How to choose
+
+- Clean company, regulated licences: share purchase with strong warranties, indemnities and escrow.
+
+- Messy history, attractive business: business transfer into your own Indian subsidiary.
+
+- Group restructuring or combining with your existing Indian entity: merger.
+
+- Sensitive sectors or a buyer from a country sharing a land border with India: government approval may be needed first.
+
+Related: quality of earnings review, acquiring a company in India, earn-outs and escrow under FEMA.
+
+## What we cover in a 15-minute call
+Every situation is different, so the fastest way to a clear plan is a short call. In 15 minutes we will:
+
+- Understand the target, what you want to buy and from whom
+- Recommend the structure and the approvals it needs
+- Outline the seller's tax and your FEMA filings
+- Set out due diligence scope, timeline and a fixed fee
+You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+
+## Sources
+
+- RBI: Master Direction on Foreign Investment in India
+- DPIIT: foreign direct investment policy
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
+
+## Frequently asked questions
+Can a foreign company buy the business of an Indian company directly?
+Not usually as a business transfer. The business and its assets are normally bought by an Indian company, typically the foreign buyer's subsidiary, which is funded through FDI. A foreign buyer can, however, buy shares of the Indian company directly.
+
+What FEMA rules apply when a foreign buyer purchases shares from Indian residents?
+The price must not be lower than the fair value set under the pricing guidelines, sector caps and approval routes apply, and the transfer must be reported in Form FC-TRS.
+
+Is a business transfer subject to GST in India?
+A transfer of a business as a going concern is exempt from GST, but stamp duty applies to the transfer deed and to certain assets under state law.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/india-market-research-foreign-companies/
+------------------------------------------------------------------------
+India entry · Market research · Nov 2026
+
+# Thinking about India? Research the market before you commit
+
+Generic reports say India is huge. What you need to know is narrower: who buys your product, at what price, through which channel, under which licences, and what competitors actually earn. Much of this can be checked from public filings and on-the-ground visits before you spend on an entity.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your India market study scoped
+hello@durgeshchavda.com
+
+Key takeaways
+- Combine desk data, competitors' filed accounts and field checks.
+- Build prices from landed cost, GST, duties and channel margins.
+- Map licences and city-level costs before choosing an entity.
+
+Quick answer: good India market research combines desk data (import-export statistics, industry bodies, government data), competitors’ filed accounts from the Ministry of Corporate Affairs, field work (store and price checks, distributor and customer interviews) and a regulatory and cost map (licences, taxes, labour, rent, state incentives). Expect four to eight weeks for a focused study.
+
+## What to find out
+
+Question | Where the answer comes from | 
+
+How big is the market really? | Import-export data by product code, industry association reports, government statistics, top-down and bottom-up sizing | 
+
+Who are the competitors and how do they perform? | Their filed financial statements, websites, marketplaces, distributor interviews | 
+
+What price can you charge? | Store visits, online marketplaces, distributor margins, landed-cost build-up including duties and GST | 
+
+How will you reach customers? | Distributor, direct, e-commerce, quick-commerce or partner models, with typical margins and credit terms | 
+
+What licences do you need? | Product rules such as BIS, FSSAI, CDSCO, EPR and import requirements | 
+
+What will it cost to operate? | Salaries, rent, compliance, logistics and state incentives in the cities you shortlist | 
+
+Considering India? Scope your market study in 15 minutes.Book a 15-min call · USD 25
+
+## Common mistakes
+
+- Sizing the market on population instead of the customers who can actually pay.
+
+- Ignoring GST, duties and channel margins in price comparisons.
+
+- Choosing a city on reputation rather than costs, talent and incentives.
+
+- Signing an exclusive distributor before testing the market.
+
+Related: India market entry research, appointing a distributor, bringing a foreign brand to India.
+
+## What we cover in a 15-minute call
+Every situation is different, so the fastest way to a clear plan is a short call. In 15 minutes we will:
+
+- Understand your product, target customers and budget
+- Identify which questions matter most for your go or no-go decision
+- Suggest the cities, channels and licences to look at first
+- Scope a focused study with a fixed fee and timeline
+You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+
+## Sources
+
+- Ministry of Corporate Affairs: company master data and filings
+- Ministry of Commerce: export-import data bank
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
+
+## Frequently asked questions
+How do foreign companies research the Indian market?
+By combining desk data such as import-export statistics and industry reports, competitors' financial statements filed with the Ministry of Corporate Affairs, field work like store, price and distributor checks, and a map of licences, taxes and operating costs.
+
+Can I see an Indian competitor's financial statements?
+Yes. Indian companies file annual financial statements with the Ministry of Corporate Affairs, and these can be obtained for a fee, giving revenue, profit, debt and related-party information.
+
+How long does India market research take?
+A focused study usually takes four to eight weeks, depending on the number of cities, channels and interviews.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/hiring-indian-consultant-foreign-company/
+------------------------------------------------------------------------
+India entry · Foreign companies · Nov 2026
+
+# Doing business in India? What foreign companies ask us for, and where to start
+
+Foreign companies usually come to us with one question and discover five more: the right entity, the address, the bank account, the partner’s background, the tax on payments, the filings that follow. Here are the twelve things we are asked for most, with a guide for each, and how a short call gets you to a plan faster.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Map your India plan
+hello@durgeshchavda.com
+
+Key takeaways
+- Twelve common needs, from market research to compliance.
+- Pick an adviser who works on the ground and gives fixed scopes.
+- A 15-minute call maps what applies to you and in what order.
+
+Quick answer: foreign companies hire Indian advisers to research the market, set up and run an entity, check partners and targets, structure deals and JVs, and stay compliant. Choose an adviser who can do the work on the ground in India, explain it in plain English, and coordinate lawyers, banks and regulators for you. Start with a 15-minute call to map what applies to you.
+
+## The twelve things we are asked for most
+
+# | What you need | Guide | 
+1 | Research the Indian market | Read | 
+2 | Choose and set up the entity (subsidiary, LLP, branch, liaison office) | Read | 
+3 | Find a place of business that passes GST and bank checks | Read | 
+4 | Open the bank account and bring in capital | Read | 
+5 | Check an Indian partner, distributor or supplier | Read | 
+6 | Buy-side due diligence on a target | Read | 
+7 | Quality of earnings and financial due diligence | Read | 
+8 | Sell-side (vendor) due diligence before a sale | Read | 
+9 | Structure an acquisition: shares, business or merger | Read | 
+10 | Set up and protect a joint venture | Read | 
+11 | License your brand or technology to an Indian company | Read | 
+12 | Run compliance, tax and payroll for your Indian entity | Read | 
+
+Not sure where to start in India? Map your plan in 15 minutes.Book a 15-min call · USD 25
+
+## How to choose an adviser in India
+
+- On the ground: can they visit sites, meet partners and deal with banks and authorities for you?
+
+- Breadth: one point of contact across tax, FEMA, company law and due diligence, with lawyers on call.
+
+- Clarity: written scope, fixed fees and timelines, and reports in English you can share with your board.
+
+- Independence: no commissions from the partners, vendors or targets they assess.
+
+More: how to choose an advisor in India, Big 4 vs boutique for due diligence.
+
+## What we cover in a 15-minute call
+Every situation is different, so the fastest way to a clear plan is a short call. In 15 minutes we will:
+
+- Understand what you are planning in India and your timeline
+- Tell you which of the twelve areas apply to you, and in what order
+- Flag approvals, taxes and risks early
+- Give you a plan and, if useful, a fixed-fee scope
+You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+
+## Sources
+
+- DPIIT: foreign direct investment policy
+- Invest India: setting up a business in India
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
+
+## Frequently asked questions
+What do foreign companies hire Indian consultants for?
+Most often for market research, choosing and setting up an entity, finding a compliant place of business, opening bank accounts, due diligence on partners, suppliers and acquisition targets, structuring acquisitions and joint ventures, licensing, and ongoing tax and compliance.
+
+How do I find a reliable consultant in India?
+Look for a qualified professional who works on the ground, gives a written scope and fixed fee, explains the law in plain English, coordinates lawyers and banks for you and takes no commissions from the parties they assess.
+
+Can I speak to an Indian chartered accountant before committing?
+Yes. CA Durgesh Chavda offers a 15-minute call for foreign companies to map what applies to them and the next steps, with slots shown in your time zone.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/india-us-trade-deal-2026-status/
 ------------------------------------------------------------------------
 Trade deals · US buyers · 18 Nov 2026
@@ -106,7 +512,7 @@ Mid-2026 | US tariff measures and their legal basis change; negotiations slow, t
 
 14 November 2026 | India’s External Affairs Minister says the bulk of issues are sorted and a deal could be sealed soon | 
 
-Buying from India for the US? Check your suppliers and origin documents before the next order.Book a 15-min call · ₹499 (about USD 6)
+Buying from India for the US? Check your suppliers and origin documents before the next order.Book a 15-min call · USD 25
 
 ## What US buyers should do now
 
@@ -131,7 +537,7 @@ We run supplier checks and site visits across India for US buyers, and coordinat
 - White House: United States–India Joint Statement (February 2026)
 - Swarajya: Jaishankar says India–US trade agreement could be sealed soon (14 Nov 2026)
 - US CBP: Enforce and Protect Act (EAPA)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Has the India–US trade deal been signed?
@@ -183,7 +589,7 @@ Quick answer: open a current account in the Indian company’s name with an auth
 
 - Issue the shares within 60 days of receiving the money, and file FC-GPR on the RBI’s FIRMS portal within 30 days of issue, with a valuation certificate and the company secretary’s declaration.
 
-Setting up your Indian company? Get the bank account, capital and FC-GPR sequence right in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Setting up your Indian company? Get the bank account, capital and FC-GPR sequence right in 15 minutes.Book a 15-min call · USD 25
 
 ## Documents banks usually ask for
 
@@ -215,7 +621,7 @@ We handle the sequence end to end: choosing the bank, preparing and apostille ch
 
 - RBI: Master Direction on Foreign Investment in India (reporting, FC-GPR)
 - RBI: FIRMS portal
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreign company open a bank account for its Indian subsidiary before incorporation?
@@ -371,7 +777,7 @@ Tyres | EPR for waste tyres (from 2022) | CPCB tyre EPR portal |
 
 One product can trigger several regimes: a power bank in a plastic blister pack touches e-waste, batteries and plastic packaging.
 
-Bringing your products to India? Sort out EPR, BIS and who holds your licences in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Bringing your products to India? Sort out EPR, BIS and who holds your licences in 15 minutes.Book a 15-min call · USD 25
 
 ## Who registers when the brand is foreign
 
@@ -414,7 +820,7 @@ We set up the India side: entity choice, partner checks on your importer or dist
 - CPCB: Centralized EPR portal for plastic packaging
 - CPCB: EPR portal for battery waste management (FY 2025-26 return extension)
 - India Briefing: Extended Producer Responsibility in India, notes for foreign manufacturers
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does a foreign brand need EPR registration to sell in India?
@@ -465,7 +871,7 @@ Date | What starts | What it means for you |
 
 13 May 2027 | Rules 3, 5 to 16, 22 and 23, plus the core of the Act | Full obligations: notices, consent, security, breach reporting, children, retention, rights, penalties | 
 
-Foreign company with Indian users or vendors? Map what DPDP means for you in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Foreign company with Indian users or vendors? Map what DPDP means for you in 15 minutes.Book a 15-min call · USD 25
 
 ## Does it apply to your company?
 
@@ -534,7 +940,7 @@ We coordinate the India side: entity structure, vendor and partner checks, and c
 - MeitY: Digital Personal Data Protection framework (Act and Rules)
 - AZB & Partners: India's DPDP framework comes into effect (19 Nov 2025)
 - Taxmann: DPDP Act and Rules 2025, timeline and obligations
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does India's DPDP Act apply to foreign companies?
@@ -586,7 +992,7 @@ Quick answer: under the BIS Foreign Manufacturers Certification Scheme (FMCS), a
 
 - Carries accountability in India for the licence, so BIS can act through the AIR if products fail to conform.
 
-Foreign manufacturer applying for BIS? Get your AIR, importer and compliance set-up planned in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Foreign manufacturer applying for BIS? Get your AIR, importer and compliance set-up planned in 15 minutes.Book a 15-min call · USD 25
 
 ## Who can be your AIR
 
@@ -617,7 +1023,7 @@ Plastic packaging, electronics, batteries or tyres? EPR registration for foreign
 
 - BIS: Nomination of Authorized Indian Representative (FMCS)
 - BIS: FMCS frequently asked questions
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does a foreign manufacturer need an Indian representative for BIS certification?
@@ -785,7 +1191,7 @@ If a group builds or operates any money-gaming product for other countries from 
 
 The Rules also set up the Online Gaming Authority of India under MeitY to classify and register games and to enforce the law, including against offshore platforms.
 
-Gaming group looking at India? Get a clear view of what your model can legally do here, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Gaming group looking at India? Get a clear view of what your model can legally do here, in 15 minutes.Book a 15-min call · USD 25
 
 ## Setting up a permitted gaming business
 
@@ -815,7 +1221,7 @@ Related: resident director requirement, setting up a subsidiary, India entry ser
 - PIB: Promotion and Regulation of Online Gaming Act, 2025
 - Taxmann: ban on online money games in India
 - DPIIT: Consolidated FDI Policy (prohibited sectors)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Is online gaming legal in India for foreign companies?
@@ -868,7 +1274,7 @@ Option | How it works | Good for | Watch out for |
 
 4. Non-SMS OTPs | WhatsApp authentication messages, email, voice OTP or authenticator apps | Reducing dependence on SMS | User reach (not every user can be reached this way), and separate WhatsApp business verification | 
 
-Foreign app with Indian users and OTPs failing? Get the right DLT route and tax structure for your case in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Foreign app with Indian users and OTPs failing? Get the right DLT route and tax structure for your case in 15 minutes.Book a 15-min call · USD 25
 
 ## DLT steps once you have an Indian principal entity
 
@@ -898,7 +1304,7 @@ Handling personal data? India’s DPDP Act for foreign companies: what starts on
 - TRAI: Telecom Commercial Communications Customer Preference Regulations, 2018
 - Exotel: DLT registration steps and timelines
 - Infobip: DLT registration (headers and KYC)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreign company register on DLT in India?
@@ -1145,7 +1551,7 @@ Quick answer: check that the exact legal name appears and matches across the sup
 
 12 | Cases, insolvency or lender charges against the company | Financial stress before you place a big order | 
 
-Unsure about an Indian supplier? Send us the name and get our view on the risks in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Unsure about an Indian supplier? Send us the name and get our view on the risks in 15 minutes.Book a 15-min call · USD 25
 
 ## Free checks you can do yourself
 
@@ -1183,7 +1589,7 @@ For a first order above what you can afford to lose, a long-term supply agreemen
 - DGFT: IEC profile
 - MCA: company and LLP master data
 - Udyam registration portal
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How do I check if an Indian supplier is genuine?
@@ -1240,7 +1646,7 @@ Non-compete after termination | Generally void as a restraint of trade (Indian C
 
 Exclusivity and pricing controls | Exclusive distribution, refusal to deal and resale price maintenance can breach the Competition Act if they harm competition | 
 
-Switching your Indian distributor? Get an exit plan that protects your licences, stock and receivables, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Switching your Indian distributor? Get an exit plan that protects your licences, stock and receivables, in 15 minutes.Book a 15-min call · USD 25
 
 ## The practical traps
 
@@ -1282,7 +1688,7 @@ Plastic packaging, electronics, batteries or tyres? EPR registration for foreign
 - Specific Relief Act, 1963, section 14 (as amended in 2018)
 - Competition Act, 2002, section 3(4)
 - BIS Compulsory Registration Scheme: Authorised Indian Representative
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Do you have to pay compensation to terminate a distributor in India?
@@ -1335,7 +1741,7 @@ Assignment of 183 days or more, or salary cross-charged to India | Taxable in In
 
 Long-term move (182 days or more in India in a year) | Resident; often “not ordinarily resident” in the first years | As RNOR, foreign income is generally not taxed in India; once ordinarily resident, worldwide income is taxed. See residential status | 
 
-Sending staff to India for a project or secondment? Get the tax, PF and GST position for your plan in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Sending staff to India for a project or secondment? Get the tax, PF and GST position for your plan in 15 minutes.Book a 15-min call · USD 25
 
 ## Secondment to an Indian subsidiary or JV: the three risks
 
@@ -1383,7 +1789,7 @@ Related: hiring in India without an entity, employee benefits in India, manageme
 - EPFO: International Workers brochure
 - Lakshmikumaran & Sridharan: EPF Scheme 2026 and international workers (Sept 2026)
 - Income Tax Department: tax treaties (DTAA)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Is a foreign employee's salary taxable in India for a short business trip?
@@ -1436,7 +1842,7 @@ Quick answer: start with a check on the buyer (are they solvent, are they still 
 
 - Stop further shipments on credit until there is a payment plan.
 
-Indian customer owes you money? Get your fastest realistic route to payment in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Indian customer owes you money? Get your fastest realistic route to payment in 15 minutes.Book a 15-min call · USD 25
 
 ## Your options compared
 
@@ -1487,7 +1893,7 @@ Unhappy with your current partner? How to end or switch an Indian distributor.
 - Commercial Courts Act, 2015 (section 12A pre-institution mediation)
 - Code of Civil Procedure, 1908, section 44A (reciprocating territories)
 - Limitation Act, 1963 (Schedule; section 18 acknowledgment)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How can a foreign company recover money from an Indian company?
@@ -1538,7 +1944,7 @@ Subsidiary in SEZ, STPI or GIFT City | Specific tax or infrastructure needs | Lo
 
 More detail: how to set up a GCC in India and EOR vs subsidiary.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What we handle
 
@@ -1584,7 +1990,7 @@ Monthly compliance, refunds, reporting and annual audit.
 
 - Repatriation: profits go back through service fees, dividends or buybacks, each taxed differently; see repatriating profits.
 
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How long does it take to set up a GCC in India?
@@ -1985,7 +2391,7 @@ GST | 18% under reverse charge on services imported from the parent; between rel
 
 FEMA | Current account transaction; paid through the bank with the agreement and invoices; no cap | Indian subsidiary’s bank | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## The “make available” test
 
@@ -2025,7 +2431,7 @@ Sending your own people to India? Tax, provident fund and secondment rules.
 - Income Tax Department: tax treaties (DTAA)
 - CBIC: GST valuation rules and reverse charge
 - OECD Transfer Pricing Guidelines, Chapter VII (intra-group services)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can an Indian subsidiary pay management fees to its foreign parent?
@@ -2076,7 +2482,7 @@ Voluntary liquidation (IBC section 59) | Solvent company with assets, contracts 
 
 Share sale | The business has value to someone else (a JV partner, a competitor, management) | Sell the shares; the company continues under new owners | Sale to an Indian resident must be at or below fair value and reported in Form FC-TRS; buyer withholds tax on the parent’s capital gain | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Before you close: the clean-up list
 
@@ -2118,7 +2524,7 @@ Foreign shareholder? Your Indian shares now need to be in demat form.
 - Companies Act, 2013, section 248 (MCA)
 - Insolvency and Bankruptcy Board of India: voluntary liquidation
 - RBI: Master Direction on Foreign Investment in India
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How can a foreign company close its Indian subsidiary?
@@ -2173,7 +2579,7 @@ Construction or installation PE | A building site, construction, installation or
 
 Significant Economic Presence (domestic law) | Payments from India above ₹2 crore a year, or systematic interaction with 3 lakh or more users in India | Applies only where there is no treaty, or the treaty allows it | 
 
-Staff or agents working in India for you? We check your PE exposure in one short call.Book a 15-min call · ₹499 (about USD 6)
+Staff or agents working in India for you? We check your PE exposure in one short call.Book a 15-min call · USD 25
 
 ## Common situations with Indian partners
 
@@ -2235,7 +2641,7 @@ Living in India but running a company abroad? Residency, POEM, PE and FEMA expla
 - Income Tax Department: tax treaties (DTAA)
 - CBDT: Significant Economic Presence thresholds (Rule 11UD, 2021)
 Recharging group costs? Management fees from an Indian subsidiary to its parent.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 When does a foreign company have a permanent establishment in India?
@@ -2577,7 +2983,7 @@ EU Forced Labour Regulation (EU) 2024/3015 | Any company placing products on, or
 
 Related rules on specific products: EU deforestation regulation, CBAM for steel and aluminium, and for US buyers, UFLPA traceability.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What European buyers ask Indian suppliers for
 
@@ -2625,7 +3031,7 @@ Reputation | Litigation, regulator actions, media and NGO reports |
 - Covington: CSDDD/CSRD Omnibus published in the Official Journal (Feb 2026)
 - DIHK: changes to the German Supply Chain Act
 - European Commission: Forced Labour Regulation
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does the EU CSDDD still apply after the 2026 Omnibus?
@@ -2690,7 +3096,7 @@ No treaty, or no documents | 20% + surcharge + cess | Domestic rate for royaltie
 
 Treaty rates are applied on the gross royalty, without surcharge or cess. Always check the current treaty text and protocol for your country; see our India–US treaty guide.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Documents your Indian licensee will ask for
 
@@ -2741,7 +3147,7 @@ Related: appointing a distributor in India, contract manufacturing in India, Ind
 - Income Tax Department: tax treaties (DTAA)
 - RBI: Master Direction on liberalised current account transactions
 - Supreme Court: Engineering Analysis Centre of Excellence v CIT (2021)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How much tax does India withhold on royalties paid to a foreign company?
@@ -2997,7 +3403,7 @@ Key people | Contracts of top managers, ESOPs, bonuses tied to the deal | Retent
 
 Data and privacy | How employee data is held and shared | Readiness for the Digital Personal Data Protection Act as it is phased in | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Red flags
 
@@ -3027,7 +3433,7 @@ Related: full due diligence checklist, employee benefits under the Labour Codes,
 
 - BDO India: implementation of the Labour Codes (21 November 2025)
 - Ministry of Labour and Employment
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What should HR due diligence cover in an Indian acquisition?
@@ -3156,7 +3562,7 @@ Step | What happens | Typical time |
 
 There is no minimum capital requirement for a private company, but the capital should cover the first months of running costs.
 
-Planning an Indian subsidiary? Get the structure, timeline and cost for your case in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Planning an Indian subsidiary? Get the structure, timeline and cost for your case in 15 minutes.Book a 15-min call · USD 25
 Sending OTP SMS to Indian users? DLT registration for foreign companies.
 
 ## After incorporation
@@ -3189,12 +3595,13 @@ Sending OTP SMS to Indian users? DLT registration for foreign companies.
 
 - Not sure? Try the India entry structure chooser.
 Next step after incorporation: opening the bank account and bringing in the capital.
+Choosing an address: place of business in India for a foreign company.
 
 ## Sources
 
 - Ministry of Corporate Affairs: SPICe+ incorporation
 - RBI: Master Direction, Foreign Investment in India (FC-GPR, FLA)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How long does it take to set up a subsidiary in India?
@@ -4161,7 +4568,7 @@ Key takeaways
 
 - India is 3.5 to 4.5 hours ahead of France, so calls fit comfortably in the French working day.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -4202,7 +4609,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 - Legifrance: Loi n° 2016-1691 (Sapin II)
 - Legifrance: Loi n° 2017-399 (devoir de vigilance)
 - Agence française anticorruption (AFA)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Who can do due diligence on an Indian company for a French company?
@@ -4257,7 +4664,7 @@ Joint venture | Equity in an Indian company | Dividends, plus royalties if licen
 
 Own subsidiary (single-brand retail) | Full | Retail profits | Full | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## FDI rules if you own the stores
 
@@ -4307,13 +4714,14 @@ See partner due diligence in India and how to verify an Indian company.
 
 Related: appointing a distributor in India, joint ventures, taking profits out of India.
 Plastic packaging, electronics, batteries or tyres? EPR registration for foreign brands, and who should hold it.
+Before you enter: how to research the Indian market.
 
 ## Sources
 
 - DPIIT (Consolidated FDI Policy, retail trading)
 - RBI: Master Direction, Foreign Investment in India
 - WIPO: Madrid System members (India)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreign brand open its own stores in India?
@@ -4366,7 +4774,7 @@ Date | What happens |
 
 Covered goods: iron and steel, aluminium, cement, fertilisers, hydrogen and electricity, including many downstream steel and aluminium products such as screws, bolts and structures. The 50-tonne threshold is cumulative net mass per importer per year (it does not apply to hydrogen and electricity).
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Why Indian supply matters
 
@@ -4418,7 +4826,7 @@ Related: EUDR and Indian suppliers, sourcing from India, vendor due diligence.
 - Kopik: CBAM 2026 deadlines, declarations and certificate dates
 - CBAMfix: CBAM deadlines 2026 and 2027
 - Carboneer: CBAM enters the definitive period
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does CBAM apply to steel imported from India?
@@ -4473,7 +4881,7 @@ Soya, cocoa, oil palm | Soya meal, cocoa products, palm-based derivatives |
 
 Cattle | Listed cattle products; check the current scope for leather, which the Commission has proposed changing | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What you need from Indian suppliers
 
@@ -4533,7 +4941,7 @@ Related: UFLPA and traceability from Indian suppliers, sourcing from India, Indi
 - Mayer Brown: EUDR, what lies ahead in 2026
 Importing steel or aluminium? CBAM and Indian suppliers: the data you need.
 Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 When does the EUDR apply?
@@ -4590,7 +4998,7 @@ Defence | Reasonable fraud prevention procedures, as described in Home Office gu
 
 Penalty | Unlimited fine | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Where India comes in
 
@@ -4646,7 +5054,7 @@ Related: anti-bribery law for foreign companies in India, signs of fraud in an I
 - WilmerHale: UK failure to prevent fraud offence to come into force
 - Sidley: the new UK corporate offence of failure to prevent fraud
 - K&L Gates: UK Fraud Strategy Framework 2026 to 2029
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does the UK failure to prevent fraud offence apply to Indian subsidiaries and agents?
@@ -4789,7 +5197,7 @@ Quick answer: before awarding an aerospace or defence contract to an Indian supp
 
 - Domestic programmes and offset or indigenisation requirements push foreign primes to build Indian supply chains.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## The checks that matter
 
@@ -4848,7 +5256,7 @@ Related: vendor due diligence in India, contract manufacturing checklist, sourci
 - GE Aerospace: plans to nearly double supplier spend in India
 - IBEF: GE Aerospace to boost India supply-chain spending to US$400 million by 2030
 - Legal500: up to 74% FDI under the automatic route in defence
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How do I verify an Indian aerospace supplier's AS9100 certificate?
@@ -4905,7 +5313,7 @@ The Press Note was issued on 15 March 2026; commentators report the matching FEM
 
 The land-border countries are China, Pakistan, Bangladesh, Nepal, Bhutan, Myanmar and Afghanistan. Investors from Pakistan and Bangladesh face separate restrictions as well.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Who this affects in practice
 
@@ -4943,7 +5351,7 @@ Related: acquiring a company in India, joint ventures in India, India FDI update
 - INAAC Advisors: FDI Press Note 2 (2026), investors with land-border ownership
 - Sansa Legal: Press Note 2 (2026), beneficial ownership tests
 - PwC India: DPIIT amends FDI policy on investments from land-border countries
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What is Press Note 2 of 2026?
@@ -5247,7 +5655,7 @@ Paid leave and holidays | All employees | Set by the state Shops and Establishme
 
 Professional tax, Labour Welfare Fund | Depends on the state | Small state levies withheld from salary and/or paid by the employer | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What the Labour Codes changed
 
@@ -5335,7 +5743,7 @@ Sending your own people to India? Tax, provident fund and secondment rules.
 - Upstox: EPFO wage ceiling hiked to Rs 25,000, Gazette notification
 - Remunance: India Labour Codes 2026, employer impact and state rules
 People side of the deal: HR due diligence checklist for India.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What employee benefits must a French or Singapore company offer in India?
@@ -5530,7 +5938,7 @@ Reporting | Form FC-TRS within 60 days of the payment or the transfer, whichever
 
 Stamp duty | 0.015% of the consideration on the share transfer | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Tax on both sides
 
@@ -5580,7 +5988,7 @@ Related: setting up a joint venture in India, acquiring a company in India, FC-T
 - Aviva: agreement to purchase the remaining 26% stake in its India joint venture
 Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
 Leaving India? How to close or exit an Indian subsidiary.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreign company buy out its Indian joint venture partner?
@@ -6927,7 +7335,7 @@ Need it checked on the ground? We verify the licence, the company and the factor
 
 Under India’s Medical Devices Rules, 2017, devices are classified by risk: Class A (low), Class B (low to moderate), Class C (moderate to high) and Class D (high). The class decides who issues the licence and how closely the factory is examined.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Which licence your supplier should hold
 
@@ -6969,7 +7377,7 @@ Related: Indian supplier verification and site visits and due diligence on India
 
 - CDSCO: Regulatory pathway under the Medical Devices Rules, 2017
 - CDSCO: FAQs on medical devices
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Which licence does an Indian medical device manufacturer need?
@@ -9210,7 +9618,7 @@ Key takeaways
 
 - India is 9.5 to 12.5 hours ahead of Canada, so we work Indian evenings for calls with Toronto and Vancouver.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -9248,7 +9656,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 
 - Justice Laws — Corruption of Foreign Public Officials Act
 - Public Safety Canada — Forced labour and child labour in supply chains
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Who can do due diligence on an Indian company for a Canadian company?
@@ -9301,7 +9709,7 @@ Step by step: how a foreign company sets up a subsidiary in India, and how long 
 
 - The other director(s) can be anywhere in the world — typically executives of the foreign parent.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Who can fill the seat
 
@@ -9345,7 +9753,7 @@ Next step after incorporation: opening the bank account and bringing in the capi
 
 - Companies Act 2013 — India Code
 - Ministry of Corporate Affairs (MCA21)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does a foreign-owned company in India need an Indian director?
@@ -9434,6 +9842,8 @@ A business visa usually covers meetings and setting up; working in India for an 
 Yes — book a 15-minute call. Topmate shows available slots in your own time zone.
 
 More: doing business in India guide · India questions answered · India business glossary.
+
+Where to start: the twelve things foreign companies ask Indian advisers for.
 
 ## Where you are
 
@@ -9830,7 +10240,7 @@ Key takeaways
 
 - Time to fix: many issues — late FEMA filings, unreconciled GST, missing approvals — can be regularised before the deal, but not in the last week.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What to review before the buyer does
 
@@ -9865,6 +10275,7 @@ The buyer’s view of the same exercise: due diligence checklist · financial re
 We run vendor due diligence for Indian companies preparing for a foreign buyer or investor, fix what can be fixed — FEMA regularisation, GST reconciliations, overdue filings — and help build the data room and answer the buyer’s questions. See fundraising and deal support and FEMA & RBI compliance.
 Quick check first: 12 red flags of a fake or risky Indian supplier.
 Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
+Deal guides: quality of earnings review and share purchase vs business transfer.
 
 ## Sources
 
@@ -9873,7 +10284,7 @@ Handling personal data? India’s DPDP Act for foreign companies: what starts on
 Aerospace or defence parts? Supplier due diligence for aerospace and defence in India.
 Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
 Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What is vendor due diligence?
@@ -9994,7 +10405,7 @@ Key takeaways
 
 One sign alone is rarely proof. Several together — especially in purchasing, cash and related parties — justify a closer look.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Quick checks head office can run
 
@@ -10022,7 +10433,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 - Institute of Chartered Accountants of India — Forensic Accounting and Investigation Standards
 UK group with India operations? Failure to prevent fraud: what it means for your India operations.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What are the common signs of fraud in an Indian subsidiary?
@@ -10067,7 +10478,7 @@ Talk it through first — free. Book a 15-minute intro call with Durgesh to scop
 
 - A lender, investor or board asking for an independent forensic review.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What we investigate
 
@@ -10108,7 +10519,7 @@ US, UK and European groups need facts from their Indian subsidiary to decide on 
 Before you buy, a forensic lens on the target is often cheaper than an investigation after: transaction due diligence · red flags in Indian company financials.
 
 Guide: 12 warning signs of fraud in your Indian subsidiary.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What is a forensic audit in India?
@@ -10295,7 +10706,7 @@ Key takeaways
 
 - The presumption follows the inputs. A finished product made in India is covered if a covered input is used anywhere in its supply chain.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Where Indian supply chains carry exposure
 
@@ -10342,7 +10753,7 @@ US trade update: where the India–US trade deal stands, and what buyers should 
 - U.S. Department of Homeland Security — UFLPA Entity List
 Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
 Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does the UFLPA apply to goods made in India?
@@ -10387,7 +10798,7 @@ Mid-size investment or JV in India | Possible, but fees and partner time may not
 Distributor, supplier or agent checks | Rarely needed | A good fit: fixed scope, quick, with site visits | 
 First check on an unknown Indian company | Not needed | A good fit: a fixed-fee company check | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## When a Big 4 or large network is the right call
 
@@ -10429,7 +10840,7 @@ We are a Chartered Accountant-led team based in Ahmedabad, with offices in Mumba
 
 - Institute of Chartered Accountants of India
 Comparing advisors? How to choose an advisor in India: checklist for foreign companies.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Do I need a Big 4 firm for due diligence in India?
@@ -10472,7 +10883,7 @@ Key takeaways
 
 - India is three and a half hours behind Korea — mornings in India overlap with afternoons in Seoul.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -10507,7 +10918,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 - World Bank STAR — Foreign bribery frameworks self-assessment: South Korea
 - Global Law Experts — Anti-corruption compliance in South Korea
 - BKL — Legal update on the Korean Foreign Bribery Act (2026)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Who can do due diligence on an Indian company for a Korean company?
@@ -10557,7 +10968,7 @@ Level | Question it answers | What’s included | Cost and time |
 
 Start with Level 1 when you are about to pay an advance, sign a distribution agreement or shortlist suppliers. Move to Level 2 or 3 when the money, exclusivity or reputation at stake is larger. Order an India Company Check.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What drives the cost of full due diligence
 
@@ -10586,7 +10997,7 @@ What a full report looks like: sample due diligence report (illustrative).
 - Ministry of Corporate Affairs — company records
 - GST portal — search taxpayer
 Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How much does it cost to check an Indian company?
@@ -10881,7 +11292,7 @@ Key takeaways
 
 - Same working day: India is two and a half hours behind Singapore.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -10918,7 +11329,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 - DPIIT — FDI statistics
 - Singapore Statutes Online — Prevention of Corruption Act 1960
 - Income Tax Department — India–Singapore DTAA
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Who can do due diligence on an Indian company for a Singapore investor?
@@ -11224,7 +11635,7 @@ hello@durgeshchavda.com
 Company identifiers 8Tax 10GST and trade 7Foreign investment (FEMA) 12Deals and disputes 7
 
 ## Company identifiers
-CINCorporate Identity Number — the unique number the Ministry of Corporate Affairs gives every Indian company. More.LLPINLLP Identification Number — the equivalent of a CIN for a limited liability partnership.DINDirector Identification Number — a unique number every director of an Indian company must hold. More.MCA / MCA21The Ministry of Corporate Affairs and its online portal, where company records, filings and financial statements are kept. More.ROCRegistrar of Companies — the MCA office that registers companies and receives their filings.AOC-4 / MGT-7Annual company filings with MCA: AOC-4 for financial statements, MGT-7 for the annual return (shareholders, directors). More.Private limited companyIndia's most common company form, with limited liability and restrictions on share transfers — the usual vehicle for foreign subsidiaries. More.LLPLimited liability partnership — open to foreign investment only in sectors allowing 100% automatic-route FDI without conditions. More.Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+CINCorporate Identity Number — the unique number the Ministry of Corporate Affairs gives every Indian company. More.LLPINLLP Identification Number — the equivalent of a CIN for a limited liability partnership.DINDirector Identification Number — a unique number every director of an Indian company must hold. More.MCA / MCA21The Ministry of Corporate Affairs and its online portal, where company records, filings and financial statements are kept. More.ROCRegistrar of Companies — the MCA office that registers companies and receives their filings.AOC-4 / MGT-7Annual company filings with MCA: AOC-4 for financial statements, MGT-7 for the annual return (shareholders, directors). More.Private limited companyIndia's most common company form, with limited liability and restrictions on share transfers — the usual vehicle for foreign subsidiaries. More.LLPLimited liability partnership — open to foreign investment only in sectors allowing 100% automatic-route FDI without conditions. More.Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Tax
 PANPermanent Account Number — the income-tax identifier for people and entities, including foreign companies with Indian tax matters. More.TANTax Deduction Account Number — needed by those who deduct tax at source (individual buyers of property from NRIs can use PAN since October 2026). More.TDSTax deducted at source — tax the payer withholds from payments such as salaries, fees, royalties and payments to non-residents. More.TCSTax collected at source — collected by the seller or bank on certain transactions, such as overseas remittances under LRS. More.Income-tax Act, 2025The law that replaced the Income-tax Act, 1961 from 1 April 2026, renumbering sections and forms. More.Form 41The treaty-relief information form a non-resident files online — formerly Form 10F. More.TRCTax residency certificate — issued by a person's home tax authority; needed to claim treaty rates in India. More.DTAADouble taxation avoidance agreement — India's tax treaty with another country. More.PEPermanent establishment — a taxable presence of a foreign company in India, such as an office or dependent agent. More.Forms 145 / 146The remittance declaration (145) and CA certificate (146) for payments abroad — formerly Forms 15CA and 15CB. More.
@@ -11236,7 +11647,7 @@ GST / GSTINGoods and Services Tax — India's indirect tax; GSTIN is the 15-char
 FEMAForeign Exchange Management Act, 1999 — the law governing foreign investment and cross-border payments. More.FDIForeign direct investment — investment by a non-resident in an Indian company's capital. More.Automatic routeFDI that needs no prior government approval, only reporting — available in most sectors. More.Press Note 3The 2020 rule requiring government approval for investment from countries bordering India — eased in 2026 for non-controlling stakes up to 10%. More.FC-GPRThe RBI form reporting shares issued to a foreign investor — due within 30 days of allotment. More.FC-TRSThe RBI form reporting a share transfer between a resident and a non-resident — within 60 days. More.FLA returnAnnual return on foreign liabilities and assets filed with RBI by 15 July. More.FIRMSRBI's online portal for foreign-investment reporting.AD bankAuthorised dealer bank — a bank permitted by RBI to handle foreign-exchange transactions and many FEMA approvals.ODI / APROverseas direct investment by Indian residents, and the annual performance report filed on each overseas entity. More.ECBExternal commercial borrowing — loans to Indian entities from foreign lenders.Liaison / branch / project officeWays a foreign company can be present in India without an Indian company, each with RBI rules. More.
 
 ## Deals and disputes
-NCLTNational Company Law Tribunal — handles insolvency, mergers and company-law disputes.IBCInsolvency and Bankruptcy Code, 2016 — India's insolvency law.SEBISecurities and Exchange Board of India — the securities-market regulator.AIFAlternative Investment Fund — a SEBI-registered private fund (Categories I, II and III). More.GIFT City / IFSCIndia's international financial services centre in Gujarat, regulated by IFSCA. More.DPIITDepartment for Promotion of Industry and Internal Trade — issues FDI policy and press notes.CCICompetition Commission of India — reviews larger mergers and acquisitions.Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+NCLTNational Company Law Tribunal — handles insolvency, mergers and company-law disputes.IBCInsolvency and Bankruptcy Code, 2016 — India's insolvency law.SEBISecurities and Exchange Board of India — the securities-market regulator.AIFAlternative Investment Fund — a SEBI-registered private fund (Categories I, II and III). More.GIFT City / IFSCIndia's international financial services centre in Gujarat, regulated by IFSCA. More.DPIITDepartment for Promotion of Industry and Internal Trade — issues FDI policy and press notes.CCICompetition Commission of India — reviews larger mergers and acquisitions.Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -11295,7 +11706,7 @@ May 2026 | FDI | Press Note 2 (2026) operational: land-border beneficial ownersh
 Feb 2026 | FDI | Press Note 1 (2026): 100% FDI in insurance under the automatic route. Our guide · source | 
 27 Jan 2026 | Trade | India–EU FTA negotiations concluded; signature targeted for December 2026. Our guide · source | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Pending — not law yet
 
@@ -11307,7 +11718,7 @@ Related: the US 1% remittance tax.
 Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% test.
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 Buying into a listed company? FPI vs FDI, the 25% open offer and preferential allotments.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What changed for foreign investors in India in 2026?
@@ -11420,7 +11831,7 @@ Chartered Accountants for financial, tax and FEMA work, alongside lawyers for le
 
 ### What's the difference between verification and full due diligence?
 Verification answers 'is this company real and roughly what it claims?' from records and a visit. Full due diligence reviews three years of financials, tax, FEMA, related parties and liabilities, with deal recommendations. More.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Records and checks
 
@@ -11466,7 +11877,7 @@ That every past foreign investment was reported (FC-GPR within 30 days, FC-TRS w
 Unfamiliar term? See the India business glossary for foreign companies.
 See also: due diligence cost.
 Choosing an adviser? Big 4 or a smaller firm for due diligence in India.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -11506,7 +11917,7 @@ Outsourcing / technology vendor | Data, delivery and continuity | Ownership, fin
 
 Investment or acquisition | Valuation and hidden liabilities | Full financial, tax and FEMA due diligence | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Three levels of checks
 
@@ -11567,7 +11978,7 @@ Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, ta
 UK group with India operations? Failure to prevent fraud: what it means for your India operations.
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 For French companies: due diligence in India for French companies.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How do I do due diligence on an Indian company before partnering?
@@ -11619,7 +12030,7 @@ Key takeaways
 
 - US deal teams want findings in their language: quality of earnings, liabilities, conditions to close.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -11674,7 +12085,7 @@ US trade update: where the India–US trade deal stands, and what buyers should 
 - Skadden — cross-border enforcement priorities 2026
 - DLA Piper — DOJ department-wide corporate enforcement policy (Mar 2026)
 - The Tribune — India–US trade agreement first phase (Oct 2026)
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Do US companies still need FCPA due diligence on Indian partners?
@@ -11724,7 +12135,7 @@ Key takeaways
 - One English-language report your legal, procurement and finance teams can all use.
 
 Met an Indian partner at the UK’s CETA Marketplace in Mumbai (13 October 2026) or on a trade mission? Start with an India Company Check (USD 249) before you sign.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -11760,7 +12171,7 @@ Accounting firm? See outsourced tax prep for US CPA firms, support for UK practi
 
 - Home Office — failure to prevent fraud guidance
 - Travers Smith — updated SFO compliance guidance
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Does the UK failure to prevent fraud offence apply to Indian partners?
@@ -11808,7 +12219,7 @@ Key takeaways
 
 - German Mittelstand firms need a reliable partner in India — not a large agency.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -11851,7 +12262,7 @@ For French companies: due diligence in India for French companies.
 - Handelsblatt — Lieferkettengesetz amendment stalled (Jun 2026)
 - PwC Switzerland — CBAM definitive regime
 - SteelOrbis — India–EU FTA signing timeline
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Do German companies still need supply-chain due diligence on Indian suppliers?
@@ -11899,7 +12310,7 @@ Key takeaways
 
 - Many Gulf investors are NRIs or have NRI founders — we handle that side too.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Your home-country rules — and what they mean for an Indian partner
 
@@ -11932,7 +12343,7 @@ We are Chartered Accountants, not lawyers: home-country legal advice on complian
 ## Sources
 
 - BusinessWorld — India–UAE BIT comes into effect
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Who can do due diligence in India for a UAE investor?
@@ -11980,7 +12391,7 @@ LLP | Service JVs with simple governance | Foreign investment only in sectors wi
 
 Contractual JV (no new entity) | Distribution, licensing, project cooperation | Permanent-establishment and withholding-tax exposure for the foreign party | 
 
-Talking to an Indian JV partner? Get the structure, approvals and red flags to check, in 15 minutes.Book a 15-min call · ₹499 (about USD 6)
+Talking to an Indian JV partner? Get the structure, approvals and red flags to check, in 15 minutes.Book a 15-min call · USD 25
 
 ## Foreign investment rules
 
@@ -12025,7 +12436,7 @@ Investor with Chinese or other land-border owners? Press Note 2 (2026): the 10% 
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
 People or agents in India? Check your permanent establishment (PE) risk.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreign company form a joint venture in India?
@@ -12694,7 +13105,7 @@ Virtual / fractional CFO for your India business
 Valuations for FDI and transactions | 
 
 Also in Deutsch · 日本語.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Who uses us
 
@@ -12724,6 +13135,8 @@ Records, filings, visits, meetings and follow-ups — handled by our team, with 
 ### You get it in writing
 Reports and filings in English, referenced to documents or public records, ready for your board, lawyers or auditors.
 
+Where to start: the twelve things foreign companies ask Indian advisers for.
+
 ## What we don’t do
 
 We’re Chartered Accountants, so legal opinions, litigation in courts and immigration work stay with lawyers — we coordinate with them. We don’t act as a nominee shareholder or sign as a director on your behalf, and we don’t do anything that would compromise our independence as auditors or advisers.
@@ -12738,7 +13151,7 @@ Comparing advisors? How to choose an advisor in India: checklist for foreign com
 Accounting firm? See outsourced tax prep for US CPA firms, support for UK practices and bookkeeping for US and UK businesses.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Unfamiliar term? See the India business glossary for foreign companies.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Who can do work in India on behalf of a foreign company?
@@ -12799,7 +13212,7 @@ JV partner or distributor | Is this company what it says it is? | Company verifi
 Lender or procurement team | Can this supplier perform and pay? | Verification + filed financials + GST filing record | 
 
 Our output is a written due diligence report (sometimes called a due diligence dossier) in English, with findings, red flags and supporting evidence. See a sample report structure.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## What we check
 
@@ -12843,6 +13256,8 @@ Data-room review, public-record checks and management calls. Material issues are
 ### Report
 A red-flag report with quantified exposures, and drafting points for the SPA and closing conditions.
 
+Where to start: the twelve things foreign companies ask Indian advisers for.
+
 ## How we work with clients abroad
 
 - Fully remote: engagement letter and NDA by e-signature, data through your virtual data room or a shared drive, calls on your time zone (US mornings, Europe and Gulf afternoons, Japan and Singapore mornings IST).
@@ -12867,7 +13282,7 @@ Aerospace or defence parts? Supplier due diligence for aerospace and defence in 
 Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, approvals, diligence.
 People side of the deal: HR due diligence checklist for India.
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Which firm can do due diligence on an Indian company for a small or mid-size foreign investment?
@@ -12922,7 +13337,7 @@ Talk it through first — free. Book a 15-minute intro call with Durgesh to scop
 
 - DIY version: how to verify an Indian company.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## The site visit
 
@@ -12959,7 +13374,7 @@ Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers
 Partnering rather than investing? Due diligence on an Indian business partner (JV, distributor, supplier, licensee) · joint venture in India guide.
 Guides: contract manufacturing checklist · appointing a distributor.
 Building an India supply base? Sourcing from India (China+1) guide.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How do I verify a supplier in India before paying?
@@ -13009,7 +13424,7 @@ What will it cost? | Set-up, payroll (with PF, gratuity and statutory costs), re
 
 Who else is there? | Competitor and partner financials from public filings (below) | 
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Research from public filings — India’s hidden advantage
 
@@ -13037,6 +13452,8 @@ Every Indian company, private or listed, files its financial statements and annu
 
 - When you decide to go ahead, we can handle the company setup in India.
 
+Before you enter: how to research the Indian market.
+
 ## How we work with clients abroad
 
 - Fully remote: engagement letter and NDA by e-signature, data through your virtual data room or a shared drive, calls on your time zone (US mornings, Europe and Gulf afternoons, Japan and Singapore mornings IST).
@@ -13046,7 +13463,7 @@ Every Indian company, private or listed, files its financial statements and annu
 - On the ground when needed: offices in Ahmedabad, Mumbai, Bengaluru, Rajkot and Dubai for site visits, bank meetings and management interviews.
 
 - Clear scope: CA work — accounting, tax, FEMA and corporate filings. Legal opinions come from your lawyers; we work alongside them.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What is included in an India market entry study?
@@ -13104,7 +13521,7 @@ Project office | A specific contract in India | Limited to executing that projec
 RBI issued draft regulations in October 2025 to simplify how foreign companies open branch and liaison offices; until they are finalised, the existing regulations apply.
 
 Want it done for you? GCC setup services for mid-sized companies →
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Tax at a glance
 
@@ -13156,11 +13573,12 @@ Comparing advisors? How to choose an advisor in India: checklist for foreign com
 Hiring in India? Employee benefits a foreign employer must offer (2026).
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 Next step after incorporation: opening the bank account and bringing in the capital.
+Where to start: the twelve things foreign companies ask Indian advisers for.
 
 ## More for foreign companies
 India market entry researchFeasibility, regulatory mapping, cost and tax models, and partner research from public filings.Indian subsidiary complianceAccounting, tax, FEMA and ROC compliance for Indian subsidiaries — reported to the parent.India tax for foreign companiesWithholding, treaty relief (TRC, Form 41), PAN, PE reviews, returns and GST for foreign suppliers.Due diligence in IndiaFinancial, tax and FEMA due diligence on Indian companies for foreign investors and acquirers.India entry structure chooserLiaison office, branch, subsidiary, LLP or employer of record? Answer five questions.
 日本語のご案内はこちら。
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 How can a foreign company set up in India?
@@ -13315,7 +13733,7 @@ Talk it through first — free. Book a 15-minute intro call with Durgesh to scop
 
 - We prepare your pack once a year and explain it to your Indian customers’ finance teams. Guide: Form 41, TRC and the no-PE declaration.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Permanent establishment reviews
 
@@ -13351,7 +13769,7 @@ Paying a parent in Japan? India–Japan withholding tax and the 10% treaty rate.
 Selling software to India? when Indian buyers deduct TDS.
 Licensing instead of selling? How royalties from India are taxed and paid.
 People or agents in India? Check your permanent establishment (PE) risk.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Why is my Indian customer deducting tax from my invoice?
@@ -15193,7 +15611,7 @@ Key takeaways
 
 - Debt, guarantees and charges (cross-check MCA’s index of charges).
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## Income tax and GST
 
@@ -15238,6 +15656,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Business licences and sector registrations (these, with litigation, are for your legal counsel).
 
 Want it run for you? Due diligence in India — financial, tax and FEMA, with SPA drafting points.
+Deal guides: quality of earnings review and share purchase vs business transfer.
 
 ## Sources
 
@@ -15247,7 +15666,7 @@ Partnering rather than investing? Due diligence on an Indian business partner (J
 See also: 13 financial red flags.
 See also: how much it costs.
 People side of the deal: HR due diligence checklist for India.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What documents are needed for due diligence of an Indian company?
@@ -15291,7 +15710,7 @@ Key takeaways
 
 - Buyers with beneficial owners in a land-border country: under Press Note 2 (2026 Series), non-controlling beneficial ownership up to 10% can use the automatic route; more than that, or control, needs approval.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## 2. Price within the FEMA pricing guidelines
 
@@ -15325,6 +15744,7 @@ FC-TRS on RBI’s FIRMS portal within 60 days of the transfer or receipt / remit
 
 Most post-deal surprises in India are unreported FDI, GST mismatches and tax demands — see the due diligence checklist and our due diligence service.
 Foreign shareholder? Your Indian shares now need to be in demat form.
+Deal guides: quality of earnings review and share purchase vs business transfer.
 
 ## Sources
 
@@ -15339,7 +15759,7 @@ Buying into a lender? Foreign investment in Indian banks and NBFCs: limits, appr
 People side of the deal: HR due diligence checklist for India.
 Holding back part of the price? FEMA rules on deferred payment, escrow and earn-outs.
 Buying into a listed company? FPI vs FDI, the 25% open offer and preferential allotments.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreign company buy an Indian company?
@@ -15381,7 +15801,7 @@ Step by step: how a foreign company sets up a subsidiary in India, and how long 
 
 A liaison office is a representative office a foreign company opens in India with permission processed by its bank under RBI rules. It can only act as a communication channel — representing the parent, promoting its products and collaboration — and cannot earn income or do business. A branch office, by contrast, can carry on permitted commercial activities and is taxed as a foreign company.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## At a glance
 
@@ -15434,6 +15854,7 @@ RBI published draft regulations in October 2025 that would drop the profit and n
 ## Office or subsidiary?
 
 Most foreign companies that plan to sell in India choose a subsidiary — it’s taxed at a lower rate and limits liability. Compare options in the structure chooser.
+Choosing an address: place of business in India for a foreign company.
 
 ## Sources
 
@@ -15441,7 +15862,7 @@ Most foreign companies that plan to sell in India choose a subsidiary — it’s
 - Income Tax Department — Form 162 FAQs
 - Vinod Kothari — RBI draft branch/office regulations (Oct 2025)
 Leaving India? How to close or exit an Indian subsidiary.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 What is the difference between a liaison office and a branch office in India?
@@ -15775,7 +16196,7 @@ Quick answer: Form 41 is the self-declaration a non-resident (for example a fore
 Form 41 is the form a non-resident files on India’s income-tax portal to claim tax-treaty benefits. It replaced Form 10F from 1 April 2026 under the Income-tax Rules, 2026, and gives the details a tax residency certificate may not contain — status, nationality, tax identification number, period and address. Indian payers ask for it, with a TRC and often a no-PE declaration, before applying a treaty withholding rate to payments abroad.
 
 Indian customer asking for Form 41, TRC and a no-PE letter? We prepare the full withholding pack for foreign vendors →
-Your Indian customer is holding payment until you send Form 41? In 15 minutes we tell you exactly what to send and what rate should apply.Book a 15-min call · ₹499 (about USD 6)
+Your Indian customer is holding payment until you send Form 41? In 15 minutes we tell you exactly what to send and what rate should apply.Book a 15-min call · USD 25
 
 ## Why your Indian customer is asking
 
@@ -15856,7 +16277,7 @@ We can prepare this pack for you — India tax for foreign companies.
 - Income Tax Department — Form 41 note
 Licensing instead of selling? How royalties from India are taxed and paid.
 People or agents in India? Check your permanent establishment (PE) risk.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Is Form 41 the same as Form 10F?
@@ -16674,7 +17095,7 @@ Exceed 10% in a company and the excess must be sold within 5 trading days, or th
 Indirect exposure — India ETFs and ADRs listed abroad — needs no Indian registration at all.
 
 Foreign investor or OCI setting up to invest in India? Book a 15-minute call on the right route and tax →
-Not sure which route fits you: FPI, foreign individual, OCI or FDI? Get the right route, account set-up and tax in one short call.Book a 15-min call · ₹499 (about USD 6)
+Not sure which route fits you: FPI, foreign individual, OCI or FDI? Get the right route, account set-up and tax in one short call.Book a 15-min call · USD 25
 
 ## What changed in 2026
 
@@ -16699,7 +17120,7 @@ Not sure which route fits you: FPI, foreign individual, OCI or FDI? Get the righ
 - SEBI — SWAGAT-FI circular (Jan 2026)
 Related: the reverse: Indians investing in US stocks · tax on IPO gains.
 Buying into a listed company? FPI vs FDI, the 25% open offer and preferential allotments.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Can a foreigner invest in the Indian stock market?
@@ -16859,7 +17280,7 @@ Three months in (October 2026): on 13 October the UK held its first CETA Marketp
 
 - The Double Contributions Convention (DCC), signed on 10 February 2026, took effect the same day.
 
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · USD 25
 
 ## The social-security win: no double contributions
 
@@ -16884,7 +17305,7 @@ Income tax between India and the UK is still governed by the India–UK tax trea
 - Chambers — India-UK CETA in force
 - AccountingWEB — UK-India double contributions
 UK group with India operations? Failure to prevent fraud: what it means for your India operations.
-Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call · ₹499 (about USD 6)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
 
 ## Frequently asked questions
 Is the India–UK trade deal in force?
