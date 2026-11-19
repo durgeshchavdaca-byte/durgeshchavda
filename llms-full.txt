@@ -74,6 +74,106 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/franchise-foreign-brand-india/
+------------------------------------------------------------------------
+India entry · Franchising · Nov 2026
+
+# Franchising your brand in India? Structure, royalties, tax and the right partner
+
+Food, fitness, education, retail and services brands increasingly enter India through franchising: a local partner invests and operates, and you earn fees and royalties. Done well it is the fastest way into a large market. Done badly you lose control of your brand to a partner you cannot easily replace. Here is how foreign brands set it up.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Plan your India franchise
+hello@durgeshchavda.com
+
+Key takeaways
+- No separate franchise law: the agreement, trademarks, FEMA and tax govern it.
+- Royalties go abroad without RBI approval; treaty rate with TRC and Form 41.
+- Franchisee pays GST under reverse charge; diligence the partner first.
+
+Quick answer: India has no separate franchise law; your franchise is governed by the agreement, trademark law, FEMA, tax and competition rules. Franchise fees and royalties can be paid abroad without RBI approval. The Indian franchisee withholds tax on royalties, at a lower treaty rate if you give a tax residency certificate and Form 41 and have no permanent establishment in India, and pays GST under reverse charge. Register your trademark in India first, and diligence the franchisee before you sign.
+
+## Choosing the model
+
+Model | How it works | Best when | 
+
+Master franchise | One Indian partner gets rights for India (or a region) and sub-franchises | You want speed and a partner with capital and local reach | 
+
+Area development | A partner opens a set number of outlets in a territory, without sub-franchising | You want growth with more control | 
+
+Direct franchising | You sign with each franchisee yourself, often through an Indian subsidiary | You have a local team to support outlets | 
+
+Joint venture | You co-own the Indian operating company with a partner | You want a share of outlet profits, not just royalties | 
+
+Franchising into India? Get the model, tax and partner checks right in 15 minutes.Book a 15-min call · USD 25
+
+## What the agreement must cover
+
+- Territory, exclusivity and development schedule, with consequences for missing targets
+
+- Fees: upfront franchise fee, ongoing royalty, marketing fund, and how they are calculated and audited
+
+- Brand standards, training, supply of proprietary products, and inspection rights
+
+- Trademark licence terms and ownership of local customer data, domain names and social accounts
+
+- Term, renewal, termination, step-in rights and post-termination de-branding
+
+- Governing law and arbitration seat (often Singapore or India), and enforceability in India
+
+## Money, tax and GST
+
+Item | How it works | 
+
+Paying you abroad | Franchise fees and royalties are current account payments through the franchisee’s bank; no RBI approval needed | 
+
+Withholding tax | The franchisee deducts tax on royalties and fees; your treaty rate applies with a tax residency certificate, Form 41 and a no-PE declaration | 
+
+Tax remittance forms | Forms 145 and 146 (formerly 15CA/15CB) with each remittance | 
+
+GST | The franchisee pays GST on your fees under reverse charge and usually claims it back as input credit | 
+
+Your own presence | Staff of yours working in India for long periods can create a permanent establishment; plan visits and support carefully | 
+
+## Choosing the franchisee
+
+Most franchise failures in India trace back to the partner: thin capital, related-party leakage, unpaid taxes or a hidden competing business. Check the company’s filings, promoters, litigation, GST compliance and site locations before granting exclusivity. See our partner due diligence checklist and licensing your brand to an Indian company.
+
+## What we cover in a 15-minute call
+Every situation is different, so the fastest way to a clear plan is a short call. In 15 minutes we will:
+
+- Understand your brand, unit economics and target cities
+- Recommend master, area or direct franchising, or a JV
+- Set out the royalty tax, GST and treaty paperwork
+- Scope franchisee due diligence and a fixed fee
+You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+
+## Sources
+
+- RBI: Master Direction on current account transactions
+- Controller General of Patents, Designs and Trade Marks
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call · USD 25
+
+## Frequently asked questions
+Is there a franchise law in India?
+No separate franchise law. Franchising is governed by the franchise agreement under contract law, the Trade Marks Act, FEMA, income tax, GST and competition law.
+
+Can an Indian franchisee pay royalties to a foreign franchisor without RBI approval?
+Yes. Franchise fees and royalties are current account payments that the franchisee's bank can remit without RBI approval, with tax withheld and Forms 145 and 146 filed.
+
+How are franchise royalties from India taxed?
+The Indian franchisee withholds tax on the royalty. The lower rate under the tax treaty with the franchisor's country applies if it provides a tax residency certificate, Form 41 and confirms it has no permanent establishment in India. The franchisee also pays GST under reverse charge.
+
+Should a foreign brand register its trademark in India before franchising?
+Yes. Registering the mark in India, directly or through the Madrid Protocol, protects it against the franchisee and others and makes the licence in the agreement enforceable.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/place-of-business-india-foreign-company/
 ------------------------------------------------------------------------
 India entry · Foreign companies · Nov 2026
@@ -457,6 +557,7 @@ Every situation is different, so the fastest way to a clear plan is a short call
 - Flag approvals, taxes and risks early
 - Give you a plan and, if useful, a fixed-fee scope
 You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+Franchising? How foreign brands franchise in India.
 
 ## Sources
 
@@ -3141,6 +3242,7 @@ Transfer pricing | If the licensee is your subsidiary or otherwise related, the 
 - Gross-up clause: state whether royalties are net of Indian tax; most licensors agree a gross figure and claim a foreign tax credit at home.
 
 Related: appointing a distributor in India, contract manufacturing in India, India tax for foreign companies.
+Franchising? How foreign brands franchise in India.
 
 ## Sources
 
@@ -4715,6 +4817,7 @@ See partner due diligence in India and how to verify an Indian company.
 Related: appointing a distributor in India, joint ventures, taking profits out of India.
 Plastic packaging, electronics, batteries or tyres? EPR registration for foreign brands, and who should hold it.
 Before you enter: how to research the Indian market.
+Franchising? How foreign brands franchise in India.
 
 ## Sources
 
