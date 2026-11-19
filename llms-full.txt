@@ -74,6 +74,265 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/itr-due-date-21-november-2026-audit-cases/
+------------------------------------------------------------------------
+Deadline · Income tax · Nov 2026
+
+# Audit-case ITR is due on 21 November 2026
+
+The income tax return for companies, businesses whose accounts are audited and partners of audited firms is due on Saturday, 21 November 2026, after the CBDT extended it from 31 October. Filing even a day late costs more than the late fee: some losses and deductions are lost for good, and business owners can lose the choice of tax regime.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·4 min read
+
+Get it filed on time
+hello@durgeshchavda.com
+
+Key takeaways
+- Audit-case ITR is due 21 November 2026; transfer-pricing cases 30 November.
+- Filing late loses business and capital loss carry-forward.
+- Business owners must file Form 10-IEA by the due date for the old regime.
+
+Quick answer: the ITR for audit cases for FY 2025-26 (assessment year 2026-27) is due 21 November 2026. The tax audit report was due 21 October 2026. Transfer-pricing cases (with Form 3CEB) were not extended: Form 3CEB was due 31 October and their ITR is due 30 November 2026. Miss 21 November and you can still file a belated return by 31 December 2026, but you pay a late fee and interest and lose the right to carry forward most losses.
+
+## Who must file by 21 November
+
+- Companies, including foreign companies with Indian income such as royalties, fees for technical services or a permanent establishment, unless they have transfer-pricing reports (then 30 November).
+
+- Businesses and professionals whose accounts must be audited under section 44AB.
+
+- Partners of firms whose accounts are audited, and their spouses where income is clubbed.
+
+ITR due on 21 November? Check your return, losses and regime choice before you file, in 15 minutes.Book a 15-min call
+
+## Last-day checklist
+
+- Tax audit report on file and accepted on the portal; the ITR figures must match it.
+
+- AIS, Form 26AS and TIS reconciled with the books: TDS credits, interest, dividends, high-value transactions.
+
+- Self-assessment tax paid before filing, with interest under sections 234B and 234C.
+
+- Regime choice: individuals with business income who want the old regime must file Form 10-IEA by the due date. Companies opting for the lower rate for the first time file their option form by the due date too.
+
+- Foreign assets: residents must report foreign accounts, shares and RSUs in Schedule FA. If something was missed in earlier years, FAST-DS closes on 31 December 2026.
+
+- E-verify within 30 days of filing, or the return is treated as not filed.
+
+## If you miss 21 November
+
+What you lose or pay | Details | 
+
+Late fee | ₹5,000 under section 234F (₹1,000 if total income is up to ₹5 lakh) | 
+
+Interest | 1% a month on unpaid tax under section 234A, from the due date | 
+
+Losses | Business losses and capital losses of the year cannot be carried forward (house property loss and unabsorbed depreciation are the exceptions) | 
+
+Certain deductions | Profit-linked deductions in Part C of Chapter VI-A (for example section 80-IAC for start-ups) are allowed only if the return is filed by the due date | 
+
+Regime choice | Business owners who miss Form 10-IEA by the due date stay in the new regime for the year | 
+
+Last chance | Belated return by 31 December 2026. After that, only an updated return, with 25% to 70% extra tax and no refunds | 
+
+Related: November–December 2026 calendar, Form 3CEB and transfer-pricing cases, 31 December deadlines.
+
+## Sources
+
+- India Briefing: CBDT extends ITR due date for tax audit cases to 21 November
+- CAclubindia: tax audit due date extended to 21 October 2026, ITR to 21 November
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the ITR due date for audit cases for AY 2026-27?
+21 November 2026. The CBDT extended it from 31 October 2026, and the tax audit report deadline from 30 September to 21 October 2026.
+
+Was the ITR due date for transfer-pricing cases extended?
+No. Form 3CEB was due on 31 October 2026 and the ITR for transfer-pricing cases is due on 30 November 2026.
+
+What happens if a company misses the 21 November ITR deadline?
+It can file a belated return by 31 December 2026 with a late fee and interest, but business and capital losses of the year cannot be carried forward, and some profit-linked deductions are lost.
+
+Does a foreign company with Indian income have to file by 21 November?
+Yes, a foreign company is a company for this purpose, so its due date is the audit-case date of 21 November 2026, or 30 November 2026 if it has international transactions needing Form 3CEB.
+
+Can I still choose the old tax regime if I file late?
+Not if you have business income. Form 10-IEA to opt for the old regime must be filed by the due date under section 139(1); a belated return stays in the new regime.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/income-tax-notice-high-risk-refund-claim/
+------------------------------------------------------------------------
+Income tax · Notices · Nov 2026
+
+# Got a notice about your refund claim? Respond before it becomes scrutiny
+
+The income tax department has identified 11,458 high-risk cases across India with refund claims of about Rs 966 crore, according to a report on 17 November 2026. Notices are going to salaried taxpayers who claimed allowances and deductions on the basis of fake documents, and the department is also acting against their employers. Many taxpayers say a consultant made the claims without their knowledge. Whatever the cause, the answer is the same: respond on time and correct the return the right way.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Get your notice handled
+hello@durgeshchavda.com
+
+Key takeaways
+- 11,458 high-risk refund claims (Rs 966 crore) flagged; notices are going out.
+- Correct a wrong claim by revised return (FY 2025-26) or ITR-U (earlier years).
+- Misreporting can cost up to 200% of the tax as penalty.
+
+Quick answer: if you get a notice or email about a refund claim, do not ignore it. Check what was claimed in your return. If a deduction was wrong, for example HRA without real rent, a donation you never made or inflated medical or education claims, the cheapest fix is a revised return for FY 2025-26 (fee-free until 31 December 2026, and with a fee until 31 March 2027), or an updated return (ITR-U) for earlier years with 25% to 70% extra tax. Leaving it to scrutiny risks a penalty of up to 200% of the tax for misreporting.
+
+## What is being flagged
+
+- House rent allowance claimed without real rent payments, or with rent receipts from relatives that do not hold up.
+
+- Donations under section 80G, and to political parties, that were never made or were refunded in cash.
+
+- Inflated deductions for insurance, medical, education loan interest or home loan interest.
+
+- Clusters of returns filed by the same intermediary, with common email addresses or mobile numbers.
+
+Got a notice about your refund claim? Share the notice and get the right fix and reply plan in 15 minutes.Book a 15-min call
+
+## How to respond
+
+- Read the notice carefully: note the section, the year, what is asked and the deadline. Log in to the e-filing portal and check the compliance and e-proceedings tabs.
+
+- Get your filed return and computation and compare every deduction with your actual documents.
+
+- If the claim is genuine, reply with evidence: rent agreement and bank transfers, donation receipts with bank proof, insurance and loan statements.
+
+- If the claim was wrong, correct it before the department does: revise the FY 2025-26 return, or file ITR-U for earlier years if allowed, and pay the tax and interest.
+
+- Do not use the same intermediary who made false claims, and keep a record that the filing was done without your knowledge if that is the case.
+
+## Your options by year
+
+Year | Route | 
+
+FY 2025-26 (AY 2026-27) | Revised return: fee-free until 31 December 2026, with a fee until 31 March 2027 | 
+
+Earlier years | Updated return (ITR-U): 25% to 70% extra tax depending on the delay; not available once certain assessment or reassessment proceedings have started | 
+
+Scrutiny already started | Respond in the proceedings with a clear computation; a voluntary correction still matters for penalty | 
+
+## NRIs and refunds
+
+NRIs often have large, genuine refunds, for example TDS deducted at 12.5% or more on a property sale when the real tax was lower. Those claims are legitimate but get checked. Keep the purchase deed, cost of improvement, sale deed, TDS certificates and capital gains computation ready, and answer any query quickly.
+
+Related: updated return time limits, ITR due dates 2026, tax notice representation.
+
+## Sources
+
+- Deccan Herald: I-T dept identifies 11,458 high-risk refund claims worth Rs 966 crore (17 Nov 2026)
+- Taxscan: Income Tax Department to scrutinise high-risk refund claims under new SOP
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Why is the income tax department sending notices on refund claims in 2026?
+The department has identified 11,458 high-risk cases with refund claims of about Rs 966 crore, involving fake documents, mainly false allowances and deductions claimed by salaried taxpayers. Notices are being issued and action is being taken against employers too.
+
+I got a notice for a wrong HRA or donation claim. What should I do?
+Check the claim against your documents. If it was wrong, revise the FY 2025-26 return (fee-free until 31 December 2026) or file an updated return for earlier years, pay the tax and interest, and reply to the notice.
+
+What is the penalty for a false deduction claim?
+Under-reporting of income attracts a penalty of 50% of the tax, and misreporting, such as claims based on false documents, up to 200% of the tax, in addition to the tax and interest.
+
+My tax consultant made the false claim without telling me. Am I still liable?
+Yes, the tax and penalty fall on the taxpayer. Correcting the return quickly, and keeping records of what happened, is the best way to limit the damage.
+
+Can I file an updated return after receiving a notice?
+It depends on the notice. An updated return is not allowed once certain assessment, reassessment or search proceedings have started, so check the notice before choosing the route.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/life-certificate-nri-pensioners-abroad-2026/
+------------------------------------------------------------------------
+NRIs · Pensions · Nov 2026
+
+# Pensioner living abroad? Life certificate due 30 November
+
+Every Indian government pensioner must submit a life certificate each year, and for 2026 the last date is 30 November. If it is not on record, pension credits can stop from December until the certificate is received. Pensioners living abroad cannot always use the Aadhaar face-authentication app, but there are other routes that do not need a trip to India.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
+
+Sort your pension and tax
+hello@durgeshchavda.com
+
+Key takeaways
+- Life certificate due 30 November 2026; pension can stop from December.
+- Abroad: Indian mission, notary, magistrate or bank officer, or Jeevan Pramaan.
+- Indian pension is usually taxable in India; check your tax treaty.
+
+Quick answer: submit the life certificate by 30 November 2026 (pensioners aged 80 and above could start on 1 October, others on 1 November). If you live abroad, you can usually get the certificate signed by an Indian embassy, high commission or consulate, or by a notary, magistrate or bank officer, and send it to your pension-paying bank, or use Jeevan Pramaan face authentication if you have Aadhaar. Check the exact format your bank accepts first.
+
+## Routes for pensioners living abroad
+
+Route | How it works | 
+
+Jeevan Pramaan (digital) | Face authentication on a smartphone with the Aadhaar FaceRD and Jeevan Pramaan apps. Needs Aadhaar and pension details that match the bank’s records | 
+
+Indian mission | The embassy, high commission or consulate issues or signs the certificate after checking your identity and pension details | 
+
+Notary, magistrate or bank officer | A certificate signed by one of these, sent through an authorised person or by post to the pension-paying bank | 
+
+Family member in India | Can deliver the signed certificate to the bank branch; the certificate itself must be signed abroad | 
+
+If a digital certificate is rejected, the usual cause is a mismatch in name, date of birth, Aadhaar or the pension order number. Ask the bank to check the details and generate a fresh certificate.
+
+Pensioner living abroad? Get the life certificate route and your pension tax position in 15 minutes.Book a 15-min call
+
+## The tax side of an Indian pension for NRIs
+
+- Taxable in India: pension paid by an Indian employer or government is generally taxable in India even if you are non-resident, and the bank deducts TDS.
+
+- Treaty relief: many tax treaties give the right to tax government pensions only to India, and private pensions to the country of residence. Check your treaty; a tax residency certificate and Form 10F are needed to claim treaty benefits in India.
+
+- Account status: once you are non-resident, the pension should be credited to an NRO account, not a resident savings account.
+
+- Moving money abroad: pension in the NRO account can be repatriated within the USD 1 million a year limit, with the CA certificate and bank forms.
+
+- Refunds: if more TDS was deducted than the tax due, file an ITR to claim the refund. The belated return deadline for FY 2025-26 is 31 December 2026.
+
+Related: NRI taxation guide, repatriating money from an NRO account, NRE vs NRO vs FCNR.
+
+## Sources
+
+- CAclubindia: life certificate for pensioners 2026
+- Jeevan Pramaan: digital life certificate portal
+- Department of Pension & Pensioners' Welfare
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the last date for the pensioners' life certificate in 2026?
+30 November 2026. Pensioners aged 80 and above could submit from 1 October and others from 1 November. Pension credits can stop from December if no certificate is on record.
+
+How can an NRI pensioner submit a life certificate from abroad?
+Through Jeevan Pramaan face authentication if they have Aadhaar, or with a certificate signed by an Indian embassy, high commission or consulate, a notary, a magistrate or a bank officer, sent to the pension-paying bank. Confirm the bank's format first.
+
+What happens if the life certificate is submitted late?
+Pension credits are suspended until the certificate is received. Once it is accepted, payment resumes and the withheld amount is usually released as arrears.
+
+Is an Indian pension taxable for an NRI?
+Generally yes in India, with TDS by the bank. Many tax treaties allow only India to tax government pensions, while private pensions may be taxable in the country of residence; check your treaty.
+
+Can an NRI's pension go into a resident savings account?
+Once the pensioner is non-resident, the pension should be credited to an NRO account. Funds in the NRO account can be repatriated within the USD 1 million a year limit with the required certificate and bank forms.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/cci-approval-acquisition-india/
 ------------------------------------------------------------------------
 M&A · Competition law · Nov 2026
@@ -2614,6 +2873,7 @@ If you didn’t file your income-tax return for FY 2025-26 (AY 2026-27), or file
 File before 31 December
 hello@durgeshchavda.com
 
+Due this week: audit ITR on 21 November 2026, last-day checklist.
 Quick answer: the last date for a belated return for FY 2025-26 is 31 December 2026. A revised return can be filed without a fee until 31 December 2026, and until 31 March 2027 with a fee (a Budget 2026 change). A belated return carries a late fee of ₹5,000 (₹1,000 if total income is up to ₹5 lakh) plus interest on any unpaid tax. It is still the only way to claim a refund for the year. After 31 December, you can only file an updated return (ITR-U), which adds 25% to 70% extra tax and cannot claim a refund.
 
 ## Who needs this
@@ -8426,6 +8686,7 @@ If TDS was deducted and you simply never filed, ITR-U can cover only the last fo
 - Pay the tax, interest and additional tax first.
 - File the updated return form on the e-filing portal for that year, with the payment details.
 - Keep the computation; the department can still ask questions.
+Got a refund notice? What to do about a high-risk refund claim.
 
 ## Sources
 
@@ -12166,6 +12427,7 @@ By CA Durgesh Chavda·Last reviewed 15 October 2026·5 min read
 Get your filings done
 hello@durgeshchavda.com
 
+Due this week: audit ITR on 21 November 2026, last-day checklist.
 Key takeaways
 - Form 3CEB is due 31 Oct; ITR for audit cases 21 Nov; transfer-pricing cases 30 Nov.
 - Advance tax third instalment: 15 Dec (75%).
@@ -12204,6 +12466,7 @@ Date | What’s due | Who |
 - GST: the 57th Council’s reforms still need notifications or law changes — status.
 
 Earlier dates: October–November 2026 calendar · ITR details: ITR due dates 2026.
+Pensioner abroad? Life certificate due 30 November 2026.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Sources
@@ -14490,6 +14753,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 - If an order goes against you, appeal to the Commissioner (Appeals) and onward — coordinating with counsel where a matter needs a lawyer.
 
+Got a refund notice? What to do about a high-risk refund claim.
+
 ## Refunds of excess tax
 
 Foreign companies and NRIs often have tax withheld at the wrong rate. We file the return, apply the treaty and follow the refund through. Related: India tax for foreign companies · NRI tax services.
@@ -15422,6 +15687,8 @@ NRIs can remit up to USD 1 million per financial year from NRO balances and sale
 ## Are you still an NRI?
 
 Your status for the year depends on days in India — and, if your Indian income exceeds ₹15 lakh, the 60-day threshold becomes 120 days. Returning NRIs can often be RNOR for a period, which keeps foreign income out of Indian tax. See residential status and RNOR.
+
+Pensioner abroad? Life certificate due 30 November 2026.
 
 ## How it works
 
@@ -17101,6 +17368,7 @@ NRIs can invest in Indian startups (with FEMA reporting), SEBI AIFs and GIFT Cit
 
 Want it handled? See NRI taxation services.
 Quick answers: India for NRIs and foreigners — questions answered.
+Pensioner abroad? Life certificate due 30 November 2026.
 
 ## Recent ruling
 In October 2026 the Income Tax Appellate Tribunal, Pune reportedly allowed a Singapore-based NRI’s refund claim under the India–Singapore treaty on mutual-fund gains, holding that missing the return deadline did not take away treaty relief (Business Today, 22 Oct 2026). Rulings turn on their facts — if you overpaid tax as an NRI, it is worth reviewing whether a refund is still available.
