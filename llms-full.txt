@@ -8374,7 +8374,7 @@ FEMA · ODI · Due 31 December
 
 If an Indian company or resident owns a foreign company, it must file an Annual Performance Report (APR) with its bank every year. The question that trips most groups up: does the foreign subsidiary need audited accounts when its own country does not require an audit?
 
-By CA Durgesh Chavda·Last reviewed 16 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 19 November 2026·5 min read
 
 Get your APR done before 31 December
 hello@durgeshchavda.com
@@ -8394,7 +8394,6 @@ Already own a US LLC without Form FC? How to regularise it, step by step.
 If you control the foreign entity, you need audited financial statements for the APR, even if the host country (for example Delaware or many US states) does not require an audit. Unaudited statements are allowed only when both conditions hold: the Indian investor does not have control, and the host country does not mandate an audit. In that case, the unaudited statements are certified by the statutory auditor of the Indian entity, or by a chartered accountant where no statutory audit applies.
 
 APR due 31 December 2026. We arrange the audit and file the APR through your bank →
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call · ₹499 (about USD 6)
 
 ## When is the APR due?
 
@@ -8444,6 +8443,16 @@ Audit by an Indian firm | Your bank confirms in writing that it accepts it. Ask 
 
 Ask your bank first, in writing, which auditor it will accept. With the 31 December deadline, finding out in December is too late.
 
+## Groups with several overseas subsidiaries
+Indian groups with subsidiaries in several countries, say Singapore, the UAE, the Netherlands, the UK and the US, usually face a mix: some subsidiaries must be audited under local law, others are exempt locally but still need audited accounts for the APR because the Indian parent controls them. A simple way to run it:
+
+- List each entity with the parent’s shareholding, financial year end and whether local law requires an audit.
+- Use the local statutory audit wherever one is mandatory.
+- Arrange a special-purpose audit for APR purposes for controlled entities that are exempt locally, after confirming what your AD bank will accept, because the regulations do not say who must carry out the audit.
+- File all APRs together through the AD bank before 31 December, and keep the audited statements on file for the next year’s filing.
+A holding company with no operations is still a controlled foreign entity, so its APR also needs audited statements even if it is exempt from audit in its own country.
+APR due 31 December? Map audits and filings for all your overseas subsidiaries in one 15-minute call.Book a 15-min call · ₹499 (about USD 6)
+
 ## Sources
 
 - RBI: Form APR and instructions (Overseas Investment, 2022)
@@ -8467,6 +8476,9 @@ A late submission fee applies under the overseas investment rules, and the AD ba
 
 Can an Indian CA audit a US subsidiary for the APR?
 The overseas investment rules require audited statements but do not specify where the auditor must be licensed. Many AD banks insist on an auditor licensed in the host country, such as a US CPA firm for a Delaware company, so confirm in writing which auditor your bank will accept before engaging anyone.
+
+Does an overseas holding company with no operations need audited accounts for the APR?
+If the Indian parent controls it, yes. The exception for unaudited statements certified by a chartered accountant applies only where the Indian investor does not have control and the host country does not require an audit, so a controlled holding company needs audited statements for the APR even if it is exempt from audit locally.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
