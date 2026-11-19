@@ -8524,6 +8524,7 @@ US licensed CPA firm signs the audit | Your bank insists on a host-country audit
 Audit by an Indian firm | Your bank confirms in writing that it accepts it. Ask before you engage anyone | 
 
 Ask your bank first, in writing, which auditor it will accept. With the 31 December deadline, finding out in December is too late.
+Missed an APR? A late APR can be regularised by paying a late submission fee of ₹7,500 per return (RBI A.P. (DIR Series) Circular No. 16, 30 September 2022). The fee route is available only up to three years from the due date; beyond that, the delay generally has to be compounded. If you have several years pending, file the oldest first.
 
 ## Groups with several overseas subsidiaries
 Indian groups with subsidiaries in several countries, say Singapore, the UAE, the Netherlands, the UK and the US, usually face a mix: some subsidiaries must be audited under local law, others are exempt locally but still need audited accounts for the APR because the Indian parent controls them. A simple way to run it:
@@ -8562,6 +8563,9 @@ The overseas investment rules require audited statements but do not specify wher
 
 Does an overseas holding company with no operations need audited accounts for the APR?
 If the Indian parent controls it, yes. The exception for unaudited statements certified by a chartered accountant applies only where the Indian investor does not have control and the host country does not require an audit, so a controlled holding company needs audited statements for the APR even if it is exempt from audit locally.
+
+What is the late fee for a delayed APR?
+Rs 7,500 per return under RBI's late submission fee matrix (A.P. (DIR Series) Circular No. 16 of 30 September 2022). The late fee route is available up to three years from the due date; longer delays generally need compounding.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
