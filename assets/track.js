@@ -4,7 +4,7 @@
    3. Loads Microsoft Clarity when CLARITY_ID is set, and sends Clarity a custom event and tags for every booking click.
    No personal data is collected by this script. */
 (function () {
-  var CLARITY_ID = ''; // set to the Clarity project ID (e.g. 'abcd1234ef') to switch Clarity on
+  var CLARITY_ID = 'zg8dmwp3jq'; // set to the Clarity project ID (e.g. 'abcd1234ef') to switch Clarity on
 
   function store(k, v) { try { sessionStorage.setItem(k, v); } catch (e) {} }
   function load(k) { try { return sessionStorage.getItem(k); } catch (e) { return null; } }
