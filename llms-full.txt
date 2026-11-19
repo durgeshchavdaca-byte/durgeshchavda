@@ -74,6 +74,105 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/cci-approval-acquisition-india/
+------------------------------------------------------------------------
+M&A · Competition law · Nov 2026
+
+# Buying into an Indian company? Check CCI approval first
+
+Foreign buyers often plan the FEMA pricing and tax for an India deal and only later ask whether the Competition Commission of India (CCI) must approve it. If a filing is needed, the deal cannot close until the CCI clears it, and closing early can lead to penalties. The test is mechanical, so it can be run before the term sheet is signed.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your deal before you sign
+hello@durgeshchavda.com
+
+Key takeaways
+- Small Indian targets (assets up to Rs 450 cr or turnover up to Rs 1,250 cr) are generally exempt.
+- Deals above Rs 2,000 crore need approval if the target has substantial operations in India.
+- Where a filing is needed, the deal cannot close until the CCI approves.
+
+Quick answer: an acquisition, merger or amalgamation needs CCI approval if the parties or their group cross the asset or turnover thresholds in section 5 of the Competition Act, 2002, unless the Indian target is small enough for the de minimis exemption (assets in India of not more than ₹450 crore or turnover in India of not more than ₹1,250 crore). Separately, since 10 September 2024, any deal worth more than ₹2,000 crore needs approval if the target has substantial business operations in India, even if the target is small.
+
+## Run the test in three steps
+
+- Is the target small? If the Indian target’s assets in India are not more than ₹450 crore, or its turnover in India is not more than ₹1,250 crore, the deal is generally exempt, unless the deal value test in step 3 applies.
+
+- Do the parties or the group cross the thresholds? Use the table below. Crossing any one line is enough.
+
+- Is the deal worth more than ₹2,000 crore? If yes, and the target has substantial business operations in India, a filing is needed regardless of steps 1 and 2.
+
+Planning an acquisition in India? Check CCI, FEMA and tax steps for your deal in 15 minutes.Book a 15-min call
+
+## Asset and turnover thresholds (from 7 March 2024)
+
+Test | India only | Worldwide, with an India leg | 
+
+Parties (acquirer + target) | Assets above ₹2,500 crore, or turnover above ₹7,500 crore | Assets above USD 1.25 billion with at least ₹1,250 crore in India, or turnover above USD 3.75 billion with at least ₹3,750 crore in India | 
+
+Group (the group the target will belong to) | Assets above ₹10,000 crore, or turnover above ₹30,000 crore | Assets above USD 5 billion with at least ₹1,250 crore in India, or turnover above USD 15 billion with at least ₹3,750 crore in India | 
+
+Thresholds as revised by the Ministry of Corporate Affairs notification S.O. 1130(E) of 7 March 2024.
+
+## The ₹2,000 crore deal value test
+
+- Who it catches: acquisitions of start-ups, technology and other asset-light Indian businesses that are valuable but have small assets and turnover.
+
+- Substantial business operations in India: broadly, where a meaningful share of the target’s global users, sales or turnover comes from India. The CCI’s 2024 combination regulations set the detailed tests, so check them for your target.
+
+- No de minimis shelter: the small-target exemption does not help a deal caught by the deal value test.
+
+- Deal value includes all consideration, including deferred and contingent payments and the value of related arrangements such as non-competes.
+
+## Deals that are often exempt
+
+- Minority investment only: buying less than 25% purely as an investment, without board seats or control rights, is generally exempt under Schedule I of the combination regulations, subject to conditions.
+
+- Intra-group restructuring within the same group, in many cases.
+
+- Small targets under the de minimis limits, as above. The CCI says the de minimis exemption, first notified in March 2017, was extended to run for ten years.
+
+## If a filing is needed
+
+- File before closing: the notice is filed with the CCI after signing and before completion. You cannot complete the deal until approval.
+
+- Green channel: where the parties have no horizontal, vertical or complementary overlaps, the deal can use the green channel and is deemed approved on filing.
+
+- Plan the timeline: build CCI review into the long-stop date in the share purchase agreement, alongside FEMA approvals and other conditions.
+
+- Gun-jumping risk: taking control, integrating operations or paying the price before approval can attract penalties.
+
+Related: how to acquire a company in India, what your stake gives you, share purchase or business transfer.
+
+## Sources
+
+- ELP Law: MCA modifies combination thresholds and de minimis exemption (18 March 2024)
+- Competition Commission of India: FAQs on combinations
+- Nishith Desai Associates: Indian merger control regime and the deal value threshold (Sept 2024)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
+
+## Frequently asked questions
+When does an acquisition in India need CCI approval?
+When the parties or their group cross the asset or turnover thresholds in section 5 of the Competition Act, 2002, unless the target qualifies for the de minimis exemption, or when the deal value exceeds Rs 2,000 crore and the target has substantial business operations in India.
+
+What is the de minimis exemption for CCI filings?
+A target with assets in India of not more than Rs 450 crore, or turnover in India of not more than Rs 1,250 crore, is generally exempt from filing. It does not apply to deals caught by the Rs 2,000 crore deal value threshold.
+
+What is the deal value threshold in India?
+Since 10 September 2024, an acquisition, merger or amalgamation worth more than Rs 2,000 crore needs CCI approval if the target has substantial business operations in India, even if its assets and turnover are small.
+
+Can a foreign buyer close the deal before CCI approval?
+No. Where a filing is needed, the deal cannot be completed until the CCI approves it. Closing or taking control early can attract penalties for gun-jumping.
+
+Does a minority investment need CCI approval?
+Usually not, if it is less than 25%, purely as an investment and without control or board rights, subject to the conditions in Schedule I of the CCI's combination regulations.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/shareholding-thresholds-india-jv-stake/
 ------------------------------------------------------------------------
 Joint ventures · Company law · Nov 2026
@@ -151,6 +250,7 @@ Split | What usually happens in practice |
 - Diligence on the partner: ownership, related-party dealings and regulatory history matter more than the percentage if the relationship breaks down.
 
 Related: joint venture in India: full guide, buying out your Indian JV partner, term sheet guide.
+Big enough to need competition approval? CCI approval for India deals.
 
 ## Sources
 
@@ -761,6 +861,7 @@ Every situation is different, so the fastest way to a clear plan is a short call
 - Outline the seller's tax and your FEMA filings
 - Set out due diligence scope, timeline and a fixed fee
 You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+Big enough to need competition approval? CCI approval for India deals.
 
 ## Sources
 
@@ -3738,6 +3839,7 @@ This fits: 25% of the price, settled within 18 months. Raising the earn-out to U
 - Diligence first. A holdback is only as good as the diligence behind it. Use due diligence findings to size the escrow and the specific indemnities.
 
 Related: acquiring a company in India, joint ventures in India, HR due diligence.
+Big enough to need competition approval? CCI approval for India deals.
 
 ## Sources
 
@@ -12938,6 +13040,7 @@ Talking to an Indian JV partner? Get the structure, approvals and red flags to c
 Most JV disputes trace back to something knowable at the start: liabilities in the partner’s existing business, related-party dealings, unreported foreign investment or promoters with a history. Use the partner due-diligence checklist, or have us run it: due diligence on an Indian business partner.
 Sending your own people to India? Tax, provident fund and secondment rules.
 How much do you need? 26%, 51%, 75%, 90%: what your stake gives you.
+Big enough to need competition approval? CCI approval for India deals.
 
 ## Sources
 
@@ -16298,6 +16401,7 @@ Most post-deal surprises in India are unreported FDI, GST mismatches and tax dem
 Foreign shareholder? Your Indian shares now need to be in demat form.
 Deal guides: quality of earnings review and share purchase vs business transfer.
 How much do you need? 26%, 51%, 75%, 90%: what your stake gives you.
+Big enough to need competition approval? CCI approval for India deals.
 
 ## Sources
 
