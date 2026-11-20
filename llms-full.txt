@@ -74,6 +74,232 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-students-abroad-bank-account/
+------------------------------------------------------------------------
+FAST-DS · Students · Nov 2026
+
+# Went abroad to study? Your first-year bank account counted in India
+
+Most students who go abroad assume they stop being Indian taxpayers the day they fly out. For the year of departure, that is usually wrong. India’s residency test treats someone who leaves to study differently from someone who leaves for a job, so the first foreign bank account, GIC or blocked account was often a reportable foreign asset in India. The fix is cheap if you act before 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+
+Check your student account
+hello@durgeshchavda.com
+
+Key takeaways
+- Leaving to study: the year of departure is usually still a resident year in India.
+- Left in 2025: fix it in the FY 2025-26 return by 31 December 2026.
+- Earlier years: Rs 20 lakh relief for small holdings, or FAST-DS for a flat Rs 1 lakh.
+
+Quick answer: if you left India to study and had been in India for 60 days or more that financial year, you were usually still resident in India for that year. A foreign bank account, GIC or blocked account opened that year had to be reported in an Indian return, even if you had no income. For students who left between April and December 2025, a belated or revised return for FY 2025-26 by 31 December 2026 fixes it. For earlier years, small holdings are usually covered by the ₹20 lakh relief, and larger ones can be regularised under FAST-DS for a flat ₹1 lakh.
+
+## Why students are different
+
+You left India | Test for that year | Result | 
+
+For a job abroad | Resident only if you were in India 182 days or more that year | Leave before late September and you are non-resident for the year | 
+
+To study abroad | Resident if you were in India 60 days or more that year and 365 days or more in the previous four years | Leave any time after May and you are usually resident for the whole year | 
+
+Later years, visiting India in holidays | Non-resident if you spend fewer than 182 days in India | Usually non-resident, so nothing to report for those years | 
+
+Returned to India after the course | Resident again; a short stay abroad rarely gives “not ordinarily resident” status | Any account still open abroad must be reported every year | 
+
+Studied abroad, or a parent of a student abroad? Send the year you left and your account details and find out in 15 minutes what, if anything, needs fixing.Book a 15-min call
+
+## What counted as a foreign asset
+
+- The bank account you opened on arrival, and any savings account linked to it.
+
+- A GIC bought for a Canadian study permit, often while still in India.
+
+- A blocked account opened for a German or other European student visa.
+
+- A prepaid forex card issued by an Indian bank is not a foreign bank account, but an overseas account in your name is, even with a small balance.
+
+- If a parent in India is a joint holder or can operate the account, the parent had to report it too.
+
+A resident and ordinarily resident person who holds any asset outside India must file a return and report it, even if their income is below the taxable limit.
+
+## How to fix it
+
+Your case | What to do | 
+
+You left India between April and December 2025 | File or revise the FY 2025-26 return with the foreign assets schedule by 31 December 2026. No FAST-DS needed | 
+
+You left in 2024 or earlier, and all your foreign holdings (other than property) total ₹20 lakh or less | The ₹10 lakh penalty has not been applied to such holdings since 1 October 2024. Usually no FAST-DS; report correctly from now on | 
+
+You left in 2024 or earlier with larger amounts, or you are back in India with an unreported account | FAST-DS before 31 December 2026: a flat ₹1 lakh where the money came from parents, loans or other taxed sources | 
+
+You earned income abroad in a resident year (part-time job, interest) and did not report it | That income was taxable in India for that year. Small amounts are best fixed in the return; larger ones fall in the 60% category | 
+
+Under FAST-DS a bank account is valued at the total of all deposits since it was opened, not the balance, so tuition money that passed through the account counts. Get full statements before deciding.
+
+## For parents
+
+- Money you sent for fees and living costs under the liberalised remittance scheme is not the issue. The account abroad is.
+
+- If the account is only in your child’s name, the reporting duty was your child’s, for the years they were resident.
+
+- If you are a joint holder or have signing rights, report it in your own return every year.
+
+- Got the department’s email in your child’s name? It is an advisory. Check the years first; do not pay anything in a hurry.
+
+Country pages: UK · Canada · Australia · Europe · Russia · USA. Related: foreign bank account not in Schedule FA, what the FAST-DS email means.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- Income Tax Department: residential status
+- Income Tax Department: Schedule FA guidance
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Is a student who goes abroad a resident of India for tax in the year of leaving?
+Usually yes. Someone who leaves to study is resident for that year if they were in India for 60 days or more in the year and 365 days or more in the previous four years. The more generous 182-day test applies to people leaving for employment, not for study.
+
+Does a student's foreign bank account have to be reported in India?
+Yes, for any year in which the student was resident and ordinarily resident in India, which usually includes the year of leaving and any year after returning. It must be reported in the foreign assets schedule even if the student has no taxable income.
+
+Do students need to file FAST-DS?
+Often not. Students who left in 2025 can file or revise the FY 2025-26 return by 31 December 2026. For earlier years, foreign holdings other than property of Rs 20 lakh or less have not attracted the Rs 10 lakh penalty since 1 October 2024. Larger unreported accounts can be regularised under FAST-DS for a flat Rs 1 lakh.
+
+Is a GIC bought for a Canadian study permit a foreign asset?
+Yes. If it was bought in a year when the student was resident in India, the GIC and the Canadian account it pays into were foreign assets to report in that year's Indian return.
+
+My parents sent the money. Who has to report the account?
+The person who holds the account. If the account is in the student's name, the student reports it for resident years. A parent who is a joint holder or has signing rights reports it in their own return.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-canada/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Canada · Nov 2026
+
+# Indian in Canada? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Canada, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in Canada. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in Canada throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in Canada | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in Canada with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in Canada
+
+- The GIC and student bank account opened before or soon after leaving India
+- Chequing and savings accounts
+- TFSA, RRSP and FHSA accounts
+- Brokerage accounts, shares and ETFs
+- Employer share plans
+- A home or rental property in Canada
+
+Who this is for: Indian students, workers and permanent residents in Canada, and those who have moved back to India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from Canada
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to Canada
+
+- Students and the GIC: many students buy a GIC while still living in India. That year was usually a resident year in India, so the GIC and the account it paid into counted as foreign assets.
+- Canada side: Canadian residents are taxed on worldwide income, and Indian assets costing more than CAD 100,000 in total are reported on Form T1135.
+- NRO interest: with a Canadian certificate of residency the India–Canada treaty rate of 15% can apply instead of about 30%.
+
+## Other India tax work NRIs in Canada ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in Canada need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from Canada?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I bought a GIC before leaving India for Canada. Do I need FAST-DS?
+Check the year you bought it. If you were still resident in India that year and did not report the GIC or the Canadian account, it was a missed foreign asset. Many student holdings fall within the Rs 20 lakh relief, so check your totals before paying anything.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-in-europe-indian-tax-guide/
 ------------------------------------------------------------------------
 NRIs · Europe · Nov 2026
@@ -547,6 +773,7 @@ Try your own numbers in the FAST-DS calculator.
 - Planning a return to India: timing the move and using the “not ordinarily resident” years well.
 
 Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -915,6 +1142,7 @@ Try your own numbers in the FAST-DS calculator.
 
 Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
 Living in Australia? Indian tax guide for NRIs in Australia.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -1161,6 +1389,7 @@ Try your own numbers in the FAST-DS calculator.
 
 Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
 Living in Europe? Indian tax guide and treaty rates for NRIs in Europe.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -1282,6 +1511,7 @@ Try your own numbers in the FAST-DS calculator.
 - Planning a return to India: timing the move and using the “not ordinarily resident” years well.
 
 Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -2427,7 +2657,7 @@ Going forward | File as non-resident; Indian salary or income received in India 
 Related: got the FAST-DS email?, FAST-DS for NRIs abroad, residential status and RNOR.
 
 ## FAST-DS by country
-UK US UAE Australia Singapore Europe Russia Africa
+UK US UAE Australia Singapore Canada Europe Russia Africa
 
 ## Sources
 
@@ -9168,7 +9398,8 @@ Many NRIs received the “overseas financial interests” email too. It is an ad
 Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## FAST-DS by country
-UK US UAE Australia Singapore Europe Russia Africa
+UK US UAE Australia Singapore Canada Europe Russia Africa
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -9758,6 +9989,7 @@ Work out your number with the free FAST-DS calculator, and read the full FAST-DS
 
 Reported cases include employees with RSUs from a foreign employer, people with accounts from their student years abroad, returning NRIs who still hold foreign accounts, and small US share investors. People who report every year have also received it, for example where one year or one brokerage account was left out. See FAST-DS for RSUs and ESOPs and FAST-DS for returning NRIs.
 Lived abroad in those years? FAST-DS email but you were an NRI.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -10154,7 +10386,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## FAST-DS by country
-UK US UAE Australia Singapore Europe Russia Africa
+UK US UAE Australia Singapore Canada Europe Russia Africa
 
 ## Timeline
 
@@ -10375,6 +10607,7 @@ Since 1 October 2024 the ₹10 lakh Black Money Act penalty for leaving foreign 
 - Decide the category and compute the value.
 - File Form 1 by 31 December 2026, pay after Form 2, file Form 3.
 - Report the account in Schedule FA from now on, or close it.
+Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
 
@@ -10448,7 +10681,7 @@ In the first years after return you may be “resident but not ordinarily reside
 Planning the move back? See returning to India from the US.
 
 ## FAST-DS by country
-UK US UAE Australia Singapore Europe Russia Africa
+UK US UAE Australia Singapore Canada Europe Russia Africa
 
 ## Sources
 
@@ -12673,6 +12906,7 @@ Your Indian residential status depends on days spent in India — see residentia
 ## How we help
 
 We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales and repatriation up to USD 1 million a year — and coordinate with your Canadian accountant. See NRI tax services and India advisory for clients in Canada.
+Indian in Canada with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 
 ## Sources
 
@@ -17620,7 +17854,7 @@ Your status for the year depends on days in India — and, if your Indian income
 Pensioner abroad? Life certificate due 30 November 2026.
 
 ## FAST-DS by country
-UK US UAE Australia Singapore Europe Russia Africa
+UK US UAE Australia Singapore Canada Europe Russia Africa
 
 ## How it works
 
@@ -19751,7 +19985,7 @@ Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line a
 Lived abroad in those years? FAST-DS email but you were an NRI.
 
 ## FAST-DS by country
-UK US UAE Australia Singapore Europe Russia Africa
+UK US UAE Australia Singapore Canada Europe Russia Africa
 
 ## Official sources
 
