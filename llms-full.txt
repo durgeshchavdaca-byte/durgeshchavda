@@ -74,6 +74,121 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-in-europe-indian-tax-guide/
+------------------------------------------------------------------------
+NRIs · Europe · Nov 2026
+
+# NRI in Europe? Cut Indian TDS from 30% to 10% with one certificate
+
+Indians working in Germany, the Netherlands, Ireland, France and the rest of Europe usually keep something in India: an NRO deposit, a flat on rent, mutual funds or shares. Indian payers deduct tax at the highest rates because you are a non-resident, and your European country may tax the same income again. The tax treaties fix both problems, but only if you file the right papers in India.
+
+By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+
+Sort your Indian tax
+hello@durgeshchavda.com
+
+Key takeaways
+- Treaty rate on NRO interest and dividends: 10% for Germany, the Netherlands, Ireland, France and Sweden.
+- A tax residency certificate and Form 41 unlock the treaty rate.
+- File an Indian return to recover excess TDS; 31 December 2026 for FY 2025-26.
+
+Quick answer: India taxes only your Indian income: rent, NRO interest, dividends and gains on Indian assets. By default, banks deduct about 30% on NRO interest and companies 20% on dividends. With a tax residency certificate from your European country and Form 41, the treaty rate applies instead: 10% for Germany, the Netherlands, Ireland, France and Sweden, and 15% for Spain. NRE and FCNR interest is tax-free in India while you are an NRI. File an Indian return to get back excess TDS.
+
+## Treaty rates by country
+
+Country | NRO interest | Dividends | At home | 
+
+Germany | 10% | 10% | Worldwide income is taxable; investment income usually at a flat 25% plus solidarity surcharge, with credit for Indian tax | 
+
+Netherlands | 10% | 10% | Savings and investments worldwide, including Indian deposits, fall in Box 3 | 
+
+Ireland | 10% | 10% | Residents who are not Irish-domiciled are generally taxed on foreign income only when it is brought into Ireland | 
+
+France | 10% | 10% | Worldwide income is taxable for residents, with treaty relief for Indian tax | 
+
+Sweden | 10% | 10% | Worldwide income is taxable for residents, with credit for Indian tax | 
+
+Spain | 15% | 15% | Worldwide income is taxable for residents, with credit for Indian tax | 
+
+Rates are the general treaty caps for individuals; some treaties have lower rates for specific cases. For other countries, check the Income Tax Department’s treaty rate chart or ask us.
+
+NRI in Europe with income or property in India? Get your treaty rate, refund and paperwork checked in 15 minutes.Book a 15-min call
+
+## What India taxes, and what to do
+
+Income or asset | Indian tax | What to do | 
+
+NRO interest | About 30% deducted by default | Give the bank your tax residency certificate and Form 41 for the treaty rate | 
+
+NRE / FCNR interest | Exempt while you are an NRI | Check how your country of residence taxes it | 
+
+Dividends | 20% deducted by default | Claim the treaty rate with the certificate | 
+
+Rent from Indian property | Slab rates after a 30% deduction; the tenant deducts 31.2% | File an Indian return: most of the TDS usually comes back | 
+
+Sale of Indian property | Capital gains tax; the buyer deducts TDS | Get a lower-TDS certificate (Form 128) before the sale | 
+
+Indian shares and mutual funds | Capital gains tax in India | Report the gain at home too and claim credit for Indian tax | 
+
+European salary | Not taxed in India while you are non-resident | Year of moving: check your Indian residency for that year | 
+
+## Residency: get this right first
+
+- Days in India: stay under 182 days, or under 120 days if your Indian income is above ₹15 lakh, to remain non-resident in India.
+
+- Year of moving: if you left for a job and were in India for 182 days or more that year, or left to study, that year was usually still a resident year in India.
+
+- Dual residence: if both countries treat you as resident in a year, the treaty’s tie-breaker (home, family and economic ties) decides.
+
+Check each year with the residential status calculator.
+
+## The paperwork that saves tax
+
+- Tax residency certificate from your country’s tax office for each year, plus Form 41 (formerly Form 10F) filed on the Indian portal.
+
+- NRO, NRE and FCNR status updated with every Indian bank, broker and fund house.
+
+- Lower-TDS certificate (Form 128) before a property sale.
+
+- Indian return for any year with TDS or taxable income. For FY 2025-26, the last date is 31 December 2026.
+
+- Repatriation: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+## If you move back to India
+
+The first two or three years back are usually “not ordinarily resident”, and European income and savings stay outside Indian tax. After that, worldwide income is taxable in India and European bank accounts, pensions and shares must be reported every year.
+
+Held accounts or assets in Europe in a year you were resident in India? Check whether FAST-DS applies before 31 December 2026.
+
+## How we help
+
+We handle the Indian side: returns and TDS refunds, treaty paperwork, lower-TDS certificates, property sales, repatriation and FAST-DS, and we work with your tax adviser in Europe where one is involved. See NRI tax services, the NRI taxation guide and moving money between India and Europe.
+
+## Sources
+
+- Income Tax Department: withholding tax rates under tax treaties
+- Income Tax Department: guidance for non-residents
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the TDS rate on NRO interest for NRIs in Germany?
+About 30% by default. With a German tax residency certificate and Form 41, the India-Germany treaty rate of 10% applies. The same 10% rate applies under the treaties with the Netherlands, Ireland, France and Sweden.
+
+Do NRIs in Europe pay tax in India?
+Yes, on Indian income such as rent, NRO interest, dividends and capital gains on Indian assets. European salary is not taxed in India while the person is non-resident.
+
+Is NRE interest taxable for NRIs in Europe?
+It is exempt in India while you are an NRI. Whether it is taxed in your country of residence depends on that country's rules; for example, in the Netherlands the deposit counts as an asset in Box 3.
+
+How do I claim treaty benefits in India from Europe?
+Get a tax residency certificate from your country's tax office, file Form 41 (formerly Form 10F) on the Indian e-filing portal, and give both to the bank or payer before the income is paid. If tax was already deducted at the higher rate, claim the difference in an Indian return.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-in-uae-indian-tax-guide/
 ------------------------------------------------------------------------
 NRIs · UAE · Nov 2026
@@ -1045,6 +1160,7 @@ Try your own numbers in the FAST-DS calculator.
 - Planning a return to India: timing the move and using the “not ordinarily resident” years well.
 
 Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+Living in Europe? Indian tax guide and treaty rates for NRIs in Europe.
 
 ## Sources
 
@@ -1619,7 +1735,7 @@ Key takeaways
 
 Quick answer: before 31 December 2026, NRIs should (1) file any missing income tax return for FY 2025-26 and claim TDS refunds, (2) revise a wrong return without a fee, (3) check FAST-DS if they were resident in any year with foreign assets, (4) put bank accounts on NRO/NRE status, and (5) plan property sales and residency days for the current year. Pensioners must also submit the life certificate by 30 November.
 
-NRI tax by country: UK · USA · Canada · UAE · Australia · Singapore.
+NRI tax by country: UK · USA · Canada · UAE · Australia · Singapore · Europe.
 
 ## The 10 steps
 
@@ -9545,6 +9661,7 @@ FAST-DS check before 31 December 2026: if you were resident in India in any year
 - Get the CA certificate (Form 146) and file Form 145 online.
 - Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
 Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+Living in Europe? Indian tax guide and treaty rates for NRIs in Europe.
 
 ## Sources
 
@@ -17470,7 +17587,7 @@ New to NRI tax? Start with the complete NRI taxation guide.
 
 Work out your own tax: NRI income tax calculator, new vs old regime, with your refund against TDS.
 Selling from abroad? What you pay in India and at home: UAE · UK · USA · Canada · Australia · Singapore. Or let us handle it: NRI property sale service.
-NRI tax by country: UK · USA · Canada · UAE · Australia · Singapore.
+NRI tax by country: UK · USA · Canada · UAE · Australia · Singapore · Europe.
 
 ## What we handle
 
@@ -19090,7 +19207,7 @@ NRI tax in India, in one minute:
 - Capital gains: listed shares and equity funds 20% short-term and 12.5% long-term above ₹1.25 lakh; property 12.5% long-term. The buyer or broker deducts TDS at these rates plus surcharge and cess.
 - Return: file if your Indian income is above ₹4 lakh, or to claim back excess TDS. A lower-TDS certificate or a treaty claim with a tax residency certificate and Form 41 can cut tax deducted.
 
-NRI tax by country: UK · USA · Canada · UAE · Australia · Singapore.
+NRI tax by country: UK · USA · Canada · UAE · Australia · Singapore · Europe.
 
 ## Who counts as an NRI for tax
 
