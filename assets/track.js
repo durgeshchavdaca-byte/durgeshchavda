@@ -80,6 +80,19 @@
     }
   }, true);
 
+  // Copy buttons: <button data-copy="#id"> copies that block's text and adds the source line (20 Nov 2026: Clarity showed readers clicking on template text to copy it)
+  document.addEventListener('click', function (ev) {
+    var b = ev.target && ev.target.closest ? ev.target.closest('[data-copy]') : null;
+    if (!b) return;
+    var el = document.querySelector(b.getAttribute('data-copy'));
+    if (!el) return;
+    var txt = (el.innerText || el.textContent || '').trim() + '\n\nSource: CA Durgesh Chavda, ' + location.origin + location.pathname;
+    function done() { var o = b.getAttribute('data-label') || b.textContent; b.setAttribute('data-label', o); b.textContent = 'Copied'; setTimeout(function () { b.textContent = o; }, 2000); }
+    if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(txt).then(done, function () {}); }
+    else { var ta = document.createElement('textarea'); ta.value = txt; document.body.appendChild(ta); ta.select(); try { document.execCommand('copy'); done(); } catch (e) {} document.body.removeChild(ta); }
+    if (window.clarity) { window.clarity('set', 'cta_page', PAGE); window.clarity('event', 'copy_block'); }
+  });
+
   // Tag links already on the page too, so copied or middle-clicked links carry the source
   function tagAll() { var as = document.querySelectorAll('a[href*="topmate.io"],a[href*="calendly.com"]'); for (var i = 0; i < as.length; i++) tag(as[i]); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', tagAll); else tagAll();

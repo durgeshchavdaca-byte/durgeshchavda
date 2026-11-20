@@ -11122,7 +11122,7 @@ FEMA · ODI · Due 31 December
 
 If an Indian company or resident owns a foreign company, it must file an Annual Performance Report (APR) with its bank every year. The question that trips most groups up: does the foreign subsidiary need audited accounts when its own country does not require an audit?
 
-By CA Durgesh Chavda·Last reviewed 19 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 21 November 2026·5 min read
 
 Get your APR done before 31 December
 hello@durgeshchavda.com
@@ -11140,6 +11140,13 @@ Already own a US LLC without Form FC? How to regularise it, step by step.
 ## Short answer
 
 If you control the foreign entity, you need audited financial statements for the APR, even if the host country (for example Delaware or many US states) does not require an audit. Unaudited statements are allowed only when both conditions hold: the Indian investor does not have control, and the host country does not mandate an audit. In that case, the unaudited statements are certified by the statutory auditor of the Indian entity, or by a chartered accountant where no statutory audit applies.
+Copy this answer for your bank or CFO
+Get a quote in one working day. Send us three things and we reply with the scope, fee and timeline for the audit and the APR:
+
+- The country and number of overseas entities
+- The year-end of each entity
+- Whether the accounts are ready
+Email the details WhatsApp the details
 
 APR due 31 December 2026. We arrange the audit and file the APR through your bank →
 
@@ -19283,7 +19290,7 @@ Foreign vendor guide
 
 Indian customers withhold tax from many payments to foreign suppliers. These three documents are how you get your treaty rate instead of 20% — here’s what each one is and how to get it right.
 
-By CA Durgesh Chavda·Last reviewed 30 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 21 November 2026·6 min read
 
 Get your vendor pack ready
 hello@durgeshchavda.com
@@ -19363,6 +19370,9 @@ We, [legal name of the foreign company], a company incorporated in [country] wit
 
 Signed for and on behalf of [company] — [name], [designation]
 
+Copy the declaration
+Want the full pack prepared for your company? Form 41, the TRC checklist and a no-PE declaration checked against your treaty, ready to send to your Indian customer.Book a 15-min call
+Prefer email? Send your country, the type of payment and the invoice value to hello@durgeshchavda.com and we reply with what you need and the fee.
 Send it with the TRC and Form 41 (the information the TRC does not show). Only sign it if it is true — see is the no-PE declaration true for you?
 
 ## After you’re paid
