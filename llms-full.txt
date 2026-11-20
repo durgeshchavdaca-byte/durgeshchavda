@@ -74,6 +74,981 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-uk/
+------------------------------------------------------------------------
+FAST-DS · NRIs · UK · Nov 2026
+
+# Indian in the UK? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in the UK, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in the UK. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in the UK throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in the UK | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in the UK with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in the UK
+
+- Current and savings accounts (including the account you opened as a student)
+- Cash ISA and stocks and shares ISA
+- Workplace pension or SIPP
+- Premium Bonds and fixed-term savings
+- Employer shares: RSUs, SAYE and share incentive plans
+- A flat or house in the UK
+
+Who this is for: Indians working or studying in the UK, and those who have moved back to India from the UK.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from the UK
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to the UK
+
+- Tax years differ: the UK year runs 6 April to 5 April and India’s runs 1 April to 31 March, so check each Indian year separately.
+- UK side: if you are UK resident, your Indian rent, NRO interest and gains go in your Self Assessment return, due 31 January 2027 for 2025-26, with credit for Indian tax.
+- NRO interest: Indian banks deduct about 30%; with a UK tax residency certificate the India–UK treaty rate of 15% can apply.
+
+## Other India tax work NRIs in the UK ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in the UK need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from the UK?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I studied in the UK and came back to India. Do I need FAST-DS?
+Possibly. If your UK bank account stayed open in years when you were resident in India and it was not reported in Schedule FA, FAST-DS can regularise it, usually at a flat Rs 1 lakh where the money came from taxed or non-resident income. Small accounts under the Rs 20 lakh limit may not need it.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-usa/
+------------------------------------------------------------------------
+FAST-DS · NRIs · US · Nov 2026
+
+# Indian in the US? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in the USA, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in the USA. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in the USA throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in the USA | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in the USA with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in the USA
+
+- Checking and savings accounts
+- Brokerage accounts and US stocks
+- RSUs, ESPP shares and stock options from a US employer, including those that vested while you worked in India
+- 401(k), IRA and HSA accounts
+- A home or rental property in the US
+- Shares in your own US company or LLC
+
+Who this is for: Indians on H-1B, L-1 or green cards, and those who have moved back to India from the US.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from the USA
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to the USA
+
+- RSUs are the biggest trigger: shares that vested while you were on Indian payroll were foreign assets in your resident years, even if tax was deducted in India.
+- Moving back: your first years back are usually “not ordinarily resident”, when foreign assets need not be reported; reporting starts once you become ordinarily resident.
+- NRO interest: Indian banks deduct about 30%; with a US tax residency certificate (Form 6166) the India–US treaty rate of 15% can apply.
+
+## Other India tax work NRIs in the USA ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in the USA need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from the USA?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+My RSUs vested while I worked in India and I later moved to the US. Do I need FAST-DS?
+Check the years you were resident in India while holding the shares. If the shares or the brokerage account were not reported in Schedule FA in those years, FAST-DS applies even though you are an NRI today, usually at a flat Rs 1 lakh where the RSU income was taxed through Indian payroll.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-uae/
+------------------------------------------------------------------------
+FAST-DS · NRIs · UAE · Nov 2026
+
+# Indian in the UAE or back from the Gulf? Check FAST-DS before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in the UAE and the Gulf, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in the UAE and the Gulf. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in the UAE and the Gulf throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in the UAE and the Gulf | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in the UAE and the Gulf with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in the UAE and the Gulf
+
+- UAE and Gulf bank accounts and fixed deposits kept open after returning
+- End-of-service benefits and workplace savings plans
+- Shares in a free-zone or mainland company
+- Property in Dubai or elsewhere in the Gulf
+- National Bonds, gold and investment accounts
+- Accounts held jointly with family members who live in India
+
+Who this is for: Indians working or running businesses in the UAE, Saudi Arabia, Qatar, Oman, Kuwait and Bahrain, and families who have returned to India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from the UAE and the Gulf
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to the UAE and the Gulf
+
+- Returned to India? After two or three “not ordinarily resident” years, every Gulf account, company and property must be reported each year. This is the most common FAST-DS case for Gulf families.
+- Deemed residency: the UAE has no personal income tax, so an Indian citizen with Indian income above ₹15 lakh can be treated as resident in India, but as “not ordinarily resident”, which does not require foreign asset reporting.
+- NRO interest: with a UAE tax residency certificate the India–UAE treaty rate of 12.5% can apply instead of about 30%.
+
+## Other India tax work NRIs in the UAE and the Gulf ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in the UAE and the Gulf need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from the UAE and the Gulf?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I returned to India from Dubai and still have my UAE bank account. Do I need FAST-DS?
+If you have become resident and ordinarily resident in India and the UAE account was not reported in Schedule FA, yes, FAST-DS can regularise it, usually at a flat Rs 1 lakh where the money was earned while you were non-resident. Years in which you were still not ordinarily resident did not need reporting.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-australia/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Australia · Nov 2026
+
+# Indian in Australia? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Australia, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in Australia. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in Australia throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in Australia | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in Australia with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in Australia
+
+- Everyday and savings accounts, including the account opened as a student
+- Superannuation
+- Shares and ETFs held through an Australian broker
+- Employee share schemes
+- A home or investment property in Australia
+- Term deposits
+
+Who this is for: Indians working or studying in Australia and New Zealand, and those who have moved back to India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from Australia
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to Australia
+
+- Tax years differ: Australia’s year runs 1 July to 30 June and India’s runs 1 April to 31 March, so check each Indian year separately.
+- Students: the year you left India for study was usually still a resident year in India, and the account opened that year counted as a foreign asset.
+- NRO interest: with an Australian tax residency certificate the India–Australia treaty rate of 15% can apply instead of about 30%.
+
+## Other India tax work NRIs in Australia ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in Australia need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from Australia?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I have superannuation in Australia and moved back to India. Does it need to be reported?
+Once you are resident and ordinarily resident in India, your super account is a foreign asset to report every year. If earlier resident years were missed, FAST-DS can regularise them before 31 December 2026.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-singapore/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Singapore · Nov 2026
+
+# Indian in Singapore? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Singapore, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in Singapore. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in Singapore throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in Singapore | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in Singapore with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in Singapore
+
+- Bank accounts and fixed deposits
+- CPF balances, for permanent residents
+- Supplementary Retirement Scheme (SRS) account
+- Brokerage accounts and shares
+- Employer shares and options
+- Property and shares in a Singapore company
+
+Who this is for: Indians working in Singapore, permanent residents, and those who have moved back to India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from Singapore
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to Singapore
+
+- Company owners: if you were resident in India while owning or directing a Singapore company, the shares and your signing authority on its bank account were reportable.
+- Moving back: CPF and SRS accounts often stay open for years after you return; they must be reported once you are ordinarily resident in India.
+- NRO interest: with a Singapore certificate of residence the India–Singapore treaty rate of 15% can apply instead of about 30%.
+
+## Other India tax work NRIs in Singapore ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in Singapore need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from Singapore?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I returned to India but my CPF is still in Singapore. Do I need to report it?
+Yes, once you are resident and ordinarily resident in India. If it was left out of Schedule FA in earlier resident years, FAST-DS can regularise it before 31 December 2026, usually at a flat Rs 1 lakh where the money was earned while you were non-resident.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-europe/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Europe · Nov 2026
+
+# Indian in Europe? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Europe, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in Europe. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in Europe throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in Europe | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in Europe with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in Europe
+
+- Salary and savings accounts, including blocked accounts opened for a student visa
+- Employer and state pension entitlements
+- Shares, ETFs and employee share plans
+- Rental deposits and insurance-linked savings
+- A home in Europe
+- Accounts kept open after moving back to India
+
+Who this is for: Indians working or studying in Germany, the Netherlands, Ireland, France, Sweden, Italy, Spain, Poland and other European countries, and those who have returned to India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from Europe
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to Europe
+
+- Students: the year you left India for study was usually still a resident year in India, so the blocked or student account opened that year counted as a foreign asset.
+- Banks report automatically: European banks send account data to India every year under the common reporting standard, which is why many people received the department’s email.
+- NRO interest: most treaties with European countries cut the 30% deduction; for example, 10% under the India–Germany treaty with a tax residency certificate.
+
+## Other India tax work NRIs in Europe ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in Europe need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from Europe?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I opened a blocked account in Germany as a student. Do I need FAST-DS?
+Check the year you left India. If you were still resident in India that year and the account was not reported, it was a missed foreign asset. Small accounts are often within the Rs 20 lakh relief, so check before paying anything.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-russia/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Russia · Nov 2026
+
+# Indian in Russia? Check if FAST-DS applies before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Russia, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in Russia. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in Russia throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in Russia | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in Russia with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in Russia
+
+- Russian bank accounts and cards opened as a student
+- Savings and deposit accounts
+- Shares in a trading or services company
+- Property or long-term leases
+- Accounts kept open after returning to India
+
+Who this is for: Indian medical students, doctors, traders and professionals in Russia and nearby countries, and those who have returned to India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from Russia
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to Russia
+
+- Students: the year you left India for study was usually still a resident year in India, and so is any year in which you spend 182 days or more in India. An account open in those years counted as a foreign asset.
+- Statements take time: bank accounts are valued at total deposits since opening, and getting old statements from Russian banks can be slow. Ask now.
+- Currency: rouble amounts are converted through US dollars at the 31 March 2026 reference rates.
+
+## Other India tax work NRIs in Russia ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in Russia need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from Russia?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I am a medical student in Russia. Do I have to file FAST-DS?
+Only if you were resident in India in a year when you held the Russian account and did not report it. Many student accounts are small and fall within the Rs 20 lakh relief, so check your residency and total deposits before paying anything.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-nri-africa/
+------------------------------------------------------------------------
+FAST-DS · NRIs · Africa · Nov 2026
+
+# Indian family in Africa? Check FAST-DS before 31 December
+
+The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Africa, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+
+Check your FAST-DS position
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS applies only for years you were resident in India while holding foreign assets.
+- Flat Rs 1 lakh where the asset came from taxed or non-resident income.
+- File online from abroad by 31 December 2026.
+
+Quick answer: FAST-DS is not for everyone who lives in Africa. It applies if you were resident in India in a year when you held a foreign account or asset and did not report it: usually the year you moved, years before you moved, or years after you returned. Where the asset came from money already taxed or earned while you were non-resident, the cost is a flat ₹1 lakh. The window closes on 31 December 2026. If you were non-resident in every year you held the asset, you have nothing to declare.
+
+## Do you need FAST-DS? Check your years
+
+Your situation | FAST-DS? | 
+
+You have lived in Africa throughout and were non-resident in India in every year you held the account or asset | No. The foreign assets schedule is only for residents | 
+
+The year you left India: you were in India for 182 days or more that year (or you left to study, not for a job) and opened a foreign account before 31 December | Check. That was usually a resident year, and the new account belonged in that year’s return | 
+
+You held foreign shares, RSUs or an account before you moved, while working in India | Likely yes, for each resident year it was not reported | 
+
+You moved back to India, became ordinarily resident and kept accounts, pension or property in Africa | Likely yes, for each year it was not reported | 
+
+You lived abroad but your Indian return was filed as “resident” by mistake, and you got the department’s email | Usually no. Prove your non-resident status and correct the return instead | 
+
+Not sure which years count? Use the residential status calculator for each year.
+
+Indian in Africa with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+
+## What usually gets missed in Africa
+
+- Bank accounts in Africa, including joint accounts with relatives in India
+- Shares in a family company or partnership
+- Directorships and signing authority on company accounts
+- Commercial and residential property
+- Loans given to the family business
+- Accounts kept open after moving back to India
+
+Who this is for: Indian business families and professionals in Kenya, Uganda, Tanzania, Nigeria, Ghana, South Africa, Mozambique and other African countries, and family members who live in India.
+
+## What it costs
+
+Your case | Cost under FAST-DS | 
+
+Asset bought from income already taxed in India, or from money earned while you were non-resident; only the reporting was missed (assets up to ₹5 crore) | Flat ₹1 lakh | 
+
+Foreign income that should have been taxed in India but was not, or an asset you cannot explain (up to ₹1 crore) | 60%: 30% tax plus an equal amount | 
+
+Small holdings: foreign assets other than property totalling ₹20 lakh or less | The ₹10 lakh penalty has not been applied since 1 October 2024, so FAST-DS may not be needed. Check first | 
+
+Try your own numbers in the FAST-DS calculator.
+
+## How to file from Africa
+
+- List your years: days in India for each financial year, from passport stamps.
+
+- Collect statements from the date each account was opened. Bank accounts are valued at the total of all deposits, not the balance, so old statements matter.
+
+- Value each asset as on 31 March 2026 and convert at the reference rate for that date.
+
+- File Form 1 online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature. No visit to India is needed.
+
+- Pay after the department issues Form 2, then file Form 3. Form 1 must be in by 31 December 2026.
+
+## Points specific to Africa
+
+- Family members in India: a son, daughter or parent who lives in India but co-owns shares, is a director or can sign on an African account had to report it every year. This is the most common gap.
+- Valuation: shares in private companies need a formula value or a valuer’s report, and property needs a report from a valuer recognised in that country, so start early.
+- NRO interest: many of India’s treaties with African countries reduce the 30% deduction with a tax residency certificate; check your country’s treaty.
+
+## Other India tax work NRIs in Africa ask us for
+
+- Refunds: filing the Indian return to get back excess TDS on rent, NRO interest and property sales. The last date for FY 2025-26 is 31 December 2026.
+
+- Selling property in India: a lower-TDS certificate before the sale, the capital gains computation and repatriation.
+
+- Moving money out of India: up to USD 1 million a year from the NRO account, with Forms 15CA and 15CB.
+
+- Bank and investment status: converting resident accounts to NRO or NRE and updating KYC.
+
+- Planning a return to India: timing the move and using the “not ordinarily resident” years well.
+
+Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (13 August 2026)
+- TaxGuru: FAST-DS 2026 FAQs
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do NRIs in Africa need to file FAST-DS?
+Only if they were resident in India in a year when they held a foreign account or asset and did not report it, for example the year of moving, earlier years in India, or years after returning. People who were non-resident in every year they held the asset do not need FAST-DS.
+
+Can I file FAST-DS from Africa?
+Yes. Form 1 is filed online on the Indian e-filing portal with your PAN, verified by Aadhaar OTP or a digital signature, and payment is made online after the department issues Form 2.
+
+What does FAST-DS cost?
+A flat Rs 1 lakh where the asset was bought from income already taxed in India or earned while non-resident and only the reporting was missed, for assets up to Rs 5 crore. For foreign income that escaped Indian tax, it is 60% (30% tax plus an equal amount), up to Rs 1 crore.
+
+What is the last date for FAST-DS 2026?
+31 December 2026. No declaration can be filed after that date.
+
+I live in India and own shares in our family company in Kenya. Do I need FAST-DS?
+If you were resident and ordinarily resident in India and the shares were not reported in Schedule FA, yes. Where the shares were funded from taxed or gifted family money, the cost is usually a flat Rs 1 lakh. Unreported dividends or other income from them fall in the 60% category.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fdi-inventory-ecommerce-exports-press-note-3-2026/
 ------------------------------------------------------------------------
 FDI · E-commerce · Sourcing · Nov 2026
@@ -1063,6 +2038,9 @@ Going forward | File as non-resident; Indian salary or income received in India 
 - Bank and FEMA status: if you live abroad, your bank accounts should be on NRI status too.
 
 Related: got the FAST-DS email?, FAST-DS for NRIs abroad, residential status and RNOR.
+
+## FAST-DS by country
+UK US UAE Australia Singapore Europe Russia Africa
 
 ## Sources
 
@@ -5654,6 +6632,7 @@ Selling property in India from the UAE? Get your TDS, refund and repatriation pl
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UK · USA · Canada · Australia · Singapore.
+Indian in the UAE and the Gulf with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 
 ## Sources
 
@@ -7797,6 +8776,9 @@ Work it out with the free FAST-DS calculator.
 Many NRIs received the “overseas financial interests” email too. It is an advisory, not a notice. See what the FAST-DS email means.
 Lived abroad in those years? FAST-DS email but you were an NRI.
 
+## FAST-DS by country
+UK US UAE Australia Singapore Europe Russia Africa
+
 ## Sources
 
 - Income Tax Department: FAST-DS FAQs
@@ -8778,6 +9760,9 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 Lived abroad in those years? FAST-DS email but you were an NRI.
 
+## FAST-DS by country
+UK US UAE Australia Singapore Europe Russia Africa
+
 ## Timeline
 
 Step | When | 
@@ -9068,6 +10053,9 @@ In the first years after return you may be “resident but not ordinarily reside
 - A home abroad: needs a valuation report from a recognised valuer in that country.
 
 Planning the move back? See returning to India from the US.
+
+## FAST-DS by country
+UK US UAE Australia Singapore Europe Russia Africa
 
 ## Sources
 
@@ -9692,6 +10680,7 @@ Nothing needs to be sold just because you moved. The aim is to re-paper each hol
 - Plan your first NRI tax return.
 
 Related: NRI tax services, a CA for Indians in Dubai and NRI taxation guide.
+Indian in the UAE and the Gulf with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 
 ## Sources
 
@@ -11369,6 +12358,7 @@ India uses day counts (182 days, or 60 days plus 365 days over four years, with 
 We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales and repatriation — and work with your UK accountant so both returns agree. See NRI tax services and India advisory for clients in the UK.
 Living in India but running a company abroad? Residency, POEM, PE and FEMA explained.
 Selling property in India? How the US and UK tax the same gain.
+Indian in the UK with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 
 ## Sources
 
@@ -11458,6 +12448,7 @@ NRO balances can be repatriated up to USD 1 million a year with Forms 145 and 14
 
 We handle the Indian side — returns, TDS refunds, lower-TDS certificates, property sales, repatriation — and coordinate with your US CPA so both returns tell the same story. US returns, FBAR and Form 8621 are signed by your US preparer. See NRI tax services and India advisory for clients in the US.
 Selling property in India? How the US and UK tax the same gain.
+Indian in the USA with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 
 ## Sources
 
@@ -11934,6 +12925,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Many families are Overseas Citizens of India or Non-Resident Indians: NRI tax returns, property sales and repatriation.
 
 - Gifts, inheritance and family investments into India — handled within FEMA and Indian tax rules.
+
+Indian in Africa with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 
 ## Investing through Mauritius
 
@@ -14168,7 +15161,7 @@ URL: https://www.durgeshchavda.com/insights/india-questions-answered-nri-foreign
 ------------------------------------------------------------------------
 Questions answered
 
-# India for NRIs and foreigners: 93 questions answered
+# India for NRIs and foreigners: 101 questions answered
 
 The questions NRIs, foreign investors and foreign companies ask most — each answered in a sentence or two, current to November 2026, with a link to the full guide.
 
@@ -14178,7 +15171,34 @@ Ask your question
 hello@durgeshchavda.com
 
 About these answers: written and reviewed by CA Durgesh Chavda, Chartered Accountant (ICAI), and updated as Indian rules change. They are general information — for your situation, ask us.
-Deadlines Nov 2026 8Overseas subsidiaries 4Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+FAST-DS by country 8Deadlines Nov 2026 8Overseas subsidiaries 4Deals and set-up 7New rules 7Foreign companies ask 10Mid-November 10November 2026 11For NRIs: tax 6For NRIs: money and property 6For foreign individuals 4For foreign companies: entering India 6For foreign companies: tax and money 6Checking and buying Indian companies 4Trade deals 4
+
+## FAST-DS for Indians abroad, by country (20 November 2026)
+
+### Do NRIs in the UK need to file FAST-DS?
+Only for years they were resident in India while holding a UK account, ISA, pension or shares that was not reported, such as the year of moving or years after returning. People who were non-resident throughout have nothing to declare. Read more.
+
+### Do NRIs in the USA need to file FAST-DS?
+Only for resident years in India in which US assets were not reported. The most common case is RSUs or ESPP shares that vested while working in India, usually regularised at a flat Rs 1 lakh. Read more.
+
+### Do NRIs in the UAE need to file FAST-DS?
+Not for years as a non-resident. Families who returned to India and became ordinarily resident but kept UAE bank accounts, companies or property unreported can use FAST-DS, usually at a flat Rs 1 lakh. Read more.
+
+### Do NRIs in Australia need to file FAST-DS?
+Only for years they were resident in India while holding an Australian bank account, superannuation or shares that was not reported, including the year a student left India. Read more.
+
+### Do NRIs in Singapore need to file FAST-DS?
+Only for resident years in India in which Singapore accounts, CPF, SRS or company shares were not reported, for example after moving back to India. Read more.
+
+### Do NRIs in Europe need to file FAST-DS?
+Only for years they were resident in India while holding a European account or asset that was not reported. Student blocked accounts opened in the year of leaving India are a common case, often within the Rs 20 lakh relief. Read more.
+
+### Do Indian students in Russia need to file FAST-DS?
+Only if they were resident in India in a year when they held the Russian account and did not report it. Many student accounts are small and fall within the Rs 20 lakh relief. Read more.
+
+### Do Indian families in Africa need to file FAST-DS?
+Family members who live in India and co-own shares, are directors or can sign on an account in Africa had to report those interests. If they did not, FAST-DS can regularise them before 31 December 2026. Read more.
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Deadlines and notices: late November 2026 (20 November 2026)
 
@@ -14205,7 +15225,6 @@ When the parties or group cross the section 5 asset or turnover thresholds and t
 
 ### What stake gives a foreign partner a veto in an Indian company?
 More than 25% of voting rights, because special resolutions need at least three times as many votes in favour as against. 75% lets a shareholder pass special resolutions alone. Read more.
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Overseas subsidiaries: APR and structure questions (19 November 2026)
 
@@ -16204,6 +17223,9 @@ NRIs can remit up to USD 1 million per financial year from NRO balances and sale
 Your status for the year depends on days in India — and, if your Indian income exceeds ₹15 lakh, the 60-day threshold becomes 120 days. Returning NRIs can often be RNOR for a period, which keeps foreign income out of Indian tax. See residential status and RNOR.
 
 Pensioner abroad? Life certificate due 30 November 2026.
+
+## FAST-DS by country
+UK US UAE Australia Singapore Europe Russia Africa
 
 ## How it works
 
@@ -18330,6 +19352,9 @@ Want it done for you? See our FAST-DS filing service.
 Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 Lived abroad in those years? FAST-DS email but you were an NRI.
+
+## FAST-DS by country
+UK US UAE Australia Singapore Europe Russia Africa
 
 ## Official sources
 
