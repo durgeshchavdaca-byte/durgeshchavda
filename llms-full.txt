@@ -92,7 +92,7 @@ Key takeaways
 - Left in 2025: fix it in the FY 2025-26 return by 31 December 2026.
 - Earlier years: Rs 20 lakh relief for small holdings, or FAST-DS for a flat Rs 1 lakh.
 
-Quick answer: if you left India to study and had been in India for 60 days or more that financial year, you were usually still resident in India for that year. A foreign bank account, GIC or blocked account opened that year had to be reported in an Indian return, even if you had no income. For students who left between April and December 2025, a belated or revised return for FY 2025-26 by 31 December 2026 fixes it. For earlier years, small holdings are usually covered by the ₹20 lakh relief, and larger ones can be regularised under FAST-DS for a flat ₹1 lakh.
+Quick answer: if you left India to study and had been in India for 60 days or more that financial year, you were usually still resident in India for that year. A foreign bank account, GIC or blocked account opened that year had to be reported in an Indian return, even if you had no income. For students who left between April and December 2025, a belated or revised return for FY 2025-26 by 31 December 2026 fixes it. For earlier years, small holdings are usually covered by the ₹20 lakh relief, and larger ones can be regularised under FAST-DS, usually for a flat ₹1 lakh.
 
 ## Why students are different
 
@@ -132,7 +132,7 @@ You left India between April and December 2025 | File or revise the FY 2025-26 r
 
 You left in 2024 or earlier, and all your foreign holdings (other than property) total ₹20 lakh or less | The ₹10 lakh penalty has not been applied to such holdings since 1 October 2024. Usually no FAST-DS; report correctly from now on | 
 
-You left in 2024 or earlier with larger amounts, or you are back in India with an unreported account | FAST-DS before 31 December 2026: a flat ₹1 lakh where the money came from parents, loans or other taxed sources | 
+You left in 2024 or earlier with larger amounts, or you are back in India with an unreported account | FAST-DS before 31 December 2026: usually a flat ₹1 lakh where the source of the money is explained and already taxed, such as your parents’ taxed savings. Get the category confirmed for your case | 
 
 You earned income abroad in a resident year (part-time job, interest) and did not report it | That income was taxable in India for that year. Small amounts are best fixed in the return; larger ones fall in the 60% category | 
 
@@ -167,7 +167,7 @@ Does a student's foreign bank account have to be reported in India?
 Yes, for any year in which the student was resident and ordinarily resident in India, which usually includes the year of leaving and any year after returning. It must be reported in the foreign assets schedule even if the student has no taxable income.
 
 Do students need to file FAST-DS?
-Often not. Students who left in 2025 can file or revise the FY 2025-26 return by 31 December 2026. For earlier years, foreign holdings other than property of Rs 20 lakh or less have not attracted the Rs 10 lakh penalty since 1 October 2024. Larger unreported accounts can be regularised under FAST-DS for a flat Rs 1 lakh.
+Often not. Students who left in 2025 can file or revise the FY 2025-26 return by 31 December 2026. For earlier years, foreign holdings other than property of Rs 20 lakh or less have not attracted the Rs 10 lakh penalty since 1 October 2024. Larger unreported accounts can be regularised under FAST-DS, usually for a flat Rs 1 lakh where the money came from sources already taxed.
 
 Is a GIC bought for a Canadian study permit a foreign asset?
 Yes. If it was bought in a year when the student was resident in India, the GIC and the Canadian account it pays into were foreign assets to report in that year's Indian return.
@@ -1660,7 +1660,7 @@ What is the last date for FAST-DS 2026?
 31 December 2026. No declaration can be filed after that date.
 
 I live in India and own shares in our family company in Kenya. Do I need FAST-DS?
-If you were resident and ordinarily resident in India and the shares were not reported in Schedule FA, yes. Where the shares were funded from taxed or gifted family money, the cost is usually a flat Rs 1 lakh. Unreported dividends or other income from them fall in the 60% category.
+If you were resident and ordinarily resident in India and the shares were not reported in Schedule FA, yes. Where the shares were paid for from money already taxed, the cost is usually a flat Rs 1 lakh. The official FAQs do not deal specifically with gifted or inherited shares, so get the category checked for those. Unreported dividends or other income from the shares fall in the 60% category.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
