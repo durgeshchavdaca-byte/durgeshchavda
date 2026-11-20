@@ -7432,6 +7432,8 @@ Key takeaways
 
 Planning a large gift? We work out the TCS, the paperwork and the reporting in your country before the money moves.WhatsApp usBook a 15-min callTransfer checker
 
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
+
 ## The India side
 
 Point | Rule | 
@@ -7939,6 +7941,7 @@ Key takeaways
 Moving a large amount? We prepare Form 145 and the CA certificate, handle TDS on property sales and talk to your bank.WhatsApp usBook a 15-min callTransfer checker
 
 Is there tax on sending money from India to the USA? Not on the transfer itself. Money that has already been taxed in India can go abroad: from an NRO account up to US$1 million a financial year with Form 145 and usually a CA certificate in Form 146, and from NRE or FCNR accounts without a limit. Residents sending money under the LRS pay TCS of 20% above ₹10 lakh a year (lower for education and medical), which is adjusted against their tax. Moving your own money is not taxable in the US. Gifts or inheritances from non-US persons over US$100,000 in a year must be reported on Form 3520, but are not taxed; Indian accounts may need FBAR and Form 8938 reporting.
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
 
 ## India to USA: what can go, and how
 Money in India | Can it go abroad? | Limit and paperwork | 
@@ -8329,6 +8332,8 @@ Key takeaways
 - The email is an advisory, not a notice; no reply is needed.
 - Check AIS > Foreign Assets Information against Schedule FA in each resident-year return.
 - Revise FY 2025-26 free by 31 Dec 2026; use FAST-DS (₹1 lakh flat for taxed-income assets) for earlier years.
+
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
 
 ## What the email is
 
@@ -8880,6 +8885,8 @@ Key takeaways
 - Shares valued at the 31 March 2026 high-low average, converted at the RBI rate; deadline 31 December 2026.
 
 Holding RSUs abroad? We map every vest, sale and dividend, choose the right category and file before 31 December.WhatsApp usBook a 15-min callHow we file
+
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
 
 ## Which category applies
 
@@ -11250,6 +11257,8 @@ Key takeaways
 - File T1135 if Indian investments cost more than CAD 100,000 at any time in the year.
 - Use a CRA residency certificate + Form 41 for the 15% treaty rate on interest; claim the foreign tax credit in Canada.
 
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
+
 ## Income by income: India vs Canada
 
 Income or asset | India | Canada (residents) | Watch out | 
@@ -11324,6 +11333,8 @@ Key takeaways
 - NRE interest is exempt in India but generally taxable in the UK.
 - Indian mutual funds can fall under UK offshore fund rules — gains taxed as income.
 - Use an HMRC certificate of residence + Form 41 for treaty rates; claim foreign tax credit relief in the UK.
+
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
 
 ## Income by income: India vs the UK
 
@@ -11407,6 +11418,8 @@ Key takeaways
 - NRE interest is exempt in India but taxable in the US.
 - FBAR above USD 10,000 combined; FATCA Form 8938 above USD 50,000/75,000 (single, in the US).
 - Indian mutual funds are generally PFICs — take US advice; use Form 6166 + Form 41 for treaty rates in India.
+
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
 
 ## Income by income: India vs the US
 
@@ -18597,6 +18610,7 @@ Key takeaways
 - Jio Platforms' IPO closed on 23 October 2026; allotment is due on 26 October and listing on 28 October (tentative).
 
 Got Jio Platforms shares? Worked tax examples at the ₹1,358 listing price.
+Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
 
 ## How NRIs apply
 
