@@ -256,7 +256,7 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
   var india = /Calcutta|Kolkata/.test(tz);
   var foreign = !!tz && !india; // visitor outside India: lead with the free intro call
   var path = location.pathname;
-  var bizPage = /due-diligence|forensic|company-check|supplier|partner|india-entry|subsidiary-compliance|representative|international|aeo|us-company-formation|market-entry|promoter|joint-venture|acquire|cci-approval|shareholding|distributor|sourcing|fdi|\/ja\/|\/de\/|\/fr\/|\/ko\/|\/es\//.test(path);
+  var bizPage = /due-diligence|forensic|company-check|supplier|partner|india-entry|subsidiary-compliance|representative|international|aeo|us-company-formation|market-entry|promoter|joint-venture|acquire|cci-approval|shareholding|distributor|sourcing|fdi|form-41|w-8ben|tax-for-foreign|foreigners-invest|repatriate-profits|3ceaa|\/ja\/|\/de\/|\/fr\/|\/ko\/|\/es\//.test(path);
   // 20 Nov 2026 (Clarity: engaged readers left without clicking; NRIs abroad saw a business nudge): pick the message from the page topic first
   var topic = /fast-ds/.test(path) ? 'fastds'
     : /apr-|overseas-subsidiary|us-subsidiary|audit-of-us|round-tripping|fema-odi/.test(path) ? 'apr'
