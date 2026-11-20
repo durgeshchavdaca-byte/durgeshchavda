@@ -598,3 +598,16 @@ picture{display:block}
 .gloss{margin:10px 0 0;padding:0}.gloss dt{margin-top:14px;font-size:16px}.gloss dd{margin:2px 0 0;padding:0 0 10px;border-bottom:1px dashed #e2ddd3;color:var(--ink,#111)}
 
 .hero-foreign{margin:18px 0 0;max-width:620px;padding:12px 16px;border:1px solid var(--line);border-radius:14px;background:var(--paper);font-size:15px;line-height:1.55;color:var(--ink)}.hero-foreign a{text-decoration:underline;text-underline-offset:3px}
+
+/* Clarity 21 Nov 2026: mobile visits ended within seconds; on a phone the page header took a full screen before any answer.
+   Show the headline at once (no fade-in wait) and tighten the header on small screens so the key takeaways start on the first screen. */
+.phero .rv{opacity:1;transform:none;transition:none}
+@media (max-width:600px){
+  .phero{padding:96px 0 22px}
+  .phero h1{font-size:1.95rem;margin-top:14px}
+  .phero .lead{font-size:1.03rem;line-height:1.5}
+  .phero .hero-ctas{margin-top:18px}
+  .phero .hero-ctas .btn-soft{display:none}
+  .phero .byline{font-size:.72rem;gap:6px;margin-top:14px}
+  .page-g{padding-top:22px}
+}
