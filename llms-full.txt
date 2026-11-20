@@ -7342,6 +7342,9 @@ US shares through an app or broker? Find out what to report and whether to use F
 
 Check your number: FAST-DS calculator. Related: FAST-DS complete guide, investing in US stocks from India, RSUs and FAST-DS.
 
+## FAST-DS by country
+UK US UAE Australia Singapore Canada Europe Russia Africa
+
 ## Sources
 
 - Income Tax Department: FAST-DS 2026 FAQs (PDF)
@@ -9993,6 +9996,9 @@ Work out your number with the free FAST-DS calculator, and read the full FAST-DS
 
 Reported cases include employees with RSUs from a foreign employer, people with accounts from their student years abroad, returning NRIs who still hold foreign accounts, and small US share investors. People who report every year have also received it, for example where one year or one brokerage account was left out. See FAST-DS for RSUs and ESOPs and FAST-DS for returning NRIs.
 Lived abroad in those years? FAST-DS email but you were an NRI.
+
+## FAST-DS by country
+UK US UAE Australia Singapore Canada Europe Russia Africa
 Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
@@ -10534,6 +10540,9 @@ Listed shares are valued at the higher of cost and the average of the highest an
 
 Report the shares in Schedule FA every year, report dividends and sale gains in your return, and claim credit for US tax withheld on dividends under the India–US treaty. See the India–US tax treaty guide.
 
+## FAST-DS by country
+UK US UAE Australia Singapore Canada Europe Russia Africa
+
 ## Sources
 
 - Income Tax Department: FAST-DS FAQs (13 August 2026)
@@ -10611,6 +10620,9 @@ Since 1 October 2024 the ₹10 lakh Black Money Act penalty for leaving foreign 
 - Decide the category and compute the value.
 - File Form 1 by 31 December 2026, pay after Form 2, file Form 3.
 - Report the account in Schedule FA from now on, or close it.
+
+## FAST-DS by country
+UK US UAE Australia Singapore Canada Europe Russia Africa
 Went abroad to study? Why your student bank account counted in India, and how to fix it.
 
 ## Sources
