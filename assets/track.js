@@ -93,6 +93,23 @@
     if (window.clarity) { window.clarity('set', 'cta_page', PAGE); window.clarity('event', 'copy_block'); }
   });
 
+  // Enquiry forms (form[data-enq]): record attempts and successful sends in Clarity (21 Nov 2026: ask-a-question form added to insight pages)
+  function ev2(name, type) { if (window.clarity) { window.clarity('set', 'cta_page', PAGE); window.clarity('set', 'cta_type', type); window.clarity('event', name); } }
+  document.addEventListener('submit', function (ev) {
+    var f = ev.target;
+    if (!f || !f.matches || !f.matches('form[data-enq]')) return;
+    ev2('enquiry_try', 'enquiry');
+    var n = 0, t = setInterval(function () {
+      var ok = f.querySelector('.enq-ok');
+      if (ok && !ok.hidden) { clearInterval(t); ev2('enquiry_sent', 'enquiry'); if (window.clarity) window.clarity('upgrade', 'enquiry_sent'); }
+      else if (++n > 30) clearInterval(t);
+    }, 500);
+  }, true);
+  document.addEventListener('click', function (ev) {
+    var b = ev.target && ev.target.closest ? ev.target.closest('form[data-enq] [data-wa]') : null;
+    if (b) ev2('whatsapp_click', 'enquiry_whatsapp');
+  }, true);
+
   // Tag links already on the page too, so copied or middle-clicked links carry the source
   function tagAll() { var as = document.querySelectorAll('a[href*="topmate.io"],a[href*="calendly.com"]'); for (var i = 0; i < as.length; i++) tag(as[i]); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', tagAll); else tagAll();
