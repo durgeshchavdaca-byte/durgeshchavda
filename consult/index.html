@@ -105,8 +105,8 @@
     },
     {
      "@type": "Offer",
-     "name": "Follow-up call (15 minutes)",
-     "price": "799",
+     "name": "Follow-up call (45 minutes)",
+     "price": "999",
      "priceCurrency": "INR",
      "url": "https://topmate.io/cadurgesh_chavda/741479"
     },
@@ -214,7 +214,7 @@
 <h2 id="options">Your options</h2>
 <div class="tbl-wrap"><table class="tbl"><tr><th>Option</th><th>Price</th><th>Best for</th><th>How</th></tr>
 <tr><td><strong>Free WhatsApp chat</strong></td><td>Free — first 10 messages</td><td>Quick questions: &ldquo;Do I need to file?&rdquo;, &ldquo;Which form?&rdquo;, &ldquo;Is this allowed?&rdquo;</td><td><a href="https://wa.me/917801887130?text=Hi%20Durgesh%2C%20I%20found%20you%20on%20durgeshchavda.com.%20My%20question%3A%20" target="_blank" rel="noopener">Start the chat</a></td></tr>
-<tr><td><strong>15-minute first call</strong></td><td>See current price on Topmate</td><td>Your specific situation: NRI tax, property sale, belated ITR, US company, India entry, a notice</td><td><a href="https://topmate.io/cadurgesh_chavda/741484" target="_blank" rel="noopener">Book on Topmate</a>, slots in your time zone</td></tr><tr><td><strong>Follow-up call (15 min)</strong></td><td>See current price on Topmate</td><td>A second question, or a check-in on work in progress</td><td><a href="https://topmate.io/cadurgesh_chavda/741479" target="_blank" rel="noopener">Book a follow-up</a></td></tr><tr><td><strong>One-hour consultation</strong></td><td>See current price on Topmate</td><td>Structuring, deals, documents or a full review of your situation</td><td><a href="https://wa.me/917801887130?text=I%27d%20like%20to%20book%20a%20one-hour%20consultation" target="_blank" rel="noopener">Request a slot on WhatsApp</a></td></tr>
+<tr><td><strong>15-minute first call</strong></td><td>See current price on Topmate</td><td>Your specific situation: NRI tax, property sale, belated ITR, US company, India entry, a notice</td><td><a href="https://topmate.io/cadurgesh_chavda/741484" target="_blank" rel="noopener">Book on Topmate</a>, slots in your time zone</td></tr><tr><td><strong>Follow-up call (45 min)</strong></td><td>See current price on Topmate</td><td>A second question, or a check-in on work in progress</td><td><a href="https://topmate.io/cadurgesh_chavda/741479" target="_blank" rel="noopener">Book a follow-up</a></td></tr><tr><td><strong>One-hour consultation</strong></td><td>See current price on Topmate</td><td>Structuring, deals, documents or a full review of your situation</td><td><a href="https://wa.me/917801887130?text=I%27d%20like%20to%20book%20a%20one-hour%20consultation" target="_blank" rel="noopener">Request a slot on WhatsApp</a></td></tr>
 <tr><td><strong>Business engagement</strong></td><td>Fixed fee or quote</td><td>Due diligence, forensic audit, India entry, virtual CFO, AEO</td><td><a href="https://topmate.io/cadurgesh_chavda/741484" target="_blank" rel="noopener">Book a 15-min first call</a>, use the enquiry form below, or start with an <a href="/india-company-check/">India Company Check</a> (USD 249)</td></tr></table></div>
 <h2 id="free">The free chat</h2>
 <ul><li>Durgesh replies personally on WhatsApp, usually within one working day (Indian Standard Time).</li>
@@ -289,8 +289,8 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
 /* Talk to Durgesh (20 Nov: topic-aware nudge for every visitor after 30s or 40% scroll; 28 Oct: visitors outside India get 'Book a 15-min call') — free WhatsApp chat (first 10 messages) + paid 15-min first call via Topmate. 26 Oct 2026 */
 !function(){
   if (document.getElementById('td-root')) return;
-  var CALL_IN = 'https://topmate.io/cadurgesh_chavda/741479';   // follow-up call, 15 min (15 Nov 2026)
-  var CALL_INTL = 'https://topmate.io/cadurgesh_chavda/741479'; // follow-up call, 15 min
+  var CALL_IN = 'https://topmate.io/cadurgesh_chavda/741479';   // follow-up call, 45 min (21 Nov 2026)
+  var CALL_INTL = 'https://topmate.io/cadurgesh_chavda/741479'; // follow-up call, 45 min
   var INTRO = 'https://topmate.io/cadurgesh_chavda/741484'; // 15-min first call for business enquiries
   var WA = 'https://wa.me/917801887130?text=';
   var tz = ''; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) {}
@@ -335,7 +335,7 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
     + (biz ? '<a class="td-opt" href="' + INTRO + '" target="_blank" rel="noopener" data-td="intro"><b>Book a 15-min first call</b><span>Due diligence, India entry, FEMA, tax or CFO support: leave with a clear next step and a quote.</span></a>' : '<a class="td-opt" href="' + INTRO + '" target="_blank" rel="noopener" data-td="intro"><b>Book a 15-min first call</b><span>NRI tax, property sale, belated ITR, US company or a tax notice: a clear answer in 15 minutes.</span></a>')
     + '<a class="td-opt wa" href="' + WA + waText + '" target="_blank" rel="noopener" data-td="wa"><b>Chat free on WhatsApp</b><span>Your first 10 messages are free — quick questions answered by Durgesh.</span></a>'
     + ''
-    + '<a class="td-opt" href="' + (india ? CALL_IN : CALL_INTL) + '" target="_blank" rel="noopener" data-td="call"><b>Follow-up call (15 min)</b><span>Already spoken to us, or a second question? Book and pay on Topmate.</span></a>'
+    + '<a class="td-opt" href="' + (india ? CALL_IN : CALL_INTL) + '" target="_blank" rel="noopener" data-td="call"><b>Follow-up call (45 min)</b><span>Already spoken to us, or a second question? Book and pay on Topmate.</span></a>'
     + '<a class="td-opt" href="/consult/" data-td="how"><b>How it works</b><span>What the free chat covers, and when a call makes sense.</span></a>'
     + '<p class="td-note">General guidance only. Detailed advice, document review and filings are quoted separately.</p>'
     + '</div>'
