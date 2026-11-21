@@ -10657,9 +10657,9 @@ URL: https://www.durgeshchavda.com/tools/fast-ds-calculator/
 ------------------------------------------------------------------------
 Free tool
 
-# FAST-DS calculator: what you pay, and what you save
+# FAST-DS calculator: your amount, worked out from the Department’s FAQs
 
-Choose your situation and enter the value of your foreign assets as on 31 March 2026. See the amount payable under FAST-DS, what the Black Money Act would cost instead, and your estimated payment deadlines.
+Add each foreign asset and any foreign income, and say how each was paid for. The calculator values each one the way the scheme’s rules say, totals Category A and Category B, checks the ₹1 crore and ₹5 crore limits, and shows what you pay, what it would cost outside the scheme and your dates. Updated for the Supplementary FAQs of 20 November 2026.
 
 Get it filed before 31 December
 hello@durgeshchavda.com
@@ -10669,28 +10669,86 @@ Got the email about “overseas financial interests”? What the FAST-DS email m
 
 Want it filed for you? We value the assets and file Form 1 to Form 3 before 31 December.WhatsApp usBook a 15-min callHow we file
 
-## How the calculator works
+## The rules this calculator applies
 
-- Category 1 (undisclosed assets or income, up to ₹1 crore together): 30% tax plus an equal additional amount, 60% in all.
+The rules below are taken from the Income Tax Department’s FAQs on FAST-DS (questions 1 to 50) and the Supplementary FAQs (questions 51 to 93) released on 20 November 2026. The question numbers are given so you can check each one. Where the FAQs do not settle a point, the calculator says so and asks you to confirm it.
 
-- Category 2 (taxed income or non-resident years, missing only from Schedule FA, up to ₹5 crore): a flat ₹1,00,000.
+Point | Rule applied | FAQ | 
 
-- Valuation is as on 31 March 2026. For bank accounts, the value is the total of all deposits since the account was opened (deposits made out of withdrawals from the same account are excluded), not the balance. Quoted shares use the higher of cost and the average of the day’s high and low price on 31 March 2026. Foreign currency converts at the RBI reference rate for that date.
+Category A | A foreign asset bought from income not offered to tax, or foreign income not offered to tax. Up to ₹1 crore in total. Tax at 30% plus an additional amount at 30% | 15, 17, 18 | 
 
-- Payment is due within two months from the end of the month you receive Form 2, with up to two more months at 1% a month interest.
+Category B | An asset bought from taxed income, or acquired while non-resident or RNOR, that was only missing from Schedule FA (or no return was filed). Up to ₹5 crore in total. One flat fee of ₹1 lakh for all such assets and all years | 16, 19, 82, 83 | 
 
-Full rules: FAST-DS 2026 guide.
+Mixed funding | An asset paid for partly from taxed and partly from untaxed income cannot be declared in Category B. It can be declared in Category A, if eligible | 70 | 
+
+Date and exchange rate | Values as on 31 March 2026, worked out in the foreign currency and then converted. US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, because none was published on 31 March. For other currencies the FAQs give the method but not the figure, so you enter the rate | 4, 35, 55, 92 | 
+
+Bank account | The sum of all deposits since opening, not the balance. Money withdrawn and put back into the same account is not counted twice. Money moved into another declared asset is taken off. After an earlier Black Money Act declaration of the account, only later deposits count | 29 to 31, 34 | 
+
+Listed shares, ETFs, RSUs | The higher of cost and the average of the day’s highest and lowest price on 31 March 2026 | 24, 25, 73 | 
+
+Property, jewellery, art, unquoted securities, other assets | The higher of cost and the open-market value in a recognised valuer’s report. With no valuation, the indexed cost of acquisition. For a gift or inheritance, the previous owner’s cost and year | 21 to 28, 33, 80, 92 | 
+
+Joint holdings | Each holder counts a fixed share, or an equal share if none is fixed. Each holder’s limit is tested separately | 58, 59 | 
+
+Small bank accounts | Combined balance never above ₹20 lakh in the year, with deposits from disclosed sources: no declaration needed | 67 | 
+
+Only FY 2025-26 missed | A revised return for assessment year 2026-27 by 31 March 2027 is treated as sufficient | 68 | 
+
+Payment | Form 2 within one month from the end of the month of filing. Pay within two months from the end of the month Form 2 is received, or within two more months with simple interest at 1% for every month or part of a month | 40 to 44 | 
+
+Outside the scheme | Category A: tax at 30% plus penalty at 90%. Category B: a penalty of ₹10 lakh for each asset | 66 | 
+
+One figure to know about: the Supplementary FAQs index costs to 380 for FY 2025-26 (questions 78, 80 and 92), while the Cost Inflation Index notified by CBDT for FY 2025-26 is 376. The calculator uses 380, as the scheme’s own FAQs do, and shows the 376 figure next to it whenever indexation is used.
+
+## What no calculator can decide for you
+
+- Whether the money was “taxed or disclosed”. This decides between ₹1 lakh and 60%. An asset paid for even partly from untaxed income cannot go in Category B (question 70).
+
+- Your residential status in each year. The year you left India and the year you came back are where most mistakes happen.
+
+- Which assets you must list. Joint accounts, accounts you only sign for, and assets where you are a beneficiary can all count (questions 56 to 61).
+
+- What you cannot fix later. Only one Form 1 counts. It can be refiled until Form 2 is issued. After that nothing can be added, and immunity covers only what was declared (questions 53, 54 and 84 to 86).
+
+That is why the result ends with one button: send your working to Durgesh on WhatsApp before you file. Full rules: FAST-DS 2026 guide. Filing done for you: FAST-DS filing service.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (questions 1 to 50)
+
+- Income Tax Department: Supplementary FAQs on FAST-DS (questions 51 to 93)
+
+- Income Tax India on X, 20 November 2026: release of the Supplementary FAQs
+
+- Income Tax Department: Cost Inflation Index table
+
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
-How is FAST-DS tax calculated?
-For undisclosed foreign assets or income up to ₹1 crore in total, tax is 30% of the value plus an additional amount equal to the tax, 60% in all. Where the asset came from taxed income or was acquired while non-resident and was only missing from Schedule FA, up to ₹5 crore, a flat fee of ₹1 lakh applies.
+How is the FAST-DS amount calculated?
+Category A (a foreign asset bought from untaxed income, or foreign income not offered to tax, up to ₹1 crore in total) pays tax at 30% plus an additional amount at 30%, 60% in all. Category B (an asset from taxed income, or acquired while non-resident or RNOR, only missing from Schedule FA, up to ₹5 crore in total) pays one flat fee of ₹1 lakh. Both can be in one Form 1.
+
+What is the difference between Category A and Category B in FAST-DS?
+Category A is for undisclosed foreign assets or foreign income that was never offered to tax. Category B is for assets bought from taxed income, or acquired while non-resident or RNOR, that were only left out of Schedule FA or where no return was filed. An asset funded even partly from untaxed income cannot be declared in Category B; it can be declared in Category A, if eligible.
 
 How is a foreign bank account valued under FAST-DS?
-At the sum of all deposits made into the account from the date it was opened to 31 March 2026, excluding deposits made out of withdrawals from the same account, converted at the RBI reference rate. It is not the closing balance.
+At the sum of all deposits from the date the account was opened to 31 March 2026, not the closing balance. Deposits made out of money withdrawn earlier from the same account are excluded, and so are deposits made before an earlier Black Money Act declaration of the account on which tax and penalty were charged.
+
+Which exchange rate applies for FAST-DS?
+The RBI reference rate on the valuation date. As no rate was published on 31 March 2026, the Department has said the rate of ₹94.6543 per US dollar published on 30 March 2026 is to be used.
+
+Do I pay ₹1 lakh for each asset or for each year under Category B?
+No. It is a single flat fee of ₹1 lakh for all Category B assets and all years, as long as their total value in your Form 1 does not exceed ₹5 crore.
+
+Do small foreign bank accounts need a FAST-DS declaration?
+Not where the combined balance of your foreign bank accounts did not exceed ₹20 lakh at any time in the year and the deposits came from disclosed sources. A declaration is needed if the account holds income that was not taxed.
+
+I missed reporting a foreign asset only in FY 2025-26. Do I need FAST-DS?
+The Department's Supplementary FAQs say a revised return for assessment year 2026-27, showing the income and the asset in Schedule FA and filed on or before 31 March 2027, is treated as sufficient compliance. This applies only where no earlier resident year is involved.
 
 What happens if I don't pay the FAST-DS amount on time?
-You must pay within two months from the end of the month in which you receive Form 2. A further two months is allowed with interest at 1% a month; after that the declaration becomes void and is treated as never made.
+You must pay within two months from the end of the month in which you receive Form 2. A further two months is allowed with simple interest at 1% for every month or part of a month. After that the benefit of the scheme is lost for that declaration.
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fast-ds-rsu-esop-foreign-employer/
