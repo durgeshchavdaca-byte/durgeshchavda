@@ -12200,7 +12200,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 ## How it works
 
 01
-### Free call
+### First call
 We look at your volume, software and backlog, then quote a fixed monthly fee.
 
 02
@@ -12222,7 +12222,7 @@ What does outsourced bookkeeping include?
 Coding bank and card transactions, reconciliations, tracking bills and invoices, a monthly profit and loss, balance sheet and cash summary, catch-up of past months, and a year-end pack for your CPA or accountant.
 
 How much does outsourced bookkeeping cost?
-It is a fixed monthly fee based on your transaction volume and how far behind the books are, quoted after a free call. It usually costs much less than a local bookkeeper.
+It is a fixed monthly fee based on your transaction volume and how far behind the books are, quoted after a short call. It usually costs much less than a local bookkeeper.
 
 Do you file my US or UK tax returns?
 No. We prepare the books and year-end pack; your US CPA or UK accountant files the returns. If you do not have one, we can introduce you.
@@ -13353,7 +13353,7 @@ Founders and companies outside the US form American LLCs and corporations to sel
 Plan your US company
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## Who it’s for
 
@@ -13710,7 +13710,7 @@ When numbers don’t add up — a whistleblower email, unexplained cash leakage,
 Confidential first call
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## When you need a forensic audit
 
@@ -13804,7 +13804,7 @@ From Nairobi and Johannesburg to Lagos, Dar es Salaam and Port Louis, businesses
 Talk about India
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## Buying from India
 
@@ -13867,7 +13867,7 @@ Japanese manufacturers, trading houses and technology companies are among India�
 Talk about your India operations
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 日本語のご案内: インド進出支援.
 
 ## Setting up and running an Indian subsidiary or GCC
@@ -14119,7 +14119,7 @@ Korean manufacturers and their suppliers have deep roots in India — from autos
 Discuss your Indian partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Key takeaways
 - Korea's foreign bribery act can make companies liable for intermediaries' bribes without due care and supervision.
 - Documented checks on Indian agents, distributors and JV partners are the core safeguard.
@@ -14450,7 +14450,7 @@ Clients and in-house counsel now ask AI assistants “which firm handles cross-b
 Book an AEO call
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## Why it matters
 
@@ -14528,7 +14528,7 @@ Singapore is one of the largest sources of foreign investment into India — thr
 Discuss your Indian partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Key takeaways
 - Singapore is one of the largest sources of FDI into India.
 - India can tax gains on Indian shares acquired from 1 April 2017 under the amended treaty.
@@ -14999,7 +14999,7 @@ Not ready for full due diligence? Start here. We verify an Indian supplier, dist
 Order a company check
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Fixed fee: USD 249 per company. Written report in English within 5 working days of confirming the company’s details. Optional site visit quoted separately. Book a 15-minute call or use the form below to order.
 
 ## What it covers
@@ -15151,7 +15151,7 @@ Before you sign a joint venture, distribution, supply, licensing or outsourcing 
 Discuss your partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 In one line: foreign companies use us as their independent eyes and ears in India — checking a prospective partner’s identity, finances, tax and regulatory standing, owners and premises before money or IP changes hands.
 
 Also in Français · Español · Deutsch · 日本語 · 한국어.
@@ -15187,6 +15187,20 @@ Three years of financials, GST and income-tax position, related parties, custome
 03
 ### Diligence & structure
 Full financial, tax and FEMA due diligence, red-flag report, deal-structure and tax advice, and drafting points for your agreement with your lawyers.
+
+## Joint venture partner: the checks that matter most
+
+- Who owns and controls the partner: shareholding, directors, charges on its assets and the other companies its promoters run.
+
+- Liabilities you could inherit: open income-tax and GST demands, unpaid PF and ESI, and litigation.
+
+- Money moving to the promoter’s other businesses: related-party sales, purchases and loans.
+
+- Your own investment: the FDI route and sector cap, the price at which shares can be issued to you, and the reporting that follows.
+
+- Exit: put and call options must fit the FEMA pricing rules. A foreign partner cannot be promised a fixed return on exit.
+
+How much to hold and what each stake gives you: shareholding thresholds in an Indian joint venture and the joint venture guide.
 
 ## Promoters and directors
 
@@ -15248,6 +15262,12 @@ Filed revenue far below what is claimed, a struck-off or non-filing status, canc
 Do you do background checks on Indian directors?
 Yes, with your mandate and within Indian data-protection law: their other directorships, public litigation and regulatory records, and adverse media relevant to your decision.
 
+What should I check before a joint venture with an Indian company?
+Who owns and controls the partner, the liabilities it carries (tax, GST, labour dues and litigation), money flows with the promoter's other businesses, the FDI route and pricing for your investment, and whether the exit clauses fit FEMA pricing rules.
+
+How much does due diligence on an Indian business partner cost?
+A fixed-scope India Company Check on one company costs USD 249 with a report in 5 working days. Partner verification with a site visit, and full financial, tax and FEMA due diligence, are quoted after a short call.
+
 On this page
 
 - By type of partnership
@@ -15271,7 +15291,7 @@ Sourcing from India, appointing a distributor, building a team or buying a compa
 Discuss your Indian partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Key takeaways
 - US FCPA enforcement narrowed in 2025, but third-party due diligence remains central to compliance.
 - In India, check ownership, government links and how intermediaries are paid.
@@ -15375,7 +15395,7 @@ With the India–UK trade agreement in force, more UK firms are signing Indian s
 Discuss your Indian partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Key takeaways
 - CETA has applied since 15 July 2026; UK firms are signing more Indian partners.
 - Failure to prevent fraud (since 1 Sep 2025) and Bribery Act s.7 both reward documented partner due diligence.
@@ -15460,7 +15480,7 @@ European buyers sourcing from India face more supply-chain rules than ever — a
 Discuss your Indian partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Key takeaways
 - LkSG duties still apply; reporting is suspended and an amendment is pending.
 - CSDDD applies from 26 July 2029 (Omnibus thresholds); the Forced Labour Regulation from 14 Dec 2027.
@@ -15551,7 +15571,7 @@ Gulf family offices, funds and companies are among India’s most active investo
 Discuss your Indian partner
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Key takeaways
 - The India–UAE BIT has been in force since 31 August 2024.
 - We work from Dubai (Business Bay) and on the ground across India.
@@ -15725,7 +15745,7 @@ Your next client may never see a list of links. They’ll ask ChatGPT, Gemini or
 Book an AEO call
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Proof, not promises: we use the same method on our own site. In four weeks (6 October to 2 November 2026) weekly Google impressions rose from 1.95k to 16.3k, and the site reached 46k impressions in 28 days. Perplexity cites it first for “how do we get profit out of an India subsidiary”. Read the case study.
 
 ## What AEO is
@@ -16427,7 +16447,7 @@ CA Durgesh Chavda and his team act for foreign companies, investors, funds and p
 Tell us what you need
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 In one line: Durgesh Chavda is a Chartered Accountant (ICAI) in India who acts as the on-the-ground finance, tax, compliance and research team for foreign companies — from Ahmedabad, Mumbai, Bengaluru, Rajkot and Dubai.
 
 ## What we do for you in India
@@ -16534,7 +16554,7 @@ Buying, investing in or partnering with an Indian company? We check the numbers,
 Discuss a deal
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Quick answers
 
 - Financial due diligence in India tests a company’s quality of earnings, revenue and cash, working capital, debt and related parties — and, for foreign investors, whether past foreign investment was reported and priced under FEMA.
@@ -16669,7 +16689,7 @@ Importers, buyers and procurement teams abroad use us to check that an Indian su
 Get a supplier checked
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## What we check
 
@@ -16755,7 +16775,7 @@ Before you commit budget to India, get a feasibility study built by a CA: what t
 Plan your study
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## What’s in an India feasibility study
 
@@ -16848,7 +16868,7 @@ Foreign companies, overseas founders and India-focused funds use us to incorpora
 Plan your India entry
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Step by step: how a foreign company sets up a subsidiary in India, and how long it takes.
 
 ## Your options for entering India
@@ -16967,7 +16987,7 @@ Foreign parents use us as the finance team for their Indian subsidiary: books, p
 Talk about your subsidiary
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## The compliance calendar we run
 
@@ -17069,7 +17089,7 @@ hello@durgeshchavda.com
 
 Paying or getting paid across borders? We file Form 41 for foreign vendors, TDS returns (Forms 140 and 144) and remittance forms (145/146) for Indian payers, and set up treaty rates correctly.Book a 15-min callWhatsApp
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## Foreign vendors paid by Indian customers
 
@@ -17155,7 +17175,7 @@ Notices from India’s income-tax or GST departments arrive by email and portal,
 Send us the notice
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## Notices we handle
 
@@ -17691,7 +17711,7 @@ Most US formation services stop at the certificate. The expensive mistakes happe
 Start your US company
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Free tool: Delaware franchise tax calculator — Both methods side by side — see why the Assumed Par Value Capital method usually wins.
 
 ## Why Indian founders incorporate in the US
@@ -18193,7 +18213,7 @@ GIFT City’s International Financial Services Centre (IFSC) is India’s offsho
 Discuss a GIFT City setup
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 
 ## What GIFT IFSC is
 
@@ -18395,7 +18415,7 @@ An embedded finance partner who owns the numbers, builds the dashboards and make
 Discuss a Virtual CFO engagement
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Free tool: Burn rate & runway calculator — Net burn, months of runway and your zero-cash date — with growth built in.
 
 ## What a Virtual CFO does for you
@@ -18501,7 +18521,7 @@ hello@durgeshchavda.com
 
 New: FEMA compounding moves to RBI regional offices (Oct 2026).
 Due 31 December: APR for overseas subsidiaries.
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Free tool: FEMA late submission fee calculator — LSF for late FC-GPR, FC-TRS, ODI and other filings under RBI's formula.
 
 ## Filings we handle
@@ -18669,7 +18689,7 @@ Investor-grade numbers, a clean data room and a finance lead who can answer dili
 Plan your raise
 hello@durgeshchavda.com
 
-Talk it through first — free. Book a 15-minute intro call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
+Talk it through first. Book a 15-minute first call with Durgesh to scope your requirement, timeline and fee.Book a 15-min first call
 Free tool: Equity dilution calculator — See founder dilution, price per share and the option-pool shuffle for your next round.
 
 ## What’s covered
