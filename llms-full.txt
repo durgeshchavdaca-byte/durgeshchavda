@@ -74,6 +74,133 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/w-8ben-form-india-individuals/
+------------------------------------------------------------------------
+Cross-border tax · US forms · Nov 2026
+
+# W-8BEN for Indians: fill it once, stop the 30% US withholding
+
+Upwork, a US client, YouTube or your US broker has asked you for a W-8BEN. It is the form an individual who is not a US person gives to a US payer to show foreign status and claim the India–US tax treaty. Fill it wrong and the payer withholds 30%. Here is what each line means for an Indian resident, and what you still need to do in India.
+
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
+
+Get your W-8BEN checked
+hello@durgeshchavda.com
+
+Key takeaways
+- Individuals give W-8BEN; companies give W-8BEN-E; US persons give W-9.
+- PAN goes on line 6a; the treaty country is India.
+- With the form: 25% on US dividends, 15% on interest and most royalties, and no US tax on services performed in India.
+
+Quick answer: as an Indian resident individual, you give Form W-8BEN (not W-8BEN-E, which is for companies) to the US payer. Enter your PAN as the foreign tax identification number, claim the treaty as a resident of India, and the US withholding falls from 30% to the treaty rate: 25% on dividends, 15% on interest and, for most royalties, 15%. Pay for services you perform from India is not US-source income, so no US tax should be withheld on it at all.
+
+## Which form: W-8BEN, W-8BEN-E or W-9?
+
+You are | Form | 
+
+An individual (including a sole proprietor or freelancer) who is not a US citizen or US resident | W-8BEN | 
+
+An Indian company, LLP or partnership | W-8BEN-E: see W-8BEN-E for Indian companies | 
+
+A US citizen or green-card holder, even if you live in India | W-9 | 
+
+Paid for work you do while physically in the US | Form 8233 or W-4, not W-8BEN | 
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What the treaty does to US withholding
+
+Income from the US | Without W-8BEN | With W-8BEN (India–US treaty) | Typical case | 
+
+Fees for services you perform in India | Should be none, but a payer without the form may withhold | No US tax: the income is not from US sources | Upwork, Fiverr, a US client paying a freelancer or consultant | 
+
+Dividends on US shares | 30% | 25% for individuals (15% applies only to a company holding 10% or more) | US shares bought through INDmoney, Vested, Interactive Brokers and others | 
+
+Interest | 30% | 15% (10% on loans from banks and similar institutions) | Interest on US deposits or bonds | 
+
+Royalties | 30% | 15% for most royalties; 10% for the use of industrial, commercial or scientific equipment, subject to conditions | Creators paid by YouTube or app stores on US earnings, licensing of content or software | 
+
+The treaty does not touch US capital gains on shares for a non-resident individual, and the payer applies the rate it accepts from your form. Check the rate shown on your broker’s or platform’s tax statement after the form is accepted.
+
+## Filling it line by line
+
+- Line 1, name: as on your PAN and passport.
+
+- Line 2, country of citizenship: India.
+
+- Line 3, permanent residence address: your address in India. Not a PO box, and not a US address.
+
+- Line 5, US taxpayer number: leave blank unless you already have an SSN or ITIN. Most Indian freelancers and investors do not need one: see when an ITIN is needed.
+
+- Line 6a, foreign tax identifying number: your PAN. This line is required.
+
+- Line 8, date of birth.
+
+- Line 9, treaty country: India.
+
+- Line 10, special rates: needed for royalties, because the India–US treaty has different rates for different royalties. State Article 12, the rate (usually 15%) and the type of income, for example “copyright royalties”. It is generally not needed for dividends or interest, or for fees for services performed in India.
+
+- Part III: sign and date. Most platforms take an electronic signature.
+
+Validity: a W-8BEN stays valid until the last day of the third calendar year after the year you sign it, unless your details change. A form signed in November 2026 lasts until 31 December 2029. Move abroad, change your name or become a US person and you must give a new form (or a W-9).
+
+## What you still have to do in India
+
+- The income is taxable in India if you are resident: freelance fees as business or professional income, and dividends and interest at your slab rate.
+
+- Credit for US tax: the US tax withheld on dividends, interest or royalties can be set off against Indian tax on the same income, through Form 67 filed before your return.
+
+- Foreign assets: a resident with a US brokerage account must report it in Schedule FA every year. Missed it in earlier years? FAST-DS for US shares closes on 31 December 2026.
+
+- Freelancers: export of services is zero-rated under GST if you are registered and file a letter of undertaking: see GST on export of services. Keep the bank’s inward remittance advice for every payment.
+
+## Mistakes that cost money
+
+- Filing W-8BEN-E as an individual, or W-8BEN as a company.
+
+- Leaving line 6a blank: without the PAN the payer can reject the form and withhold 30%.
+
+- Claiming 15% on dividends. That rate is for companies holding 10% or more; individuals get 25%.
+
+- Forgetting line 10 for royalties, so the platform keeps withholding 30%.
+
+- Not claiming the US tax as a credit in India, and paying tax twice on the same income.
+
+## Sources
+
+- IRS: Instructions for Form W-8BEN (Rev. October 2021)
+- IRS: Publication 515 (2026), withholding of tax on nonresident aliens
+- Embassy of India, Washington: withholding rates under the India-US treaty
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Which form does an Indian freelancer give a US client: W-8BEN or W-9?
+W-8BEN, if you are an individual who is not a US citizen or US resident. W-9 is only for US persons. An Indian company or LLP gives W-8BEN-E instead.
+
+What do I write as the foreign tax identifying number on W-8BEN in India?
+Your PAN. Line 6a asks for the tax identification number issued by your country of residence, which for India is the PAN.
+
+What is the US withholding on dividends for Indians with a W-8BEN?
+25% under the India-US treaty for individuals, instead of 30%. The 15% rate applies only to a company holding at least 10% of the voting stock of the payer.
+
+Is US tax withheld on freelance income earned from India?
+It should not be. Under IRS rules the source of income from personal services is where the services are performed, so work done from India is not US-source income, and a valid W-8BEN tells the payer this.
+
+Do I need to fill line 10 of W-8BEN?
+Only in some cases. Line 10 is needed for royalties, because the India-US treaty has different rates for different kinds of royalties. It is generally not needed for dividends, interest or fees for services performed in India.
+
+How long is a W-8BEN valid?
+Until the last day of the third calendar year after the year it is signed, unless your details change. A form signed in 2026 is valid until 31 December 2029.
+
+Do I need an ITIN or SSN to fill W-8BEN in India?
+Usually not. Line 6a takes your PAN. A US taxpayer number is needed only in specific cases, such as some treaty claims or filing a US tax return.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-in-gulf-indian-tax-guide/
 ------------------------------------------------------------------------
 NRIs · Gulf · Nov 2026
@@ -7629,6 +7756,7 @@ Dividends or sale gains never taxed in India | Tax plus penalty and interest on 
 Many LRS investors have both: the account was funded with taxed salary, but a few years of dividends were never reported. How the routes combine depends on your amounts and years, so work it out before filing.
 
 US shares through an app or broker? Find out what to report and whether to use FAST-DS.Book a 15-min call
+Filling it as an individual (freelancer, creator or US share investor)? W-8BEN for Indian individuals.
 Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
 
 - Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
@@ -21179,6 +21307,7 @@ Key takeaways
 
 - Collect your own country’s forms (e.g. W-8BEN in the US) as your home rules require.
 
+Filling it as an individual (freelancer, creator or US share investor)? W-8BEN for Indian individuals.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## If you’re the Indian freelancer
