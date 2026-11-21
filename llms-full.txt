@@ -204,7 +204,7 @@ FAST-DS · Students · Nov 2026
 
 Most students who go abroad assume they stop being Indian taxpayers the day they fly out. For the year of departure, that is usually wrong. India’s residency test treats someone who leaves to study differently from someone who leaves for a job, so the first foreign bank account, GIC or blocked account was often a reportable foreign asset in India. The fix is cheap if you act before 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your student account
 hello@durgeshchavda.com
@@ -231,6 +231,15 @@ Returned to India after the course | Resident again; a short stay abroad rarely 
 Banking rules are different. For bank accounts and remittances, the RBI treats a student abroad as a non-resident from the time they leave, so you can hold NRE and NRO accounts. That does not change the income tax position for the year of leaving.
 
 Studied abroad, or a parent of a student abroad? Send the year you left and your account details and find out in 15 minutes what, if anything, needs fixing.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## What counted as a foreign asset
 
@@ -316,7 +325,7 @@ FAST-DS · NRIs · Canada · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Canada, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -350,6 +359,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in Canada with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in Canada: Indian tax guide · Moving money between India and Canada · Selling property in India from Canada
 
 ## What usually gets missed in Canada
@@ -831,7 +850,7 @@ FAST-DS · NRIs · UK · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in the UK, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -865,6 +884,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in the UK with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in the UK: Indian tax guide · Moving money between India and the UK · Selling property in India from the UK
 
 ## What usually gets missed in the UK
@@ -960,7 +989,7 @@ FAST-DS · NRIs · US · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in the USA, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -994,6 +1023,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in the USA with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in the USA: Indian tax guide · Moving money between India and the USA · Selling property in India from the USA
 
 ## What usually gets missed in the USA
@@ -1088,7 +1127,7 @@ FAST-DS · NRIs · UAE · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in the UAE and the Gulf, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -1122,6 +1161,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in the UAE and the Gulf with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in the UAE: Indian tax guide · Selling property in India from the UAE
 
 ## What usually gets missed in the UAE and the Gulf
@@ -1218,7 +1267,7 @@ FAST-DS · NRIs · Australia · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Australia, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -1252,6 +1301,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in Australia with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in Australia: Indian tax guide · Moving money between India and Australia · Selling property in India from Australia
 
 ## What usually gets missed in Australia
@@ -1348,7 +1407,7 @@ FAST-DS · NRIs · Singapore · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Singapore, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -1382,6 +1441,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in Singapore with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in Singapore: Indian tax guide · Selling property in India from Singapore
 
 ## What usually gets missed in Singapore
@@ -1477,7 +1546,7 @@ FAST-DS · NRIs · Europe · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Europe, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -1511,6 +1580,16 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in Europe with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 For Indians in Europe: Indian tax guide · Moving money between India and Europe
 
 ## What usually gets missed in Europe
@@ -1607,7 +1686,7 @@ FAST-DS · NRIs · Russia · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Russia, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -1641,6 +1720,15 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in Russia with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## What usually gets missed in Russia
 
@@ -1734,7 +1822,7 @@ FAST-DS · NRIs · Africa · Nov 2026
 
 The income tax department now receives details of Indians’ foreign bank accounts and investments every year, and has been emailing people whose returns do not show them. If you live in Africa, or lived there and have moved back, the question is simple: were you resident in India in any year when you held those accounts? If yes, FAST-DS 2026 is a one-time way to fix it at a fixed cost, and it closes on 31 December 2026.
 
-By CA Durgesh Chavda·Last reviewed 20 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -1768,6 +1856,15 @@ Send my situation on WhatsApp Book a 15-min call
 Not sure which years count? Use the residential status calculator for each year.
 
 Indian in Africa with accounts or assets abroad? Send your India and abroad timeline and find out in 15 minutes whether FAST-DS applies.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## What usually gets missed in Africa
 
@@ -2806,7 +2903,7 @@ FAST-DS · NRIs · Nov 2026
 
 The income tax department has emailed thousands of people about foreign accounts reported to India under information-exchange agreements. Many of them actually lived abroad in those years, but their returns were filed as residents, sometimes by a self-filed online form or a default setting. If that is you, the answer is usually not FAST-DS. It is proving your non-resident status and correcting the returns.
 
-By CA Durgesh Chavda·Last reviewed 19 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -2831,6 +2928,15 @@ Deemed residency | Indian income above ₹15 lakh and not liable to tax in any o
 Use our residential status calculator for each year, and keep passport scans and any foreign tax residency certificates ready. One year in the middle can come out differently from the rest, so do not assume a single answer for all years.
 
 Got the FAST-DS email but lived abroad? Share your travel dates and get a year-by-year answer in 15 minutes.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## Step 2: respond to the advisory
 
@@ -7500,7 +7606,7 @@ FAST-DS · US stocks · Closes 31 December 2026
 
 Millions of Indians buy US shares through apps like Vested and INDmoney, or through a foreign broker, using the LRS. Most never showed the account in Schedule FA, and many never reported the dividends. FAST-DS is open until 31 December 2026. Not everyone needs it, and the route depends on two questions.
 
-By CA Durgesh Chavda·Last reviewed 12 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -7523,6 +7629,15 @@ Dividends or sale gains never taxed in India | Tax plus penalty and interest on 
 Many LRS investors have both: the account was funded with taxed salary, but a few years of dividends were never reported. How the routes combine depends on your amounts and years, so work it out before filing.
 
 US shares through an app or broker? Find out what to report and whether to use FAST-DS.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## Three common cases
 
@@ -9593,6 +9708,15 @@ Send my situation on WhatsApp Book a 15-min call
 The scheme is open to people who are non-resident today, if they were resident in India in the year the foreign asset was acquired or the foreign income arose.
 
 Returning or living abroad with foreign assets? Find out in 15 minutes whether FAST-DS applies to you.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## What it costs
 
@@ -10154,7 +10278,7 @@ FAST-DS · Foreign assets
 
 Since 25 September 2026, the Income Tax Department has been emailing and texting taxpayers that its records indicate they may have overseas financial interests, and pointing them to FAST-DS. It is not a notice, but it should not be ignored.
 
-By CA Durgesh Chavda·Last reviewed 5 November 2026·4 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·4 min read
 
 Get your position checked before 31 December
 hello@durgeshchavda.com
@@ -10177,6 +10301,15 @@ Before 31 December 2026: the last date for a belated or fee-free revised return,
 - The department now has a record that you were told. If proceedings start later, “I didn’t know” will be harder to argue.
 
 Received a FAST-DS email from the tax department? Get a clear response plan in 15 minutes.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## Where to see what they have
 
@@ -10588,13 +10721,23 @@ Deadline 31 December 2026. Valuations and bank statements take time. Start now.W
 
 - Current NRIs who were resident in India when the asset was acquired or the income arose.
 
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What we do
 
 - Review: list every foreign account, security, RSU, policy and property, and check which ones actually need FAST-DS. Some do not: for example where only the ₹20 lakh Schedule FA threshold matters.
 
-- Classify: decide between Category 1 (60%) and Category 2 (₹1 lakh) for each item, and check the ₹1 crore and ₹5 crore limits.
+- Classify: decide between Category A (60%) and Category B (₹1 lakh) for each item, and check the ₹1 crore and ₹5 crore limits.
 
 - Value: compute the value as on 31 March 2026 under the scheme rules, including the sum-of-deposits rule for bank accounts and RBI reference rates.
 
@@ -10649,7 +10792,7 @@ What is the last date for FAST-DS?
 31 December 2026. No declaration can be filed after that date, so leave time to collect statements and complete the valuation.
 
 How much does FAST-DS cost?
-The scheme amount is 60% of the value for undisclosed assets or income up to ₹1 crore (Category 1), or a flat ₹1 lakh where the asset came from taxed income or was acquired while non-resident and was only missing from Schedule FA, up to ₹5 crore (Category 2). Our professional fee is fixed after a short review.
+The scheme amount is 60% of the value for undisclosed assets or income up to ₹1 crore (Category A), or a flat ₹1 lakh where the asset came from taxed income or was acquired while non-resident and was only missing from Schedule FA, up to ₹5 crore (Category B). Our professional fee is fixed after a short review.
 
 Do I need FAST-DS if my foreign assets are small?
 Not always. Since 1 October 2024 the ₹10 lakh Schedule FA penalty does not apply where foreign assets other than immovable property total ₹20 lakh or less, although you must still report them. We check whether FAST-DS is worth it for you before filing.
@@ -10774,7 +10917,7 @@ FAST-DS · Employees of foreign companies
 
 If you work in India for a US or European company, you probably hold RSUs or ESPP shares in a brokerage account abroad. The tax on vesting is usually deducted through your Indian payroll, but the shares themselves often never make it into Schedule FA. FAST-DS is the cheapest way to fix that.
 
-By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
 
 Fix your RSU reporting
 hello@durgeshchavda.com
@@ -10793,15 +10936,24 @@ Before 31 December 2026: the last date for a belated or fee-free revised return,
 
 The FAQs do not mention RSUs by name, so this follows the category definitions:
 
-- Shares whose vesting was taxed through your Indian payroll but which were never shown in Schedule FA: the asset came from income already taxed, so Category 2 (flat ₹1 lakh, up to ₹5 crore of foreign assets) is the natural fit.
+- Shares whose vesting was taxed through your Indian payroll but which were never shown in Schedule FA: the asset came from income already taxed, so Category B (flat ₹1 lakh, up to ₹5 crore of foreign assets) is the natural fit.
 
-- Dividends, sale gains or interest abroad that you never reported: that is undisclosed foreign income, which falls in Category 1 (60%).
+- Dividends, sale gains or interest abroad that you never reported: that is undisclosed foreign income, which falls in Category A (60%).
 
 - ESPP shares bought with salary that was taxed in India follow the same logic as RSUs.
 
 Many employees have both: taxed shares that were simply not reported, plus small unreported dividends or gains. Getting the split right is most of the work.
 
 RSUs or ESOPs from a foreign employer? Check your reporting and FAST-DS position in one call.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## How the shares are valued
 
@@ -10855,7 +11007,7 @@ FAST-DS · Foreign bank accounts
 
 A US or UK account opened during studies or a posting abroad, still open with a small balance and never shown in Schedule FA, is one of the most common FAST-DS cases. The surprise is how the scheme values it.
 
-By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
 
 Sort out your foreign account
 hello@durgeshchavda.com
@@ -10880,15 +11032,24 @@ Total deposits since the account was opened (salary, transfers) | US$ 60,000 |
 
 Value for FAST-DS | US$ 60,000, converted at the RBI reference rate | 
 
-That is why the choice of category matters so much: in Category 1 you pay 60% of the deposits; in Category 2 a flat ₹1 lakh.
+That is why the choice of category matters so much: in Category A you pay 60% of the deposits; in Category B a flat ₹1 lakh.
 
 Foreign bank account left out of Schedule FA? Get your FAST-DS options and cost before 31 December.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## Which category
 
-- Deposits came from money earned while you were a non-resident (a job or internship abroad), or from income already taxed in India: Category 2, flat ₹1 lakh, if your foreign assets total up to ₹5 crore.
+- Deposits came from money earned while you were a non-resident (a job or internship abroad), or from income already taxed in India: Category B, flat ₹1 lakh, if your foreign assets total up to ₹5 crore.
 
-- Deposits came from income that should have been taxed in India but was not: Category 1, 60%, up to ₹1 crore together with any undisclosed income.
+- Deposits came from income that should have been taxed in India but was not: Category A, 60%, up to ₹1 crore together with any undisclosed income.
 
 ## Small, dormant accounts
 
@@ -10938,7 +11099,7 @@ FAST-DS · Returning NRIs
 
 Once you become resident again, everything you hold abroad (bank accounts, 401(k) or pension, brokerage accounts, a home) has to be shown in Schedule FA every year. Many returning NRIs miss this for a few years. FAST-DS has a category built for exactly that.
 
-By CA Durgesh Chavda·Last reviewed 4 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
 
 Regularise your foreign assets
 hello@durgeshchavda.com
@@ -10953,13 +11114,22 @@ Returned to India? We review your foreign holdings and file the cheapest correct
 
 ## The ₹1 lakh route for non-resident years
 
-Category 2 of FAST-DS covers a foreign asset that was acquired when you were a non-resident, or from income already taxed in India, but which was not shown in Schedule FA. The cost is a flat ₹1 lakh as long as your foreign assets total up to ₹5 crore as on 31 March 2026. For most returning NRIs, savings built up while working abroad fall here.
+Category B of FAST-DS covers a foreign asset that was acquired when you were a non-resident, or from income already taxed in India, but which was not shown in Schedule FA. The cost is a flat ₹1 lakh as long as your foreign assets total up to ₹5 crore as on 31 March 2026. For most returning NRIs, savings built up while working abroad fall here.
 
 Moved back to India with foreign assets? Check your RNOR status, reporting and FAST-DS in one call.Book a 15-min call
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
 
 ## Where it gets more expensive
 
-- Income earned after you became resident and not reported, such as interest, dividends, rent or gains on those foreign assets: that is undisclosed foreign income, at 60% under Category 1.
+- Income earned after you became resident and not reported, such as interest, dividends, rent or gains on those foreign assets: that is undisclosed foreign income, at 60% under Category A.
 
 - Foreign assets worth more than ₹5 crore: not eligible for FAST-DS.
 
@@ -20330,7 +20500,7 @@ Deadline 31 December 2026
 
 Foreign bank accounts, RSUs and ESOPs from a US or UK employer, a dormant account from student days — India’s tax department now sees them through global data exchange. FAST-DS is a one-time window to put them right at a known cost.
 
-By CA Durgesh Chavda·Last reviewed 12 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
 
 Get your disclosure reviewed
 hello@durgeshchavda.com
@@ -20352,6 +20522,16 @@ The Foreign Assets of Small Taxpayers Disclosure Scheme, 2026 (Chapter IV of the
 Why now: foreign account data received under CRS and FATCA is showing up against PANs, and many taxpayers are getting messages about foreign assets missing from Schedule FA.
 
 FAST-DS closes on 31 December 2026. We prepare and file your declaration →
+Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
+
+- Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
+- An asset bought even partly from income that was not taxed cannot go in Category B. It can be declared in Category A, at 60%, if eligible (Q70).
+- US dollars convert at ₹94.6543, the RBI reference rate of 30 March 2026, as none was published on 31 March (Q55).
+- On a joint account, each holder whose name is on it declares it, at his share, or an equal share if none is fixed (Q57, Q58).
+- If FY 2025-26 is the only year in which it was missed, a revised return for that year filed by 31 March 2027 is treated as enough (Q68).
+- Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
+Work out your amount by these rules
+
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who can use it
@@ -20366,7 +20546,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 ## The two categories
 
-| Category 1: undisclosed | Category 2: not reported | 
+| Category A: undisclosed | Category B: not reported | 
 
 What it covers | A foreign asset whose source you cannot explain, or foreign income that was taxable in India but never offered to tax | A foreign asset bought from income already taxed, or bought while you were a non-resident, but left out of Schedule FA | 
 
@@ -20412,9 +20592,9 @@ Foreign currency converts at the RBI reference rate on 31 March 2026 (other curr
 
 If the department finds it first (Black Money Act) | If you declare it under FAST-DS | 
 
-Undisclosed asset or income: tax at 30% plus a penalty of three times the tax, so 120% of the value, and possible prosecution | Category 1: 60%, with immunity under the Black Money Act | 
+Undisclosed asset or income: tax at 30% plus a penalty of three times the tax, so 120% of the value, and possible prosecution | Category A: 60%, with immunity under the Black Money Act | 
 
-Asset only missing from Schedule FA: penalty of ₹10 lakh (not applied since 1 October 2024 where your foreign assets other than immovable property total ₹20 lakh or less) | Category 2: ₹1 lakh, with immunity | 
+Asset only missing from Schedule FA: penalty of ₹10 lakh (not applied since 1 October 2024 where your foreign assets other than immovable property total ₹20 lakh or less) | Category B: ₹1 lakh, with immunity | 
 
 For small, already-taxed holdings under ₹20 lakh, FAST-DS may not be necessary: report them correctly in Schedule FA from now on. For anything larger, or anything with unreported income, FAST-DS is far cheaper than being found later.
 
@@ -20468,6 +20648,15 @@ Within two months from the end of the month in which you receive the Form 2 orde
 
 Does FAST-DS give immunity?
 A valid declaration with full payment gives immunity from further tax, penalty and prosecution under the Black Money Act for the assets and income declared.
+
+Do I pay ₹1 lakh for each asset or each year under FAST-DS Category B?
+No. The Department's Supplementary FAQs (questions 82 and 83) say the amount is a single flat fee of ₹1 lakh for all Category B assets and all years, as long as their total value in your Form 1 does not exceed ₹5 crore.
+
+Who declares a jointly held foreign bank account under FAST-DS?
+Each holder whose name is on the account, whoever funded it. The value is split by each holder's fixed share, or equally if there are no fixed shares, and each holder's limit is tested on his own Form 1 (questions 57 to 59).
+
+I missed reporting a foreign asset only in FY 2025-26. Do I need FAST-DS?
+The Supplementary FAQs (question 68) say a revised return for assessment year 2026-27, showing the income and the asset in Schedule FA and filed on or before 31 March 2027, is treated as sufficient. This applies only where no earlier resident year is involved.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
