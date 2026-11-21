@@ -74,6 +74,105 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/gst-intermediary-services-export-2026/
+------------------------------------------------------------------------
+GST · Foreign companies · Nov 2026
+
+# Indian sales-support teams of foreign companies: your fees can now be a GST-free export
+
+For years, an Indian company that found customers, supported sales or sourced suppliers for a foreign group was treated as an “intermediary”. Its fees from abroad were taxed in India at 18%, with no export benefit. The Finance Act, 2026 removed that rule from 30 March 2026. Here is who gains, what has to be in place, and the new reverse charge on the other side.
+
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
+
+Check your GST position
+hello@durgeshchavda.com
+
+Key takeaways
+- Intermediary services follow the recipient's location from 30 March 2026.
+- Indian sales-support, marketing and sourcing fees from a foreign company can be zero-rated exports, if section 2(6) is met.
+- Paying a foreign agent or broker now attracts IGST under reverse charge.
+
+Quick answer: the Finance Act, 2026 omitted section 13(8)(b) of the IGST Act, the rule that placed intermediary services in India. From 30 March 2026, intermediary services follow the general rule: the place of supply is where the recipient is. An Indian company that arranges or supports sales for a foreign company can now treat its fees as an export of services, zero-rated under a letter of undertaking, if all the export conditions are met. The flip side: an Indian business that pays a foreign agent or broker now pays IGST on it under reverse charge.
+
+## Who this affects
+
+Arrangement | Before 30 March 2026 | From 30 March 2026 | 
+
+Indian subsidiary doing sales support or marketing for its foreign parent, paid a fee or commission | Often treated as an intermediary: 18% GST, no refund | Can be an export if all conditions below are met | 
+
+Indian sourcing or procurement office finding suppliers for a foreign buyer | Same | Same: can be an export | 
+
+Indian agent or broker earning commission from a foreign principal | Same | Same: can be an export | 
+
+Indian business paying a foreign agent, booking agent or broker | No Indian GST | Import of services: IGST under reverse charge | 
+
+The GST Council recommended the change at its 56th meeting on 3 September 2025. Because the Finance Act gives no separate start date for this section, it took effect on the date of Presidential assent, 30 March 2026.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## The export conditions still apply
+
+Removing the intermediary rule only settles where the supply takes place. To be an export, every condition in section 2(6) of the IGST Act must still be met:
+
+- The supplier is in India.
+
+- The recipient is outside India.
+
+- The place of supply is outside India.
+
+- Payment is received in convertible foreign exchange (or in rupees where the RBI allows it).
+
+- The supplier and the recipient are not merely establishments of the same person.
+
+The last point catches branches. An Indian subsidiary is a separate company from its foreign parent, so it can export to it. A foreign company’s own branch or liaison office in India serving its head office is treated as the same person, so its services to the head office are not an export.
+
+## What to do now
+
+- File or renew the letter of undertaking (LUT) so the Indian entity can invoice its foreign group or principal without charging IGST.
+
+- Review the intercompany or agency agreement. Make sure it describes what is actually done, who the recipient is, and how and in what currency the fee is paid.
+
+- Look at accumulated input tax credit. Zero-rated exporters can claim a refund of unused credit.
+
+- Check the other direction. If your Indian business pays foreign agents, brokers or booking platforms, set up reverse charge on those payments, and check whether you can take the credit.
+
+- Keep older years separate. The change takes effect from 30 March 2026 and the Finance Act does not apply it to earlier periods, so show-cause notices for earlier years still need to be defended under the old rule.
+
+- Revisit transfer pricing. If the Indian entity charges its parent cost plus a margin, see transfer pricing for Indian subsidiaries.
+
+Related: GST on export of services and the LUT · setting up a global capability centre · India tax for foreign companies.
+
+## Sources
+
+- Grant Thornton Bharat: GST on intermediary services, legislative reset through Finance Act, 2026 (4 April 2026)
+- GST Council: meetings and recommendations
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Are intermediary services an export under GST now?
+They can be. The Finance Act, 2026 omitted section 13(8)(b) of the IGST Act from 30 March 2026, so the place of supply of intermediary services is now the recipient's location. Where the recipient is outside India and all the conditions of section 2(6) are met, the service is an export and can be zero-rated.
+
+From when does the change in GST on intermediary services apply?
+From 30 March 2026, the date the Finance Act, 2026 received Presidential assent. The section making the change has no separate commencement date.
+
+Can an Indian subsidiary's sales-support fee from its foreign parent be an export?
+Yes, if all the export conditions are met: the subsidiary is in India, the parent is outside India, the place of supply is outside India, payment is in convertible foreign exchange, and they are not establishments of the same person. A subsidiary is a separate company, so the last condition is usually met.
+
+Is a branch office's service to its foreign head office an export?
+No. A branch or liaison office and its head office are establishments of the same person, so services between them do not meet the export conditions.
+
+Do I pay GST on commission paid to a foreign agent?
+Since 30 March 2026, yes, in most cases. The place of supply is now the recipient's location in India, so it is an import of services and the Indian business pays IGST under reverse charge.
+
+What happens to GST notices on intermediary services for earlier years?
+The omission takes effect from 30 March 2026 and the Finance Act does not apply it to earlier periods, so notices for earlier years are decided under the old rule and need a proper defence.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/w-8ben-form-india-individuals/
 ------------------------------------------------------------------------
 Cross-border tax · US forms · Nov 2026
@@ -6909,6 +7008,7 @@ There is no minimum capital requirement for a private company, but the capital s
 
 Planning an Indian subsidiary? Get the structure, timeline and cost for your case in 15 minutes.Book a 15-min call
 Sending OTP SMS to Indian users? DLT registration for foreign companies.
+Indian team doing sales support, marketing or sourcing for a foreign group? Since 30 March 2026 those fees can be a GST-free export.
 
 ## After incorporation
 
@@ -17472,6 +17572,7 @@ Talk it through first. Book a 15-minute first call with Durgesh to scope your re
 
 - We prepare your pack once a year and explain it to your Indian customers’ finance teams. Guide: Form 41, TRC and the no-PE declaration.
 
+Indian team doing sales support, marketing or sourcing for a foreign group? Since 30 March 2026 those fees can be a GST-free export.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Permanent establishment reviews
