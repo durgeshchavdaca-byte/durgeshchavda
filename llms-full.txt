@@ -18914,7 +18914,7 @@ Investor checklist
 
 The checklist we use when a foreign fund or company invests in, or buys, an Indian business — and why each line matters.
 
-By CA Durgesh Chavda·Last reviewed 14 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 21 November 2026·9 min read
 
 Get support on a deal
 hello@durgeshchavda.com
@@ -18923,6 +18923,32 @@ Key takeaways
 - Check every past foreign investment: FC-GPR within 30 days of allotment and FC-TRS within 60 days.
 - Reconcile GST returns with the books and input credit with supplier filings.
 - Pull open income-tax demands and TDS defaults from the government portals — they transfer with the company.
+
+Quick answer: due diligence on an Indian company covers seven areas: financial, income tax and GST, FEMA and foreign investment, corporate records and cap table, labour and payroll, contracts and IP, and debt. Start with what the company has filed with the government (accounts, GST status, charges), then test the company’s own records against it. What you find goes into the price, the escrow and the indemnities.
+
+## Day-one document request list
+
+Area | Ask for | What it tells you | 
+
+Financial | Audited financial statements for three years, latest management accounts, trial balance | Quality of profit, and whether the books match what was filed | 
+
+Bank | Statements for every account, reconciled to the books | Whether revenue is real cash, especially in cash-heavy businesses | 
+
+Income tax and TDS | Returns, assessment orders, open demands and TDS default notices from the government portals | Liabilities that stay with the company after the deal | 
+
+GST | Returns against the books; input credit claimed against credit available | Hidden GST exposure and reversed credits | 
+
+FEMA | FC-GPR for every share issue to non-residents, FC-TRS for every transfer, valuation certificates, FLA returns | Whether past foreign investment was reported on time and priced within the rules | 
+
+Corporate | Share-capital history, register of members, MCA filings, ESOP and convertible records | Who owns what, and whether it was approved properly | 
+
+Labour | PF and ESI challans for three years, gratuity valuation, employee census | Arrears, which carry interest and damages | 
+
+Contracts and IP | Top customer and supplier contracts, leases, trademark records | Change-of-control clauses, and IP held in a founder’s name | 
+
+Debt | Loan agreements, sanction letters, MCA index of charges | Undisclosed borrowings, guarantees and security | 
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Financial
 
@@ -18935,8 +18961,6 @@ Key takeaways
 - Related-party transactions and balances; loans to and from promoters.
 
 - Debt, guarantees and charges (cross-check MCA’s index of charges).
-
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Income tax and GST
 
@@ -18968,9 +18992,19 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 ## Labour and payroll
 
-- PF, ESI and professional tax registrations and payments; gratuity provisioning.
+- PF, ESI and professional tax registrations and payments for three years. Arrears carry interest and damages.
 
-- Consultants who are really employees; key-person agreements and non-competes.
+- Labour Codes (in force since 21 November 2025): check that the wages used for PF and gratuity follow the 50% rule. Low basic pay with large allowances is the usual gap.
+
+- Gratuity: an actuarial valuation, and whether the liability is funded. Fixed-term staff now qualify after one year.
+
+- Contract labour: contractor licences and proof that contractors pay PF and ESI. The principal employer is liable if they do not.
+
+- Consultants who are really employees; key-person agreements. Post-employment non-competes are generally unenforceable in India.
+
+- POSH: an Internal Committee is required where there are 10 or more employees.
+
+The full list is in the HR due diligence checklist for India.
 
 ## Contracts, IP and licences
 
@@ -18982,6 +19016,40 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 Want it run for you? Due diligence in India — financial, tax and FEMA, with SPA drafting points.
 Deal guides: quality of earnings review and share purchase vs business transfer.
+
+## What you can check before asking the company
+
+- Company master data and charges on the MCA portal (free): status, directors, last filing dates and loans secured on the company’s assets.
+
+- Filed financial statements on MCA for about ₹100 per company: revenue, profit, debt and shareholders as reported to the government.
+
+- GST registration on the GST portal (free): whether the GSTIN is active and returns are being filed.
+
+- The auditor’s report and its CARO annexure: adverse answers there tell you what to investigate first.
+
+Step by step: how to verify an Indian company and 13 red flags in Indian financial statements.
+
+## How deep to go: three levels
+
+Level | Question it answers | Cost and time | 
+
+1. India Company Check | Is this company real, registered, filing, and roughly what it says it is? | USD 249 fixed per company, report in 5 working days | 
+
+2. Partner or supplier verification | Can I trust this distributor, supplier or joint venture partner with money, IP or my brand? | Quoted after a short call | 
+
+3. Financial, tax and FEMA due diligence | Should I invest in or buy this company, and at what price and terms? | Scoped quote, based on size, entities, years and the state of the records | 
+
+Start with level 1 before you pay an advance or sign. Move up when the money or exclusivity at stake is larger. See India Company Check and what due diligence in India costs.
+
+## How the findings change the deal
+
+- Price: quantify tax, GST, FEMA and labour exposures and deduct them, or hold part of the price in escrow until they are settled.
+
+- Indemnities: ask for specific indemnities for liabilities from before closing, not only general warranties.
+
+- Conditions before closing: overdue FEMA filings can usually be regularised with a late fee; make that the seller’s job before you pay.
+
+- Structure: where the history is messy, a business transfer can leave old liabilities behind. See share purchase vs business transfer and escrow, deferred consideration and earn-outs.
 
 ## Sources
 
@@ -19002,6 +19070,15 @@ Unreported or mispriced foreign investment, GST input credit that doesn't match 
 
 Who does FEMA due diligence in India?
 Chartered Accountants experienced in RBI and FDI filings typically check FC-GPR, FC-TRS, pricing and FLA compliance, alongside legal counsel for sector and approval questions.
+
+How much does due diligence on an Indian company cost?
+A basic India Company Check is USD 249 fixed per company with a report in 5 working days. Partner or supplier verification and full financial, tax and FEMA due diligence are quoted after scoping, based on size, number of entities, years reviewed and the state of the records.
+
+Can I check an Indian company myself before hiring anyone?
+Yes. Company master data, the index of charges and the GST status can be checked free on government portals, and a company's filed financial statements can be viewed on the MCA portal for about Rs 100.
+
+What is checked in HR due diligence in India?
+PF and ESI payments, the gratuity liability and its funding, compliance with the Labour Codes including the 50% wage rule, contract labour and misclassified consultants, POSH compliance, disputes and key-person contracts.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
