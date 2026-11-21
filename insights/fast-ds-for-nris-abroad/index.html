@@ -168,12 +168,25 @@
   <article class="prose" style="max-width:none">
 <p class="related-line">Year-end list: <a href="/insights/nri-tax-checklist-december-2026/">NRI tax checklist before 31 December 2026</a>.</p><div class="callout"><strong>Key takeaways</strong><ul><li>NRIs today can still need FAST-DS for years they were resident in India.</li><li>Common cases: accounts or RSUs before moving, the year of the move, student accounts.</li><li>Flat ₹1 lakh for taxed-income assets; file online from abroad by 31 December 2026.</li></ul></div><div class="callout" style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;justify-content:space-between"><span><strong>Not sure if it applies?</strong> Send us your India and abroad timeline; we tell you in one reply.</span><span style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn btn-ink btn-sm" href="https://wa.me/917801887130?text=Hi%20Durgesh%2C%20I%20want%20help%20with%20FAST-DS%20(foreign%20asset%20disclosure)." target="_blank" rel="noopener">WhatsApp us</a><a class="btn btn-sm" href="https://topmate.io/cadurgesh_chavda/741484" target="_blank" rel="noopener">Book a 15-min call</a><a class="btn btn-sm" href="/fast-ds-filing-service/">How we file</a></span></div>
 <h2 id="who">When an NRI needs to look at FAST-DS</h2>
-<div class="tbl-wrap"><table class="tbl"><tr><th>Your story</th><th>Why it matters</th></tr>
+<p style="margin-bottom:8px"><strong>Tap the row that matches you</strong> to see your answer and the next step.</p><div class="tbl-wrap"><table class="tbl" id="fds-check"><tr><th>Your story</th><th>Why it matters</th></tr>
 <tr><td>You opened a UK, US, Canadian or Australian account or got RSUs <strong>before you moved</strong>, while still resident in India</td><td>Each resident year needed Schedule FA</td></tr>
 <tr><td>Your <strong>year of moving</strong> was still a resident year in India</td><td>The new foreign salary account and any foreign income belonged in that year&rsquo;s return</td></tr>
 <tr><td>You studied abroad, came back to work in India, then left again</td><td>The account from your student days may have been open during your Indian working years</td></tr>
 <tr><td>You plan to <strong>return to India</strong></td><td>Once resident again, everything abroad must be reported; clear the past first. See <a href="/insights/fast-ds-returning-nri/">returning NRIs</a></td></tr>
-<tr><td>You have been non-resident in every year you held the asset</td><td>No Schedule FA was needed. FAST-DS is not for you</td></tr></table></div>
+<tr><td>You have been non-resident in every year you held the asset</td><td>No Schedule FA was needed. FAST-DS is not for you</td></tr></table></div><div class="callout" id="fds-out" hidden style="margin-top:14px"><p><strong>For your case:</strong> <span class="fds-a"></span></p><p>Want it confirmed for your exact dates and amounts? Send your situation to Durgesh, or book a short call.</p><p><a class="btn btn-ink btn-sm fds-wa" href="https://wa.me/917801887130" target="_blank" rel="noopener">Send my situation on WhatsApp</a> <a class="btn btn-sm" href="https://topmate.io/cadurgesh_chavda/741484" target="_blank" rel="noopener">Book a 15-min call</a></p></div><script>(function(){var t=document.getElementById('fds-check'),o=document.getElementById('fds-out');if(!t||!o)return;
+var rows=t.querySelectorAll('tr');
+function pick(r,i){for(var k=1;k<rows.length;k++){rows[k].style.background='';}
+r.style.background='var(--hl,#fff3bf)';
+var s=r.cells[0].innerText.trim(),a=r.cells[1].innerText.trim(),d=r.cells[2]?r.cells[2].innerText.trim():'';
+if(/[A-Za-z0-9]/.test(d)){a=a+' (last date: '+d+')';}
+var msg='Hi Durgesh, FAST-DS check from '+location.pathname+'. My situation: '+s+'. Year I left India (if I moved): ____. Accounts or assets abroad: ____.';
+o.querySelector('.fds-a').textContent=a;
+o.querySelector('.fds-wa').href='https://wa.me/917801887130?text='+encodeURIComponent(msg);
+o.hidden=false;
+if(window.clarity){window.clarity('set','fds_row',String(i));window.clarity('event','fds_row_tap');}
+if(o.scrollIntoView&&window.innerWidth<700){o.scrollIntoView({block:'nearest',behavior:'smooth'});}}
+for(var i=1;i<rows.length;i++){(function(r,i){r.style.cursor='pointer';r.tabIndex=0;r.addEventListener('click',function(ev){if(ev.target&&ev.target.closest&&ev.target.closest('a'))return;pick(r,i);});r.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){e.preventDefault();pick(r,i);}});})(rows[i],i);}
+})();</script>
 <p>The scheme is open to people who are non-resident today, if they were resident in India in the year the foreign asset was acquired or the foreign income arose.</p>
 <div class="callout" style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between"><span><strong>Returning or living abroad with foreign assets?</strong> Find out in 15 minutes whether FAST-DS applies to you.</span><a class="btn btn-ink" href="https://topmate.io/cadurgesh_chavda/741484" target="_blank" rel="noopener">Book a 15-min call</a></div><h2 id="cost">What it costs</h2>
 <ul><li>Asset bought from income already taxed in India, or while you were a non-resident, and only missing from Schedule FA: a <strong>flat ₹1 lakh</strong> (assets up to ₹5 crore).</li>
