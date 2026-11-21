@@ -13427,13 +13427,13 @@ Ask Durgesh
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/vendor-due-diligence-india/
 ------------------------------------------------------------------------
-Sell-side due diligence
+Supplier checks · Sell-side due diligence
 
-# Vendor due diligence in India — getting ready for a foreign buyer
+# Vendor due diligence in India: checking a supplier, or preparing for a buyer
 
-When a foreign buyer or investor looks at an Indian company, their due diligence team will find the gaps. If you find them first — and fix or explain them — you keep control of the story, the timetable and the price.
+“Vendor due diligence” means two different things. A foreign company buying goods or services uses it for the checks on an Indian vendor or supplier before it pays. In a sale or fundraise, it means the seller’s own review before the buyer’s team arrives. This page covers both.
 
-By CA Durgesh Chavda·Last reviewed 26 October 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 21 November 2026·7 min read
 
 Prepare for your deal
 hello@durgeshchavda.com
@@ -13443,6 +13443,36 @@ Key takeaways
 - FEMA filings on past foreign investment are a common trap; regularise early.
 - Prepare a clean data room and a short vendor due diligence report.
 
+Quick answer: if you are buying from an Indian vendor, due diligence means confirming that the company is real, registered, filing its returns and able to deliver, before you pay an advance or share your designs. If you are selling an Indian company or raising money, vendor due diligence is your own review of the financials, tax, FEMA filings and records before the buyer’s team arrives.
+
+## Checking an Indian vendor or supplier
+
+Check | Where it comes from | What it tells you | 
+
+Legal existence and status | MCA company master data (free) | Active or struck off, incorporation date, directors and the date of the last filings | 
+
+Size and financial health | Filed financial statements on the MCA portal (about ₹100 per company) | Whether the revenue the vendor claims matches what it reported to the government | 
+
+GST registration | GST portal taxpayer search (free) | Whether the GSTIN is active and returns are being filed | 
+
+Borrowings | MCA index of charges (free) | Loans secured on the company’s assets, and which banks hold them | 
+
+Export registration | DGFT import-export code lookup (free) | Whether the company is registered to export | 
+
+Bank details | The invoice and the bank letter | The account must be in the company’s legal name, not a different name or a personal account | 
+
+On the ground | Site visit, references, ownership and promoter background, anti-bribery questions | Whether the factory or office exists, who really owns the business and whether it can deliver | 
+
+Red flags: status shown as struck off or dormant, annual filings years behind, a cancelled GSTIN or months of missing returns, and bank details that do not match the legal name.
+
+We run the public-record checks as a fixed-price India Company Check (USD 249 per company, report in 5 working days), and add site visits and references where more is at stake: see due diligence on Indian business partners. Do it yourself first with how to verify an Indian company, 12 red flags of a risky Indian supplier and paying Indian suppliers safely. Anti-bribery questions: India’s anti-bribery law for foreign companies.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Sell-side vendor due diligence: preparing for a foreign buyer
+
+The rest of this page is for Indian companies that are selling or raising money, and want to find the gaps before the buyer does.
+
 ## Why do vendor due diligence?
 
 - Fewer surprises: late discoveries are what lead to price cuts, bigger escrows and tougher warranties.
@@ -13450,8 +13480,6 @@ Key takeaways
 - Faster deals: a prepared data room and a clear report shorten the buyer’s work.
 
 - Time to fix: many issues — late FEMA filings, unreconciled GST, missing approvals — can be regularised before the deal, but not in the last week.
-
-Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What to review before the buyer does
 
@@ -13498,6 +13526,15 @@ Buying for Europe? CSDDD, LkSG and the EU forced labour ban for Indian suppliers
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
 
 ## Frequently asked questions
+What is vendor due diligence on an Indian supplier?
+It is the set of checks a buyer runs before paying or contracting: that the company exists and is active, files its accounts and GST returns, is the size it claims, has bank details in its own legal name, and can deliver. Most of it can be confirmed from Indian government records.
+
+How do I verify an Indian vendor before paying an advance?
+Check the company master data and index of charges on the MCA portal, the GST registration on the GST portal and the import-export code on DGFT, all free, and read its filed financial statements for about Rs 100. Make sure the bank account is in the company's legal name.
+
+How much does a vendor check in India cost?
+A fixed-price India Company Check costs USD 249 per company with a report in 5 working days. Site visits, references and deeper partner verification are quoted after a short call.
+
 What is vendor due diligence?
 Due diligence commissioned by the seller (or the company raising money) before a buyer's review — to find and fix or explain issues in financials, tax, FEMA filings, company law and contracts, and to present a clean data room.
 
