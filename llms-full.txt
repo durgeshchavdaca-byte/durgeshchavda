@@ -74,6 +74,113 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/buying-property-from-nri-tds-form-141/
+------------------------------------------------------------------------
+Property · NRIs · Nov 2026
+
+# Buying a flat from an NRI? No TAN needed since 1 October 2026
+
+When the seller is a non-resident, the buyer has to deduct tax from the price and deposit it, and the buyer is the one answerable if it is short. Until 30 September 2026 that also meant getting a TAN and filing a quarterly return. From 1 October 2026, individual buyers can do it all on the income-tax portal with their PAN. Here is how, and what to get from the seller first.
+
+By CA Durgesh Chavda·Last reviewed 22 November 2026·6 min read
+
+Get the TDS worked out
+hello@durgeshchavda.com
+
+Key takeaways
+- From 1 October 2026 resident individual buyers need no TAN: report in Form 141 Schedule E with your PAN.
+- Tax is deducted on the price at the seller's capital gains rate, unless the seller has a lower deduction certificate.
+- The buyer answers for any shortfall, so get the seller's details and certificate before paying.
+
+Quick answer: if you are a resident individual or HUF buying property from a non-resident, you must deduct tax at source from the payment. From 1 October 2026 you no longer need a TAN: you deposit and report the tax in Schedule E of Form 141 on the e-filing portal, using your own PAN. The rate is the one that applies to the seller’s capital gain, including surcharge and cess, not the 1% that applies when the seller is resident, unless the seller gives you a lower deduction certificate.
+
+## What changed on 1 October 2026
+
+| Until 30 September 2026 | From 1 October 2026 | 
+
+TAN | Required | Not required for resident individuals and HUFs | 
+
+Where you report | Form 144 quarterly return on TRACES | Form 141, Schedule E, on the e-filing portal | 
+
+Identity used | TAN | Your PAN | 
+
+The change covers only resident individuals and HUFs buying from a non-resident. If the seller is resident, the purchase is reported in Schedule B of the same form.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Get these from the seller before you pay
+
+- PAN, name, status, phone, email, and address in the country where the seller lives.
+
+- Tax residency certificate and foreign tax identification number. If the seller has no valid PAN, these three details (overseas address, certificate and number) are what keep the deduction from going to the higher rate.
+
+- Lower deduction certificate, if the seller has one. It lets you deduct on the actual gain at the rate the officer allows, instead of on the full price. Sellers apply for it before the sale: see the lower TDS certificate.
+
+- The seller’s share in the property, if there is more than one seller.
+
+## How to deposit the TDS, step by step
+
+- Log in to the e-filing portal with your PAN. Go to e-File > e-Pay Tax > New Payment and choose Form 141.
+
+- Choose the deductee type (corporate or non-corporate) and the residential status Non Resident. Pick Schedule E.
+
+- Enter the tax year and the month in which you deducted the tax.
+
+- Enter the property: type, full address, agreement and registration dates, the full stamp duty value and the full sale price. Do not split these between buyers or sellers.
+
+- Say whether you are paying in one go or in instalments. For a later instalment, give the acknowledgement number of the earlier filing.
+
+- Add all buyers with their PAN and share (the shares must add up to 100%), and all sellers with the details above.
+
+- For each seller, enter the amount paid, the amount on which tax is deducted, the date, the rate and the tax including surcharge and cess. Add the lower deduction certificate number if there is one.
+
+- Pay online and download the challan receipt.
+
+Each instalment is reported in the month it is paid. Multiple sellers can go in one form only if they are the same type and the tax was deducted in the same month. Tax-practice guides put the due date at 30 days from the end of the month of deduction, the same as for a resident seller. Do not leave it to the last day, as interest and late fees run from the due date.
+
+## How much to deduct
+
+Without a lower deduction certificate, the tax is worked out on the sale price, at the rate that applies to the seller’s capital gain (long-term or short-term), plus surcharge and cess. That is why buyers often end up deducting far more than the seller’s real tax. The full rate table and the seller’s side are in TDS on property sale by NRIs.
+
+## Why the buyer should get this right
+
+- If too little is deducted, the department can recover the shortfall from the buyer, with interest.
+
+- Deducting the wrong amount, or reporting the wrong seller details, holds up the seller’s credit and their money leaving India, and that usually comes back to the buyer.
+
+- Bank loans: your lender usually pays its part directly to the seller. Make sure tax is deducted on that part too.
+
+## Sources
+
+- Income Tax Department: Form 141 Schedule E user manual (TDS under section 393(2) on property bought from a non-resident)
+- Business Today: CBDT simplifies TDS for property purchases from non-residents, from 1 October 2026 (25 September 2026)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do I need a TAN to buy property from an NRI?
+Not since 1 October 2026, if you are a resident individual or HUF. You can deposit and report the TDS in Schedule E of Form 141 on the income-tax e-filing portal using your PAN. Before that date a TAN and a Form 144 return were required.
+
+Which form do I use for TDS when buying property from an NRI?
+Form 141, Schedule E, on the e-filing portal, for purchases from 1 October 2026 by resident individuals and HUFs. Purchases from resident sellers are reported in Schedule B of the same form.
+
+What is the TDS rate when buying property from an NRI?
+The rate that applies to the seller's capital gain, long-term or short-term, plus surcharge and cess, worked out on the sale price unless the seller gives you a lower deduction certificate. It is not the 1% rate that applies when the seller is resident.
+
+What details do I need from the NRI seller?
+PAN, name, contact details, address in the country where the seller lives, and ideally the tax residency certificate and foreign tax identification number. If the seller has no valid PAN, the overseas address, certificate and number are needed to avoid a higher deduction rate. Also ask for any lower deduction certificate.
+
+How is TDS handled when I pay an NRI seller in instalments?
+You deduct and report on each instalment in the month it is paid. For each later instalment, give the acknowledgement number of the earlier Form 141 filing for the same property.
+
+Can I include two NRI sellers in one Form 141?
+Yes, if both are the same type (both corporate or both non-corporate) and the tax was deducted in the same month. Resident and non-resident sellers must be reported separately.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/gst-intermediary-services-export-2026/
 ------------------------------------------------------------------------
 GST · Foreign companies · Nov 2026
