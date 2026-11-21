@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-21. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-22. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -2012,7 +2012,7 @@ Indian entity of a foreign group? Check Form 3CEAA, the transfer-pricing return 
 
 - Waiting for head office to send group data in the last week; the Indian filing needs only basic group details for Part A.
 
-Related: Form 3CEB and transfer-pricing cases, management fees from a foreign parent, audit ITR due 21 November.
+Related: Form 3CEB and transfer-pricing cases, management fees from a foreign parent, missed the 21 November audit ITR date.
 
 ## Sources
 
@@ -2317,23 +2317,65 @@ URL: https://www.durgeshchavda.com/insights/itr-due-date-21-november-2026-audit-
 ------------------------------------------------------------------------
 Deadline · Income tax · Nov 2026
 
-# Audit-case ITR is due on 21 November 2026
+# Missed the 21 November ITR deadline? Here is what to do now
 
-The income tax return for companies, businesses whose accounts are audited and partners of audited firms is due on Saturday, 21 November 2026, after the CBDT extended it from 31 October. Filing even a day late costs more than the late fee: some losses and deductions are lost for good, and business owners can lose the choice of tax regime.
+The income tax return for companies and audited businesses was due on 21 November 2026. If yours is not filed, you can still file a belated return until 31 December 2026. Every new month adds interest, and some things are already lost. Here is what to do, in order.
 
-By CA Durgesh Chavda·Last reviewed 19 November 2026·4 min read
+By CA Durgesh Chavda·Last reviewed 22 November 2026·4 min read
 
-Get it filed on time
+Get the belated return filed
 hello@durgeshchavda.com
 
 Key takeaways
-- Audit-case ITR is due 21 November 2026; transfer-pricing cases 30 November.
-- Filing late loses business and capital loss carry-forward.
-- Business owners must file Form 10-IEA by the due date for the old regime.
+- Missed 21 November? File a belated return by 31 December 2026.
+- Pay the tax now: interest is 1% for every month or part of a month.
+- This year's business and capital losses cannot be carried forward.
 
-Quick answer: the ITR for audit cases for FY 2025-26 (assessment year 2026-27) is due 21 November 2026. The tax audit report was due 21 October 2026. Transfer-pricing cases (with Form 3CEB) were not extended: Form 3CEB was due 31 October and their ITR is due 30 November 2026. Miss 21 November and you can still file a belated return by 31 December 2026, but you pay a late fee and interest and lose the right to carry forward most losses.
+Quick answer: the ITR for audit cases for FY 2025-26 (assessment year 2026-27) was due on 21 November 2026. If you missed it, file a belated return by 31 December 2026. You pay a late fee of up to ₹5,000 and interest of 1% a month on unpaid tax, and this year’s business and capital losses cannot be carried forward. Transfer-pricing cases (with Form 3CEB) are not late yet: their due date is 30 November 2026.
 
-## Who must file by 21 November
+## What to do now, in order
+
+- Check whether you are actually late. If the business has international or specified domestic transactions that need Form 3CEB, the due date is 30 November 2026, not 21 November.
+
+- Pay the tax first. Interest under section 234A runs at 1% for every month or part of a month on unpaid tax. Paying the balance now stops it growing, even if the return takes a few more days.
+
+- Make sure the tax audit report is on file. It was due on 21 October 2026, and the return must match it. A late audit report can attract a separate penalty under section 271B.
+
+- File the belated return under section 139(4), with the late fee paid. Do not wait for 31 December: each new month adds interest.
+
+- E-verify within 30 days of filing, or the return is treated as not filed.
+
+- Check the foreign assets schedule if you are a resident with accounts, shares or RSUs abroad. FAST-DS for earlier years closes on 31 December 2026 too.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What it costs and what is lost
+
+What you lose or pay | Details | 
+
+Late fee | ₹5,000 under section 234F (₹1,000 if total income is up to ₹5 lakh) | 
+
+Interest | 1% for every month or part of a month on unpaid tax under section 234A, from the due date | 
+
+Losses | Business losses and capital losses of this year cannot be carried forward | 
+
+Certain deductions | Profit-linked deductions in Part C of Chapter VI-A (for example section 80-IAC for start-ups) are allowed only if the return was filed by the due date | 
+
+Regime choice | Individuals with business income who did not file Form 10-IEA by the due date stay in the new regime for the year | 
+
+After 31 December 2026 | Only an updated return is possible, with 25% to 70% extra tax and no refund | 
+
+## What is not lost
+
+- Refunds. A belated return can still claim a refund of excess TDS or advance tax.
+
+- House property loss and unabsorbed depreciation of this year can still be carried forward.
+
+- Losses of earlier years that were claimed in returns filed on time are generally not affected by this year’s delay.
+
+If the delay had a real cause, the department can condone it on an application under section 119(2)(b), which lets a late return carry forward a loss or claim a refund. It is discretionary and takes time, so file the belated return first.
+
+## Who was due on 21 November
 
 - Companies, including foreign companies with Indian income such as royalties, fees for technical services or a permanent establishment, unless they have transfer-pricing reports (then 30 November).
 
@@ -2341,40 +2383,7 @@ Quick answer: the ITR for audit cases for FY 2025-26 (assessment year 2026-27) i
 
 - Partners of firms whose accounts are audited, and their spouses where income is clubbed.
 
-ITR due on 21 November? Check your return, losses and regime choice before you file, in 15 minutes.Book a 15-min call
-
-## Last-day checklist
-
-- Tax audit report on file and accepted on the portal; the ITR figures must match it.
-
-- AIS, Form 26AS and TIS reconciled with the books: TDS credits, interest, dividends, high-value transactions.
-
-- Self-assessment tax paid before filing, with interest under sections 234B and 234C.
-
-- Regime choice: individuals with business income who want the old regime must file Form 10-IEA by the due date. Companies opting for the lower rate for the first time file their option form by the due date too.
-
-- Foreign assets: residents must report foreign accounts, shares and RSUs in Schedule FA. If something was missed in earlier years, FAST-DS closes on 31 December 2026.
-
-- E-verify within 30 days of filing, or the return is treated as not filed.
-
-## If you miss 21 November
-
-What you lose or pay | Details | 
-
-Late fee | ₹5,000 under section 234F (₹1,000 if total income is up to ₹5 lakh) | 
-
-Interest | 1% a month on unpaid tax under section 234A, from the due date | 
-
-Losses | Business losses and capital losses of the year cannot be carried forward (house property loss and unabsorbed depreciation are the exceptions) | 
-
-Certain deductions | Profit-linked deductions in Part C of Chapter VI-A (for example section 80-IAC for start-ups) are allowed only if the return is filed by the due date | 
-
-Regime choice | Business owners who miss Form 10-IEA by the due date stay in the new regime for the year | 
-
-Last chance | Belated return by 31 December 2026. After that, only an updated return, with 25% to 70% extra tax and no refunds | 
-
 Related: November–December 2026 calendar, Form 3CEB and transfer-pricing cases, 31 December deadlines.
-Part of a foreign group? Form 3CEAA master file due 30 November 2026.
 
 ## Sources
 
@@ -2384,20 +2393,26 @@ Part of a foreign group? Form 3CEAA master file due 30 November 2026.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
-What is the ITR due date for audit cases for AY 2026-27?
-21 November 2026. The CBDT extended it from 31 October 2026, and the tax audit report deadline from 30 September to 21 October 2026.
+I missed the 21 November 2026 ITR due date. What is the last date now?
+You can file a belated return under section 139(4) until 31 December 2026. After that only an updated return is possible, with 25% to 70% extra tax and no refund.
 
-Was the ITR due date for transfer-pricing cases extended?
-No. Form 3CEB was due on 31 October 2026 and the ITR for transfer-pricing cases is due on 30 November 2026.
+What is the penalty for filing an audit-case ITR after 21 November 2026?
+A late fee of ₹5,000 under section 234F (₹1,000 if total income is up to ₹5 lakh), plus interest of 1% for every month or part of a month on unpaid tax. Business and capital losses of the year also cannot be carried forward.
 
-What happens if a company misses the 21 November ITR deadline?
-It can file a belated return by 31 December 2026 with a late fee and interest, but business and capital losses of the year cannot be carried forward, and some profit-linked deductions are lost.
+Can I carry forward losses if I file after the due date?
+Not business or capital losses of this year. House property loss and unabsorbed depreciation can still be carried forward, and losses of earlier years claimed in on-time returns are generally not affected.
 
-Does a foreign company with Indian income have to file by 21 November?
-Yes, a foreign company is a company for this purpose, so its due date is the audit-case date of 21 November 2026, or 30 November 2026 if it has international transactions needing Form 3CEB.
+Can I still get a refund if I file a belated return?
+Yes. A belated return filed by 31 December 2026 can claim a refund of excess TDS or advance tax.
+
+Was the 21 November 2026 due date extended again?
+No further extension had been announced as of 22 November 2026. The 21 November date was itself an extension from 31 October 2026.
+
+Is the ITR for transfer-pricing cases also late?
+No. Where Form 3CEB applies, the ITR is due on 30 November 2026.
 
 Can I still choose the old tax regime if I file late?
-Not if you have business income. Form 10-IEA to opt for the old regime must be filed by the due date under section 139(1); a belated return stays in the new regime.
+Not if you have business income. Form 10-IEA to opt for the old regime had to be filed by the due date; a belated return stays in the new regime.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -5118,7 +5133,7 @@ If you didn’t file your income-tax return for FY 2025-26 (AY 2026-27), or file
 File before 31 December
 hello@durgeshchavda.com
 
-Due this week: audit ITR on 21 November 2026, last-day checklist.
+Missed the 21 November audit ITR date? File a belated return by 31 December 2026: what to do now.
 Quick answer: the last date for a belated return for FY 2025-26 is 31 December 2026. A revised return can be filed without a fee until 31 December 2026, and until 31 March 2027 with a fee (a Budget 2026 change). A belated return carries a late fee of ₹5,000 (₹1,000 if total income is up to ₹5 lakh) plus interest on any unpaid tax. It is still the only way to claim a refund for the year. After 31 December, you can only file an updated return (ITR-U), which adds 25% to 70% extra tax and cannot claim a refund.
 
 ## Who needs this
@@ -14861,7 +14876,7 @@ Get your filings done
 hello@durgeshchavda.com
 
 GST deadline: 30 November 2026, last date for FY 2025-26 input tax credit.
-Due this week: audit ITR on 21 November 2026, last-day checklist.
+Missed the 21 November audit ITR date? File a belated return by 31 December 2026: what to do now.
 Key takeaways
 - Form 3CEB is due 31 Oct; ITR for audit cases 21 Nov; transfer-pricing cases 30 Nov.
 - Advance tax third instalment: 15 Dec (75%).
@@ -16181,7 +16196,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 ## Deadlines and notices: late November 2026 (20 November 2026)
 
 ### What is the ITR due date for companies and audit cases for AY 2026-27?
-21 November 2026, after the CBDT extension from 31 October. Transfer-pricing cases were not extended and file by 30 November 2026. Read more.
+21 November 2026, after the CBDT extension from 31 October; it has now passed, so a belated return can be filed until 31 December 2026. Transfer-pricing cases were not extended and file by 30 November 2026. Read more.
 
 ### What is the last date to claim GST input tax credit for FY 2025-26?
 30 November 2026, or the date the GSTR-9 annual return is filed if earlier. The same date applies to correcting GSTR-1 and GSTR-3B and declaring credit notes for that year. Read more.
