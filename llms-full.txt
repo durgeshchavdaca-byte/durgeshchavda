@@ -74,6 +74,105 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-pan-inoperative-how-to-fix/
+------------------------------------------------------------------------
+NRIs · PAN · Nov 2026
+
+# NRI and your PAN shows “inoperative”? Here is the fix
+
+NRIs do not have to link PAN with Aadhaar. Yet thousands of NRIs found their PAN marked inoperative from July 2023, because the department’s records still showed them as resident. The result is real money: refunds stop, banks and buyers deduct tax at a higher rate, and property sales get stuck. This is how to fix it.
+
+By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
+
+Get your PAN fixed
+hello@durgeshchavda.com
+
+Key takeaways
+- NRIs are exempt from PAN-Aadhaar linking, but only if the department's records show them as non-resident.
+- Send your Assessing Officer your PAN card and one proof of NRI status.
+- Then claim back the extra TDS; the FY 2025-26 return window closes on 31 December 2026.
+
+Quick answer: an NRI’s PAN becomes inoperative when the department’s records do not show the non-resident status, for example where no return was filed as a non-resident in recent years. The fix is to send your jurisdictional Assessing Officer a copy of your PAN card and one proof of NRI status (passport pages showing your stay abroad, an OCI or PIO card, or a foreign tax ID attested by apostille or the Indian mission). Find your officer through “Know your AO” on the e-filing portal.
+
+## Why an NRI’s PAN becomes inoperative
+
+- Residents had to link PAN with Aadhaar by 30 June 2023. PANs not linked became inoperative from 1 July 2023.
+
+- NRIs are exempt from linking. But the department can only apply the exemption if its records show you as non-resident.
+
+- If you never filed a return as a non-resident in recent years, or never updated your status, the system treated you as a resident who had not linked, and the PAN went inoperative.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What an inoperative PAN costs you
+
+Effect | What it means in practice | 
+
+No refund | TDS refunds on rent, NRO interest or a property sale are held back | 
+
+No interest on the refund | For the period the PAN stays inoperative | 
+
+Higher TDS | Banks, tenants and property buyers deduct at the higher rate that applies without a valid PAN | 
+
+Property sales and repatriation stall | Buyers, banks and the CA certificate for sending money abroad all rely on a working PAN | 
+
+You can still file your income-tax return with an inoperative PAN, but the refund will not be released until the PAN is operative.
+
+## The fix, step by step
+
+- Find your Assessing Officer: on the e-filing portal home page, use “Know your AO” with your PAN.
+
+- Prepare the documents the department lists:
+
+- a copy of your PAN card; and
+
+- any one of: passport pages showing your stay abroad that confirm NRI status; your OCI card; your PIO card; or your other country’s national ID or tax identification number, attested by apostille (Hague Convention countries) or by the Indian embassy, high commission or consulate, or by authorised officials of overseas branches of Indian scheduled banks.
+
+- Write to the officer asking that your residential status be updated to non-resident in the PAN database, attaching the documents.
+
+- Follow up. Officers do not always reply quickly. Keep the acknowledgement, and check the PAN status on the portal.
+
+- File your returns as a non-resident from now on, so the status stays correct.
+
+## After the PAN is operative again
+
+- Claim back the extra TDS deducted at the higher rate, through your return for that year. For FY 2025-26 the last date for a belated or revised return is 31 December 2026.
+
+- Update your bank and broker so NRO interest and dividends are taxed at the right rate, with a tax residency certificate and Form 41 where a treaty rate applies.
+
+- Selling property? Get a lower TDS certificate before the sale. Your buyer reports the TDS against your PAN: see buying property from an NRI.
+
+Related: NRI income-tax return · NRI checklist before 31 December.
+
+## Sources
+
+- Income Tax Department: notice for NRIs with inoperative PAN and the documents required (21 July 2023)
+- Business Today: Inoperative PAN, clarification for NRIs and OCIs (18 July 2023)
+- Business Standard: NRIs can still file a return even if the PAN becomes inoperative (19 July 2023)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Why is my PAN inoperative when I am an NRI?
+NRIs are exempt from linking PAN with Aadhaar, but the exemption works only if the department's records show you as non-resident. Where the status was not updated, for example because no return was filed as a non-resident in recent years, the PAN was treated as unlinked and became inoperative from 1 July 2023.
+
+How does an NRI make an inoperative PAN operative?
+Write to your jurisdictional Assessing Officer with a copy of your PAN card and one proof of NRI status: passport pages showing your stay abroad, an OCI or PIO card, or a foreign national ID or tax number attested by apostille or the Indian mission. Find the officer through Know your AO on the e-filing portal.
+
+Can an NRI file an income-tax return with an inoperative PAN?
+Yes, the return can be filed, but refunds are not released and no interest is paid on them while the PAN stays inoperative.
+
+Does an NRI need to link PAN with Aadhaar?
+No. Non-residents are exempt from PAN-Aadhaar linking. The problem arises only when the department's records do not show the non-resident status.
+
+What happens to TDS if my PAN is inoperative?
+Banks, tenants and property buyers deduct tax at the higher rate that applies without a valid PAN. Once the PAN is operative again, the excess can be claimed back through your income-tax return.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/buying-property-from-nri-tds-form-141/
 ------------------------------------------------------------------------
 Property · NRIs · Nov 2026
@@ -2611,6 +2710,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 10 | Home-country filing: report Indian income abroad and claim credit for Indian tax (for example UK self assessment by 31 January 2027) | Varies by country | 
 
 NRI with India deadlines this year? Go through your 10-point checklist with Durgesh in 15 minutes, in your time zone.Book a 15-min call
+PAN showing “inoperative” although you are an NRI? How to make it operative and get your refund.
 
 ## Mistakes we see every December
 
@@ -20400,6 +20500,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 
 For income tax, “NRI” means a non-resident under the day-count tests — it’s not about your passport or visa. You’re resident if you spend 182 days or more in India in the tax year, or 60 days plus 365 days in the previous four years (with relaxations for Indians working abroad or visiting, and a 120-day rule when Indian income exceeds ₹15 lakh). Check yours with the residential status calculator or read residential status and RNOR.
 
+PAN showing “inoperative” although you are an NRI? How to make it operative and get your refund.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What India taxes
