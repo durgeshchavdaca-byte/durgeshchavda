@@ -11857,6 +11857,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 - Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
 Work out your amount by these rules
 
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
+
 ## How the shares are valued
 
 Listed shares are valued at the higher of cost and the average of the highest and lowest price on 31 March 2026, converted to rupees at the RBI reference rate for that day. Cash left in the brokerage account is part of the foreign assets too.
@@ -12506,6 +12508,7 @@ Get a quote in one working day. Send us three things and we reply with the scope
 Email the details WhatsApp the details
 
 APR due 31 December 2026. We arrange the audit and file the APR through your bank →
+Does your US subsidiary need an audit at all, and who can sign it? See audit of a US subsidiary of an Indian company.
 
 ## When is the APR due?
 
@@ -16831,6 +16834,7 @@ LLP | Service JVs with simple governance | Foreign investment only in sectors wi
 Contractual JV (no new entity) | Distribution, licensing, project cooperation | Permanent-establishment and withholding-tax exposure for the foreign party | 
 
 Talking to an Indian JV partner? Get the structure, approvals and red flags to check, in 15 minutes.Book a 15-min call
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 
 ## Foreign investment rules
 
@@ -18827,6 +18831,7 @@ hello@durgeshchavda.com
 
 - GIFT City entities and funds next door in Gandhinagar — GIFT City setup.
 
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who it suits
@@ -18893,6 +18898,7 @@ Free tool: Delaware franchise tax calculator — Both methods side by side — s
 
 The part most founders miss: if you live in India, owning a US company is an overseas investment under FEMA. It has to be routed and reported correctly through your Indian bank, and it changes what you disclose in your Indian tax return. See FEMA, ODI & tax rules when Indians own a US company.
 
+Does your US subsidiary need an audit at all, and who can sign it? See audit of a US subsidiary of an Indian company.
 Setting up a company in the USA? Structure, bank account, FEMA (ODI) and tax in India and abroad, covered in a 15-minute first call.Book a 15-min call
 
 ## What’s included
@@ -19067,6 +19073,7 @@ hello@durgeshchavda.com
 
 A Delaware parent helps when your lead investors require it, most revenue comes from US customers, founders are moving to the US, or a US acquisition is the likely exit. If your investors, customers and likely IPO are Indian, it often costs more than it’s worth — and reversing it later can cost far more. The full decision test is in our Delaware flip guide.
 
+Does your US subsidiary need an audit at all, and who can sign it? See audit of a US subsidiary of an Indian company.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The three routes
@@ -19501,6 +19508,7 @@ Best fit | Mostly Indian investors backing Indian companies | Global, NRI and fo
 
 Full comparison: GIFT City fund vs SEBI AIF.
 
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## SEBI AIF in brief
@@ -19601,6 +19609,7 @@ Most early-stage companies have bookkeeping and a tax consultant. What they don�
 
 - Compliance oversight — GST, TDS, advance tax, ROC and FEMA calendars owned, not chased.
 
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who it’s for
@@ -19708,6 +19717,7 @@ Free tool: FEMA late submission fee calculator — LSF for late FC-GPR, FC-TRS, 
 - Companies Act, ROC and LLP compliance, and NBFC regulatory frameworks.
 
 Selling goods abroad without routing them through India? See merchanting trade and selling on Amazon US from India.
+Does your US subsidiary need an audit at all, and who can sign it? See audit of a US subsidiary of an Indian company.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Key deadlines at a glance
@@ -19874,6 +19884,7 @@ Free tool: Equity dilution calculator — See founder dilution, price per share 
 
 - Term-sheet review and closing — economics and control terms, CP/CS checklists, and post-closing FEMA filings such as FC-GPR.
 
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## How it works
@@ -21310,6 +21321,7 @@ hello@durgeshchavda.com
 
 A flip moves an Indian startup under a US parent company, usually a Delaware C-Corp. The founders and existing investors end up holding shares in the US company, and the Indian company becomes its subsidiary — typically where the team, operations and costs remain.
 
+Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Why founders flip
