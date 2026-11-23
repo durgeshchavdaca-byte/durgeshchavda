@@ -270,6 +270,7 @@ The tenant cannot simply deduct less because the landlord’s real tax is lower.
 - File your Indian return for the year to claim the refund. For FY 2025-26, the last date for a belated return is 31 December 2026; a return already filed can be revised until 31 March 2027, with a fee after 31 December.
 
 - Your country of residence may tax the rent too, with credit for the Indian tax under the treaty.
+Also see: TDS on foreign software/SaaS · TDS on payments to non-residents.
 
 ## Sources
 
@@ -2800,6 +2801,7 @@ Try your own numbers in the FAST-DS calculator.
 - Planning a return to India: timing the move and using the “not ordinarily resident” years well.
 
 Related: FAST-DS for NRIs abroad, FAST-DS email but you were an NRI, FAST-DS for returning NRIs, NRI checklist before 31 December.
+Also see: FAST-DS for RSUs and ESOPs.
 
 ## Sources
 
@@ -2991,6 +2993,7 @@ Indian IT, ITeS or software R&D subsidiary? The 2026 safe harbour: one 15.5% mar
 - Waiting for head office to send group data in the last week; the Indian filing needs only basic group details for Part A.
 
 Related: Form 3CEB and transfer-pricing cases, management fees from a foreign parent, missed the 21 November audit ITR date.
+Also see: AOC-4 & MGT-7 due dates · ITR due dates 2026.
 
 ## Sources
 
@@ -3366,6 +3369,7 @@ If the delay had a real cause, the department can condone it on an application u
 - Partners of firms whose accounts are audited, and their spouses where income is clubbed.
 
 Related: November–December 2026 calendar, Form 3CEB and transfer-pricing cases, 31 December deadlines.
+Also see: AOC-4 & MGT-7 due dates · ITR due dates 2026.
 
 ## Sources
 
@@ -3853,6 +3857,7 @@ Related: got the FAST-DS email?, FAST-DS for NRIs abroad, residential status and
 
 ## FAST-DS by country
 UK US UAE Australia Singapore Canada Europe Russia Africa
+Also see: FAST-DS for RSUs and ESOPs · FAST-DS for foreign bank accounts.
 
 ## Sources
 
@@ -4206,6 +4211,7 @@ Every situation is different, so the fastest way to a clear plan is a short call
 - Flag permanent establishment risk for your parent company
 - Map the registrations you need before your first hire or invoice
 You leave with next steps, timelines and, if you want us to do the work, a fixed-fee scope. Book a call (slots shown in your time zone).
+Also see: India business glossary.
 
 ## Sources
 
@@ -4609,6 +4615,7 @@ Buying from India for the US? Check your suppliers and origin documents before t
 Expect rules of origin, certificates and supplier declarations to matter more, because preferential rates usually require proof that goods qualify. Suppliers with clean records and documented processes will be able to give that proof. Others will not. Checking now saves a scramble later.
 
 We run supplier checks and site visits across India for US buyers, and coordinate with your customs broker on origin documents. Related: supplier verification, UFLPA and Indian suppliers, supplier red flags.
+Also see: Merchanting trade and Amazon US.
 
 ## Sources
 
@@ -4694,6 +4701,7 @@ Directors and signatories | Passport (foreign nationals), proof of address, phot
 - No resident signatory: many banks want at least one authorised signatory available in India. Your resident director often fills this role.
 
 We handle the sequence end to end: choosing the bank, preparing and apostille checklists, remittance instructions, share issue and FC-GPR. Related: setting up a subsidiary, FC-GPR filing guide, resident director.
+Also see: FAST-DS for foreign bank accounts.
 
 ## Sources
 
@@ -4892,6 +4900,7 @@ You sell cross-border through marketplaces or an importer of record | The Indian
 - A distributor who holds your registration gains leverage in any dispute.
 
 We set up the India side: entity choice, partner checks on your importer or distributor, contracts that cover EPR and other licences, and coordination of registrations with specialist consultants. Related: BIS Authorised Indian Representative, bringing a foreign brand to India, switching your Indian distributor.
+Also see: DLT for foreign companies.
 
 ## Sources
 
@@ -5201,6 +5210,7 @@ Amazon pays out over time as units sell, so plan order sizes so that most of eac
 - A batch reconciliation: units bought, sold, returned, and the dates of each money leg.
 
 Related: checking a supplier before you pay, GST on exports, moving money abroad.
+Also see: Selling on Amazon US from India · India–US trade deal 2026.
 
 ## Sources
 
@@ -5376,6 +5386,7 @@ Foreign app with Indian users and OTPs failing? Get the right DLT route and tax 
 
 Related: GST for foreign SaaS selling to Indian users, setting up an Indian subsidiary, GST on export of services and LUT.
 Handling personal data? India’s DPDP Act for foreign companies: what starts on 13 May 2027.
+Also see: EPR for foreign brands.
 
 ## Sources
 
@@ -7532,6 +7543,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Workforce changes after the deal: lay-offs, retrenchment or closure in establishments with 300 or more workers need prior government permission.
 
 Related: full due diligence checklist, employee benefits under the Labour Codes, acquiring a company in India, buying out a JV partner.
+Also see: Indian partner checklist.
 
 ## Sources
 
@@ -7602,6 +7614,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Review: a CA-qualified reviewer in India checks work before it reaches your managers. You keep the client relationship and sign-off.
 
 For other markets: US CPA firms · UK accountants · Australia and New Zealand. Choosing a partner: what to check.
+Also see: AEO for accounting & CPA firms.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -7774,6 +7787,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 Choosing a partner? Read how to choose an offshore accounting partner. For US and UK firms: US CPA firms · UK accountants.
 Accounting firm in Singapore or the UAE? White-label accounting from India.
+Also see: AEO for accounting & CPA firms.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -7864,6 +7878,7 @@ For Indians in the Gulf: Indian tax guide
 Other countries: UAE · UK · USA · Canada · Australia · Singapore. Handled end to end: NRI property sale service.
 Living in the UAE? Indian tax guide for NRIs in the UAE.
 Living in Saudi Arabia, Qatar, Kuwait, Oman or Bahrain? Indian tax guide for NRIs in the Gulf.
+Also see: Buying property from an NRI.
 
 ## Sources
 
@@ -8005,6 +8020,7 @@ For Indians in Singapore: Indian tax guide · FAST-DS: who must file by 31 Decem
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · USA · Canada · Australia.
 Living in Singapore? Indian tax guide for NRIs in Singapore.
+Also see: Selling property in India from the Gulf · Buying property from an NRI.
 
 ## Sources
 
@@ -8098,6 +8114,7 @@ For Indians in Australia: Indian tax guide · Moving money between India and Aus
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · USA · Canada · Singapore.
 Living in Australia? Indian tax guide for NRIs in Australia.
+Also see: Selling property in India from the Gulf · Buying property from an NRI.
 
 ## Sources
 
@@ -8191,6 +8208,7 @@ For Indians in Canada: Indian tax guide · Moving money between India and Canada
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · UK · USA · Australia · Singapore.
+Also see: Selling property in India from the Gulf · Buying property from an NRI.
 
 ## Sources
 
@@ -8379,6 +8397,7 @@ For Indians in the UK: Indian tax guide · Moving money between India and the UK
 
 - File returns: in India (for any refund) and in your country of residence, claiming credit for the Indian tax.
 Need it handled end to end? NRI property sale service. Other countries: UAE · USA · Canada · Australia · Singapore.
+Also see: Selling property in India from the Gulf.
 
 ## Sources
 
@@ -8474,6 +8493,7 @@ For Indians in the UAE: Indian tax guide · FAST-DS: who must file by 31 Decembe
 Need it handled end to end? NRI property sale service. Other countries: UK · USA · Canada · Australia · Singapore.
 Indian in the UAE and the Gulf with accounts abroad? Check whether FAST-DS applies before 31 December 2026.
 Living in the UAE? Indian tax guide for NRIs in the UAE.
+Also see: Selling property in India from the Gulf · Buying property from an NRI.
 
 ## Sources
 
@@ -8665,6 +8685,7 @@ Until reporting is regularised, your bank may refuse further remittances to the 
 
 - Any correspondence with your bank about the LLC
 Living in India but running a company abroad? Residency, POEM, PE and FEMA explained.
+Also see: US LLC for Indian freelancers.
 
 ## Sources
 
@@ -8751,6 +8772,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Full scope: partner due diligence · investment due diligence · supplier verification.
 
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
+
+Also see: Due diligence in India for Korean companies · Due diligence in India for Singapore companies · Due diligence in India for Canadian companies.
 
 ## Sources
 
@@ -9494,6 +9517,7 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Later investors and acquirers will check this in diligence. A gap can delay or reprice a deal.
 
 Related: acquiring a company in India, joint ventures in India, India FDI updates 2026.
+Also see: Inventory e-commerce for exports.
 
 ## Sources
 
@@ -10652,6 +10676,7 @@ Lived abroad in those years? FAST-DS email but you were an NRI.
 ## FAST-DS by country
 UK US UAE Australia Singapore Canada Europe Russia Africa
 Went abroad to study? Why your student bank account counted in India, and how to fix it.
+Also see: FAST-DS for RSUs and ESOPs · FAST-DS for foreign bank accounts.
 
 ## Sources
 
@@ -10746,6 +10771,7 @@ FAST-DS check before 31 December 2026: if you were resident in India in any year
 - Get the CA certificate (Form 146) and file Form 145 online.
 - Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
 Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+Also see: Money India to Europe · Money India to Australia · Money India to Canada.
 
 ## Sources
 
@@ -10853,6 +10879,7 @@ FAST-DS check before 31 December 2026: if you were resident in India in any year
 - Get the CA certificate (Form 146) and file Form 145 online.
 - Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
 Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+Also see: Money India to Europe · Money India to Australia · Money India to Canada.
 
 ## Sources
 
@@ -10954,6 +10981,7 @@ FAST-DS check before 31 December 2026: if you were resident in India in any year
 - Get the CA certificate (Form 146) and file Form 145 online.
 - Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
 Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
+Also see: Money India to Europe · Money India to Australia · Money India to UK.
 
 ## Sources
 
@@ -11055,6 +11083,7 @@ FAST-DS check before 31 December 2026: if you were resident in India in any year
 - Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
 Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
 Living in Australia? Indian tax guide for NRIs in Australia.
+Also see: Money India to Europe · Money India to Canada · Money India to UK.
 
 ## Sources
 
@@ -11155,6 +11184,7 @@ FAST-DS check before 31 December 2026: if you were resident in India in any year
 - Give your bank the forms, the source documents and its remittance request. It sends the money to your account abroad.
 Related: repatriating money from an NRO account, NRE vs NRO vs FCNR, TDS on property sale by NRIs and the free transfer checker.
 Living in Europe? Indian tax guide and treaty rates for NRIs in Europe.
+Also see: Money India to Australia · Money India to Canada · Money India to UK.
 
 ## Sources
 
@@ -11488,6 +11518,7 @@ For people who are not US citizens or residents, US shares are US assets for US 
 - Plan for US estate tax if the portfolio is large.
 
 Related: investing in US stocks from India, moved to Dubai: NRI checklist and FAST-DS for returning NRIs.
+Also see: US remittance tax.
 
 ## Sources
 
@@ -11695,6 +11726,7 @@ Got the email about “overseas financial interests”? What the FAST-DS email m
 Living abroad now? FAST-DS for NRIs in the UK, US, Canada and Australia.
 Hold US stocks through an Indian app? Do you need FAST-DS? The ₹20 lakh line and dividends.
 Four deadlines on one day: 31 December 2026 checklist.
+Also see: FAST-DS for RSUs and ESOPs · FAST-DS for foreign bank accounts.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -11891,6 +11923,7 @@ Report the shares in Schedule FA every year, report dividends and sale gains in 
 
 ## FAST-DS by country
 UK US UAE Australia Singapore Canada Europe Russia Africa
+Also see: FAST-DS for foreign bank accounts.
 
 ## Sources
 
@@ -11985,6 +12018,7 @@ Since 1 October 2024 the ₹10 lakh Black Money Act penalty for leaving foreign 
 ## FAST-DS by country
 UK US UAE Australia Singapore Canada Europe Russia Africa
 Went abroad to study? Why your student bank account counted in India, and how to fix it.
+Also see: FAST-DS for RSUs and ESOPs.
 
 ## Sources
 
@@ -12340,6 +12374,7 @@ The 2% equalisation levy on e-commerce supplies was abolished from 1 August 2024
 - GST: a GST-registered business importing online services pays GST under reverse charge and can usually claim the input credit.
 
 Related: TDS on payments to non-residents, Form 41 and no-PE declaration and GST on foreign SaaS.
+Also see: TCS calculator · TCS on foreign remittance · Rent paid to an NRI landlord.
 
 ## Sources
 
@@ -13199,6 +13234,7 @@ Planning the season? US tax deadlines 2027: the busy-season calendar.
 Comparing providers? 12 questions to ask an offshore accounting partner.
 For Australian and NZ firms: offshore accounting team in India.
 Accounting firm in Singapore or the UAE? White-label accounting from India.
+Also see: AEO for accounting & CPA firms.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -14015,6 +14051,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
 
+Also see: Due diligence in India for Korean companies · Due diligence in India for Singapore companies · Due diligence in India for Gulf investors.
+
 ## Sources
 
 - Justice Laws — Corruption of Foreign Public Officials Act
@@ -14568,6 +14606,7 @@ US bank or fintech account, bookkeeping set-up and a calendar of every federal a
 
 - Full calendar: US company compliance calendar.
 
+Also see: TDS on payments to non-residents.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -15333,6 +15372,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
 
+Also see: Due diligence in India for French companies.
+
 ## Sources
 
 - World Bank STAR — Foreign bribery frameworks self-assessment: South Korea
@@ -15582,6 +15623,7 @@ Commentators have flagged points the draft does not address, including:
 - Responsibility shifts to investors too — keep your own record of each investment’s compliance.
 
 All 2026 changes in one place: India FDI & FEMA updates 2026. Help with filings: FEMA & RBI compliance.
+Also see: Investing in Indian banks and NBFCs.
 
 ## Sources
 
@@ -15665,6 +15707,7 @@ We test questions like these across ChatGPT, Gemini, Claude, Perplexity and Copi
 
 Our own results: AEO case study · free AEO readiness checker.
 
+Also see: AEO for accounting & CPA firms.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -16073,7 +16116,8 @@ GST / GSTINGoods and Services Tax — India's indirect tax; GSTIN is the 15-char
 FEMAForeign Exchange Management Act, 1999 — the law governing foreign investment and cross-border payments. More.FDIForeign direct investment — investment by a non-resident in an Indian company's capital. More.Automatic routeFDI that needs no prior government approval, only reporting — available in most sectors. More.Press Note 3The 2020 rule requiring government approval for investment from countries bordering India — eased in 2026 for non-controlling stakes up to 10%. More.FC-GPRThe RBI form reporting shares issued to a foreign investor — due within 30 days of allotment. More.FC-TRSThe RBI form reporting a share transfer between a resident and a non-resident — within 60 days. More.FLA returnAnnual return on foreign liabilities and assets filed with RBI by 15 July. More.FIRMSRBI's online portal for foreign-investment reporting.AD bankAuthorised dealer bank — a bank permitted by RBI to handle foreign-exchange transactions and many FEMA approvals.ODI / APROverseas direct investment by Indian residents, and the annual performance report filed on each overseas entity. More.ECBExternal commercial borrowing — loans to Indian entities from foreign lenders.Liaison / branch / project officeWays a foreign company can be present in India without an Indian company, each with RBI rules. More.
 
 ## Deals and disputes
-NCLTNational Company Law Tribunal — handles insolvency, mergers and company-law disputes.IBCInsolvency and Bankruptcy Code, 2016 — India's insolvency law.SEBISecurities and Exchange Board of India — the securities-market regulator.AIFAlternative Investment Fund — a SEBI-registered private fund (Categories I, II and III). More.GIFT City / IFSCIndia's international financial services centre in Gujarat, regulated by IFSCA. More.DPIITDepartment for Promotion of Industry and Internal Trade — issues FDI policy and press notes.CCICompetition Commission of India — reviews larger mergers and acquisitions.Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
+NCLTNational Company Law Tribunal — handles insolvency, mergers and company-law disputes.IBCInsolvency and Bankruptcy Code, 2016 — India's insolvency law.SEBISecurities and Exchange Board of India — the securities-market regulator.AIFAlternative Investment Fund — a SEBI-registered private fund (Categories I, II and III). More.GIFT City / IFSCIndia's international financial services centre in Gujarat, regulated by IFSCA. More.DPIITDepartment for Promotion of Industry and Internal Trade — issues FDI policy and press notes.CCICompetition Commission of India — reviews larger mergers and acquisitions.Also see: Place of business in India.
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
@@ -16422,6 +16466,7 @@ Taking full control of an Indian JV? Buying out your Indian JV partner: FEMA, ta
 UK group with India operations? Failure to prevent fraud: what it means for your India operations.
 Bringing a brand to India? Franchise, licence, JV or your own stores compared.
 For French companies: due diligence in India for French companies.
+Also see: Indian partner checklist.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
 
 ## Frequently asked questions
@@ -16708,6 +16753,7 @@ See also: setting up a plant in Gujarat.
 Importing coffee, rubber or wood products into the EU? EUDR and Indian suppliers: what you need by 30 December 2026.
 Importing steel or aluminium? CBAM and Indian suppliers: the data you need.
 For French companies: due diligence in India for French companies.
+Also see: Due diligence in India for Korean companies · Due diligence in India for Singapore companies · Due diligence in India for Canadian companies.
 
 ## Sources
 
@@ -16793,6 +16839,8 @@ Have a question about your own case? Get clear answers and next steps from Durge
 - Full scope: partner due diligence · investment due diligence · supplier verification.
 
 We are Chartered Accountants, not lawyers: home-country legal advice on compliance programmes stays with your counsel. Our reports are built to slot into their files.
+
+Also see: Due diligence in India for Korean companies · Due diligence in India for Singapore companies · Due diligence in India for Canadian companies.
 
 ## Sources
 
@@ -18504,6 +18552,7 @@ Planning the season? US tax deadlines 2027: the busy-season calendar.
 Comparing providers? 12 questions to ask an offshore accounting partner.
 For Australian and NZ firms: offshore accounting team in India.
 Accounting firm in Singapore or the UAE? White-label accounting from India.
+Also see: AEO for accounting & CPA firms.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -19465,6 +19514,7 @@ Details and conditions: GIFT City tax benefits.
 
 - Investor-side advice for resident Indians (LRS) and NRIs — see how to invest in GIFT City.
 
+Also see: GIFT City fund vs SEBI AIF.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -20300,6 +20350,8 @@ Start with level 1 before you pay an advance or sign. Move up when the money or 
 - Conditions before closing: overdue FEMA filings can usually be regularised with a late fee; make that the seller’s job before you pay.
 
 - Structure: where the history is messy, a business transfer can leave old liabilities behind. See share purchase vs business transfer and escrow, deferred consideration and earn-outs.
+
+Also see: Indian partner checklist.
 
 ## Sources
 
