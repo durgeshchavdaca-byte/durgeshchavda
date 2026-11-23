@@ -74,6 +74,118 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/tds-on-rent-paid-to-nri-landlord/
+------------------------------------------------------------------------
+NRIs · Rent · Nov 2026
+
+# Your landlord is an NRI? You must deduct about 31.2% from the rent
+
+If the owner of the flat you rent lives abroad, the tax rules for you as tenant are completely different from renting from a resident. There is no monthly threshold, the rate is about 31.2%, and you need a TAN. Many tenants find out only when a notice arrives. Here is what to do, and how the landlord gets most of the tax back.
+
+By CA Durgesh Chavda·Last reviewed 23 November 2026·5 min read
+
+Sort out the rent TDS
+hello@durgeshchavda.com
+
+Key takeaways
+- Rent to an NRI landlord: deduct about 31.2% from every payment, no threshold.
+- The tenant still needs a TAN; the 1 October 2026 no-TAN rule covers only property purchases.
+- The landlord gets most of it back through a lower deduction certificate or a refund.
+
+Quick answer: a tenant paying rent to a non-resident landlord must deduct tax from every payment, whatever the amount, at about 31.2% (30% plus 4% cess, more with surcharge for very large rents), unless the landlord gives a lower deduction certificate. The tenant needs a TAN and files a quarterly TDS return. The no-TAN route that started on 1 October 2026 covers only buying property from an NRI, not rent.
+
+## Resident landlord vs NRI landlord
+
+| Landlord is resident | Landlord is an NRI | 
+
+When to deduct | Only if rent is above ₹50,000 a month | Every payment, no threshold | 
+
+Rate | 2% | About 31.2% (30% plus cess) | 
+
+TAN | Not needed for individual tenants | Needed | 
+
+Reporting | PAN-based challan-cum-statement | Deposit with TAN, then a quarterly TDS return | 
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## “No TAN since 1 October 2026”: why that is not about rent
+
+From 1 October 2026 a resident individual buying property from an NRI can report the tax in Schedule E of Form 141 with a PAN. The department’s own help page describes Schedule E as covering the transfer of immovable property by a non-resident, and asks only for sale details: stamp duty value, sale price, agreement date. It says nothing about rent or leases. So a tenant paying an NRI landlord still follows the TAN route. See buying property from an NRI for the purchase side.
+
+## What the tenant must do
+
+- Confirm the landlord’s status. Ask in writing whether the landlord is resident or non-resident for the year, and get the PAN. If the PAN is invalid or inoperative, the deduction can go higher.
+
+- Apply for a TAN before the first payment you deduct from.
+
+- Deduct at about 31.2% from each payment, or at the rate on the landlord’s lower deduction certificate.
+
+- Deposit the tax by the 7th of the next month (for March, by 30 April).
+
+- File the quarterly TDS return for payments to non-residents, and issue the TDS certificate to the landlord so the credit shows against the landlord’s PAN.
+
+If you missed this in earlier months, act now. Interest runs for every month of delay, a late fee runs for every day a return is late, and the tenant is treated as the defaulter for the tax not deducted.
+
+## Example: why the landlord is usually owed a refund
+
+| Amount | 
+
+Rent, ₹50,000 a month for a year | ₹6,00,000 | 
+
+Tax deducted by the tenant at 31.2% | ₹1,87,200 | 
+
+Taxable rent after the 30% standard deduction (no municipal tax assumed) | ₹4,20,000 | 
+
+Tax under the new regime if this is the landlord’s only Indian income (5% on the part above ₹4 lakh, plus cess) | About ₹1,040 | 
+
+Refund the landlord can claim | About ₹1.86 lakh | 
+
+The tenant cannot simply deduct less because the landlord’s real tax is lower. The landlord has two ways out: a lower deduction certificate before the payments, or a refund through the income-tax return after the year.
+
+## If you are the NRI landlord
+
+- Give your tenant your PAN and make sure it is operative: see NRI PAN inoperative.
+
+- Apply for a lower or nil deduction certificate so the tenant deducts on your real tax, not 31.2%.
+
+- Have the rent paid into your NRO account. Sending it abroad later uses the NRO repatriation route with the chartered accountant’s certificate: see NRI money transfer.
+
+- File your Indian return for the year to claim the refund. For FY 2025-26, the last date for a belated or revised return is 31 December 2026.
+
+- Your country of residence may tax the rent too, with credit for the Indian tax under the treaty.
+
+## Sources
+
+- Income Tax Department: Form 141 Schedule E user manual (scope: transfer of immovable property by a non-resident)
+- CA Akhilesh: TDS on rent paid to an NRI, section 393, rate, TAN and Form 144
+- PGT & Associates: TDS on rent paid to an NRI, rate, TAN and refund
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do I need to deduct TDS on rent paid to an NRI landlord?
+Yes. A tenant paying rent to a non-resident landlord must deduct tax from every payment, with no monthly threshold, at about 31.2% (30% plus 4% cess) unless the landlord gives a lower deduction certificate.
+
+Does a tenant need a TAN to pay rent to an NRI?
+Yes. The no-TAN route that started on 1 October 2026, through Schedule E of Form 141, covers only buying immovable property from a non-resident. A tenant paying an NRI landlord still needs a TAN and files a quarterly TDS return.
+
+What is the TDS rate on rent paid to an NRI?
+About 31.2% for an individual landlord: 30% plus 4% health and education cess. Surcharge is added where the landlord's income is very high. A lower deduction certificate from the landlord can bring it down.
+
+Is there a threshold for TDS on rent paid to an NRI?
+No. The ₹50,000-a-month threshold and the 2% rate apply only to rent paid to resident landlords. For a non-resident landlord, tax is deducted from every payment.
+
+How can an NRI landlord reduce the TDS on rent?
+By applying for a lower or nil deduction certificate before the payments, so the tenant deducts on the landlord's actual tax. Otherwise the excess comes back as a refund through the landlord's Indian income-tax return.
+
+What if the tenant did not deduct TDS on rent paid to an NRI?
+The tenant is treated as the defaulter for the tax not deducted, with interest for each month of delay and late fees for late returns. The safest course is to obtain a TAN, deposit the tax with interest and file the pending returns as soon as possible.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/form-67-foreign-tax-credit-deadline-2027/
 ------------------------------------------------------------------------
 Deadline · Foreign tax credit · Nov 2026
@@ -414,6 +526,7 @@ Identity used | TAN | Your PAN |
 
 The change covers only resident individuals and HUFs buying from a non-resident. If the seller is resident, the purchase is reported in Schedule B of the same form.
 
+Renting from an NRI, or an NRI landlord? The tenant deducts about 31.2% and still needs a TAN in 2026.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Get these from the seller before you pay
@@ -20715,6 +20828,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 For income tax, “NRI” means a non-resident under the day-count tests — it’s not about your passport or visa. You’re resident if you spend 182 days or more in India in the tax year, or 60 days plus 365 days in the previous four years (with relaxations for Indians working abroad or visiting, and a 120-day rule when Indian income exceeds ₹15 lakh). Check yours with the residential status calculator or read residential status and RNOR.
 
 PAN showing “inoperative” although you are an NRI? How to make it operative and get your refund.
+Renting from an NRI, or an NRI landlord? The tenant deducts about 31.2% and still needs a TAN in 2026.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What India taxes
