@@ -1277,9 +1277,15 @@ document.getElementById('cForm').addEventListener('submit',e=>{e.preventDefault(
   const grid=document.getElementById('updGrid'),tabs=document.getElementById('updTabs');
   if(!grid||!tabs)return;
   const cards=[...grid.querySelectorAll('.upd-card')];
-  function show(cat){let n=0;cards.forEach(c=>{let ok;if(cat==='all'){ok=n<9;n++;}else{ok=c.dataset.cat===cat;}c.style.display=ok?'':'none';});}
+  // 23 Nov 2026: map card categories to the tabs (deadline, gst, notice, tp, jv had no tab) and let visitors see every card
+  const MAP={deadline:['tax','nri'],gst:['tax'],notice:['tax'],tp:['tax','global'],jv:['fdi']};
+  const more=document.createElement('button');more.type='button';more.className='tab';more.style.margin='14px auto 0';more.style.display='block';
+  grid.after(more);let all=false;
+  function show(cat){let n=0,hid=0;cards.forEach(c=>{let ok;if(cat==='all'){ok=all||n<9;n++;}else{const k=c.dataset.cat;ok=k===cat||(MAP[k]||[]).includes(cat);}if(!ok)hid++;c.style.display=ok?'':'none';});
+    more.style.display=(cat==='all'&&!all&&hid)?'block':'none';more.textContent='Show all '+cards.length+' updates';}
+  more.addEventListener('click',()=>{all=true;show('all');});
   show('all');
-  tabs.addEventListener('click',e=>{const t=e.target.closest('.tab');if(!t)return;tabs.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));t.classList.add('active');show(t.dataset.feed);});
+  tabs.addEventListener('click',e=>{const t=e.target.closest('.tab');if(!t)return;tabs.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));t.classList.add('active');all=false;show(t.dataset.feed);});
 }();
 </script>
 
