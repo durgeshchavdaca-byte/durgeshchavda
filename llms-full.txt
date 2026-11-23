@@ -150,7 +150,7 @@ The tenant cannot simply deduct less because the landlord’s real tax is lower.
 
 - Have the rent paid into your NRO account. Sending it abroad later uses the NRO repatriation route with the chartered accountant’s certificate: see NRI money transfer.
 
-- File your Indian return for the year to claim the refund. For FY 2025-26, the last date for a belated or revised return is 31 December 2026.
+- File your Indian return for the year to claim the refund. For FY 2025-26, the last date for a belated return is 31 December 2026; a return already filed can be revised until 31 March 2027, with a fee after 31 December.
 
 - Your country of residence may tax the rent too, with credit for the Indian tax under the treaty.
 
@@ -457,7 +457,7 @@ You can still file your income-tax return with an inoperative PAN, but the refun
 
 ## After the PAN is operative again
 
-- Claim back the extra TDS deducted at the higher rate, through your return for that year. For FY 2025-26 the last date for a belated or revised return is 31 December 2026.
+- Claim back the extra TDS deducted at the higher rate, through your return for that year. For FY 2025-26, the last date for a belated return is 31 December 2026; a return already filed can be revised until 31 March 2027, with a fee after 31 December.
 
 - Update your bank and broker so NRO interest and dividends are taxed at the right rate, with a tax residency certificate and Form 41 where a treaty rate applies.
 
@@ -969,7 +969,7 @@ Key takeaways
 - Left in 2025: fix it in the FY 2025-26 return by 31 December 2026.
 - Earlier years: Rs 20 lakh relief for small holdings, or FAST-DS for a flat Rs 1 lakh.
 
-Quick answer: if you left India to study and had been in India for 60 days or more that financial year, you were usually still resident in India for that year. A foreign bank account, GIC or blocked account opened that year had to be reported in an Indian return, even if you had no income. For students who left between April and December 2025, a belated or revised return for FY 2025-26 by 31 December 2026 fixes it. For earlier years, small holdings are usually covered by the ₹20 lakh relief, and larger ones can be regularised under FAST-DS, usually for a flat ₹1 lakh.
+Quick answer: if you left India to study and had been in India for 60 days or more that financial year, you were usually still resident in India for that year. A foreign bank account, GIC or blocked account opened that year had to be reported in an Indian return, even if you had no income. For students who left between April and December 2025, a belated return for FY 2025-26 by 31 December 2026 fixes it (a return already filed can be revised until 31 March 2027, with a fee after 31 December). For earlier years, small holdings are usually covered by the ₹20 lakh relief, and larger ones can be regularised under FAST-DS, usually for a flat ₹1 lakh.
 
 ## Why students are different
 
@@ -13512,7 +13512,7 @@ Ask about your IPO tax
 hello@durgeshchavda.com
 
 Gains to report, or a return to fix? Get the right figures and your filing plan in one call.Book a 15-min call
-Need this in your return? We file belated and revised ITRs until 31 December 2026 →
+Need this in your return? Belated ITRs until 31 December 2026; revisions until 31 March 2027 →
 Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to declare foreign accounts, RSUs and assets missed in your returns, from a flat ₹1 lakh. Check what you would pay or get it filed.
 
 Booked a gain this year? Get your capital gains and income tax return handled by a Chartered Accountant. Ask on WhatsApp (first 10 messages free) or book a call on Topmate.Ask on WhatsAppBook a call
