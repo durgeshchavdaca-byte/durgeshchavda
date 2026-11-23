@@ -74,6 +74,113 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/form-67-foreign-tax-credit-deadline-2027/
+------------------------------------------------------------------------
+Deadline · Foreign tax credit · Nov 2026
+
+# Paid tax abroad? File Form 67 by 31 March 2027 or pay it twice
+
+If you are resident in India, your worldwide income is taxed here, including income that has already been taxed in another country: US dividends, a foreign salary for the months before you returned, rent from a flat abroad. India gives credit for that foreign tax, but only if Form 67 is filed in time. For FY 2025-26, that means by 31 March 2027.
+
+By CA Durgesh Chavda·Last reviewed 23 November 2026·5 min read
+
+Get your credit claimed
+hello@durgeshchavda.com
+
+Key takeaways
+- File Form 67 by 31 March 2027 to claim credit for foreign tax on FY 2025-26 income.
+- The return must be filed by the due date or as a belated return by 31 December 2026.
+- Credit is the lower of the foreign tax and the Indian tax on that income.
+
+Quick answer: to claim credit in India for tax paid abroad on income of FY 2025-26, file Form 67 on the income-tax portal by 31 March 2027 (the end of assessment year 2026-27). This works if your return was filed by the due date or as a belated return by 31 December 2026. If you claim the income in an updated return instead, Form 67 must be filed on or before the day you file that updated return. Miss it and the department can refuse the credit, so the same income is taxed twice.
+
+## Who needs Form 67
+
+- Residents with US shares or RSUs: US dividends are taxed in the US (25% with a W-8BEN) and again in India. Form 67 claims that 25% back against your Indian tax. See W-8BEN for Indian individuals.
+
+- People who moved back to India during the year, with salary or other income taxed abroad in the months they were resident in India for tax purposes.
+
+- Residents with property, deposits or a business abroad whose income is taxed in that country.
+
+- Employees sent abroad on short assignments who stayed resident in India and paid tax in the host country.
+
+If you were non-resident in India for the year, India taxes only your Indian income and Form 67 does not apply to your foreign income.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## The dates for FY 2025-26
+
+Your return | Last date for Form 67 | 
+
+Filed by the due date | 31 March 2027 | 
+
+Belated return, filed by 31 December 2026 | 31 March 2027 | 
+
+Updated return (filed later, with additional tax) | On or before the day you file the updated return | 
+
+The rule that allows Form 67 up to the end of the assessment year has applied since 1 April 2022. Before that, many claims were refused because Form 67 was filed after the return.
+
+## How the credit works
+
+- The credit is the lower of the foreign tax paid and the Indian tax on that same income. You do not get back foreign tax above the Indian tax.
+
+- It is worked out income by income, and country by country. Excess credit on one income cannot cover another.
+
+- Tax under dispute abroad is credited only once the dispute is settled.
+
+- Treaty rates first: if the foreign country deducted more than the treaty allows, claim the refund there. India gives credit only for the tax properly payable.
+
+## What to attach
+
+- A statement or certificate of the foreign tax: from the foreign tax authority, from the payer who deducted it (for example a US broker’s Form 1042-S), or your own signed statement with proof of payment.
+
+- The income and tax figures by country, matching what you show in the return.
+
+- If the year abroad ends on a different date from India’s (31 March), the split of the income and tax by Indian financial year.
+
+## Mistakes that lose the credit
+
+- Filing the return but never filing Form 67.
+
+- Filing Form 67 after 31 March 2027 for FY 2025-26.
+
+- Claiming the credit without showing the foreign income in the return, or without reporting the foreign account or shares in Schedule FA.
+
+- Claiming the full foreign tax when the treaty rate was lower.
+
+Related: NRI checklist before 31 December · FAST-DS for US shares (if Schedule FA was missed in earlier years) · returning to India from the US.
+
+## Sources
+
+- Taxmann: CBDT extends the time limit for Form 67, Notification 100/2022 (August 2022)
+- Income Tax Department: e-filing portal
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the last date to file Form 67 for FY 2025-26?
+31 March 2027, the end of assessment year 2026-27, provided the return is filed by the due date or as a belated return by 31 December 2026. For an updated return, Form 67 must be filed on or before the date of filing the updated return.
+
+Can I file Form 67 after filing my income-tax return?
+Yes. Since 1 April 2022, Form 67 can be filed after the return, up to the end of the assessment year, as long as the return itself was filed within the time allowed for an original or belated return.
+
+Can I claim foreign tax credit with a belated return?
+Yes. Where the return is filed as a belated return within the time allowed, Form 67 can still be filed up to the end of the assessment year.
+
+How much foreign tax credit will I get?
+The lower of the foreign tax paid and the Indian tax on the same income, worked out income by income and country by country. Foreign tax above the Indian tax on that income is not credited.
+
+Do I need Form 67 for US dividends?
+Yes, if you are resident in India. US dividends are taxed in the US, usually at 25% with a W-8BEN, and also in India. Form 67 claims credit for the US tax against your Indian tax on those dividends.
+
+What documents are needed for Form 67?
+A certificate or statement of the foreign tax, from the foreign tax authority or the payer who deducted it, or your own signed statement with proof of payment, along with the income and tax figures by country.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/transfer-pricing-safe-harbour-it-services-2026/
 ------------------------------------------------------------------------
 Transfer pricing · Foreign companies · Nov 2026
@@ -513,6 +620,7 @@ A US citizen or green-card holder, even if you live in India | W-9 |
 
 Paid for work you do while physically in the US | Form 8233 or W-4, not W-8BEN | 
 
+Paid tax abroad on FY 2025-26 income? File Form 67 by 31 March 2027 to claim the credit.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What the treaty does to US withholding
@@ -2814,6 +2922,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 
 NRI with India deadlines this year? Go through your 10-point checklist with Durgesh in 15 minutes, in your time zone.Book a 15-min call
 PAN showing “inoperative” although you are an NRI? How to make it operative and get your refund.
+Paid tax abroad on FY 2025-26 income? File Form 67 by 31 March 2027 to claim the credit.
 
 ## Mistakes we see every December
 
@@ -8167,6 +8276,7 @@ Many LRS investors have both: the account was funded with taxed salary, but a fe
 
 US shares through an app or broker? Find out what to report and whether to use FAST-DS.Book a 15-min call
 Filling it as an individual (freelancer, creator or US share investor)? W-8BEN for Indian individuals.
+Paid tax abroad on FY 2025-26 income? File Form 67 by 31 March 2027 to claim the credit.
 Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
 
 - Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
@@ -11655,6 +11765,7 @@ Returned to India? We review your foreign holdings and file the cheapest correct
 Category B of FAST-DS covers a foreign asset that was acquired when you were a non-resident, or from income already taxed in India, but which was not shown in Schedule FA. The cost is a flat ₹1 lakh as long as your foreign assets total up to ₹5 crore as on 31 March 2026. For most returning NRIs, savings built up while working abroad fall here.
 
 Moved back to India with foreign assets? Check your RNOR status, reporting and FAST-DS in one call.Book a 15-min call
+Paid tax abroad on FY 2025-26 income? File Form 67 by 31 March 2027 to claim the credit.
 Updated 22 November 2026: what the Department’s new FAQs settled. The Supplementary FAQs on FAST-DS (questions 51 to 93, released on 20 November) confirm that:
 
 - Category B is one flat fee of ₹1 lakh for all your assets and all the years, as long as their total in your Form 1 is within ₹5 crore (Q82, Q83).
