@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-22. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-23. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -72,6 +72,108 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/transfer-pricing-safe-harbour-it-services-2026/
+------------------------------------------------------------------------
+Transfer pricing · Foreign companies · Nov 2026
+
+# Indian IT subsidiary of a foreign group? The 2026 safe harbour can end the margin argument
+
+Most foreign groups run their Indian software, back-office or R&D team as a subsidiary that charges the parent cost plus a margin. The margin is where transfer-pricing disputes start. From tax year 2026-27, the Income-tax Rules, 2026 offer a much simpler way out: accept one margin, 15.5%, and the tax officer does not question it for five years.
+
+By CA Durgesh Chavda·Last reviewed 23 November 2026·6 min read
+
+Check if safe harbour suits you
+hello@durgeshchavda.com
+
+Key takeaways
+- One 15.5% margin on operating costs for IT, ITeS, KPO and software R&D from tax year 2026-27.
+- Eligibility limit up from Rs 300 crore to Rs 2,000 crore; five-year block once accepted.
+- Opt in through Form No. 49; Form No. 48 replaces Form 3CEB.
+
+Quick answer: under the Income-tax Rules, 2026 (in force from 1 April 2026), an Indian company providing software development, IT-enabled services, knowledge process outsourcing or contract software R&D to its foreign group can opt for a safe harbour margin of 15.5% on operating costs. The eligibility limit rose from ₹300 crore to ₹2,000 crore, and an accepted option covers five tax years. The option is filed in Form No. 49.
+
+## What changed
+
+| Until tax year 2025-26 | From tax year 2026-27 | 
+
+Services | Separate categories with different margins | One IT services category: software development, ITeS, KPO and contract R&D relating to software | 
+
+Margin on operating costs | 17% to 24%, depending on the category and size | 15.5% | 
+
+Eligibility limit | ₹300 crore | ₹2,000 crore | 
+
+Period covered | Shorter | Five consecutive tax years | 
+
+Report | Form 3CEB | Form No. 48 replaces Form 3CEB; the safe harbour option is filed in Form No. 49 | 
+
+The final rules, notified on 20 March 2026, kept the draft’s safe harbour design. They added that the threshold is tested once, set timelines for withdrawing, and asked for more disclosure in Form No. 49. A new safe harbour for data-centre services was also introduced.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Is it right for your Indian subsidiary?
+
+- Good fit: a captive centre that works only for the group, bears little risk, and was already charging around 15% or more. Opting in removes the margin dispute for five years.
+
+- Think twice: if a benchmarking study supports a margin well below 15.5%, the safe harbour costs more tax than defending the lower margin.
+
+- Not a fit: where the Indian entity owns valuable intangibles, takes market risk, or its services fall outside the four listed types.
+
+- Remember the other side: the parent’s country must accept the cost-plus charge. A higher Indian margin means a higher deduction abroad, which the foreign tax authority may also look at.
+
+## How to opt in
+
+- Confirm the services and the size test. Commentaries describe the ₹2,000 crore limit differently: as the value of international transactions, or as operating revenue. Check it against the rule text for your facts.
+
+- Work out operating costs the way the rules define them, and set the intercompany invoice at cost plus 15.5%.
+
+- File Form No. 49. Firms we checked give different last dates for tax year 2026-27, 30 June 2027 or 30 November 2027. File well before the earlier date.
+
+- The department tells you whether the option is accepted, within two months from the end of the month of filing.
+
+- Keep filing Form No. 48 and keep the intercompany agreement current. Withdrawal is allowed, but you cannot opt back in for the rest of the five years.
+
+## Also check
+
+- GST on the same fee: since 30 March 2026, a fee for services to the foreign group can be a zero-rated export even where the work looked like an intermediary’s. See GST on intermediary services.
+
+- The FY 2025-26 position: the transfer-pricing return for FY 2025-26 is due on 30 November 2026, under the old rules.
+
+- Parent RSUs and recharges: a recharge of the parent’s share-plan cost to the Indian entity needs its own agreement and pricing.
+
+Related: transfer pricing for Indian subsidiaries of US companies · master file (Form 3CEAA) · setting up a global capability centre.
+
+## Sources
+
+- KPMG: India, transfer pricing changes in the final Income-tax Rules, 2026 (26 March 2026)
+- KPMG: India, draft rules amending the transfer pricing safe harbour regime (11 February 2026)
+- Nexdigm (Legal 500): draft Income-tax Rules 2026, safe harbour for IT services (16 February 2026)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the transfer pricing safe harbour margin for IT services in India from 2026?
+15.5% on operating costs, for a single IT services category covering software development, IT-enabled services, knowledge process outsourcing and contract R&D relating to software, under the Income-tax Rules, 2026 from tax year 2026-27.
+
+What is the threshold for the IT services safe harbour?
+It rose from Rs 300 crore to Rs 2,000 crore. Commentaries describe it differently, as the value of international transactions or as operating revenue, so check the rule text against your facts.
+
+How long does the safe harbour option last?
+Five consecutive tax years once accepted. You can withdraw, but you cannot opt back in for the rest of the five-year period.
+
+Which form is used to opt for the safe harbour?
+Form No. 49. Commentaries give different last dates for tax year 2026-27, 30 June 2027 or 30 November 2027, so it is safest to file before the earlier date.
+
+Does Form 48 replace Form 3CEB?
+Yes. Under the Income-tax Rules, 2026, Form No. 48 replaces Form 3CEB as the transfer-pricing accountant's report, from tax year 2026-27.
+
+Should every Indian IT captive opt for the safe harbour?
+Not always. It suits low-risk captives already charging around 15% or more. If a benchmarking study supports a clearly lower margin, defending that margin may cost less tax.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-pan-inoperative-how-to-fix/
@@ -2510,6 +2612,7 @@ Several Indian entities in the same group | One can file for all, after a design
 Indian parent of a group with foreign subsidiaries | Part A at least; Part B if the thresholds are met | 
 
 Indian entity of a foreign group? Check Form 3CEAA, the transfer-pricing return and your 30 November filings in 15 minutes.Book a 15-min call
+Indian IT, ITeS or software R&D subsidiary? The 2026 safe harbour: one 15.5% margin for five years.
 
 ## Dates to keep in mind
 
