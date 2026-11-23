@@ -11794,7 +11794,7 @@ FAST-DS · Employees of foreign companies
 
 If you work in India for a US or European company, you probably hold RSUs or ESPP shares in a brokerage account abroad. The tax on vesting is usually deducted through your Indian payroll, but the shares themselves often never make it into Schedule FA. FAST-DS is the cheapest way to fix that.
 
-By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 23 November 2026·5 min read
 
 Fix your RSU reporting
 hello@durgeshchavda.com
@@ -11808,6 +11808,7 @@ Key takeaways
 Holding RSUs abroad? We map every vest, sale and dividend, choose the right category and file before 31 December.WhatsApp usBook a 15-min callHow we file
 
 Before 31 December 2026: the last date for a belated or fee-free revised return, TDS refund claims and the FAST-DS window. See the 10-step NRI checklist, or book a 15-minute call with Durgesh to go through your case.
+Shares only since 2025? Schedule FA for FY 2025-26 covers foreign shares held at any time in calendar year 2025, even if they were sold before 31 March 2026. If FY 2025-26 is the only year you missed, the official FAQs (Q68) say a revised return for that year filed by 31 March 2027 is enough, and FAST-DS is not needed. Revising is free until 31 December 2026.
 
 ## Which category applies
 
@@ -11869,6 +11870,9 @@ At the higher of cost and the average of the highest and lowest quoted price on 
 
 My RSU tax was deducted by my employer. Why is there a problem?
 Because paying the tax is only half of the requirement. Residents must also report foreign assets, including shares and brokerage accounts abroad, in Schedule FA of the return. Leaving them out can attract a ₹10 lakh penalty under the Black Money Act where foreign assets other than property exceed ₹20 lakh.
+
+My ESPP or RSU shares were only bought in 2025. Do I need FAST-DS?
+Usually not. Shares held at any time in calendar year 2025 belong in Schedule FA of the FY 2025-26 return, even if sold before 31 March 2026. If that is the only year missed, the official FAST-DS FAQs (Q68) say a revised return for FY 2025-26 filed by 31 March 2027 is sufficient. Revising is free until 31 December 2026.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
