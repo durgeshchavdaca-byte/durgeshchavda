@@ -19,7 +19,7 @@
     if (h === location.hostname.replace(/^www\./, '')) return null; // internal navigation
     var map = [
       [/(^|\.)google\./, 'google'], [/bing\.com$/, 'bing'], [/duckduckgo/, 'duckduckgo'], [/yahoo\./, 'yahoo'], [/yandex/, 'yandex'], [/ecosia/, 'ecosia'],
-      [/chatgpt\.com$|openai\.com$/, 'chatgpt'], [/perplexity\.ai$/, 'perplexity'], [/gemini\.google\.com$/, 'gemini'], [/claude\.ai$/, 'claude'], [/copilot\.microsoft\.com$/, 'copilot'], [/grok\.com$|x\.ai$/, 'grok'],
+      [/chatgpt\.com$|openai\.com$/, 'chatgpt'], [/perplexity\.ai$/, 'perplexity'], [/gemini\.google\.com$/, 'gemini'], [/claude\.ai$/, 'claude'], [/copilot\.microsoft\.com$/, 'copilot'], [/grok\.com$|x\.ai$/, 'grok'], [/deepseek\.com$/, 'deepseek'], [/(^|\.)meta\.ai$/, 'meta_ai'], [/mistral\.ai$/, 'mistral'], [/(^|\.)you\.com$/, 'you'], [/phind\.com$/, 'phind'], [/search\.brave\.com$/, 'brave'],
       [/linkedin\.com$|lnkd\.in$/, 'linkedin'], [/facebook\.com$|fb\.com$/, 'facebook'], [/instagram\.com$/, 'instagram'], [/(^|\.)x\.com$|t\.co$|twitter\.com$/, 'x'], [/whatsapp/, 'whatsapp'], [/youtube\.com$/, 'youtube'], [/topmate\.io$/, 'topmate']
     ];
     for (var i = 0; i < map.length; i++) { if (map[i][0].test(h)) return map[i][1]; }
@@ -41,6 +41,7 @@
     })(window, document, 'clarity', 'script', CLARITY_ID);
     window.clarity('set', 'source', SRC);
     window.clarity('set', 'landing_page', LAND);
+    if (/^(chatgpt|perplexity|gemini|claude|copilot|grok|deepseek|meta_ai|mistral|you|phind)/.test(SRC)) window.clarity('set', 'ai_visit', SRC);
   }
 
   function kind(href) {
