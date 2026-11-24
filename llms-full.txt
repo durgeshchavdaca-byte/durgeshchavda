@@ -2136,6 +2136,7 @@ NRI in the UAE with income or property in India? Get your treaty rate, refund an
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in the UAE: Selling property in India from the UAE · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved to the UAE partway through a financial year? Read the year-you-leave rule in our moved-to-Dubai checklist before filing that year’s return.
 
 ## Residency: get this right first
 
@@ -2178,6 +2179,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Do NRIs in the UAE pay tax in India?
 Only on Indian income such as rent, NRO interest, dividends and capital gains on Indian assets. UAE salary and business income is not taxed in India while the person is non-resident, and the UAE does not tax individuals' income.
+
+Is my UAE salary taxable in India in the year I move to Dubai?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your UAE salary until 31 March is taxable in India for that year, and your UAE bank account and any foreign shares go in Schedule FA. From the first full year in which you are non-resident, UAE salary is not taxed in India.
 
 What is the TDS rate on NRO interest for UAE residents?
 About 30% by default. With a UAE tax residency certificate and Form 41, the India-UAE treaty rate of 12.5% can apply.
