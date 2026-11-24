@@ -9523,7 +9523,7 @@ Sourcing · EU rules · Definitive since 1 January 2026
 
 The EU’s carbon border adjustment mechanism (CBAM) moved from reporting to paying on 1 January 2026. Importers of Indian steel, aluminium, cement and fertilisers will buy certificates for the emissions embedded in 2026 imports from February 2027. Whether you pay on your supplier’s real emissions or on the EU’s higher default values depends on the data you get from India now.
 
-By CA Durgesh Chavda·Last reviewed 11 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
 
 Get supplier data checked
 hello@durgeshchavda.com
@@ -9534,6 +9534,8 @@ Key takeaways
 - Get verified, installation-level emissions data from each Indian producer, or pay default values.
 
 Quick answer: above 50 tonnes a year of CBAM goods you must be an authorised CBAM declarant. For 2026 imports you file the first annual declaration and surrender certificates by 30 September 2027; certificate sales start on 1 February 2027. Get installation-level, verified emissions data from each Indian producer, or default values (usually more expensive) apply.
+
+Checked 24 November 2026: the dates above are unchanged, as confirmed by the European Commission. Two points EU buyers often miss: if your imports cross 50 tonnes at any point in the year, all that year’s imports of CBAM goods fall in scope, not just the excess; and an indirect customs representative needs authorised-declarant status even when the importer it acts for is under the threshold (Bird & Bird).
 
 ## Key dates
 
