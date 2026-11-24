@@ -151,6 +151,26 @@ For your case:
 Want it confirmed for your exact dates and amounts? Send your situation to Durgesh, or book a short call.
 Send my situation on WhatsApp Book a 15-min call
 
+## The year you came back to India: are you resident?
+
+Many people with foreign shares had returned to India part-way through a year. Whether that year counts as a resident year decides whether foreign gains are taxable and whether the shares had to be in Schedule FA. Practitioners often get this wrong.
+
+- You are resident in a year if you spend 182 days or more in India, or 60 days or more in that year and 365 days or more in the previous four years.
+
+- The relaxation that replaces 60 days with 182 for someone who leaves India for employment applies only to the year of leaving.
+
+- The relaxation for an Indian citizen or person of Indian origin who comes on a visit applies to visits. Coming back for good is not a visit, so the normal 60-day test applies in the year of return.
+
+Example | Answer | 
+
+In India until April 2022, left for a job abroad on 25 April 2022, came back for good on 15 January 2025 | FY 2024-25: about 76 days in India (15 January to 31 March 2025). That is 60 days or more, and he spent far more than 365 days in India in FY 2020-21 to 2023-24. So he is resident for FY 2024-25. | 
+
+Is he “not ordinarily resident” (RNOR)? | No. RNOR needs non-residence in 9 of the previous 10 years, or 729 days or less in India in the previous 7 years. Neither applies, so he is resident and ordinarily resident. | 
+
+What follows | His foreign income for the whole of FY 2024-25 (including salary abroad from April 2024 to January 2025, and any foreign share gains) is taxable in India, with foreign tax credit through Form 67 and any relief the tax treaty gives. His foreign assets had to be in Schedule FA for that year. The time for a belated or revised FY 2024-25 return ended on 31 December 2025, so a missed foreign asset for that year is a FAST-DS case. | 
+
+More on the return year and RNOR: returning NRI tax rules and the residential status calculator.
+
 ## Other rules that decide the numbers
 
 - Long-term or short-term: foreign shares are long-term only after 24 months. Short-term gains are taxed at your slab rate.
@@ -183,6 +203,9 @@ No. The Black Money Act refers to returns filed under sections 139(1), 139(4) an
 
 What if I sold the foreign shares in FY 2025-26?
 Then file a revised return for FY 2025-26 by 31 March 2027 showing the gain and the foreign assets. The official FAST-DS FAQs say this is treated as sufficient compliance under the Black Money Act, and the gain is taxed at the normal rate.
+
+I came back to India for good part-way through the year. Am I resident for that year?
+Usually yes, if you spent 60 days or more in India that year and 365 days or more in the previous four years. The 182-day relaxation for people leaving for employment applies only to the year of leaving, and the relaxation for visits does not cover a permanent return. Whether you are also not ordinarily resident depends on the 9-of-10-years and 729-days tests.
 
 What is the penalty under the Black Money Act if I do nothing?
 According to the official FAQs, undisclosed foreign income or assets are charged 30% tax plus a 90% penalty, 120% in total, and assets taxed but not shown in Schedule FA attract a ₹10 lakh penalty for each asset. Prosecution provisions also exist for wilful cases.
