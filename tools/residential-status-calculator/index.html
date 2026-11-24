@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>NRI Days & RNOR Calculator: Residential Status 2026-27</title>
+<title>NRI Status & Days Calculator: Resident, RNOR or NRI (2026)</title>
 <meta name="description" content="Free NRI days and RNOR calculator: count your days in India and see whether you are NRI, RNOR or resident under the 182, 60 and 120-day tests."/>
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1"/>
 <link rel="canonical" href="https://www.durgeshchavda.com/tools/residential-status-calculator/"/>
@@ -11,17 +11,17 @@
 <meta property="og:type" content="website"/>
 <meta property="og:site_name" content="Durgesh Chavda"/>
 <meta property="og:locale" content="en_IN"/>
-<meta property="og:title" content="NRI Days &amp; RNOR Calculator: Residential Status 2026-27"/>
+<meta property="og:title" content="NRI Status &amp; Days Calculator: Resident, RNOR or NRI (2026)"/>
 <meta property="og:description" content="Free NRI days and RNOR calculator: count your days in India and see whether you are NRI, RNOR or resident under the 182, 60 and 120-day tests."/>
 <meta property="og:url" content="https://www.durgeshchavda.com/tools/residential-status-calculator/"/>
 <meta property="og:image" content="https://www.durgeshchavda.com/assets/og/tools-residential-status-calculator.jpg"/>
 <meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/>
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:title" content="NRI Days &amp; RNOR Calculator: Residential Status 2026-27"/>
+<meta name="twitter:title" content="NRI Status &amp; Days Calculator: Resident, RNOR or NRI (2026)"/>
 <meta name="twitter:description" content="Free NRI days and RNOR calculator: count your days in India and see whether you are NRI, RNOR or resident under the 182, 60 and 120-day tests."/>
 <meta name="twitter:image" content="https://www.durgeshchavda.com/assets/og/tools-residential-status-calculator.jpg"/>
 <link rel="alternate" type="application/rss+xml" title="Durgesh Chavda — Insights" href="https://www.durgeshchavda.com/insights/feed.xml"/>
-<!-- lastmod:2026-09-26 -->
+<!-- lastmod:2026-11-24 -->
 
 <meta name="theme-color" content="#fbfaf7"/>
 <link rel="icon" href="/favicon.svg" type="image/svg+xml"/>
@@ -245,7 +245,7 @@
 <label>Days in India this tax year<small>1 April to 31 March; count part-days as full days</small><input type="number" id="rs_a" min="0" max="366" value="90"/></label>
 <label>Days in India in the previous 4 years (total)<input type="number" id="rs_b" min="0" max="1461" value="300"/></label>
 <label>Are you an Indian citizen or person of Indian origin?<select id="rs_c"><option value="cit">Indian citizen</option><option value="pio">Person of Indian origin (OCI / PIO)</option><option value="no">Neither</option></select></label>
-<label>What best describes this year?<select id="rs_s"><option value="visit">I live abroad and visited India</option><option value="emp">I left India this year for a job abroad</option><option value="other">Other</option></select></label>
+<label>What best describes this year?<select id="rs_s"><option value="visit">I live abroad and visited India</option><option value="emp">I left India this year for a job abroad</option><option value="return">I came back to India for good this year</option><option value="other">Other</option></select></label>
 <label>Indian income this year above ₹15 lakh?<small>Excluding income from foreign sources</small><select id="rs_i"><option value="0">No</option><option value="1">Yes</option></select></label>
 <label>Are you liable to tax in another country by residence?<small>No if you live somewhere without personal income tax and aren't taxed there</small><select id="rs_t"><option value="1">Yes</option><option value="0">No</option></select></label>
 <label>Of the previous 10 years, how many were you a non-resident in India?<input type="number" id="rs_n" min="0" max="10" value="10"/></label>
@@ -260,7 +260,7 @@ var why='',res=false,via120=false;
 if(a>=182){res=true;why='You were in India for 182 days or more.'}
 else if(c==='cit'&&s==='emp'){res=false;why='For an Indian citizen leaving for employment abroad, only the 182-day test applies.'}
 else if((c==='cit'||c==='pio')&&s==='visit'){if(inc){if(a>=120&&b>=365){res=true;via120=true;why='Your Indian income exceeds ₹15 lakh, so the 60-day test becomes 120 days — and you meet it with 365+ days in the previous 4 years.'}else{why='Visiting NRIs are resident only at 182 days, or at 120 days (with 365 days in the previous 4 years) when Indian income exceeds ₹15 lakh.'}}else{why='Visiting Indian citizens and PIOs with Indian income up to ₹15 lakh are resident only if in India for 182 days or more.'}}
-else if(a>=60&&b>=365){res=true;why='You were in India 60+ days this year and 365+ days in the previous 4 years.'}
+else if(s==='return'&&a>=60&&b>=365){res=true;why='In the year you come back for good, the 182-day relaxations (for leaving for a job, or for visits) do not apply, so the 60-day test does: you were in India 60+ days this year and 365+ days in the previous 4 years.'}else if(s==='return'){why='In the year you come back for good the 60-day test applies (60+ days this year and 365+ days in the previous 4 years); you do not meet it yet.'}else if(a>=60&&b>=365){res=true;why='You were in India 60+ days this year and 365+ days in the previous 4 years.'}
 else{why='You meet neither the 182-day test nor the 60-day + 365-day test.'}
 var status,detail;
 if(!res){if(c==='cit'&&inc&&!tx){status='Deemed resident — RNOR';detail='An Indian citizen with Indian income above ₹15 lakh who isn\'t liable to tax in any other country is treated as resident but not ordinarily resident.'}else{status='Non-resident (NRI)';detail='India taxes only your Indian income.'}}
