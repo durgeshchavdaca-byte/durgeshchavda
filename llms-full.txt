@@ -4491,7 +4491,7 @@ FAST-DS · NRIs · Nov 2026
 
 The income tax department has emailed thousands of people about foreign accounts reported to India under information-exchange agreements. Many of them actually lived abroad in those years, but their returns were filed as residents, sometimes by a self-filed online form or a default setting. If that is you, the answer is usually not FAST-DS. It is proving your non-resident status and correcting the returns.
 
-By CA Durgesh Chavda·Last reviewed 22 November 2026·5 min read
+By CA Durgesh Chavda·Last reviewed 25 November 2026·5 min read
 
 Check your FAST-DS position
 hello@durgeshchavda.com
@@ -4526,6 +4526,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 - Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
+
+Check the year you moved first. If you were in India for 182 days or more in the financial year you left, you were resident for that whole year. A foreign salary account, RSUs or US shares held in that year belonged in Schedule FA, even though you were living abroad by 31 March. Check it with the residential status calculator, and see FAST-DS for NRIs abroad for what to do if that year was missed.
 
 ## Step 2: respond to the advisory
 
