@@ -22550,7 +22550,7 @@ Property guide
 
 India’s foreign-exchange rules treat foreign nationals, Overseas Citizens of India and NRIs very differently when it comes to property. Here’s the rule for each — and how money gets back out.
 
-By CA Durgesh Chavda·Last reviewed 15 October 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
 
 Ask about Indian property
 hello@durgeshchavda.com
@@ -22568,6 +22568,7 @@ NRI (Indian citizen abroad) | Yes — buy freely | No (inheritance only) |
 
 OCI cardholder | Yes — buy freely | No (inheritance only) | 
 
+Foreign national living in India (FEMA resident: here more than 182 days in the last financial year, for a job, business or an indefinite stay; not a citizen of the countries in the next rows) | Yes, per the RBI’s FAQ, paid through Indian banking channels | Get advice: state land laws apply | 
 Foreign national living outside India (not OCI) | No — only by inheritance from a person resident in India; leases up to 5 years allowed | No | 
 
 Citizen of Pakistan, Bangladesh, Sri Lanka, Afghanistan, China, Iran, Nepal or Bhutan (not OCI) | Needs prior RBI permission, wherever resident (except leases up to 5 years) | No | 
@@ -22601,6 +22602,9 @@ Have a question about your own case? Get clear answers and next steps from Durge
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
+Can a foreigner working in India buy a flat?
+Yes, if they count as resident in India under FEMA (in India more than 182 days in the previous financial year and here for a job, business or an indefinite stay), according to the RBI's FAQ on immovable property. Citizens of Pakistan, Bangladesh, Sri Lanka, Afghanistan, China, Iran, Nepal and Bhutan still need RBI permission. Payment has to go through Indian banking channels.
+
 Can a foreigner buy property in India?
 Generally no. A foreign national living outside India who is not an OCI can acquire Indian property only by inheritance from a person resident in India, though leases of up to five years are allowed. OCIs and NRIs can buy residential and commercial property.
 
