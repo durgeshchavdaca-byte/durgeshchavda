@@ -336,7 +336,7 @@ Quick answer: most NRIs who move back become RNOR (resident but not ordinarily r
 
 ## RNOR: the window that protects your foreign income
 
-After you return, you are resident in any year you spend 182 days or more in India. You are RNOR, not ordinarily resident, if either is true:
+In the year you come back for good, you are resident if you spend 182 days or more in India, or 60 days or more that year plus 365 days or more in the previous four years. The 182-day relaxation for people who leave India for a job applies only to the year of leaving, and the relaxation for visits does not cover a permanent return, so a return in January can already make that year a resident year. Once resident, you are RNOR, not ordinarily resident, if either is true:
 
 - you were a non-resident in 9 of the 10 previous years; or
 
