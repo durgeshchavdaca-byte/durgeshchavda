@@ -958,7 +958,7 @@ NRIs · Gulf · Nov 2026
 
 The Gulf countries do not tax expatriates on salary, or on interest, dividends, rent and gains from India. For an Indian working in Riyadh, Doha, Kuwait City, Muscat or Manama, the Indian tax on Indian income is the final cost, with nothing abroad to set it against. The treaty rate differs by country, and one country has no treaty at all.
 
-By CA Durgesh Chavda·Last reviewed 21 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
 
 Sort your Indian tax
 hello@durgeshchavda.com
@@ -1007,6 +1007,24 @@ Rent from Indian property | Taxed at slab rates after a 30% deduction; tenant de
 Sale of Indian property | Capital gains tax; buyer deducts TDS | Not taxed | Get a lower-TDS certificate (Form 128) before the sale | 
 
 Gulf salary and end-of-service benefits | Not taxed in India while you are non-resident | No tax on expatriate salaries | Watch your days in India and the deemed residency rule; take advice if benefits will be paid after you move back | 
+
+## Investing in India from Kuwait, Saudi, Qatar, Oman or Bahrain
+
+Option | What an NRI in the Gulf should know | 
+
+NRE fixed deposits | Funded from Gulf salary; principal and interest freely repatriable; interest exempt in India while you are an NRI | 
+
+FCNR deposits | Held in a foreign currency (for example USD), so no rupee risk; interest also exempt while you are an NRI | 
+
+NRO account | For Indian income such as rent or dividends; interest is taxable, with TDS | 
+
+Listed shares | Through an NRI demat and trading account linked to NRE (repatriable) or NRO (non-repatriable) money | 
+
+Mutual funds | Open to NRIs in the Gulf; the restrictions some fund houses apply are mainly for US and Canada residents | 
+
+Property | Residential and commercial property allowed; agricultural land, plantations and farmhouses are not | 
+
+Because the Gulf states do not tax personal income, any Indian tax deducted on NRO interest, rent or capital gains is a final cost unless you claim it back in an Indian return. Keep NRE and NRO money separate from day one: mixing them makes repatriation harder later. Moving money out again: see NRI money transfer.
 
 ## Residency: the rule that catches Gulf NRIs
 
@@ -1066,6 +1084,9 @@ No. NRE and FCNR interest is exempt in India while you are an NRI, and the Gulf 
 
 Can an Indian working in Kuwait claim the India-Kuwait treaty rate?
 The treaty treats an Indian national present in Kuwait for at least 183 days in the fiscal year as a resident of Kuwait. With a tax residency certificate and Form 41, the 10% cap on interest and dividends can be claimed.
+
+How can an NRI in Kuwait invest in India?
+Through NRE or FCNR deposits (interest exempt in India while you are an NRI), an NRO account for Indian income, listed shares via an NRI demat account, mutual funds, and residential or commercial property. Agricultural land and farmhouses cannot be bought. Indian tax deducted on NRO interest, rent or gains can be claimed back only by filing an Indian return.
 
 Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
 About the author
