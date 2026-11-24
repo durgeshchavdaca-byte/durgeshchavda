@@ -76,6 +76,103 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-vs-itr-u-updated-return/
+------------------------------------------------------------------------
+FAST-DS · ITR-U · Nov 2026
+
+# Foreign assets missed in old returns: FAST-DS or ITR-U?
+
+If foreign bank accounts, RSUs, ESPP shares or property were left out of your Indian returns, there are two ways people think of fixing it: the one-time FAST-DS scheme, or updated returns (ITR-U) for each year. They solve different problems and cost very different amounts. FAST-DS closes on 31 December 2026, so the choice has to be made now.
+
+By CA Durgesh Chavda·Last reviewed 24 November 2026·5 min read
+
+Get the right route
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS: one declaration for all foreign assets and years; flat ₹1 lakh where the money was already taxed.
+- ITR-U adds income to one year with 25% to 70% extra tax and is not part of the scheme.
+- Only FY 2025-26 missed? A revised return by 31 March 2027 is enough.
+
+Quick answer: for foreign assets held in years you were resident, FAST-DS is usually the better route: one declaration covers all assets and all years, and where the money came from income already taxed in India the cost is a flat ₹1 lakh (Category B, total up to ₹5 crore). An updated return (ITR-U) is built to add income to one year and pay more tax plus 25% to 70% extra; it cannot reduce tax or create a refund. If FY 2025-26 is the only year you missed, neither is needed: a revised return by 31 March 2027 is enough.
+
+## FAST-DS and ITR-U side by side
+
+| FAST-DS 2026 | Updated return (ITR-U) | 
+
+What it fixes | Undisclosed foreign assets and foreign income, every year at once, in one Form 1 | Income left out of one year’s return | 
+
+Cost | Category B: flat ₹1 lakh for all assets and years (taxed money, total up to ₹5 crore). Category A: 60% (untaxed income, up to ₹1 crore) | Tax and interest on the added income, plus additional tax of 25%, 50%, 60% or 70% depending on the year | 
+
+Deadline | 31 December 2026 | 48 months from the end of the assessment year (FY 2021-22 closes 31 March 2027) | 
+
+Can it reduce tax or give a refund? | No | No | 
+
+Black Money Act position | The scheme’s purpose: the declared assets are regularised | An updated return is not part of the scheme. The official FAQs say that outside the scheme the consequences are 120% (tax plus penalty) or a ₹10 lakh penalty per asset | 
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Which route fits your case
+
+Tap the row that matches you to see your answer and the next step.
+Your situation | Usual route | 
+
+Only FY 2025-26 missed | Revised return by 31 March 2027 (free until 31 December 2026). No FAST-DS needed | 
+
+Only foreign bank accounts, never above ₹20 lakh in total, funded from disclosed money | No declaration needed; report correctly from now on | 
+
+RSUs, ESPP or savings abroad bought from salary taxed in India, missed for several years | FAST-DS Category B: one flat ₹1 lakh | 
+
+Some of the money came from income never taxed in India | FAST-DS Category A (60%), if within ₹1 crore | 
+
+Indian income left out of a past year, no foreign asset involved | ITR-U for that year | 
+
+A Black Money Act assessment is already complete, or penalty proceedings have concluded for the asset | FAST-DS is not available for that asset: get advice on the proceedings | 
+
+For your case: 
+Want it confirmed for your exact dates and amounts? Send your situation to Durgesh, or book a short call.
+Send my situation on WhatsApp Book a 15-min call
+
+## Mistakes we see
+
+- Filing ITR-Us year by year for RSUs that were already taxed through payroll: it adds cost and paperwork, and the foreign-asset reporting lapse is what FAST-DS exists for.
+
+- Waiting for a notice. The scheme closes on 31 December 2026; after that, the outside-scheme consequences apply.
+
+- Valuing a bank account at its balance. Under FAST-DS a bank account is valued at the total of deposits, not the balance: see FAST-DS for foreign bank accounts.
+
+- Two Form 1s. Only one Form 1 counts; it can be refiled only until Form 2 is issued, so list everything the first time.
+
+Work out the FAST-DS amount with the FAST-DS calculator, and the ITR-U extra tax by year in the ITR-U time limit guide. Advising clients as a practitioner? We prepare FAST-DS filings for CA firms too.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs
+- Income Tax Department: Supplementary FAQs on FAST-DS (questions 51 to 93)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Should I file FAST-DS or ITR-U for undisclosed foreign assets?
+Usually FAST-DS. One declaration covers all foreign assets and all years, and where the money came from income already taxed in India the cost is a flat ₹1 lakh (Category B, total up to ₹5 crore). An updated return adds income to one year with 25% to 70% extra tax, and is not part of the scheme.
+
+Can ITR-U be used instead of FAST-DS for RSUs?
+An updated return is designed to add income to a past year. RSUs taxed through Indian payroll usually have no extra income to add; the problem is the missing foreign-asset reporting, which is what FAST-DS regularises for a flat ₹1 lakh in Category B.
+
+What if I missed foreign assets only in FY 2025-26?
+Then a revised return for that year filed by 31 March 2027 is enough, according to the official FAST-DS FAQs. It is free until 31 December 2026; FAST-DS is not needed.
+
+What happens if I do not use FAST-DS?
+According to the official FAQs, outside the scheme the consequences are tax plus penalty of 120% for undisclosed income and assets, or a ₹10 lakh penalty for each asset where only reporting was missed.
+
+What is the last date for FAST-DS and for ITR-U?
+FAST-DS declarations close on 31 December 2026. An updated return can be filed within 48 months from the end of the relevant assessment year; the window for FY 2021-22 closes on 31 March 2027.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/returning-nri-tax-rules-india/
 ------------------------------------------------------------------------
 NRIs · Moving back · Nov 2026
@@ -11435,6 +11532,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+
 ## Where to see what they have
 
 - Log in to the e-filing portal directly. Do not use the link in the email or SMS.
@@ -11858,6 +11957,7 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What we do
@@ -11987,6 +12087,8 @@ Outside the scheme | Category A: tax at 30% plus penalty at 90%. Category B: a p
 
 One figure to know about: the Supplementary FAQs index costs to 380 for FY 2025-26 (questions 78, 80 and 92), while the Cost Inflation Index notified by CBDT for FY 2025-26 is 376. The calculator uses 380, as the scheme’s own FAQs do, and shows the 376 figure next to it whenever indexation is used.
 
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+
 ## What no calculator can decide for you
 
 - Whether the money was “taxed or disclosed”. This decides between ₹1 lakh and 60%. An asset paid for even partly from untaxed income cannot go in Category B (question 70).
@@ -12087,6 +12189,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market. Work out the tax on your options with the ESOP tax calculator (India).
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 
 ## How the shares are valued
 
@@ -12271,6 +12374,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 
 ## Where it gets more expensive
 
@@ -12355,6 +12459,7 @@ Financial year (assessment year) | Extra tax if filed now | Rate rises on | Last
 
 The extra tax is a percentage of the tax and interest due on the additional income. For FY 2025-26, a belated return can still be filed until 31 December 2026, and a revised return until 31 March 2027 (with a fee of ₹1,000 or ₹5,000 after 31 December). Both are cheaper than an updated return.
 
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## How the extra tax works
@@ -21774,6 +21879,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who can use it
