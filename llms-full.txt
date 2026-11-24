@@ -76,6 +76,191 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-in-africa-indian-tax-guide/
+------------------------------------------------------------------------
+NRIs · Africa · Nov 2026
+
+# Indian living in Africa? Your Indian tax depends on the country
+
+Indians in South Africa, Kenya, Tanzania, Uganda and Mauritius can use a tax treaty to cut Indian tax on NRO interest and dividends, usually to 10%. Indians in Nigeria and Ghana cannot: India has no tax treaty with either country, so the full Indian rates apply. Here is the country-by-country picture and what to do.
+
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
+
+Get your Indian tax checked
+hello@durgeshchavda.com
+
+Key takeaways
+- NRIs in Africa pay Indian tax only on Indian income.
+- South Africa, Kenya, Tanzania, Uganda: treaty rate usually 10% with a TRC and Form 41; Mauritius 7.5% on interest.
+- Nigeria and Ghana have no tax treaty with India: full Indian rates apply.
+
+Quick answer: as an NRI anywhere in Africa you pay Indian tax only on Indian income. In South Africa, Kenya, Uganda and Tanzania, the treaty caps Indian tax on interest at 10% (Mauritius 7.5%), if you give your bank a tax residency certificate and Form 41. India has no tax treaty with Nigeria or Ghana, so NRO interest suffers the full 30% plus surcharge and cess and dividends 20% plus surcharge and cess. In every case India can tax your gains on Indian property, and in almost every case on Indian shares.
+
+## Country by country
+
+Country | Tax treaty with India | Indian tax on interest | Indian tax on dividends | Home-country tax on residents | 
+
+South Africa | Yes (1997, updated 2014) | 10% | 10% | Worldwide income, up to 45%; first R1.25 million of pay for work abroad exempt if conditions met | 
+
+Kenya | Yes (revised treaty, applies in India from April 2018) | 10% | 10% | Worldwide employment income; 10% to 35% | 
+
+Tanzania | Yes (2011) | 10% | 5% or 10%, depending on shareholding | Worldwide income, up to 30% | 
+
+Uganda | Yes (2004) | 10% | 10% | Worldwide income; top rate 40% | 
+
+Mauritius | Yes (1983, protocols since) | 7.5% | 5% or 15% | Foreign income taxed only when brought into Mauritius | 
+
+Nigeria | No treaty | 30% plus surcharge and cess (NRO) | 20% plus surcharge and cess | Worldwide income under the Nigeria Tax Act 2025; up to 25% | 
+
+Ghana | No treaty | 30% plus surcharge and cess (NRO) | 20% plus surcharge and cess | Worldwide income; up to 35% | 
+
+NRE and FCNR interest is exempt in India while you are an NRI, whichever country you live in.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Gains on Indian shares and property
+
+- All these treaties let India tax gains on property in India.
+
+- South Africa, Kenya, Tanzania and Uganda also let India tax gains on shares of Indian companies.
+
+- Mauritius: India can tax gains on Indian shares bought on or after 1 April 2017; shares bought earlier remain taxable only in Mauritius under the older rules.
+
+- When you sell Indian property, the buyer deducts TDS: see TDS on property sale by NRIs and the lower TDS certificate.
+
+## What to do
+
+- Treaty countries: get a tax residency certificate from your country’s revenue authority and file Form 41 with your Indian bank, so it deducts the treaty rate.
+
+- Nigeria and Ghana: keep savings in NRE rather than NRO where you can, and file an Indian return to claim back any excess TDS.
+
+- Claim credit in your country of residence for Indian tax on the same income, where its law allows.
+
+- If you were resident in India in any year while holding a foreign account or asset that you did not report, check FAST-DS before 31 December 2026: see FAST-DS for NRIs in Africa.
+
+## Sources
+
+- PwC Worldwide Tax Summaries: India withholding tax rates by treaty
+- PwC Worldwide Tax Summaries: India's tax treaties
+- Ghana Revenue Authority: status of Ghana's double taxation agreements (June 2023)
+- High Commission of India, Abuja: commercial brief (March 2025)
+- PwC Worldwide Tax Summaries: South Africa, income determination (foreign employment exemption)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Does India have a tax treaty with Nigeria?
+No. India and Nigeria have no comprehensive double tax avoidance agreement in force; India's High Commission described it as under negotiation in March 2025. NRIs in Nigeria pay India's domestic rates, such as 30% plus surcharge and cess on NRO interest.
+
+Does India have a tax treaty with Ghana?
+No. Ghana's own list of tax treaties does not include India, so NRIs in Ghana pay India's domestic withholding rates on Indian income.
+
+What is the India-South Africa DTAA rate on interest?
+10% on interest and 10% on dividends, if you give your Indian payer a South African tax residency certificate and Form 41.
+
+What is the India-Kenya DTAA rate on interest and dividends?
+10% on both under the revised treaty, which applies in India from April 2018, with a Kenyan tax residency certificate and Form 41.
+
+Is NRE interest taxable in India for NRIs in Africa?
+No. NRE and FCNR interest is exempt in India while you are a non-resident, in every country. It may be taxable in your country of residence if that country taxes worldwide income.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/nri-in-russia-indian-tax-guide/
+------------------------------------------------------------------------
+NRIs · Russia · Nov 2026
+
+# Indian living in Russia? What India still taxes, and at what rate
+
+Thousands of Indian students, engineers and professionals live in Russia. Once you are a non-resident in India, India only taxes your Indian income: rent, NRO interest, dividends and gains on Indian assets. The India-Russia tax treaty can cut the Indian tax on interest and dividends to 10%, but only if you claim it. Here is what applies, and the practical points about money transfers since 2022.
+
+By CA Durgesh Chavda·Last reviewed 24 November 2026·5 min read
+
+Sort out your Indian tax
+hello@durgeshchavda.com
+
+Key takeaways
+- NRIs in Russia pay Indian tax only on Indian income.
+- Treaty rate of 10% on interest and dividends needs a Russian TRC and Form 41; otherwise NRO interest suffers 30%.
+- Russia taxes its residents on worldwide income: claim credit there for Indian tax.
+
+Quick answer: as an NRI living in Russia you pay Indian tax only on Indian income. Under the India-Russia tax treaty (in force since 1998), Indian tax on dividends, interest and royalties is capped at 10% if you give your Indian bank or company a Russian tax residency certificate and Form 41. Without them, NRO interest suffers 30% plus surcharge and cess. India keeps the right to tax your gains on Indian shares and property. Russia taxes its residents on worldwide income, so you claim credit there for the Indian tax.
+
+## India-Russia treaty rates at a glance
+
+Indian income | Indian tax without the treaty | With the treaty (TRC + Form 41) | 
+
+NRO interest | 30% plus surcharge and cess | 10% | 
+
+Dividends from Indian shares | 20% plus surcharge and cess | 10% | 
+
+Royalties and fees for technical services | Domestic rates | 10% | 
+
+Gains on Indian shares or property | Taxable in India | Still taxable in India | 
+
+NRE and FCNR interest | Exempt while you are an NRI | Exempt | 
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## How Russia taxes you
+
+- You are a Russian tax resident if you spend 183 days or more in Russia in 12 consecutive months.
+
+- Russian residents are taxed on worldwide income. From 2025 the rates are progressive, from 13% up to 22% for the highest incomes; non-residents generally pay 30% on Russian income.
+
+- Indian income you earn (interest, rent, dividends, gains) is reportable in Russia; the treaty lets you credit the Indian tax against Russian tax on the same income.
+
+## Moving money between India and Russia
+
+- Since March 2022 several Russian banks have been cut off from SWIFT, and transfers involving Russia face closer checks. Expect delays and more questions from your bank.
+
+- From India, money in your NRO account can go abroad up to USD 1 million a year with the CA certificate and Form 145: see NRI money transfer. Talk to your Indian bank before a large transfer so the paperwork is ready.
+
+- Keep salary and savings from Russia in an NRE account in India: interest is tax-free in India and the money stays freely repatriable.
+
+## Checklist for Indians in Russia
+
+- Update your residential status with your Indian bank and switch savings to NRE.
+
+- Get a Russian tax residency certificate and file Form 41 so your bank applies 10%, not 30%.
+
+- File an Indian return if you have Indian income, to claim back excess TDS.
+
+- If you were resident in India in any year while holding a Russian bank account or assets that you did not report, check FAST-DS before 31 December 2026: see FAST-DS for NRIs in Russia.
+
+## Sources
+
+- PwC Worldwide Tax Summaries: India withholding tax rates by treaty
+- PwC Worldwide Tax Summaries: India's tax treaties
+- B1: Russian personal income tax reform from 2025
+- OECD: Russia tax residency rules
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What tax does an NRI in Russia pay in India?
+Only tax on Indian income such as NRO interest, rent, dividends and gains on Indian assets. Income earned in Russia is not taxed in India while you are a non-resident.
+
+What is the India-Russia DTAA rate on interest and dividends?
+10% on interest, dividends and royalties, if you give your Indian payer a Russian tax residency certificate and Form 41. Without them, NRO interest suffers 30% plus surcharge and cess.
+
+Is NRE interest taxable for an Indian living in Russia?
+Not in India while you are a non-resident. It may be reportable in Russia if you are a Russian tax resident, because Russia taxes residents on worldwide income.
+
+Can India tax my gains on Indian shares if I live in Russia?
+Yes. The India-Russia treaty leaves India the right to tax gains on shares of Indian companies and on property in India.
+
+Can I send money from India to Russia?
+Yes, through banking channels, but transfers involving Russia face closer checks since 2022 and can be slower. NRO funds can be repatriated up to USD 1 million a year with a CA certificate and Form 145.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fast-ds-capital-gains-foreign-shares-itr-u/
 ------------------------------------------------------------------------
 FAST-DS · Capital gains · Nov 2026
@@ -3048,6 +3233,7 @@ Went abroad to study? Why your student bank account counted in India, and how to
 - Income Tax Department: FAST-DS FAQs (13 August 2026)
 - TaxGuru: FAST-DS 2026 FAQs
 - Income Tax Department: e-filing portal
+Your Indian tax while living in Russia: NRIs in Russia: Indian tax and treaty rates.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -3186,6 +3372,7 @@ Also see: FAST-DS for RSUs and ESOPs.
 - Income Tax Department: FAST-DS FAQs (13 August 2026)
 - TaxGuru: FAST-DS 2026 FAQs
 - Income Tax Department: e-filing portal
+Your Indian tax while living in Africa: NRIs in Africa: Indian tax and treaty rates by country.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -12940,6 +13127,7 @@ Broadly, you are a non-resident for a year if you are in India for less than 182
 - Income-tax e-filing portal
 - Income Tax Department: Form 41 FAQs (treaty rates for non-residents)
 - Consulate General of India, Dubai: CBDT clarification on tax residency of NRIs
+Living in Russia or Africa? NRIs in Russia · NRIs in Africa (South Africa, Kenya, Nigeria, Ghana and more).
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -19888,6 +20076,7 @@ Family business in India? How an NRI can take over a parent’s business.
 Four deadlines on one day: 31 December 2026 checklist.
 Quick answers: India for NRIs and foreigners — questions answered.
 Based in the UAE? Meet us at our Business Bay office — Indian CA in Dubai.
+Living in Russia or Africa? NRIs in Russia · NRIs in Africa (South Africa, Kenya, Nigeria, Ghana and more).
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
@@ -21673,6 +21862,7 @@ Living in Canada? NRIs in Canada: Indian tax and Canadian tax.
 Holding US stocks and moving abroad? What changes for NRIs: tax, Schedule FA and W-8BEN.
 Shares and mutual funds in India? Demat and mutual funds after becoming an NRI.
 Family business in India? How an NRI can take over a parent’s business.
+Living in Russia or Africa? NRIs in Russia · NRIs in Africa (South Africa, Kenya, Nigeria, Ghana and more).
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
 
 ## Frequently asked questions
