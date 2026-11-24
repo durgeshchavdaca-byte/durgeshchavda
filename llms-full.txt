@@ -76,6 +76,123 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-capital-gains-foreign-shares-itr-u/
+------------------------------------------------------------------------
+FAST-DS · Capital gains · Nov 2026
+
+# Sold foreign shares and never reported the gain? FAST-DS 60% or ITR-U 12.5%?
+
+This is the question we hear most from people with US or other foreign shares: the gain would be taxed at only 12.5% in an updated return, but FAST-DS charges 60%. So why not just file ITR-U? Because an updated return does not count under the Black Money Act. Here is how the two really compare, in plain words, and the case where neither is the best answer.
+
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
+
+Compare your routes
+hello@durgeshchavda.com
+
+Key takeaways
+- FAST-DS charges 60% of an unreported foreign gain (Category A); shares still held from taxed salary cost a flat ₹1 lakh (Category B).
+- ITR-U at 12.5% does not count under the Black Money Act: 120% and the ₹10 lakh penalty remain possible.
+- Sold in FY 2025-26? A revised return by 31 March 2027 settles both laws at the normal rate.
+
+Quick answer: if you were resident in India when you sold foreign shares and the gain was never reported, FAST-DS treats the gain as undisclosed foreign income and charges 60% of the gain (Category A). An updated return (ITR-U) charges the normal 12.5% plus interest and 25% to 70% extra, but it does not protect you under the Black Money Act: that Act treats income as undisclosed unless it was shown in an on-time, belated or revised return, and an updated return is none of these. If the sale was in FY 2025-26, a revised return by 31 March 2027 at the normal rate settles it, under the Income-tax Act and the Black Money Act. If you still hold the shares and bought them from taxed salary, there is no gain to declare: they go in Category B for a flat ₹1 lakh.
+
+## Why FAST-DS charges 60% on the gain
+
+- FAST-DS Category A covers an undisclosed foreign asset or undisclosed foreign income, meaning foreign income that was taxable in India but not offered to tax.
+
+- A capital gain on foreign shares sold while you were resident is exactly that. The amount payable is 30% of the income declared plus an equal amount: 60%.
+
+- No foreign tax credit is allowed inside the scheme; any treaty credit belongs only in the return for that year.
+
+- Shares you still hold are different. If they were bought from salary already taxed in India (including RSUs and ESPP taxed through payroll), they are an asset “already offered to tax”: Category B, one flat ₹1 lakh for all such assets and years, if their total is within ₹5 crore. Unrealised gains are not taxed.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Why ITR-U at 12.5% is not the safe shortcut
+
+- The Black Money Act counts foreign income as undisclosed if it was not shown in a return filed on time, belated or revised (sections 139(1), 139(4) and 139(5)). An updated return is filed under section 139(8A), which is not on that list.
+
+- So after an ITR-U you have paid the Income-tax Act cost, but the gain can still be taxed under the Black Money Act at 30% plus a 90% penalty (120%), and missing the shares in Schedule FA can still attract a ₹10 lakh penalty. These are the figures the official FAQs give for outside the scheme.
+
+- An updated return also cannot be used to reduce tax, and it carries 25% to 70% additional tax on top of tax and interest, depending on how late it is.
+
+## Worked example: ₹10 lakh long-term gain on US shares
+
+Assumptions: shares bought from taxed Indian salary, held over 24 months, sold after 23 July 2024; 12.5% plus 4% cess; surcharge ignored; interest estimated.
+
+Route | Approximate cost | Black Money Act position | 
+
+Revised return (only if the sale was in FY 2025-26) | About ₹1.3 lakh plus interest (a fee of ₹1,000 or ₹5,000 if revised after 31 December 2026) | Settled: the official FAQs treat it as sufficient compliance | 
+
+ITR-U (sale in an earlier year) | Roughly ₹1.8 lakh to ₹3.3 lakh, depending on how many years late | Not settled: 120% on the gain and the Schedule FA penalty remain possible | 
+
+FAST-DS Category A (by 31 December 2026) | ₹6 lakh (60% of the gain) | Settled for what you declare | 
+
+Do nothing and get a Black Money Act assessment | ₹12 lakh (120%), plus possible ₹10 lakh Schedule FA penalty and prosecution risk | Exposure in full | 
+
+## Which route fits you
+
+Tap the row that matches you to see your answer and the next step.
+Your situation | Usual answer | 
+
+Sold in FY 2025-26 only | Revised return by 31 March 2027 at normal rates (or, if you never filed for that year, a belated return by 31 December 2026); no FAST-DS needed | 
+
+Still holding the shares, bought from taxed salary, never in Schedule FA | FAST-DS Category B: flat ₹1 lakh for all such assets and years | 
+
+Sold in an earlier year, gain never reported | Compare FAST-DS Category A (60%, settled) with ITR-U (cheaper on paper, Black Money Act exposure stays). The bigger the gain and your other foreign holdings, the stronger the case for FAST-DS | 
+
+Sale proceeds now sitting in a foreign bank account | That account is funded partly by the unreported gain, so it cannot go in Category B on its own; the income declared is reduced by the amount reinvested to avoid counting it twice. This needs a line-by-line working | 
+
+Small holdings: foreign bank accounts never above ₹20 lakh in total | The official FAQ says the ₹10 lakh Schedule FA penalty and prosecution do not apply; the gain itself still needs to be taxed | 
+
+You were non-resident in the year of sale | Foreign gains of a non-resident are not taxable in India: nothing to declare for that year | 
+
+For your case: 
+Want it confirmed for your exact dates and amounts? Send your situation to Durgesh, or book a short call.
+Send my situation on WhatsApp Book a 15-min call
+
+## Other rules that decide the numbers
+
+- Long-term or short-term: foreign shares are long-term only after 24 months. Short-term gains are taxed at your slab rate.
+
+- Old sales: long-term gains on sales before 23 July 2024 were taxed at 20% with indexation, not 12.5%.
+
+- One Form 1: both categories can go in a single Form 1, and only one counts; it can be refiled only until Form 2 is issued.
+
+- Late filing of returns: a missed return attracts a late fee of ₹1,000 or ₹5,000 and interest, separately from all of the above.
+
+Related: FAST-DS vs ITR-U · FAST-DS for RSUs and ESPP · FAST-DS calculator.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs (questions 12, 14, 17)
+- Income Tax Department: Supplementary FAQs on FAST-DS (questions 66 to 72, 87)
+- TaxGuru: FAST-DS Supplementary FAQs Q51-Q93 reproduced (21 November 2026)
+- Black Money (Undisclosed Foreign Income and Assets) and Imposition of Tax Act, 2015, section 4 (PRS India)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Is long-term capital gain on foreign shares taxed at 60% under FAST-DS?
+If the gain arose while you were resident and was never offered to tax, FAST-DS treats it as undisclosed foreign income in Category A: 30% tax plus an equal amount, so 60% of the gain. Shares you still hold, bought from taxed salary, go in Category B for a flat ₹1 lakh instead.
+
+Can I report the foreign share gain in ITR-U at 12.5% instead of FAST-DS?
+You can pay the Income-tax Act cost that way, with interest and 25% to 70% additional tax. But the Black Money Act treats income as undisclosed unless it was shown in an on-time, belated or revised return, and an updated return is none of these, so the Black Money Act exposure remains.
+
+Does ITR-U give immunity from the Black Money Act?
+No. The Black Money Act refers to returns filed under sections 139(1), 139(4) and 139(5) of the Income-tax Act. An updated return is filed under section 139(8A), which is not covered.
+
+What if I sold the foreign shares in FY 2025-26?
+Then file a revised return for FY 2025-26 by 31 March 2027 showing the gain and the foreign assets. The official FAST-DS FAQs say this is treated as sufficient compliance under the Black Money Act, and the gain is taxed at the normal rate.
+
+What is the penalty under the Black Money Act if I do nothing?
+According to the official FAQs, undisclosed foreign income or assets are charged 30% tax plus a 90% penalty, 120% in total, and assets taxed but not shown in Schedule FA attract a ₹10 lakh penalty for each asset. Prosecution provisions also exist for wilful cases.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fast-ds-vs-itr-u-updated-return/
 ------------------------------------------------------------------------
 FAST-DS · ITR-U · Nov 2026
@@ -110,6 +227,7 @@ Can it reduce tax or give a refund? | No | No |
 
 Black Money Act position | The scheme’s purpose: the declared assets are regularised | An updated return is not part of the scheme. The official FAQs say that outside the scheme the consequences are 120% (tax plus penalty) or a ₹10 lakh penalty per asset | 
 
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Which route fits your case
@@ -2145,6 +2263,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in the USA: Indian tax guide · Moving money between India and the USA · Selling property in India from the USA
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 
 ## What usually gets missed in the USA
 
@@ -8830,6 +8949,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 
 ## Three common cases
 
@@ -11958,6 +12078,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What we do
@@ -12088,6 +12209,7 @@ Outside the scheme | Category A: tax at 30% plus penalty at 90%. Category B: a p
 One figure to know about: the Supplementary FAQs index costs to 380 for FY 2025-26 (questions 78, 80 and 92), while the Cost Inflation Index notified by CBDT for FY 2025-26 is 376. The calculator uses 380, as the scheme’s own FAQs do, and shows the 376 figure next to it whenever indexation is used.
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 
 ## What no calculator can decide for you
 
@@ -12190,6 +12312,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 Run your numbers: startup equity dilution calculator · startup valuation calculator · burn rate and runway calculator.
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market. Work out the tax on your options with the ESOP tax calculator (India).
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 
 ## How the shares are valued
 
@@ -12460,6 +12583,7 @@ Financial year (assessment year) | Extra tax if filed now | Rate rises on | Last
 The extra tax is a percentage of the tax and interest due on the additional income. For FY 2025-26, a belated return can still be filed until 31 December 2026, and a revised return until 31 March 2027 (with a fee of ₹1,000 or ₹5,000 after 31 December). Both are cheaper than an updated return.
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## How the extra tax works
@@ -21880,6 +22004,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who can use it
