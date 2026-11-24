@@ -216,6 +216,7 @@ Ghana | No treaty | 30% plus surcharge and cess (NRO) | 20% plus surcharge and c
 
 NRE and FCNR interest is exempt in India while you are an NRI, whichever country you live in.
 
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Gains on Indian shares and property
@@ -250,6 +251,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Does India have a tax treaty with Nigeria?
 No. India and Nigeria have no comprehensive double tax avoidance agreement in force; India's High Commission described it as under negotiation in March 2025. NRIs in Nigeria pay India's domestic rates, such as 30% plus surcharge and cess on NRO interest.
+
+Is my salary in Africa taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your salary in Africa until 31 March is also taxable in India, with credit for tax paid there under India's tax treaty with that country where one exists (claimed with Form 67), and your foreign accounts go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 Does India have a tax treaty with Ghana?
 No. Ghana's own list of tax treaties does not include India, so NRIs in Ghana pay India's domestic withholding rates on Indian income.
@@ -303,6 +307,7 @@ Gains on Indian shares or property | Taxable in India | Still taxable in India |
 
 NRE and FCNR interest | Exempt while you are an NRI | Exempt | 
 
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## How Russia taxes you
@@ -342,6 +347,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 What tax does an NRI in Russia pay in India?
 Only tax on Indian income such as NRO interest, rent, dividends and gains on Indian assets. Income earned in Russia is not taxed in India while you are a non-resident.
+
+Is my Russian salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your Russian salary until 31 March is also taxable in India, with credit for the Russian tax paid on it (claimed with Form 67), and your Russian bank accounts go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 What is the India-Russia DTAA rate on interest and dividends?
 10% on interest, dividends and royalties, if you give your Indian payer a Russian tax residency certificate and Form 41. Without them, NRO interest suffers 30% plus surcharge and cess.
@@ -15103,6 +15111,7 @@ Rent from Indian property | Taxed; tenant may deduct TDS | Taxable; credit for I
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in Canada: Moving money between India and Canada · Selling property in India from Canada · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Form T1135: reporting Indian assets
@@ -15135,6 +15144,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Is NRE interest taxable in Canada?
 Yes. NRE interest is exempt in India while you are an NRI, but Canada taxes its residents on worldwide income, so it must be reported on your Canadian return.
+
+Is my Canadian salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your Canadian salary until 31 March is also taxable in India, with credit for the Canadian tax paid on it (claimed with Form 67), and your Canadian accounts, RRSP and TFSA go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 Do I need to file T1135 for my Indian bank accounts?
 Yes, if the total cost of your specified foreign property — including Indian bank deposits, shares, mutual funds and investment property — exceeds CAD 100,000 at any time in the year.
@@ -15184,6 +15196,7 @@ Rent from Indian property | Taxed; tenant may deduct TDS | Taxable; credit for I
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in the UK: Moving money between India and the UK · Selling property in India from the UK · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The UK’s FIG regime (from April 2025)
@@ -15222,6 +15235,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Is NRE interest taxable in the UK?
 Yes, for UK residents in general — NRE interest is exempt in India while you are an NRI, but the UK taxes residents on worldwide income. Recent arrivals may be able to claim relief under the UK's four-year foreign income and gains regime.
+
+Is my UK salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your UK salary until 31 March is also taxable in India, with credit for the UK tax paid on it (claimed with Form 67), and your UK bank accounts and pension go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 How are Indian mutual funds taxed for UK residents?
 Under the UK's offshore fund rules, gains on funds without UK reporting-fund status are generally taxed as income rather than capital gains, so check a fund's status before investing.
@@ -15274,6 +15290,7 @@ Indian shares (direct) | Capital gains tax in India | Taxable; foreign tax credi
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in the USA: Moving money between India and the USA · Selling property in India from the USA · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## US reporting of Indian accounts
@@ -15315,6 +15332,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Is NRE interest taxable in the US?
 Yes, for US residents and citizens. NRE interest is exempt in India while you are an NRI, but the US taxes worldwide income, so it must be reported on your US return.
+
+Is my US salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your US salary until 31 March is also taxable in India, with credit for the US tax paid on it (claimed with Form 67), and your US bank, brokerage and 401(k) accounts go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 Do NRIs in the US need to file FBAR for Indian accounts?
 Yes, if the combined balance of all foreign financial accounts exceeds USD 10,000 at any time in the year. FBAR (FinCEN Form 114) is due 15 April, with an automatic extension to 15 October.
