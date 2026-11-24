@@ -76,6 +76,106 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/returning-nri-tax-rules-india/
+------------------------------------------------------------------------
+NRIs · Moving back · Nov 2026
+
+# Moving back to India? Plan your first three years before you land
+
+Whether you are coming back from the US, UK, UAE, Canada, Australia or Singapore, the first years after you return decide how much of your foreign income India can tax. Get the timing right and your foreign salary, interest and gains can stay outside Indian tax for up to about three years. Get it wrong and you can owe tax and reporting from day one.
+
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
+
+Plan your move back
+hello@durgeshchavda.com
+
+Key takeaways
+- Most returning NRIs are RNOR for two to three years: foreign income stays outside Indian tax.
+- Convert NRE and NRO accounts when you return; FCNR can run to maturity.
+- From the first ordinarily resident year, report every foreign asset in Schedule FA.
+
+Quick answer: most NRIs who move back become RNOR (resident but not ordinarily resident) for their first two to three tax years. While RNOR, income earned and received outside India is generally not taxed in India, and you do not report foreign assets in Schedule FA. Once you become resident and ordinarily resident, your worldwide income is taxable and every foreign account, share and property must be reported each year. Your NRE and NRO accounts must be converted to resident accounts when you return.
+
+## RNOR: the window that protects your foreign income
+
+After you return, you are resident in any year you spend 182 days or more in India. You are RNOR, not ordinarily resident, if either is true:
+
+- you were a non-resident in 9 of the 10 previous years; or
+
+- you spent 729 days or less in India in the previous 7 years.
+
+| RNOR years | Resident and ordinarily resident | 
+
+Indian income (salary, rent, interest, gains in India) | Taxed | Taxed | 
+
+Foreign income earned and received abroad | Not taxed (unless from a business controlled or a profession set up in India) | Taxed, with credit for foreign tax | 
+
+Foreign assets in Schedule FA | Not required | Required every year | 
+
+Count your days carefully: the year you arrive matters. Use the residential status calculator or see residential status for NRIs.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Your Indian bank accounts
+
+- NRE and NRO accounts must be redesignated as resident accounts once you return for good. Tell your bank.
+
+- FCNR deposits can usually run to maturity.
+
+- Money you bring back in foreign currency can be kept in a resident foreign currency (RFC) account.
+
+## Your foreign assets
+
+- Under FEMA, assets you acquired abroad while you were non-resident (bank accounts, shares, property, pension) can generally be kept after you return.
+
+- Tax is a separate question: during RNOR years foreign income is usually outside Indian tax, but once you are ordinarily resident it is taxable, and the assets must appear in Schedule FA. Missing that is what the income-tax department's foreign-asset emails are about: see FAST-DS for returning NRIs.
+
+- Retirement accounts in notified countries (the US, UK and Canada) can be taxed in India when you withdraw, rather than every year, if you opt in.
+
+- When foreign income becomes taxable in India, claim credit for tax paid abroad with Form 67.
+
+## Checklist for the move
+
+- Work out your RNOR years before you fix the date you land.
+
+- Sell or realise foreign investments, if that is the plan, while you are still non-resident or RNOR, after checking the tax in the country you are leaving.
+
+- Convert NRE and NRO accounts; open an RFC account if needed.
+
+- Update your residential status with your bank, broker and the income-tax department.
+
+- From the first ordinarily resident year, report every foreign asset and claim foreign tax credit.
+
+Moving back from the US? See the US-specific guide (401(k), IRA, RSUs).
+
+## Sources
+
+- Income Tax Department: residential status (RNOR tests)
+- RBI: Master Directions, including deposits and accounts of non-residents and returning residents
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+How long does RNOR status last for a returning NRI?
+Usually two to three tax years. You are RNOR if you were a non-resident in 9 of the 10 previous years, or spent 729 days or less in India in the previous 7 years. Once neither applies, you become resident and ordinarily resident.
+
+Is foreign income taxable in India after I return?
+Not while you are RNOR, if it is earned and received outside India and is not from a business controlled or a profession set up in India. Once you are resident and ordinarily resident, your worldwide income is taxable in India, with credit for foreign tax paid.
+
+Do I need to report foreign assets after moving back to India?
+Not during RNOR years. From the first year you are resident and ordinarily resident, every foreign bank account, share, property and pension must be reported in Schedule FA of your return.
+
+Can I keep my foreign bank account and property after returning to India?
+Generally yes. Under FEMA, assets acquired abroad while you were non-resident can continue to be held after you return. They must be reported for tax once you are ordinarily resident.
+
+What happens to my NRE account when I return to India?
+It must be redesignated as a resident account once you return for good. FCNR deposits can usually run to maturity, and foreign currency you bring back can be kept in a resident foreign currency account.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-tax-deadlines-december-2026-march-2027/
 ------------------------------------------------------------------------
 NRIs · Deadlines · Nov 2026
@@ -125,6 +225,7 @@ Date | Deadline | Who it affects |
 31 Mar 2027 | End of FY 2026-27: your India days for residency stop counting | NRIs visiting India this year | 
 
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
+Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Before 31 December 2026
@@ -12124,6 +12225,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
+Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
+
 ## Where it gets more expensive
 
 - Income earned after you became resident and not reported, such as interest, dividends, rent or gains on those foreign assets: that is undisclosed foreign income, at 60% under Category A.
@@ -19420,6 +19523,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 
 - Investing in India — Indian startups, AIFs and GIFT City funds.
 
+Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Selling property in India
@@ -21124,6 +21228,7 @@ PAN showing “inoperative” although you are an NRI? How to make it operative 
 Renting from an NRI, or an NRI landlord? The tenant deducts about 31.2% and still needs a TAN in 2026.
 All the Indian dates for NRIs to 31 March 2027 in one table: NRI tax deadlines, December 2026 to March 2027.
 Selling inherited gold or jewellery in India? Work out the tax with the gold tax calculator.
+Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What India taxes
