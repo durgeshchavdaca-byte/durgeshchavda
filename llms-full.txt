@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-24. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-25. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -20114,7 +20114,7 @@ Hold anything abroad? FAST-DS 2026 closes on 31 December: a one-time chance to d
 
 Quick answers
 
-- Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India.
+- Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India for a year in which you are non-resident. The year you move abroad is often still a resident year: check it with the residential status calculator.
 
 - NRI tax slab 2026-27: the same slabs as residents (new regime: nil to ₹4 lakh, then 5% to 30%), but without the rebate that makes ₹12 lakh tax-free for residents.
 
@@ -21827,7 +21827,7 @@ Quick reference: NRI income tax slab 2026-27 (no ₹12 lakh rebate, refund examp
 Moved to Dubai? account-by-account checklist.
 Quick answers
 
-- Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India.
+- Do NRIs have to pay tax in India? Yes — but only on Indian income: rent from Indian property, interest on NRO deposits, dividends, and capital gains on Indian shares, funds and property. Salary earned and paid abroad, and other foreign income, is not taxed in India for a year in which you are non-resident. The year you move abroad is often still a resident year: check it with the residential status calculator.
 
 - NRI tax slab 2026-27: the same slabs as residents (new regime: nil to ₹4 lakh, then 5% to 30%), but without the rebate that makes ₹12 lakh tax-free for residents.
 
