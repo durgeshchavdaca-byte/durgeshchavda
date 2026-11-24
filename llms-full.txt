@@ -1618,6 +1618,7 @@ NRI in the Gulf with income or property in India? Get your treaty rate, refund a
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in the Gulf: Selling property in India from the Gulf
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 
 ## Income by income: what India taxes
 
@@ -1696,6 +1697,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Do NRIs in Saudi Arabia, Qatar, Kuwait, Oman or Bahrain pay tax in India?
 Only on Indian income such as rent, NRO interest, dividends and capital gains on Indian assets. Gulf salary is not taxed in India while the person is non-resident, and these countries do not tax expatriates' salaries.
+
+Is my Gulf salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your Gulf salary until 31 March is taxable in India for that year and your foreign bank accounts go in Schedule FA. From the first full year in which you are non-resident, Gulf salary is not taxed in India.
 
 What is the TDS rate on NRO interest for NRIs in Saudi Arabia, Qatar, Kuwait and Oman?
 About 30% by default. With a tax residency certificate and Form 41, the treaty cap of 10% can apply in each of these four countries.
@@ -2025,6 +2029,7 @@ NRI in Europe with income or property in India? Get your treaty rate, refund and
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in Europe: Moving money between India and Europe · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 
 ## What India taxes, and what to do
 
@@ -2085,6 +2090,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 What is the TDS rate on NRO interest for NRIs in Germany?
 About 30% by default. With a German tax residency certificate and Form 41, the India-Germany treaty rate of 10% applies. The same 10% rate applies under the treaties with the Netherlands, Ireland, France and Sweden.
+
+Is my European salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your salary in Europe until 31 March is also taxable in India, with credit for the European tax paid on it (claimed with Form 67), and your foreign accounts go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 Do NRIs in Europe pay tax in India?
 Yes, on Indian income such as rent, NRO interest, dividends and capital gains on Indian assets. European salary is not taxed in India while the person is non-resident.
@@ -2232,6 +2240,7 @@ NRI in Australia with income or property in India? Get your treaty rate, refund 
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in Australia: Moving money between India and Australia · Selling property in India from Australia · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 
 ## Residency: get this right first
 
@@ -2273,6 +2282,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Do NRIs in Australia pay tax in India?
 Yes, on Indian income such as rent, NRO interest, dividends and capital gains on Indian assets. Australian salary is not taxed in India while the person is non-resident.
+
+Is my Australian salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your Australian salary until 31 March is also taxable in India, with credit for Australian tax paid on it (claimed with Form 67), and your Australian accounts and super go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 Does Australia tax my Indian income?
 If you are a permanent resident or citizen, yes, with a foreign income tax offset for Indian tax paid. If you are a temporary resident, most foreign income such as Indian interest, rent and capital gains is generally not taxed in Australia.
@@ -2324,6 +2336,7 @@ NRI in Singapore with income or property in India? Get your treaty rate, refund 
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in Singapore: Selling property in India from Singapore · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 
 ## Residency: get this right first
 
@@ -2365,6 +2378,9 @@ Still unsure what applies to you? Tell Durgesh your situation and get clear next
 ## Frequently asked questions
 Do NRIs in Singapore pay tax in India?
 Yes, on Indian income such as rent, NRO interest, dividends and capital gains on Indian assets. Singapore salary is not taxed in India while the person is non-resident.
+
+Is my Singapore salary taxable in India in the year I move?
+It can be. If you were in India for 182 days or more in the financial year you moved, you are resident for that whole year, so your Singapore salary until 31 March is also taxable in India, with credit for Singapore tax paid on it (claimed with Form 67), and your Singapore accounts go in Schedule FA. From the first full year in which you are non-resident, it is not taxed in India.
 
 Does Singapore tax my Indian income?
 Generally no. Overseas income received in Singapore by an individual, including money deposited into a Singapore bank account, is generally not taxable, and Singapore has no capital gains tax.
