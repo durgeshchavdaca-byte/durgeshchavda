@@ -265,6 +265,7 @@
 <label>Long-term gains on listed shares and equity funds (₹)<small>12.5% above ₹1.25 lakh</small><input type="number" id="n_ltcgeq" min="0" step="1000" value="0"/></label>
 <label>Long-term gains on property, unlisted shares, gold (₹)<small>Taxed at 12.5%</small><input type="number" id="n_ltcgo" min="0" step="1000" value="0"/></label>
 <label>Short-term gains on property and other assets (₹)<small>Taxed at slab rates</small><input type="number" id="n_stcgo" min="0" step="1000" value="0"/></label>
+<label>Home-loan interest on the rented property (₹ a year)<small>Section 24(b); leave 0 if no loan</small><input type="number" id="n_hli" min="0" step="1000" value="0"/></label>
 <label>Old-regime deductions you can claim (₹)<small>80C (life cover, ELSS, home-loan principal), 80D and similar</small><input type="number" id="n_ded" min="0" step="1000" value="0"/></label>
 <label>TDS already deducted in India (₹)<small>From Form 26AS / AIS</small><input type="number" id="n_tds" min="0" step="1000" value="0"/></label>
 </div>
@@ -276,8 +277,9 @@ var NEW=[[400000,0],[800000,.05],[1200000,.10],[1600000,.15],[2000000,.20],[2400
 var OLD=[[250000,0],[500000,.05],[1000000,.20],[Infinity,.30]];
 function nriTax(p, regime){
   var sal=Math.max(0,p.sal-(p.sal>0?(regime==='new'?75000:50000):0));
-  var rent=Math.max(0,p.rent-p.mtax)*0.7;
-  var normal=sal+rent+p.oth+p.stcgo;
+  var hp=Math.max(0,p.rent-p.mtax)*0.7-(p.hli||0);
+  var rent=regime==='new'?Math.max(0,hp):Math.max(-200000,hp);
+  var normal=Math.max(0,sal+rent+p.oth+p.stcgo);
   if(regime==='old') normal=Math.max(0,normal-p.ded);
   var ltEq=Math.max(0,p.ltcgeq-125000);
   var special=p.stcgeq*0.20+ltEq*0.125+p.ltcgo*0.125;
@@ -292,9 +294,9 @@ function nriTax(p, regime){
 
 
 var $=function(i){return document.getElementById(i)};function r(n){return '₹'+Math.round(n).toLocaleString('en-IN')}
-var ids=['n_sal','n_rent','n_mtax','n_oth','n_stcgeq','n_ltcgeq','n_ltcgo','n_stcgo','n_ded','n_tds'];
+var ids=['n_sal','n_rent','n_mtax','n_oth','n_stcgeq','n_ltcgeq','n_ltcgo','n_stcgo','n_ded','n_tds','n_hli'];
 function calc(){var v=function(i){return Math.max(0,+$(i).value||0)};
-var p={sal:v('n_sal'),rent:v('n_rent'),mtax:v('n_mtax'),oth:v('n_oth'),stcgeq:v('n_stcgeq'),ltcgeq:v('n_ltcgeq'),ltcgo:v('n_ltcgo'),stcgo:v('n_stcgo'),ded:v('n_ded'),tds:v('n_tds')};
+var p={sal:v('n_sal'),rent:v('n_rent'),mtax:v('n_mtax'),oth:v('n_oth'),stcgeq:v('n_stcgeq'),ltcgeq:v('n_ltcgeq'),ltcgo:v('n_ltcgo'),stcgo:v('n_stcgo'),ded:v('n_ded'),tds:v('n_tds'),hli:v('n_hli')};
 var a=nriTax(p,'new'),b=nriTax(p,'old'),best=a.tax<=b.tax?'new':'old',w=best==='new'?a:b;
 var row=function(l,x,y){return '<tr><td>'+l+'</td><td>'+x+'</td><td>'+y+'</td></tr>'};
 var x='<h3>Your estimated Indian tax (FY 2026-27)</h3><div class="big">'+r(w.tax)+'</div><p class="note">Lower under the <b>'+(best==='new'?'new':'old')+' regime</b>.</p>'
@@ -303,7 +305,7 @@ var x='<h3>Your estimated Indian tax (FY 2026-27)</h3><div class="big">'+r(w.tax
 +row('Tax on capital gains at special rates',r(a.special),r(b.special))+row('Surcharge',r(a.sur),r(b.sur))+row('Cess (4%)',r(a.cess),r(b.cess))
 +row('<b>Total tax</b>','<b>'+r(a.tax)+'</b>','<b>'+r(b.tax)+'</b>')+'</table></div>';
 var d=w.due;x+='<div class="rows"><div><span>TDS already deducted</span><b>'+r(p.tds)+'</b></div><div><span>'+(d<0?'Refund due to you':'Tax still to pay')+'</span><b>'+r(Math.abs(d))+'</b></div></div>';
-x+='<p class="note">NRIs get no ₹12 lakh (section 87A) rebate and cannot use the basic exemption limit against capital gains taxed at special rates. Rent is taken at 70% of rent less municipal tax; salary after the standard deduction. Surcharge is estimated without marginal relief. Treaty relief and set-off of losses are not included. Estimates only.</p>';
+x+='<p class="note">NRIs get no ₹12 lakh (section 87A) rebate and cannot use the basic exemption limit against capital gains taxed at special rates. Rent is taken at 70% of rent less municipal tax, minus home-loan interest (new regime: no loss allowed; old regime: a loss is set off up to ₹2 lakh); salary after the standard deduction. Surcharge is estimated without marginal relief. Treaty relief and set-off of losses are not included. Estimates only.</p>';
 $('n_out').innerHTML=x}
 ids.forEach(function(i){$(i).addEventListener('input',calc)});calc()})();
 </script><h2 id="rules">How NRI tax is worked out</h2>
