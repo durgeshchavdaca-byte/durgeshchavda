@@ -374,8 +374,8 @@ document.querySelectorAll('form[data-enq]').forEach(function(f){function v(k){re
     function hideNudge(){ root.classList.remove('nudge'); try { sessionStorage.setItem('td-nudge', '1'); } catch (e) {} }
     function showNudge(){ if (shown || seen || root.classList.contains('open')) return; shown = true; root.classList.add('nudge'); ev('nudge_shown'); window.removeEventListener('scroll', onScroll); }
     function onScroll(){ var h = document.documentElement.scrollHeight - window.innerHeight; if (h > 400 && window.scrollY / h >= (small ? 0.6 : 0.4)) showNudge(); }
-    nudge.querySelector('.td-nx').addEventListener('click', hideNudge);
-    var links = nudge.querySelectorAll('a'); for (var i = 0; i < links.length; i++) links[i].addEventListener('click', hideNudge);
+    nudge.querySelector('.td-nx').addEventListener('click', function(){ ev('nudge_close'); hideNudge(); });
+    var links = nudge.querySelectorAll('a'); for (var i = 0; i < links.length; i++) links[i].addEventListener('click', function(){ ev((this.getAttribute('data-td') || 'nudge').replace('-', '_') + '_click'); hideNudge(); });
     btn.addEventListener('click', hideNudge);
     if (!seen) { setTimeout(showNudge, small ? 75000 : 30000); window.addEventListener('scroll', onScroll, { passive: true }); }
   }

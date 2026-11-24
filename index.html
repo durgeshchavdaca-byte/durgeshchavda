@@ -1708,7 +1708,7 @@ async function fxSendMsg(text) {
       : topic === 'nri' ? '<b>NRI with income or property in India?</b><br>Get your TDS, refund and paperwork checked in 15 minutes. Slots shown in your time zone.'
       : topic === 'biz' ? '<b>Planning business in India?</b><br>Talk to a Chartered Accountant in India for 15 minutes: entity setup, partner checks, FDI rules and tax. Slots shown in your time zone.'
       : '<b>Question about your own case?</b><br>Ask Durgesh directly: your first 10 WhatsApp messages are free, or book 15 minutes.')
-    + '<br><a href="' + INTRO + '" target="_blank" rel="noopener" data-td="nudge">Book a call →</a> &nbsp; <a href="' + WA + waText + '" target="_blank" rel="noopener" data-td="nudge-wa">WhatsApp →</a></div>'
+    + '<br><a href="' + INTRO + '" target="_blank" rel="noopener" data-td="nudge">Book a call →</a> &nbsp; <a href="' + WA + waText + '" target="_blank" rel="noopener" data-td="nudge-wa">WhatsApp →</a>' + (topic === 'fastds' && location.pathname.indexOf('/tools/fast-ds-calculator') < 0 ? ' &nbsp; <a href="/tools/fast-ds-calculator/" data-td="nudge-calc">Check in 3 min →</a>' : '') + '</div>'
     + '<button id="td-btn" type="button" aria-expanded="false" aria-controls="td-panel"><span class="dot"></span>' + (foreign ? 'Book a 15-min call' : 'Talk to Durgesh') + '</button>';
   document.body.appendChild(root);
   var btn = root.querySelector('#td-btn');
@@ -1726,8 +1726,8 @@ async function fxSendMsg(text) {
     function hideNudge(){ root.classList.remove('nudge'); try { sessionStorage.setItem('td-nudge', '1'); } catch (e) {} }
     function showNudge(){ if (shown || seen || root.classList.contains('open')) return; shown = true; root.classList.add('nudge'); ev('nudge_shown'); window.removeEventListener('scroll', onScroll); }
     function onScroll(){ var h = document.documentElement.scrollHeight - window.innerHeight; if (h > 400 && window.scrollY / h >= (small ? 0.6 : 0.4)) showNudge(); }
-    nudge.querySelector('.td-nx').addEventListener('click', hideNudge);
-    var links = nudge.querySelectorAll('a'); for (var i = 0; i < links.length; i++) links[i].addEventListener('click', hideNudge);
+    nudge.querySelector('.td-nx').addEventListener('click', function(){ ev('nudge_close'); hideNudge(); });
+    var links = nudge.querySelectorAll('a'); for (var i = 0; i < links.length; i++) links[i].addEventListener('click', function(){ ev((this.getAttribute('data-td') || 'nudge').replace('-', '_') + '_click'); hideNudge(); });
     btn.addEventListener('click', hideNudge);
     if (!seen) { setTimeout(showNudge, small ? 75000 : 30000); window.addEventListener('scroll', onScroll, { passive: true }); }
   }
