@@ -76,6 +76,106 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/fast-ds-inherited-gifted-foreign-assets/
+------------------------------------------------------------------------
+FAST-DS · Inheritance · Nov 2026
+
+# Inherited or gifted foreign assets: do you need FAST-DS?
+
+A parent abroad leaves you a flat in London, a brokerage account in the US or a bank account in Dubai. You live in India, nobody told you it had to be reported, and it never went into Schedule FA. This is one of the most common FAST-DS cases we see, and one the official FAQs don’t answer directly. The window closes on 31 December 2026.
+
+By CA Durgesh Chavda·Last reviewed 24 November 2026·5 min read
+
+Check my category
+hello@durgeshchavda.com
+
+Key takeaways
+- Held it while resident in India and never showed it in Schedule FA? FAST-DS is the fix, until 31 December 2026.
+- Valued at the donor's cost and year (Q80); the FAQs do not say which category applies.
+- Untaxed rent, dividends or interest from it are undisclosed foreign income.
+
+Short answer: if you were resident in India in a year you held the inherited or gifted asset, it had to be shown in Schedule FA, and the missed reporting is what FAST-DS fixes. The official FAQs say how to value it (the donor’s cost and year, Q80) but not which category it falls in. Income the asset earned that you never offered to tax in India (rent, dividends, interest) is undisclosed foreign income, which points to Category A for that part. Get the category checked before you file: it is the difference between a flat ₹1 lakh and 60%.
+
+## When an inherited asset needs a look
+
+- You were resident in India in any year you held it. Years when you were non-resident don’t need it: see got the FAST-DS email but you’re an NRI.
+
+- It never appeared in Schedule FA of your Indian return, or you didn’t file a return at all.
+
+- It earned income abroad (rent, dividends, interest, sale proceeds) that you didn’t show in India.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What the official FAQs do settle
+
+Question | Official position | 
+
+How is an inherited or gifted asset valued? | Using the cost to the person you got it from and the year they acquired it (Q80). For property, the value is the higher of cost and open-market value by a recognised valuer; without a valuation, indexed cost is taken. | 
+
+Small foreign bank accounts? | No declaration needed if the total balance never went above ₹20 lakh in the year and the deposits came from disclosed sources (Q67). | 
+
+Only FY 2025-26 missed? | A revised return for that year by 31 March 2027 is enough (Q68). | 
+
+Part-funded from untaxed money? | An asset funded partly from income never taxed in India goes into Category A (Q70). | 
+
+Credit for tax paid abroad? | Not available under the scheme (Q87), including inheritance or estate tax paid abroad. | 
+
+If you don’t declare? | Outside the scheme: 120% (tax plus penalty) for undisclosed income and assets, or a ₹10 lakh penalty for each asset where only reporting was missed (Q66). | 
+
+## What is not settled: the category
+
+Category B (flat ₹1 lakh for all assets and years, total up to ₹5 crore) is for assets bought from income already taxed in India or acquired while non-resident. Category A (60%, up to ₹1 crore) is for undisclosed foreign income and assets bought from it. An inheritance is neither of those in plain terms: it isn’t your income, and gifts from relatives and inheritances aren’t taxed as income in India. The FAQs don’t deal with it specifically. In practice, how it is treated depends on:
+
+- The paper trail: probate, a will or succession certificate, the estate’s transfer documents, or the gift deed.
+
+- Whether you were resident when you received it, and in which years you held it.
+
+- The income it earned after it came to you, and whether that was taxed in India.
+
+- What you did with it: money from the asset reinvested in another foreign asset carries the same question forward.
+
+## What to do before 31 December
+
+- List every foreign asset you received by inheritance or gift, with the date you received it.
+
+- Collect the donor’s purchase cost and year (Q80), and the inheritance or gift papers.
+
+- Work out your residential status for each year: residential status calculator.
+
+- Total the foreign income it earned and check what was offered to tax in India.
+
+- Run the numbers in the FAST-DS calculator, then get the category confirmed before you file Form 1. Only one Form 1 counts.
+
+Related: FAST-DS for foreign bank accounts · FAST-DS vs ITR-U · FAST-DS for returning NRIs.
+
+## Sources
+
+- Income Tax Department: FAST-DS FAQs
+- Income Tax Department: Supplementary FAQs on FAST-DS (questions 51 to 93)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do I need FAST-DS for property I inherited abroad?
+If you were resident in India in any year you held it and it was not shown in Schedule FA, yes, it needs a look before 31 December 2026. Years in which you were non-resident are not covered.
+
+Is an inherited foreign asset Category A or Category B?
+The official FAQs don't say. Category B (flat ₹1 lakh) covers assets from income already taxed in India or acquired while non-resident; Category A (60%) covers undisclosed foreign income. Untaxed income the asset earned, such as rent or dividends, points to Category A for that part. Get it checked before filing.
+
+How is an inherited foreign asset valued under FAST-DS?
+Using the cost to the person you received it from and the year they acquired it, according to the official FAQs (Q80). For property, the higher of cost and open-market value by a recognised valuer applies.
+
+Can I claim credit for inheritance tax paid abroad?
+No. The official FAQs say no foreign tax credit is available under FAST-DS.
+
+What if I inherited a small foreign bank account?
+If the total balance never went above ₹20 lakh in the year and the deposits came from disclosed sources, the official FAQs say no declaration is needed. Report it in Schedule FA from now on.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/nri-in-africa-indian-tax-guide/
 ------------------------------------------------------------------------
 NRIs · Africa · Nov 2026
@@ -2331,6 +2431,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in the UK: Indian tax guide · Moving money between India and the UK · Selling property in India from the UK
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 
 ## What usually gets missed in the UK
 
@@ -2472,6 +2573,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in the USA: Indian tax guide · Moving money between India and the USA · Selling property in India from the USA
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 
 ## What usually gets missed in the USA
 
@@ -2611,6 +2713,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in the UAE: Indian tax guide · Selling property in India from the UAE
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 
 ## What usually gets missed in the UAE and the Gulf
 
@@ -11262,6 +11365,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+
 ## What it costs
 
 - Asset bought from income already taxed in India, or while you were a non-resident, and only missing from Schedule FA: a flat ₹1 lakh (assets up to ₹5 crore).
@@ -12294,6 +12399,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What we do
@@ -12425,6 +12531,7 @@ One figure to know about: the Supplementary FAQs index costs to 380 for FY 2025-
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 
 ## What no calculator can decide for you
 
@@ -12625,6 +12732,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 
 ## Which category
 
@@ -12713,6 +12821,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 
 ## Where it gets more expensive
 
@@ -22223,6 +22332,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who can use it
