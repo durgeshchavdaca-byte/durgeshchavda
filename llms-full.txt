@@ -13411,7 +13411,7 @@ NRI · UAE · New residents
 
 Moving to the UAE for work changes your status under Indian tax and foreign exchange law, and almost every account you hold in India has to be updated. Here is the order to do it in, investment by investment.
 
-By CA Durgesh Chavda·Last reviewed 3 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
 
 Get your move sorted
 hello@durgeshchavda.com
@@ -13435,6 +13435,7 @@ Just moved? We review your residential status and every holding, then take you t
 - Count your days with the residential status calculator.
 
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
+The year you leave is the trap. If you were in India 182 days or more in the financial year you moved (for example, you left in December), you are resident for that whole year, and usually ordinarily resident. Then your UAE salary from the date you joined until 31 March is taxable in India for that year (the UAE has no personal income tax, so there is nothing to credit), and your UAE bank account and any foreign shares, including US stocks bought through Indian apps, go in Schedule FA of that year’s return. Missed it for FY 2025-26? A revised return fixes it (free until 31 December 2026). Foreign assets missed in earlier resident years need FAST-DS by 31 December 2026. The rule that UAE salary is not taxed in India applies from the first year you are non-resident.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## 2. Bank accounts (FEMA)
@@ -13469,7 +13470,7 @@ Nothing needs to be sold just because you moved. The aim is to re-paper each hol
 
 ## 4. Indian tax from now on
 
-- As a non-resident, only income earned or received in India is taxable in India: interest, rent, dividends, capital gains on Indian assets. Your UAE salary is not taxed in India.
+- As a non-resident, only income earned or received in India is taxable in India: interest, rent, dividends, capital gains on Indian assets. Once you are non-resident, your UAE salary is not taxed in India.
 
 - Banks, brokers and fund houses will deduct TDS at NRI rates, often higher than your actual tax. File an Indian return to claim refunds; see ITR for NRIs.
 
