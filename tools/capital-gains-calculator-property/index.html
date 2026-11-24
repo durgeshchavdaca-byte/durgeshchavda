@@ -260,7 +260,7 @@
 <label>Selling expenses (₹)<small>Brokerage, legal fees — optional</small><input type="number" id="cg_exp" min="0" step="1000" value="200000"/></label>
 <label>Reinvested in a new house (₹)<small>Within 1 yr before / 2 yrs after (3 yrs to build)</small><input type="number" id="cg_82" min="0" step="1000" value="0"/></label>
 <label>Invested in capital-gain bonds (₹)<small>Within 6 months; max ₹50 lakh</small><input type="number" id="cg_85" min="0" step="1000" value="0"/></label>
-<label class="full" id="cg_slabw" style="display:none">Your marginal tax rate (for short-term gains)<select id="cg_slab"><option value="30">30%</option><option value="25">25%</option><option value="20">20%</option><option value="15">15%</option><option value="10">10%</option><option value="5">5%</option></select></label>
+<label class="full" id="cg_slabw" style="display:none">Your marginal tax rate (for short-term gains; NRIs too, the buyer still deducts TDS at 30%)<select id="cg_slab"><option value="30">30%</option><option value="25">25%</option><option value="20">20%</option><option value="15">15%</option><option value="10">10%</option><option value="5">5%</option></select></label>
 </div>
 <div class="res" id="cg_out" aria-live="polite"></div>
 </form>
@@ -274,14 +274,14 @@ function calc(){var st=$('cg_st').value,house=$('cg_house').value==='1',pd=new D
 var pp=+$('cg_pp').value||0,sp=+$('cg_sp').value||0,imp=+$('cg_imp').value||0,ex=+$('cg_exp').value||0,r82=+$('cg_82').value||0,r85=Math.min(+$('cg_85').value||0,5000000);
 var o=$('cg_out');if(isNaN(pd)||isNaN(s)||s<=pd){o.innerHTML='<p>Enter valid purchase and sale dates.</p>';return}
 var m=(s.getFullYear()-pd.getFullYear())*12+(s.getMonth()-pd.getMonth())-(s.getDate()<pd.getDate()?1:0);var lt=m>24||(m===24&&s.getDate()>pd.getDate());
-$('cg_slabw').style.display=(!lt&&st==='res')?'block':'none';
+$('cg_slabw').style.display=(!lt)?'block':'none';
 var gain=sp-pp-imp-ex,rows=[],tax=0,basis='',note='';
 if(gain<=0){o.innerHTML='<h3>No capital gain</h3><p>'+(gain<0?'You have a capital loss of '+inr(-gain)+'.':'Sale price equals your cost.')+' There is no tax on the sale — but an NRI seller may still face TDS unless the buyer has a lower-TDS certificate. <a href="/insights/tds-on-property-sale-by-nri/">See how to avoid it</a>.</p>';return}
 if(lt){var ex82=house?Math.min(r82,gain,100000000):0;var ex85=Math.min(r85,Math.max(gain-ex82,0));var tg=Math.max(gain-ex82-ex85,0);var t125=tg*.125;tax=t125;basis='12.5% without indexation';
 var tb=tg;if(st==='res'&&pd<new Date('2024-07-23')){var py=Math.max(fy(pd),2001),sy=fy(s);if(CII[py]&&CII[sy]){var ig0=sp-pp*CII[sy]/CII[py]-imp-ex;var e82=house?Math.min(r82,Math.max(ig0,0),100000000):0;var e85=Math.min(r85,Math.max(ig0-e82,0));var ig=Math.max(ig0-e82-e85,0);var t20=ig*.20;rows.push(['Indexed option: 20% on '+inr(ig),inr(t20)+' base tax']);if(t20<t125){tax=t20;tb=ig;basis='20% with indexation (lower for you)'}}else{note='The indexation comparison needs the Cost Inflation Index for the year of sale, which isn\'t notified yet — ask us and we\'ll compute it.'}}
 rows.unshift(['Holding period',Math.floor(m/12)+' yrs '+(m%12)+' mths — long-term'],['Capital gain',inr(gain)],['Exemptions (new house + bonds)',inr(ex82+ex85)],['Taxable gain (12.5% route)',inr(tg)]);
 var total=tax*(1+sur(tb,true))*1.04}
-else{var rate=st==='nri'?.30:(+$('cg_slab').value)/100;tax=gain*rate;basis=(rate*100)+'% slab rate';rows.push(['Holding period',Math.floor(m/12)+' yrs '+(m%12)+' mths — short-term'],['Capital gain',inr(gain)]);var total=tax*(1+sur(gain,false))*1.04}
+else{var rate=(+$('cg_slab').value)/100;tax=gain*rate;basis=(rate*100)+'% slab rate';rows.push(['Holding period',Math.floor(m/12)+' yrs '+(m%12)+' mths — short-term'],['Capital gain',inr(gain)]);var total=tax*(1+sur(gain,false))*1.04}
 var h='<h3>Estimated tax on this sale</h3><div class="big">'+inr(total)+'</div><div class="rows">'+rows.map(function(r){return '<div><span>'+r[0]+'</span><b>'+r[1]+'</b></div>'}).join('')+'<div><span>Basis</span><b>'+basis+' + surcharge + 4% cess</b></div></div>';
 if(st==='nri'){var r=lt?.125:.30;var tdsFull=sp*r*(1+sur(sp,lt))*1.04;var locked=Math.max(tdsFull-total,0);
 h+='<h3 style="margin-top:18px">If you are an NRI seller</h3><div class="rows"><div><span>TDS if the buyer deducts on the full sale price</span><b>'+inr(tdsFull)+'</b></div><div><span>Tax you actually owe (estimate)</span><b>'+inr(total)+'</b></div><div><span>Money locked up until your refund</span><b class="hl">'+inr(locked)+'</b></div></div><p class="note">A lower-TDS certificate (Form 128), obtained before the sale, lets the buyer deduct only on your actual gain. <a href="/insights/tds-on-property-sale-by-nri/">How it works</a>.</p>'}
