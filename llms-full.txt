@@ -76,6 +76,97 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/belated-revised-return-last-date-fy-2025-26/
+------------------------------------------------------------------------
+Deadline · Income tax · Nov 2026
+
+# Missed or got your ITR wrong? 31 December and 31 March
+
+Two different fixes, two different dates. A belated return is for people who never filed their FY 2025-26 return. A revised return is for people who filed but need to correct it. From this year the revised-return window is longer, but it now has a fee after 31 December.
+
+By CA Durgesh Chavda·Last reviewed 25 November 2026·4 min read
+
+Get it filed
+hello@durgeshchavda.com
+
+Key takeaways
+- Belated return for FY 2025-26: by 31 December 2026, fee ₹5,000 (₹1,000 up to ₹5 lakh income).
+- Revised return: by 31 March 2027; free until 31 December 2026, then ₹1,000 or ₹5,000.
+- Foreign assets missed only in FY 2025-26: a revised return is enough (FAST-DS FAQ Q68).
+
+Quick answer for FY 2025-26: a belated return can be filed until 31 December 2026, with a late fee of ₹5,000 (₹1,000 if total income is up to ₹5 lakh). A revised return can be filed until 31 March 2027: free until 31 December 2026, then a fee of ₹1,000 (income up to ₹5 lakh) or ₹5,000. If you file a belated return in December, you can still revise it until 31 March.
+
+## The dates and fees
+
+| Belated return | Revised return | 
+
+Who uses it | You did not file FY 2025-26 by the due date | You filed (on time or belated) and need to correct it | 
+
+Last date | 31 December 2026 | 31 March 2027 (or earlier if assessment is completed) | 
+
+Fee | ₹5,000; ₹1,000 if total income is up to ₹5 lakh | None until 31 December 2026; then ₹1,000 (income up to ₹5 lakh) or ₹5,000 | 
+
+Interest | Interest on any tax still unpaid, for the delay | Interest on any extra tax the revision shows | 
+
+The longer revised-return window comes from the Finance Act 2026, which moved the limit from nine to twelve months after the end of the tax year. It closes a gap: until now, someone who filed a belated return in late December had no time left to correct it.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What a belated return costs you beyond the fee
+
+- Losses: business losses and capital losses for the year cannot be carried forward. A loss from house property can.
+
+- Tax regime: if you have no business income, the choice of the old regime has to be made in a return filed by the due date. A belated return is under the new regime.
+
+- Refunds come later, and interest on unpaid tax keeps running until you pay.
+
+## Which one do you need?
+
+Your situation | Use | 
+
+Never filed FY 2025-26 | Belated return by 31 December 2026 | 
+
+Filed, but missed income, a deduction, or chose the wrong form | Revised return; free if filed by 31 December 2026 | 
+
+Filed as a resident, but left out a foreign bank account, RSUs or US shares in Schedule FA, and FY 2025-26 is the only year | Revised return by 31 March 2027. The official FAST-DS FAQs (Q68) say this is enough; no FAST-DS needed | 
+
+Foreign assets missed in earlier years too | FAST-DS by 31 December 2026 | 
+
+Wrong residential status in the return (for example, the year you moved abroad or came back) | Revised return, after checking with the residential status calculator | 
+
+Missed both dates, or an older year | An updated return (ITR-U), with 25% to 70% extra tax; it cannot reduce tax or create a refund | 
+
+NRIs: most belated returns we file are to claim back excess TDS on NRO interest, rent or a property sale. See ITR for NRIs.
+
+## Sources
+
+- Business Standard: revised return deadline extended (Budget 2026)
+- Income Tax Department: fee for revised return (section 234-I)
+- Income Tax Department: Supplementary FAQs on FAST-DS (Q68)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What is the last date to file a belated return for FY 2025-26?
+31 December 2026. The late fee is ₹5,000, or ₹1,000 if total income is up to ₹5 lakh.
+
+What is the last date to file a revised return for FY 2025-26?
+31 March 2027, or earlier if the assessment is completed. It is free until 31 December 2026; after that a fee of ₹1,000 (income up to ₹5 lakh) or ₹5,000 applies, after the Finance Act 2026 change.
+
+Can I revise a belated return?
+Yes. A belated return filed by 31 December 2026 can be revised until 31 March 2027, with the fee for revisions after 31 December.
+
+Can I choose the old tax regime in a belated return?
+Not if you have no business income: that choice has to be made in a return filed by the due date, so a belated return is under the new regime.
+
+I missed my foreign assets in Schedule FA for FY 2025-26 only. Do I need FAST-DS?
+No. The official FAST-DS FAQs (Q68) say a revised return for FY 2025-26 filed by 31 March 2027 is enough. Earlier years need FAST-DS by 31 December 2026.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/fast-ds-inherited-gifted-foreign-assets/
 ------------------------------------------------------------------------
 FAST-DS · Inheritance · Nov 2026
@@ -544,6 +635,7 @@ Can it reduce tax or give a refund? | No | No |
 Black Money Act position | The scheme’s purpose: the declared assets are regularised | An updated return is not part of the scheme. The official FAQs say that outside the scheme the consequences are 120% (tax plus penalty) or a ₹10 lakh penalty per asset | 
 
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Missed the due date or need to correct your return? Belated and revised return dates for FY 2025-26.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Which route fits your case
@@ -757,6 +849,7 @@ Date | Deadline | Who it affects |
 
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
+Missed the due date or need to correct your return? Belated and revised return dates for FY 2025-26.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Before 31 December 2026
@@ -12938,6 +13031,7 @@ The extra tax is a percentage of the tax and interest due on the additional inco
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Missed the due date or need to correct your return? Belated and revised return dates for FY 2025-26.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## How the extra tax works
