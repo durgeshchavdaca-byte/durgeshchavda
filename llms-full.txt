@@ -490,6 +490,7 @@ Quick answer: if you were resident in India when you sold foreign shares and the
 
 - Shares you still hold are different. If they were bought from salary already taxed in India (including RSUs and ESPP taxed through payroll), they are an asset “already offered to tax”: Category B, one flat ₹1 lakh for all such assets and years, if their total is within ₹5 crore. Unrealised gains are not taxed.
 
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Why ITR-U at 12.5% is not the safe shortcut
@@ -2002,6 +2003,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in Canada: Indian tax guide · Moving money between India and Canada · Selling property in India from Canada
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in Canada
 
@@ -2553,6 +2555,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in the UK: Indian tax guide · Moving money between India and the UK · Selling property in India from the UK
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in the UK
 
@@ -2695,6 +2698,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 For Indians in the USA: Indian tax guide · Moving money between India and the USA · Selling property in India from the USA
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in the USA
 
@@ -2835,6 +2839,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in the UAE: Indian tax guide · Selling property in India from the UAE
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in the UAE and the Gulf
 
@@ -2976,6 +2981,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in Australia: Indian tax guide · Moving money between India and Australia · Selling property in India from Australia
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in Australia
 
@@ -3117,6 +3123,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in Singapore: Indian tax guide · Selling property in India from Singapore
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in Singapore
 
@@ -3257,6 +3264,7 @@ Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 For Indians in Europe: Indian tax guide · Moving money between India and Europe
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in Europe
 
@@ -3397,6 +3405,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
+
 ## What usually gets missed in Russia
 
 - Russian bank accounts and cards opened as a student
@@ -3534,6 +3544,8 @@ Updated 22 November 2026: what the Department’s new FAQs settled. The Suppleme
 - Only one Form 1 counts. It can be refiled until Form 2 is issued. After that, nothing can be added (Q84).
 Work out your amount by these rules
 Not sure which of these applies to you? Ask Durgesh on WhatsApp.
+
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What usually gets missed in Africa
 
@@ -9386,6 +9398,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## Three common cases
 
@@ -12655,6 +12668,7 @@ One figure to know about: the Supplementary FAQs index costs to 380 for FY 2025-
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 
 ## What no calculator can decide for you
 
