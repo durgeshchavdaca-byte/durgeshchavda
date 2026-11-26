@@ -21997,7 +21997,7 @@ Foreign vendor guide
 
 Indian customers withhold tax from many payments to foreign suppliers. These three documents are how you get your treaty rate instead of 20% — here’s what each one is and how to get it right.
 
-By CA Durgesh Chavda·Last reviewed 21 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 26 November 2026·6 min read
 
 Get your vendor pack ready
 hello@durgeshchavda.com
@@ -22054,7 +22054,9 @@ PAN | Indian tax ID: helps avoid higher withholding and is needed to file an Ind
 
 Only sign it if it’s accurate. Staff or contractors in India who conclude contracts for you, an office at your disposal, or long on-site projects can create a PE — see PE risk.
 
-## Sample no-PE declaration (format)
+## Sample no-PE declaration format (Income-tax Act 2025)
+
+Income-tax Act 2025: from 1 April 2026 the Income-tax Act, 2025 replaced the 1961 Act. The test in a no-PE declaration has not changed, because it comes from Article 5 of the tax treaty, not from the Act. For payments from April 2026, refer to the Income-tax Act, 2025 instead of the 1961 Act in the letter, and keep the rest of the format below. Need it checked against your treaty before you sign? Send it on WhatsApp.
 
 Many Indian payers have their own template; if not, a declaration on the vendor’s letterhead usually covers these points. Illustrative only — adapt it to your facts and the relevant tax treaty, and check it with your adviser.
 
@@ -22103,6 +22105,9 @@ People or agents in India? Check your permanent establishment (PE) risk.
 Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone. For foreign companies and investors.Book a 15-min call
 
 ## Frequently asked questions
+Is there a new no-PE declaration format under the Income-tax Act 2025?
+No new prescribed format. The declaration rests on Article 5 of the tax treaty, which has not changed. For payments from 1 April 2026, refer to the Income-tax Act, 2025 instead of the 1961 Act and keep the same points: tax residence with a TRC, no permanent establishment in India, income not connected with a PE, beneficial ownership, and a promise to report changes.
+
 Is Form 41 the same as Form 10F?
 Yes. Form 10F under the Income-tax Rules, 1962 became Form 41 under the Income-tax Rules, 2026, from 1 April 2026.
 
