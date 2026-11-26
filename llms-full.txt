@@ -76,6 +76,103 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/pfic-indian-mutual-funds-us-residents/
+------------------------------------------------------------------------
+Guide · NRIs in the US · Nov 2026
+
+# Indian mutual funds while living in the US: the PFIC problem
+
+An Indian mutual fund is a simple investment in India. For a US tax resident it is usually a passive foreign investment company (PFIC), with a yearly form and a tax on sale that can take most of the gain. The fix starts on the Indian side.
+
+By CA Durgesh Chavda·Last reviewed 26 November 2026·5 min read
+
+Plan your exit
+hello@durgeshchavda.com
+
+Key takeaways
+- Indian mutual funds are generally PFICs for US tax residents: Form 8621 and harsh default tax on sale.
+- Indian shares held directly and bank deposits are not funds.
+- On redemption in India the fund house deducts TDS; the Indian tax can usually be credited in the US.
+
+Quick answer: if you are a US tax resident (green card holder, US citizen, or on a work visa and meeting the US residence test), your Indian mutual funds are almost always PFICs. Each fund may need Form 8621 every year, and gains on sale are taxed under punitive default rules unless an election was made. Indian shares held directly and bank deposits are not funds and avoid this. Many people redeem or switch before or soon after becoming US resident. Take US advice on the US side; we handle the redemption, Indian tax, TDS and repatriation.
+
+## Why the US treats Indian funds as PFICs
+
+A foreign company is a PFIC if most of its income is passive or most of its assets produce passive income. Mutual funds hold shares and bonds, so an Indian fund meets the test almost by design. It does not matter that the fund is regulated by SEBI or that you bought it before moving.
+
+Indian holding | PFIC for a US resident? | 
+
+Equity, debt, hybrid and index mutual funds; ETFs | Generally yes | 
+
+Shares of Indian companies held directly in a demat account | Generally no (unless the company itself is mainly passive) | 
+
+NRE, NRO and FCNR deposits | No; interest is taxed as ordinary income in the US | 
+
+Property in India | No; it is reported and taxed under other rules | 
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What it means on the US side (summary)
+
+- Form 8621 for each fund, generally every year. Small holdings with no sales or distributions may be exempt; your US CPA will confirm.
+
+- Default rule on sale: the gain is spread over the years you held the fund and taxed at the highest ordinary rate for each year, plus an interest charge. On a long-held fund this can take most of the gain.
+
+- Elections: the qualifying electing fund route needs a yearly statement most Indian fund houses do not provide; the mark-to-market election taxes the yearly rise as ordinary income. Both need to be set up correctly and early.
+
+- Indian funds also count for FBAR and Form 8938 reporting. See NRIs in the US: Indian tax, FBAR and FATCA.
+
+## Exiting on the Indian side
+
+Step | What happens in India | 
+
+Update your status | Fund folios and the bank must show you as an NRI (with a US address and FATCA declaration); many fund houses restrict US and Canada residents | 
+
+Redeem | Equity funds: 20% short-term, 12.5% long-term on gains above ₹1.25 lakh a year. Debt funds bought from April 2023: taxed at slab rates. The fund house deducts TDS for NRIs | 
+
+Claim back extra TDS | File an Indian return; the Indian tax paid can usually be claimed as a foreign tax credit in the US, within limits | 
+
+Reinvest or move the money | Hold Indian shares directly, keep deposits, or send the money to the US from an NRO account (up to USD 1 million a year with Forms 145 and 146) | 
+
+## Before you move to the US, or soon after
+
+- List every Indian fund, folio and purchase date.
+
+- Check whether a sale in India this year would be short-term or long-term, and how much of the ₹1.25 lakh long-term exemption is left.
+
+- Decide with your US CPA: redeem now, make an election, or keep and file Form 8621.
+
+- If you redeem, time it with your residential status in India in mind. See demat and mutual funds after becoming an NRI.
+
+## Sources
+
+- IRS: About Form 8621 (PFIC information return)
+- IRS: Comparison of Form 8938 and FBAR requirements
+- IRS: Determining an individual's tax residency status
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Are Indian mutual funds PFICs for US tax?
+Generally yes. For a US tax resident, Indian mutual funds and ETFs usually meet the PFIC test because they hold passive investments. That brings Form 8621 and special tax rules on sale.
+
+Are Indian shares held directly PFICs?
+Generally no. Shares of an operating Indian company held directly in a demat account are not PFICs unless the company itself mainly holds passive assets. Many US-based NRIs switch from funds to direct shares for this reason.
+
+Should I sell my Indian mutual funds before moving to the US?
+Many people do, because gains before US residence are taxed only in India. Check the Indian tax on the sale first, and take US advice on timing and any election.
+
+Is TDS deducted when an NRI redeems Indian mutual funds?
+Yes. The fund house deducts TDS on the gain for NRIs. If more than the final tax is deducted, file an Indian return to claim it back; the Indian tax can usually be credited against US tax within limits.
+
+Do NRE and FCNR deposits have PFIC issues?
+No. Bank deposits are not funds. The interest is reported and taxed as ordinary income in the US, and the accounts count for FBAR and Form 8938.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/uk-inheritance-tax-on-property-in-india/
 ------------------------------------------------------------------------
 Guide · NRIs in the UK · Nov 2026
@@ -2918,6 +3015,7 @@ Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%:
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Living in the US with Indian mutual funds? The PFIC problem and how to exit in India.
 
 ## What usually gets missed in the USA
 
@@ -11929,6 +12027,7 @@ Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,00
 
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in the USA: Indian tax guide · Selling property in India from the USA · FAST-DS: who must file by 31 December
+Living in the US with Indian mutual funds? The PFIC problem and how to exit in India.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## USA to India: where to send it
@@ -12443,6 +12542,7 @@ Key takeaways
 
 Under FEMA, you become a non-resident as soon as you leave India for a job or to live abroad, not at the end of the tax year. Your broker, depository participant and fund houses should be told promptly. Holding shares in a resident account after your status has changed is a compliance gap, and brokers can take a week or more to process the paperwork.
 
+Living in the US with Indian mutual funds? The PFIC problem and how to exit in India.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Shares: resident demat to NRI demat
@@ -12551,6 +12651,7 @@ Yes. Under FEMA, a person resident outside India may continue to hold foreign as
 Once you are a non-resident under FEMA, the Liberalised Remittance Scheme no longer governs fresh investment. You can invest from your foreign salary directly, and no Indian TCS applies to money that never leaves an Indian bank.
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
+Living in the US with Indian mutual funds? The PFIC problem and how to exit in India.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## How the shares are taxed in India
@@ -15644,6 +15745,7 @@ For Indians in the USA: Moving money between India and the USA · Selling proper
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
 Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Living in the US with Indian mutual funds? The PFIC problem and how to exit in India.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## US reporting of Indian accounts
