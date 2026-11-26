@@ -76,6 +76,105 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/uk-inheritance-tax-on-property-in-india/
+------------------------------------------------------------------------
+Guide · NRIs in the UK · Nov 2026
+
+# Living in the UK? Your flat in India may now be in UK inheritance tax
+
+Until April 2025, many Indians in the UK kept their Indian assets outside UK inheritance tax because their domicile was India. That shield is gone. The test is now how long you have lived in the UK, and once you pass it, property and money in India count towards the 40% tax.
+
+By CA Durgesh Chavda·Last reviewed 26 November 2026·5 min read
+
+Sort out the India side
+hello@durgeshchavda.com
+
+Key takeaways
+- Since 6 April 2025, UK resident 10 of the last 20 years = long-term resident: Indian assets are in UK inheritance tax.
+- India has no inheritance tax; the heir pays capital gains only on a later sale.
+- The UK status continues 3 to 10 years after you leave.
+
+Quick answer: from 6 April 2025, if you have been UK tax resident for at least 10 of the previous 20 tax years, you are a long-term UK resident and UK inheritance tax applies to your worldwide assets, including a flat, land, fixed deposits, mutual funds and shares in India. India has had no estate duty since 1985, so there is no Indian tax to offset it. The status follows you for 3 to 10 years after you leave the UK.
+
+## Who is caught: the 10-of-20-years test
+
+Your situation | Indian assets in UK inheritance tax? | 
+
+UK resident fewer than 10 of the last 20 tax years | No; only UK assets are in scope | 
+
+UK resident 10 or more of the last 20 tax years | Yes, worldwide assets, including India | 
+
+Left the UK after being a long-term resident | Yes for a further 3 to 10 tax years, depending on how long you lived there | 
+
+Non-resident for 10 consecutive tax years | No; the test resets | 
+
+Citizenship and domicile no longer decide this. An Indian passport holder who moved to London in 2014 is likely caught; so is a British citizen of Indian origin with a family home in Pune.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What the UK counts, and what it costs
+
+- Everything in India you own outright: flats and land (your share if jointly owned), NRO and NRE deposits, mutual funds, demat shares, PPF balances and money owed to you.
+
+- The allowances: the first £325,000 of the whole estate is at 0%, plus up to £175,000 more if your main home goes to children or grandchildren. Assets left to a spouse or civil partner are generally exempt.
+
+- Above that: 40%, on the market value at death converted to pounds. A flat in Mumbai worth ₹2 crore adds around adds roughly £180,000 to the estatepound;170,000 to adds roughly £180,000 to the estatepound;180,000 to the estate at recent exchange rates.
+
+- Gifts: giving the flat to a child in India is tax-free in India, but for UK inheritance tax it only falls out of your estate if you live seven more years.
+
+## What happens on the Indian side
+
+Step | Indian tax position | 
+
+Inheriting the asset | No inheritance or estate tax; the heir pays no income tax on receiving it | 
+
+Transfer into the heir’s name | Will or succession certificate, then mutation in land records; stamp duty rules vary by state | 
+
+Selling it later | Capital gains for the heir, using the original owner’s cost and holding period. A non-resident seller faces TDS on the gross amount unless a lower-deduction certificate is obtained | 
+
+Sending the money to the UK | From an NRO account, up to USD 1 million per financial year with Forms 145 and 146 (the old 15CA and 15CB) | 
+
+## Five things to do now
+
+- Count your UK tax years. If you are at 8 or 9 of the last 20, you are close to the line.
+
+- List every Indian asset with its rough value: property, deposits, funds, shares. Executors in the UK will need values in pounds at the date of death.
+
+- Make sure there is a will that works in India for Indian property, so heirs avoid a long succession process.
+
+- Decide whether to keep, gift or sell Indian property while alive. Selling in India has its own tax and TDS; gifting starts the UK seven-year clock.
+
+- Talk to a UK adviser on the UK side. We handle the Indian side: valuations, title papers, sale, TDS, and getting the money out. See selling property in India from the UK.
+
+## Sources
+
+- GOV.UK: Inheritance Tax if you're a long-term UK resident
+- HMRC Inheritance Tax Manual IHTM47020: long-term UK residence test
+- GOV.UK: Inheritance Tax thresholds and allowances
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do I pay UK inheritance tax on property in India?
+Yes, if you are a long-term UK resident: UK tax resident for at least 10 of the previous 20 tax years. Since 6 April 2025 that test, not domicile, brings your worldwide assets, including Indian property, into UK inheritance tax.
+
+Does India have inheritance tax?
+No. India abolished estate duty in 1985, and an heir pays no income tax on receiving an inheritance. Tax arises only when the heir later sells the asset or earns income from it.
+
+I leave the UK and move back to India. When do my Indian assets fall out of UK inheritance tax?
+Not immediately. A long-term UK resident stays in scope for 3 to 10 tax years after leaving, depending on how many years they were UK resident. After 10 consecutive non-resident years the test resets.
+
+Can I gift my flat in India to my children to avoid UK inheritance tax?
+A gift to a relative is tax-free in India, but for UK inheritance tax it leaves your estate only if you survive seven years after the gift. Get UK advice before you transfer.
+
+How does an heir abroad get the sale money out of India?
+From an NRO account, up to USD 1 million per financial year, with Forms 145 and 146 (the old Forms 15CA and 15CB) and proof of inheritance.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/accounting-for-us-company-with-indian-subsidiary/
 ------------------------------------------------------------------------
 Guide · Foreign parent companies · Nov 2026
@@ -2674,6 +2773,7 @@ For Indians in the UK: Indian tax guide · Moving money between India and the UK
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Lived in the UK 10 of the last 20 years? Your Indian property is now in UK inheritance tax.
 
 ## What usually gets missed in the UK
 
@@ -9334,6 +9434,7 @@ Selling property in India from the UK? Get the Indian TDS and UK tax position fo
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 Not an Indian citizen? See whether foreigners, NRIs and OCI cardholders can buy property in India.
 For Indians in the UK: Indian tax guide · Moving money between India and the UK · FAST-DS: who must file by 31 December
+Lived in the UK 10 of the last 20 years? Your Indian property is now in UK inheritance tax.
 
 ## The UK side
 
@@ -11388,6 +11489,7 @@ Dealing with this from abroad? We coordinate the claims, the tax and the transfe
 
 - Send it abroad: up to US$1 million per financial year from NRO balances, sale proceeds and inherited assets, with Form 145, a CA certificate in Form 146 and the inheritance documents. Larger amounts can be spread over years or approved by the RBI.
 
+Lived in the UK 10 of the last 20 years? Your Indian property is now in UK inheritance tax.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What your country expects
@@ -11725,6 +11827,7 @@ Gift from your parents in India | Yes, they send it under LRS | Up to USD 250,00
 Moving money from India to the UK? Get the forms, limits and UK tax position for your case.Book a 15-min call
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 For Indians in the UK: Indian tax guide · Selling property in India from the UK · FAST-DS: who must file by 31 December
+Lived in the UK 10 of the last 20 years? Your Indian property is now in UK inheritance tax.
 
 ## UK to India: where to send it
 Send it to | Best for | Indian tax | 
@@ -15445,6 +15548,7 @@ What will India tax you on rent, NRO interest or gains? See the NRI income tax s
 For Indians in the UK: Moving money between India and the UK · Selling property in India from the UK · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
 Moved abroad partway through a financial year? Check that year with the residential status calculator: you may still be resident for it.
+Lived in the UK 10 of the last 20 years? Your Indian property is now in UK inheritance tax.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The UK’s FIG regime (from April 2025)
