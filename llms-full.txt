@@ -1,6 +1,6 @@
 # Durgesh Chavda — Chartered Accountant & Virtual CFO (full text of key pages)
 
-Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-26. Summary: https://www.durgeshchavda.com/llms.txt
+Source: https://www.durgeshchavda.com. Plain-text copies of the main service pages and guides, for AI assistants and search engines. Generated 2026-11-27. Summary: https://www.durgeshchavda.com/llms.txt
 
 
 ------------------------------------------------------------------------
@@ -74,6 +74,105 @@ On this page
 - FAQ
 
 Ask Durgesh
+
+------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/dubai-property-fast-ds-income-tax-nudge/
+------------------------------------------------------------------------
+FAST-DS · UAE property · Nov 2026
+
+# Own a flat in Dubai? India is asking about it
+
+Indians are among the largest buyers of property in Dubai, and many bought while living in India. The Income Tax Department has started nudging owners to check whether the property is in their returns. Here is what a nudge means, what you should have reported, and how FAST-DS can close it before 31 December.
+
+By CA Durgesh Chavda·Last reviewed 26 November 2026·5 min read
+
+Check your Dubai property
+hello@durgeshchavda.com
+
+Key takeaways
+- Indian residents must show UAE property in Schedule FA every year; rent is taxable in India.
+- FAST-DS until 31 December 2026: flat ₹1 lakh (taxed money or bought while non-resident) or 60% (undisclosed income).
+- The ₹20 lakh small-asset relief does not cover property.
+
+Quick answer: if you were resident in India when you owned UAE property, it had to be shown in Schedule FA of every return, and any rent is taxable in India. If it was left out, FAST-DS (open until 31 December 2026) lets you declare it: a flat ₹1 lakh if it was bought with money already taxed in India or while you were non-resident, or 60% of its value if bought from undisclosed income. The ₹20 lakh relief from the ₹10 lakh penalty does not cover property. WhatsApp us your purchase year, how it was paid for and your residency since.
+
+## The nudge: what it is and isn’t
+
+- Gulf News reported in late October 2026, citing Finance Ministry sources, that the department has nudged selected taxpayers who bought residential or commercial property in the UAE.
+
+- A nudge is a prompt to check your returns, not a tax demand and not proof that the money was undisclosed.
+
+- The same report says a new facility on the e-filing portal shows foreign information received about you under CRS and FATCA for 2022 to 2024. Check it against your own records.
+
+- Take-up has been slow: about 1,100 FAST-DS applications by late October, according to the same unnamed sources.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## What a resident owner should have done
+
+Item | Rule for an Indian resident | 
+
+Schedule FA | Show the property in every return while resident (the schedule follows the calendar year), with cost and any income | 
+
+Rent | Taxable in India as house property income. The UAE has no personal income tax, so there is no foreign tax to credit | 
+
+Sale | Capital gains taxable in India | 
+
+Paying for it | Remittances for property abroad go under the Liberalised Remittance Scheme (up to USD 250,000 a year per person), with the bank’s forms and TCS | 
+
+## Which FAST-DS category fits
+
+How the property was paid for | Likely category | Cost | 
+
+From salary or savings already taxed in India, sent through LRS | Category B | Flat ₹1 lakh, for all omitted assets and years together | 
+
+Bought while you were non-resident (for example, while working in Dubai), and you later became resident | Category B | Flat ₹1 lakh | 
+
+From income never taxed in India, or cash sent outside the banking route | Category A | 60% of the value | 
+
+Rent received and never shown in India | Category A for that income | 60% of the rent | 
+
+For FAST-DS, property is valued using a report from a valuer in the UAE, converted to rupees at the RBI reference rate. Only one declaration counts, so the category and value need to be right first time. Background: the full FAST-DS guide and FAST-DS calculator.
+
+## What to do before 31 December
+
+- Collect the sale and purchase agreement, title deed (or off-plan contract and payment schedule), LRS remittance records and bank statements.
+
+- Check each return since you bought: was the property in Schedule FA, and was any rent shown?
+
+- If only FY 2025-26 is wrong, a revised return by 31 March 2027 is enough (official FAQ Q68). Earlier years need FAST-DS by 31 December 2026.
+
+- If the money trail is clean, Category B usually costs ₹1 lakh in total; compare that with the risk of a ₹10 lakh penalty for each year it was left out.
+
+- Already living in the UAE? Check the year you left India too: see FAST-DS for NRIs in the UAE.
+
+## Sources
+
+- Gulf News: Bought property in UAE? India's tax alert raises questions for expats (28 Oct 2026)
+- Income Tax Department: Supplementary FAQs on FAST-DS
+- RBI: Liberalised Remittance Scheme FAQs
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+I bought a flat in Dubai while living in India. Do I need to report it?
+Yes. While you are resident in India, foreign property must be shown in Schedule FA of every income-tax return, and any rent is taxable in India.
+
+I got a message from the Income Tax Department about my UAE property. Is it a notice?
+No. Reports describe these as nudges to check your disclosure, not tax demands. If the property was left out of Schedule FA, FAST-DS until 31 December 2026 is the cheapest way to correct it.
+
+How much does FAST-DS cost for Dubai property?
+A flat ₹1 lakh in Category B if it was bought with money already taxed in India or while you were non-resident. If it was bought from undisclosed income, Category A applies at 60% of its value.
+
+Does the ₹20 lakh small-asset relief cover my Dubai flat?
+No. Since 1 October 2024 the ₹10 lakh Schedule FA penalty does not apply where foreign assets other than immovable property total ₹20 lakh or less. Property is excluded from that relief.
+
+Is rent from my Dubai flat taxable in India?
+Yes, while you are resident in India. The UAE has no personal income tax, so there is no foreign tax credit; the rent is taxed in India as house property income.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
 
 ------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/pfic-indian-mutual-funds-us-residents/
@@ -2561,6 +2660,7 @@ What will India tax you on rent, NRO interest or gains? See the NRI income tax s
 For Indians in the UAE: Selling property in India from the UAE · FAST-DS: who must file by 31 December
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market.
 Moved to the UAE partway through a financial year? Read the year-you-leave rule in our moved-to-Dubai checklist before filing that year’s return.
+Own property in Dubai or the UAE? The tax nudge, Schedule FA and FAST-DS.
 
 ## Residency: get this right first
 
@@ -3158,6 +3258,7 @@ For Indians in the UAE: Indian tax guide · Selling property in India from the U
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
 Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Own property in Dubai or the UAE? The tax nudge, Schedule FA and FAST-DS.
 
 ## What usually gets missed in the UAE and the Gulf
 
@@ -12443,6 +12544,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Own property in Dubai or the UAE? The tax nudge, Schedule FA and FAST-DS.
 
 ## Where to see what they have
 
@@ -12872,6 +12974,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+Own property in Dubai or the UAE? The tax nudge, Schedule FA and FAST-DS.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What we do
@@ -13914,6 +14017,7 @@ Just moved? We review your residential status and every holding, then take you t
 What will India tax you on rent, NRO interest or gains? See the NRI income tax slab 2026-27 and work out the figure with the NRI income tax calculator.
 The year you leave is the trap. If you were in India 182 days or more in the financial year you moved (for example, you left in December), you are resident for that whole year, and usually ordinarily resident. Then your UAE salary from the date you joined until 31 March is taxable in India for that year (the UAE has no personal income tax, so there is nothing to credit), and your UAE bank account and any foreign shares, including US stocks bought through Indian apps, go in Schedule FA of that year’s return. Missed it for FY 2025-26? A revised return fixes it (free until 31 December 2026). Foreign assets missed in earlier resident years need FAST-DS by 31 December 2026. The rule that UAE salary is not taxed in India applies from the first year you are non-resident.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Own property in Dubai or the UAE? The tax nudge, Schedule FA and FAST-DS.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## 2. Bank accounts (FEMA)
@@ -22875,6 +22979,7 @@ Investing in listed Indian shares from abroad? See how foreigners and NRIs inves
 Deciding between the scheme and updated returns? FAST-DS vs ITR-U: which to use for foreign assets.
 Sold foreign shares and the gain was never reported? FAST-DS 60% vs ITR-U 12.5%: what each really costs.
 Received the asset from a parent abroad? FAST-DS for inherited or gifted foreign assets.
+Own property in Dubai or the UAE? The tax nudge, Schedule FA and FAST-DS.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Who can use it
