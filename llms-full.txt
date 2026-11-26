@@ -76,6 +76,115 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/accounting-for-us-company-with-indian-subsidiary/
+------------------------------------------------------------------------
+Guide · Foreign parent companies · Nov 2026
+
+# US parent, Indian subsidiary: what the accounting really involves
+
+An Indian subsidiary keeps its own books under Indian rules, gets its own audit and files its own tax return, while your US team needs the same numbers in US GAAP for consolidation. Most problems we fix come from treating it like a US branch.
+
+By CA Durgesh Chavda·Last reviewed 26 November 2026·6 min read
+
+Talk about your subsidiary
+hello@durgeshchavda.com
+
+Key takeaways
+- An Indian subsidiary keeps Indian books (31 March tax year) and a US GAAP package for the parent.
+- Transfer-pricing cases: Form 3CEB by 31 October; income-tax return by 30 November 2026.
+- The US parent files Form 5471; the Indian side supplies the numbers.
+
+Due this week: if your Indian subsidiary bills you, is paid by you, or has any loan or cost recharge with the group, it is a transfer-pricing case. Its income-tax return for FY 2025-26 is due on 30 November 2026. That date was not extended; the extension to 21 November covered only other audit cases. Missing it means a belated return by 31 December with a ₹5,000 fee, interest, and the year's business loss cannot be carried forward. If Form 3CEB (due 31 October) was not filed either, there is a separate penalty of ₹1 lakh. Message us on WhatsApp today if this applies.
+
+## One set of transactions, two reporting languages
+
+| Indian statutory books | US parent reporting | 
+
+Framework | Indian GAAP (Accounting Standards), or Ind AS for larger or listed groups | US GAAP; the subsidiary is consolidated under ASC 810 | 
+
+Year end | 31 March for tax; the India books are closed monthly and rolled up to the parent's year end | Usually 31 December | 
+
+Currency | Indian rupees | Translated to US dollars for consolidation | 
+
+Audit | Statutory audit under the Companies Act, plus a tax audit and Form 3CEB | Group auditor may ask for audit procedures or a reporting package review | 
+
+Who signs | The Indian board, including at least one resident director | US management | 
+
+The practical answer is a single chart of accounts mapped both ways, a monthly close in India by the 7th to 10th, and a short reconciliation of the items that differ, such as leases, employee benefits (gratuity is an actuarial liability in India) and deferred tax.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Transfer pricing: where the money and the risk sit
+
+Most Indian subsidiaries of US companies are captive service centres: software, support, engineering or back office for the parent. They are usually paid cost plus a markup. The Indian tax officer will test that markup against comparable Indian companies, so it has to be set, invoiced and documented every year.
+
+- Intercompany agreement signed before the work starts, with the markup and cost base written down.
+
+- Regular invoices in foreign currency, and money received within the period the agreement says. Export of services under GST needs the money to come in for the zero rating to hold.
+
+- Form 3CEB by 31 October, signed by a CA, and the transfer-pricing study kept on file. Larger groups also file the master file (Form 3CEAA). See safe harbour for IT services.
+
+- Management fees and cost recharges from the US to India are among the most questioned lines in assessments. Read management fees from a foreign parent before charging them.
+
+## The yearly calendar for an Indian subsidiary
+
+When | What | 
+
+Monthly | TDS deposit by the 7th; GST returns; payroll, PF and professional tax | 
+
+15 July | Annual return on foreign liabilities and assets (FLA) to the RBI | 
+
+By 30 September | Annual general meeting, after the statutory audit | 
+
+31 October | Tax audit report and Form 3CEB | 
+
+30 November | Income-tax return (transfer-pricing cases) | 
+
+30 and 60 days after the AGM | Financial statements (AOC-4) and annual return (MGT-7) with the Registrar | 
+
+Each new share issue | Form FC-GPR within 30 days of allotment | 
+
+## What stays with your US CPA
+
+The US parent reports its Indian subsidiary on Form 5471 with its US return, and the subsidiary's income may feed into US calculations on controlled foreign corporations. Your US CPA owns those. What they need from India is a clean US GAAP trial balance, the intercompany balances agreed on both sides, Indian tax paid (for foreign tax credit) and the share capital history. We prepare that package in the format they ask for, so year-end in the US is not held up by India.
+
+## If you are setting up, or the books are behind
+
+- Not set up yet: setting up a subsidiary in India.
+
+- Consolidating an Indian company into a US group: the consolidation guide.
+
+- Worried about what the local team reports: warning signs in an Indian subsidiary.
+
+## Sources
+
+- Income Tax Department: tax calendar
+- IRS: About Form 5471
+- RBI: FLA return FAQs
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What accounting does a US company need for its Indian subsidiary?
+Indian statutory books under Indian GAAP or Ind AS with a 31 March tax year, a statutory audit, a tax audit and Form 3CEB, plus a monthly US GAAP reporting package in US dollars for the parent's consolidation.
+
+When is the income-tax return due for an Indian subsidiary of a US company?
+If it has transactions with the group, it is a transfer-pricing case and the FY 2025-26 return is due on 30 November 2026. That date was not extended.
+
+What happens if the Indian subsidiary misses the 30 November return?
+It can file a belated return by 31 December 2026 with a ₹5,000 fee and interest on unpaid tax, but the year's business loss cannot be carried forward.
+
+Does an Indian subsidiary need transfer pricing documentation?
+Yes. Any transaction with the US parent or group companies needs an arm's length price, a transfer-pricing study kept on file and Form 3CEB signed by a Chartered Accountant by 31 October.
+
+Does the US parent file anything in the US for the Indian subsidiary?
+Yes. A US parent generally files Form 5471 for a foreign subsidiary with its US return. A US CPA prepares it; the Indian side supplies the financial data.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/belated-revised-return-last-date-fy-2025-26/
 ------------------------------------------------------------------------
 Deadline · Income tax · Nov 2026
@@ -7350,6 +7459,7 @@ GST | 18% under reverse charge on services imported from the parent; between rel
 FEMA | Current account transaction; paid through the bank with the agreement and invoices; no cap | Indian subsidiary’s bank | 
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market. Funding an Indian or US group company with a loan? Read intercompany loans between India and the US.
+US parent with an Indian subsidiary? What the accounting and yearly filings involve.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The “make available” test
@@ -8532,6 +8642,7 @@ Planning an Indian subsidiary? Get the structure, timeline and cost for your cas
 Sending OTP SMS to Indian users? DLT registration for foreign companies.
 Indian team doing sales support, marketing or sourcing for a foreign group? Since 30 March 2026 those fees can be a GST-free export.
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market. Funding an Indian or US group company with a loan? Read intercompany loans between India and the US.
+US parent with an Indian subsidiary? What the accounting and yearly filings involve.
 
 ## After incorporation
 
@@ -14098,6 +14209,7 @@ For calendar-year clients, partnership and S-corporation returns are due on 15 M
 UK practice? See outsourced accounting for UK accountancy practices.
 
 Paying people in India without an entity? See paying Indian freelancers from abroad.
+US parent with an Indian subsidiary? What the accounting and yearly filings involve.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The compliance questions US firms ask first
@@ -15804,6 +15916,7 @@ Key takeaways
 One sign alone is rarely proof. Several together — especially in purchasing, cash and related parties — justify a closer look.
 
 Funding an Indian or US group company with a loan? Read intercompany loans between India and the US.
+US parent with an Indian subsidiary? What the accounting and yearly filings involve.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Quick checks head office can run
@@ -19470,6 +19583,7 @@ For calendar-year clients, partnership and S-corporation returns are due on 15 M
 UK practice? See outsourced accounting for UK accountancy practices.
 
 Paying people in India without an entity? See paying Indian freelancers from abroad.
+US parent with an Indian subsidiary? What the accounting and yearly filings involve.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The compliance questions US firms ask first
