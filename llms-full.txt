@@ -76,6 +76,86 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/missed-apr-past-years-late-submission-fee/
+------------------------------------------------------------------------
+FEMA · ODI · Due 31 December
+
+# Missed the APR for past years? It can still be fixed
+
+Many Indian founders and companies set up an overseas company, made the first ODI filing, and never filed an Annual Performance Report after that. The bank usually notices when you try to send more money or close the company. Here is how the missing years are regularised, and what changes after three years.
+
+By CA Durgesh Chavda·Last reviewed 27 November 2026·5 min read
+
+Regularise your APRs
+hello@durgeshchavda.com
+
+Key takeaways
+- A missed APR within three years of its due date: file with a late submission fee through the AD bank.
+- Older than three years: compounding with the RBI.
+- Until regularised: no further investment in or disinvestment from the overseas entity.
+
+Quick answer: an APR that was not filed on time can usually be regularised by filing it through your AD bank with a late submission fee, if it is within three years of its due date. Older delays have to be compounded with the RBI. Until the gap is closed, you generally cannot make further investment in, or disinvest from, the overseas entity. This year’s APR is due 31 December 2026, so the cleanest route is to file the missing years together with this one. WhatsApp us the entity, country and years missed.
+
+## Why it matters now
+
+- The bank blocks the next step. A pending APR usually surfaces when you try to send more money to the overseas company, take money back, or close it. Until the delay is regularised, further financial commitment and disinvestment are generally not allowed.
+
+- The window is three years. Each year’s APR has its own due date. A year that passes the three-year mark moves from a simple late fee to compounding, which takes longer and costs more.
+
+- Fundraising and due diligence on the Indian or overseas company will ask for the APR history.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## Late fee or compounding: which applies
+
+How late is each missing APR? | Route | What it involves | 
+
+Within three years of its due date | Late submission fee | File the APR through your AD bank with the fee. Under RBI’s formula the fee starts at ₹7,500 per filing; an APR has no amount, so the base applies. Confirm with your bank. LSF calculator | 
+
+More than three years | Compounding | Application to the RBI (ODI cases now go to regional offices), with the delay and the reasons; a compounding amount is set by the RBI. See FEMA compounding in 2026 | 
+
+## Steps to regularise before 31 December
+
+- List every overseas entity (including step-down subsidiaries) and each year since the first ODI filing.
+
+- Collect the accounts for each missing year. The APR is based on audited accounts, or certified accounts where the host country does not require an audit. See APR and the audit question.
+
+- Mark which years are within three years of their due date and which are older.
+
+- File the recent years with the late fee and this year’s APR by 31 December 2026; prepare a compounding application for the older years.
+
+- Keep the bank’s acknowledgement for each year: you will need it for the next remittance, a fundraise or closing the company.
+
+Closing the overseas company? Every pending APR has to be cleared first. Founders with a US company: see US company set up without Form FC.
+
+## Sources
+
+- RBI: Overseas Investment Directions under the OI Regulations, 2022
+- TaxGuru: RBI Annual Performance Report, who must file and deadline
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+What happens if I did not file the APR for previous years?
+The delay can usually be regularised by filing through your AD bank with a late submission fee, if it is within three years of the due date. Older delays need compounding with the RBI. Until regularised, further investment in or disinvestment from the overseas entity is generally not allowed.
+
+What is the late submission fee for a delayed APR?
+Under RBI's formula the late submission fee starts at ₹7,500 per filing. An APR has no amount involved, so the base applies. Your AD bank confirms the final figure.
+
+Can I file APRs for several past years together?
+Yes. Each missing year is filed separately, but they can be submitted together, ideally with the current year's APR before 31 December.
+
+What if the APR is more than three years late?
+The late fee route is no longer available for that year, so the delay has to be compounded with the RBI. ODI compounding applications now go to the RBI's regional offices.
+
+Can I close my overseas company if APRs are pending?
+Not cleanly. Pending APRs need to be filed or regularised first, as the bank will check the reporting history before processing the closure and repatriation.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/dubai-property-fast-ds-income-tax-nudge/
 ------------------------------------------------------------------------
 FAST-DS · UAE property · Nov 2026
@@ -7488,6 +7568,7 @@ Quick answer: the APR for each overseas entity is due by 31 December 2026, filed
 - Founders who formed a US, UK, Singapore or Dubai company from India, even if the money was small or paid by card.
 
 Setting up a company abroad from India? Country guides: USA · Singapore · Dubai / UAE · UK.
+Missed APRs for earlier years? How to regularise them: late fee or compounding.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What we do
@@ -7852,6 +7933,7 @@ Voluntary liquidation (IBC section 59) | Solvent company with assets, contracts 
 Share sale | The business has value to someone else (a JV partner, a competitor, management) | Sell the shares; the company continues under new owners | Sale to an Indian resident must be at or below fair value and reported in Form FC-TRS; buyer withholds tax on the parent’s capital gain | 
 
 Investing in listed Indian shares from abroad? See how foreigners and NRIs invest in the Indian stock market. Funding an Indian or US group company with a loan? Read intercompany loans between India and the US.
+Missed APRs for earlier years? How to regularise them: late fee or compounding.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Before you close: the clean-up list
@@ -9917,6 +9999,7 @@ Quick answer: an Indian resident who owns a foreign LLC has made an overseas dir
 Does your US subsidiary need an audit at all, and who can sign it? See audit of a US subsidiary of an Indian company.
 Setting up a company abroad from India? Country guides: USA · Singapore · Dubai / UAE · UK.
 US company toolkit: Delaware franchise tax calculator · certificate of good standing · what a US company costs · converting an LLC to a C-corp · closing a Delaware company.
+Missed APRs for earlier years? How to regularise them: late fee or compounding.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The fix, step by step
@@ -13579,6 +13662,7 @@ Already own a US LLC without Form FC? How to regularise it, step by step.
 
 - The office-wise jurisdiction table is in the Master Direction on Compounding of Contraventions under FEMA, 1999 (22 April 2025), which RBI is updating.
 
+Missed APRs for earlier years? How to regularise them: late fee or compounding.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Late fee or compounding?
