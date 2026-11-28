@@ -78,6 +78,105 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/indian-tax-for-nri-in-germany/
+------------------------------------------------------------------------
+NRI · Germany · Updated 28 November 2026
+
+# Living in Germany? Stop paying 30% in India on income Germany taxes anyway
+
+Indians working in Munich, Berlin, Frankfurt, Stuttgart and Hamburg often keep NRO deposits, mutual funds, shares or a flat in India. Germany taxes that income too, and gives credit for only part of the Indian tax. The rest is lost unless you reclaim it in India. Here is how both sides work.
+
+By CA Durgesh Chavda·Last reviewed 28 November 2026·6 min read
+
+Recover your Indian TDS from Germany
+hello@durgeshchavda.com
+
+Key takeaways
+- Living in Germany and in India under 182 days a year: usually non-resident, so India taxes only Indian income.
+- Treaty cap on Indian interest and dividends: 10%, and Germany credits only that 10%.
+- Indian banks deduct about 30% on NRO interest: reclaim the excess through an Indian return.
+- Indian mutual funds are taxed as foreign funds in Germany (Anlage KAP, Vorabpauschale).
+
+Quick answer: if you live in Germany and spend fewer than 182 days a year in India, you are usually a non-resident in India, so India taxes only your Indian income (NRO interest, dividends, rent, gains on Indian shares, funds and property). Germany taxes the same income because you are resident there. Under the India-Germany treaty, Indian tax on interest and dividends is capped at 10%, and Germany credits only that 10%. Indian banks usually deduct about 30% on NRO interest, so the extra 20% is lost unless you claim it back through an Indian return. Missed years: FY 2025-26 can be filed until 31 December 2026. WhatsApp what you hold in India and Durgesh will tell you what can be recovered.
+
+## What India taxes while you live in Germany
+
+Income in India | Indian tax | German side | 
+
+German salary | None, if you are non-resident in India | Taxed in Germany | 
+
+NRE account interest | Tax-free in India | Taxable in Germany as capital income | 
+
+NRO account interest | Bank deducts about 30% plus surcharge and cess; treaty cap 10% | Taxable; Indian tax credited up to 10% | 
+
+Dividends from Indian shares | Deducted at source; treaty cap 10% | Taxable; Indian tax credited up to 10% | 
+
+Indian mutual funds | Capital gains tax in India on sale; TDS for NRIs | Taxed under German investment fund rules, including the yearly advance lump sum (Vorabpauschale) | 
+
+Rent or sale of a flat in India | Taxable in India; TDS by tenant or buyer | Immovable property income is generally taxed where the property is; check the German return treatment with your Steuerberater | 
+
+To get the 10% rate up front, give your Indian bank your German tax residence certificate (Ansässigkeitsbescheinigung) and Form 10F. Otherwise, the excess comes back only through an Indian income-tax return.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## How Germany taxes your Indian income
+
+- With a home or habitual abode in Germany (in practice, more than six months), you are taxed in Germany on worldwide income, including Indian interest, dividends and fund income.
+
+- Capital income is taxed at a flat 25% plus 5.5% solidarity surcharge (and church tax if applicable), after the saver’s allowance of €1,000 (€2,000 for couples filing jointly). Foreign capital income goes in Anlage KAP of your German return.
+
+- Indian tax is credited only up to the treaty rate. Tax deducted in India above that is not a German credit: it must be reclaimed in India.
+
+- Indian mutual funds count as foreign investment funds, so expect German tax on distributions, on the yearly advance lump sum and on gains when you sell. Many Indians in Germany simplify by moving to direct shares or deposits; plan the Indian side of any sale first.
+
+A German Steuerberater files the German return; we prepare the Indian return, the TDS refund and the Indian tax documents your Steuerberater needs.
+
+## Missed Indian returns? How to catch up
+
+Year | Route | Points to know | 
+
+FY 2025-26 | Belated return | Open until 31 December 2026, with a late fee. The excess TDS can be refunded. | 
+
+FY 2021-22 to FY 2024-25 | Updated return (ITR-U) | Adds income with extra tax of 25% to 70% of the tax and interest; cannot claim a refund. See ITR-U time limits. | 
+
+Older years | No voluntary filing | Update KYC and residential status with banks and fund houses, and keep TDS certificates. | 
+
+## Moving back from Germany?
+
+In the first years after returning you may be RNOR, and income earned abroad stays outside Indian tax. Once fully resident, German accounts, shares, pension rights (including Riester or company pensions) must go in Schedule FA. Missed it in a resident year? FAST-DS closes on 31 December 2026: check the cost. See also FAST-DS for Indians in Europe and tax rules for returning NRIs.
+
+## Sources
+
+- Income Tax Department: tax rates under the Income-tax Act and tax treaties
+- Income Tax Department: withholding tax rates under DTAAs
+- German Income Tax Act (EStG), section 32d: flat tax on capital income
+- German Income Tax Act (EStG), section 20: capital income and saver's allowance
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do I pay tax in both India and Germany on NRO interest?
+Yes, but with relief. India can tax it at up to 10% under the treaty, and Germany taxes it as capital income with credit for that 10%. Indian banks usually deduct about 30%, so the difference has to be claimed back through an Indian return.
+
+What is the India-Germany DTAA rate on interest and dividends?
+Indian tax on interest and dividends paid to a resident of Germany is capped at 10% of the gross amount. Give the payer your German tax residence certificate and Form 10F, or claim the excess in your Indian return.
+
+Is NRE interest tax-free if I live in Germany?
+It is tax-free in India for a non-resident, but Germany taxes your worldwide income, so NRE interest is still declared as capital income in your German return.
+
+How are Indian mutual funds taxed in Germany?
+They are foreign investment funds under German law, so distributions, the yearly advance lump sum (Vorabpauschale) and gains on sale are taxed in Germany. India also taxes the gain on sale for a non-resident. Plan both sides before redeeming.
+
+I have not filed Indian returns since moving to Germany. What now?
+File FY 2025-26 as a belated return by 31 December 2026 to recover excess TDS. Earlier years back to FY 2021-22 can only add income through an updated return, which cannot claim refunds.
+
+Your question not answered here? Send it on WhatsApp: you get a reply within one working day.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/indian-tax-for-nri-in-japan/
 ------------------------------------------------------------------------
 NRI · Japan · Updated 28 November 2026
@@ -3933,6 +4032,7 @@ Not sure which of these applies to you? Ask Durgesh on WhatsApp.
 For Indians in Europe: Indian tax guide · Moving money between India and Europe
 Only foreign bank accounts? Small balances may need no declaration at all, and the value is the total of deposits, not the balance: FAST-DS for foreign bank accounts.
 US shares bought through Vested, INDmoney or a US broker while living in India? FAST-DS for US stocks held through Indian apps.
+Living in Germany? Indian tax for NRIs in Germany: the 10% treaty cap and TDS refunds.
 
 ## What usually gets missed in Europe
 
@@ -21368,6 +21468,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Missed income in an older year? An updated return (ITR-U) is possible up to 48 months later; the window for FY 2021-22 closes on 31 March 2027: ITR-U time limit and extra tax by year.
 Living in Japan? Indian tax for NRIs in Japan: treaty rates and unfiled years.
+Living in Germany? Indian tax for NRIs in Germany: the 10% treaty cap and TDS refunds.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Selling property in India
@@ -23128,6 +23229,7 @@ Selling inherited gold or jewellery in India? Work out the tax with the gold tax
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Missed income in an older year? An updated return (ITR-U) is possible up to 48 months later; the window for FY 2021-22 closes on 31 March 2027: ITR-U time limit and extra tax by year.
 Living in Japan? Indian tax for NRIs in Japan: treaty rates and unfiled years.
+Living in Germany? Indian tax for NRIs in Germany: the 10% treaty cap and TDS refunds.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What India taxes
