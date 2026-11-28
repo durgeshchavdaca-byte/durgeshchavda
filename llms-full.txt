@@ -78,6 +78,104 @@ On this page
 Ask Durgesh
 
 ------------------------------------------------------------------------
+URL: https://www.durgeshchavda.com/insights/indian-tax-for-nri-in-japan/
+------------------------------------------------------------------------
+NRI · Japan · Updated 28 November 2026
+
+# Living in Japan? What India still taxes, and how to catch up
+
+Indian engineers, researchers and managers in Tokyo, Osaka and Yokohama often keep NRO accounts, mutual funds, shares or a flat in India. Many stop filing Indian returns after the move, and only notice years later when a bank deducts 30% tax, a refund goes unclaimed, or a property sale comes up. Here is how the two systems fit together.
+
+By CA Durgesh Chavda·Last reviewed 28 November 2026·6 min read
+
+Sort out your Indian tax from Japan
+hello@durgeshchavda.com
+
+Key takeaways
+- Living in Japan and in India for fewer than 182 days a year: usually non-resident, so only Indian income is taxed in India.
+- India-Japan treaty: Indian tax on interest and dividends capped at 10%; a return recovers excess TDS.
+- Japan taxes Indian income of non-permanent residents only if it is paid in or sent to Japan.
+- Missed years: belated return for FY 2025-26 by 31 December 2026; ITR-U back to FY 2021-22, no refunds.
+
+Quick answer: if you live and work in Japan and spend fewer than 182 days a year in India, you are usually a non-resident in India. India then taxes only your Indian income: NRO interest, rent, dividends and capital gains on Indian shares, funds or property. Your Japanese salary is not taxed in India. Under the India-Japan tax treaty, Indian tax on interest and dividends is capped at 10%, but banks usually deduct 30% or more, so a return is often how you get money back. Missed years: FY 2025-26 can still be filed until 31 December 2026; earlier years back to FY 2021-22 only through an updated return with extra tax. WhatsApp the years and what you hold in India and Durgesh will tell you what needs filing.
+
+## What India taxes while you live in Japan
+
+Income in India | Taxed in India? | What usually happens | 
+
+Japanese salary | No, if you are non-resident | Taxed only in Japan | 
+
+NRE account interest | No | Tax-free for a non-resident | 
+
+NRO account interest | Yes | Bank deducts about 30% plus surcharge and cess; the treaty limit is 10% if you give the bank your Japanese tax residence certificate and Form 10F | 
+
+Dividends from Indian shares and funds | Yes | Deducted at source; treaty limit 10% | 
+
+Selling Indian shares or mutual funds | Yes | Capital gains tax in India; TDS is deducted for NRIs | 
+
+Rent or sale of a flat in India | Yes | Tenant or buyer deducts TDS; a lower-TDS certificate can cut it before a sale | 
+
+If tax deducted in India is more than the tax actually due, the difference comes back only through an Indian income-tax return. If you were resident in India in some years, for example before you moved, check your residential status year by year.
+
+Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
+
+## How Japan treats your Indian income
+
+- Non-permanent residents (not a Japanese national, and living in Japan for five years or less in the last ten) pay Japanese tax on Japan-source income, and on foreign income only if it is paid in Japan or sent to Japan.
+
+- Permanent residents for tax (more than five years) pay Japanese tax on worldwide income, including Indian interest, dividends, rent and gains.
+
+- Japan’s tax year is the calendar year, with the final return filed between mid-February and 15 March. India’s year runs April to March, so the same income falls in different years in each country.
+
+- Indian tax paid can usually be credited against Japanese tax on the same income. A Japanese tax accountant handles the Japan return; we prepare the Indian side and the tax certificates you need for the credit.
+
+## Not filed for years? How to catch up
+
+Year | Route | Points to know | 
+
+FY 2025-26 | Belated return | Open until 31 December 2026, with a late fee. Refunds can be claimed. | 
+
+FY 2021-22 to FY 2024-25 | Updated return (ITR-U) | Within 48 months of the end of the assessment year, with extra tax of 25% to 70% of the tax and interest. It can add income, but cannot claim a refund. See ITR-U time limits. | 
+
+Older years | No voluntary filing | Tidy up instead: update KYC and residential status with banks and fund houses, convert resident accounts to NRO, and keep the TDS certificates in case the department asks. | 
+
+Before deciding, download your Annual Information Statement (AIS) and Form 26AS from the income-tax portal: they show every interest, dividend, sale and TDS entry the department already knows about.
+
+## Moved back from Japan, or planning to?
+
+In the first years after returning you may be RNOR (resident but not ordinarily resident), and Japanese income earned abroad stays outside Indian tax. Once you are fully resident, Japanese bank accounts, shares and pension rights must be reported in Schedule FA. If they were missed in a year you were resident, FAST-DS closes on 31 December 2026: check the cost. See also tax rules for returning NRIs.
+
+## Sources
+
+- Income Tax Department: Notification 1136 of 2006 (India-Japan protocol, interest at 10%)
+- Income Tax Department: tax rates under the Income-tax Act and tax treaties
+- National Tax Agency Japan: taxation of residents and non-permanent residents (2025)
+Still unsure what applies to you? Tell Durgesh your situation and get clear next steps. Slots shown in your time zone.Book a 15-min call
+
+## Frequently asked questions
+Do I need to file an Indian tax return if I live in Japan?
+Only if your Indian income is above the basic exemption limit, you have capital gains, or you want a refund of tax deducted in India. Many NRIs in Japan file to recover tax deducted on NRO interest at 30%, since the India-Japan treaty caps it at 10%.
+
+Is my Japanese salary taxable in India?
+Not if you are a non-resident in India for that year, which is usually the case if you spend fewer than 182 days a year in India and work in Japan. India then taxes only your Indian income.
+
+What is the India-Japan DTAA rate on interest and dividends?
+Indian tax on interest and on dividends paid to a resident of Japan is capped at 10% of the gross amount under the treaty. To get the lower rate, give the payer your Japanese tax residence certificate and Form 10F, or claim the excess back in your Indian return.
+
+Does Japan tax my Indian income?
+If you are a non-permanent resident of Japan (a foreign national who has lived in Japan for five years or less in the last ten), only Indian income paid in or sent to Japan is taxed there. After five years, Japan taxes worldwide income, with credit for Indian tax paid.
+
+I have not filed Indian returns for 8 years. What can I do?
+File FY 2025-26 as a belated return by 31 December 2026. For FY 2021-22 to FY 2024-25, an updated return can add income with extra tax, but cannot claim a refund. Older years cannot be filed voluntarily, so the focus is on updating your accounts and keeping records.
+
+Your question not answered here? Send it on WhatsApp: you get a reply within one working day.
+
+Please note: this guide is general information based on the rules as they stood on the review date above. Regulations and RBI/CBDT procedures change often — please get advice on your specific facts before acting.
+About the author
+CA Durgesh Chavda is a Chartered Accountant (ICAI) and Virtual CFO who advises founders, fund managers and NRIs on US incorporation, India–US flips and reverse flips, FEMA/RBI, NRI taxation and fundraising. As Finance Head of Stimuler he led a USD 3.75M Pre-Series A end-to-end. He is Founder & Managing Partner of Bharat Quantum Prospera, with offices in Ahmedabad and Dubai.
+Full profile · LinkedIn · WhatsApp
+
+------------------------------------------------------------------------
 URL: https://www.durgeshchavda.com/insights/missed-apr-past-years-late-submission-fee/
 ------------------------------------------------------------------------
 FEMA · ODI · Due 31 December
@@ -15678,6 +15776,7 @@ Fees for technical services | 20% plus surcharge and cess | 10% | Group service 
 The rate actually applied is the lower of the domestic rate and the treaty rate, provided the Japanese recipient is the beneficial owner and the documents below are in place.
 
 Setting up a company abroad from India? Country guides: USA · Singapore · Dubai / UAE · UK.
+Living in Japan? Indian tax for NRIs in Japan: treaty rates and unfiled years.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## The paperwork, before you pay
@@ -21268,6 +21367,7 @@ NRI tax by country: UK · USA · Canada · UAE · Saudi Arabia and the Gulf · A
 
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Missed income in an older year? An updated return (ITR-U) is possible up to 48 months later; the window for FY 2021-22 closes on 31 March 2027: ITR-U time limit and extra tax by year.
+Living in Japan? Indian tax for NRIs in Japan: treaty rates and unfiled years.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## Selling property in India
@@ -23027,6 +23127,7 @@ All the Indian dates for NRIs to 31 March 2027 in one table: NRI tax deadlines, 
 Selling inherited gold or jewellery in India? Work out the tax with the gold tax calculator.
 Moving back to India from any country? Returning NRI tax rules: RNOR years, accounts and foreign assets.
 Missed income in an older year? An updated return (ITR-U) is possible up to 48 months later; the window for FY 2021-22 closes on 31 March 2027: ITR-U time limit and extra tax by year.
+Living in Japan? Indian tax for NRIs in Japan: treaty rates and unfiled years.
 Have a question about your own case? Get clear answers and next steps from Durgesh in a 15-minute call, in your time zone.Book a 15-min call
 
 ## What India taxes
