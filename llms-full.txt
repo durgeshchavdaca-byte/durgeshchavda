@@ -973,7 +973,7 @@ FAST-DS · Capital gains · Nov 2026
 
 This is the question we hear most from people with US or other foreign shares: the gain would be taxed at only 12.5% in an updated return, but FAST-DS charges 60%. So why not just file ITR-U? Because an updated return does not count under the Black Money Act. Here is how the two really compare, in plain words, and the case where neither is the best answer.
 
-By CA Durgesh Chavda·Last reviewed 24 November 2026·6 min read
+By CA Durgesh Chavda·Last reviewed 28 November 2026·6 min read
 
 Compare your routes
 hello@durgeshchavda.com
@@ -1021,6 +1021,8 @@ ITR-U (sale in an earlier year) | Roughly ₹1.8 lakh to ₹3.3 lakh, depending 
 FAST-DS Category A (by 31 December 2026) | ₹6 lakh (60% of the gain) | Settled for what you declare | 
 
 Do nothing and get a Black Money Act assessment | ₹12 lakh (120%), plus possible ₹10 lakh Schedule FA penalty and prosecution risk | Exposure in full | 
+
+Want these numbers for your own shares? Run the FAST-DS calculator or WhatsApp the year of sale, the gain and how the shares were bought; Durgesh will tell you which route costs least.
 
 ## Which route fits you
 
